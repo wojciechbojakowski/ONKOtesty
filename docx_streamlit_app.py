@@ -7,6 +7,7 @@ import json
 from typing import Dict, List, Tuple
 from st_diff_viewer import diff_viewer
 import difflib
+from pathlib import Path
 
 def generate_medical_tree_html_universal(data_json, output_file="drzewo_programu.html"):
     if isinstance(data_json, str):
@@ -465,15 +466,33 @@ def main():
 
     st.header("Wczytywanie pliku DOCX")
 
-    uploaded_file = st.file_uploader("Wybierz plik DOCX", type=['docx'])
+    docs_folder = Path("doks")
+
+    if not docs_folder.exists():
+        st.error(f"Folder 'doks/' nie istnieje.")
+        return
+
+    # Pobierz listę plików .docx
+    docx_files = list(docs_folder.glob("*.docx"))
+
+    # Selectbox do wyboru pliku
+    selected_file_name = st.selectbox(
+        "Wybierz plik DOCX z folderu 'doks/':",
+        options=[f.name for f in docx_files],
+        index=0
+    )
+
+    uploaded_file = None
+    selected_file_path = docs_folder / selected_file_name
+    uploaded_file = selected_file_path
 
     if uploaded_file is not None:
         # Save uploaded file temporarily
-        with open("temp_file.docx", "wb") as f:
-            f.write(uploaded_file.getbuffer())
+        # with open("temp_file.docx", "wb") as f:
+        #     f.write(uploaded_file.getbuffer())
 
         # Process the file
-        title, table_data = process_docx_file("temp_file.docx")
+        title, table_data = process_docx_file(selected_file_path)
 
         if title:
             st.header("Tytuł programu:")
