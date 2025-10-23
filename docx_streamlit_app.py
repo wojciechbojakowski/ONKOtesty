@@ -8,6 +8,7 @@ from typing import Dict, List, Tuple
 from st_diff_viewer import diff_viewer
 import difflib
 from pathlib import Path
+from HybridParser import HybridParser
 
 def generate_medical_tree_html_universal(data_json, output_file="drzewo_programu.html"):
     if isinstance(data_json, str):
@@ -494,6 +495,8 @@ def main():
         # Process the file
         title, table_data = process_docx_file(selected_file_path)
 
+        
+
         if title:
             st.header("Tytuł programu:")
             st.write(f"**{title}**")
@@ -512,6 +515,8 @@ def main():
                     table_data[key].append("")
 
             df = pd.DataFrame(table_data)
+
+            test_HP = HybridParser()
 
             # Display as expandable sections
             #col1, col2, col3 = st.columns(3)
@@ -536,6 +541,10 @@ def main():
                                 st.write('---')
                                 string_wczytany += '---\n'
                             
+                            Htest1 = HybridParser.parse(test_HP,string_wczytany,1)
+
+                            st.write(Htest1)
+
                             st.subheader("test:")
                             temp = parse_medical_program_v2(content)
                             st.json(temp)
@@ -566,6 +575,10 @@ def main():
                     if content.strip():
                         with st.expander(f"Dawkowanie {i+1}"):
                             st.write(content)
+                            if i==1:
+                                Htest2 = HybridParser.parse(test_HP,content,2)
+
+                                st.write(Htest2)
 
             with col3:
                 st.subheader("BADANIA DIAGNOSTYCZNE WYKONYWANE W RAMACH PROGRAMU")
@@ -586,6 +599,11 @@ def main():
                                     for item in content if isinstance(content, list) else []:
                                         st.write(f'- {item}')
                                 st.write('---')
+
+                            if(i==1):
+                                Htest3 = HybridParser.parse(test_HP,content,3)
+
+                                st.write(Htest3)
 
             # Display full table
             st.header("Pełna tabela:")
