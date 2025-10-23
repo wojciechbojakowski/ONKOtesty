@@ -1,5 +1,5 @@
 import re
-import spacy
+#import spacy
 #from fuzzywuzzy import process
 from typing import List, Dict, Optional
 import pandas as pd
