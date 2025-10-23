@@ -462,7 +462,7 @@ def process_docx_file(file_path):
         return None, f"Error processing file: {str(e)}"
 
 def main():
-    st.set_page_config(layout="wide")
+    st.set_page_config(page_title="Test czytanie wordów", page_icon="👻",layout="wide")
     st.title("Program Lekowy - Analiza Dokumentów DOCX")
 
     st.header("Wczytywanie pliku DOCX")
