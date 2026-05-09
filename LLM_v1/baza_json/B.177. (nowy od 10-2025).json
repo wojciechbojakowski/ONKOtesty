@@ -1,0 +1,52 @@
+{
+    "nazwa_pliku": "B.177. (nowy od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "dzieci powyżej 1 roku życia i młodzież;",
+        "masa ciała co najmniej 8 kg;",
+        "rozpoznanie i wcześniejsze leczenie:",
+        "glejak o niskim stopniu złośliwości, zgodnie z klasyfikacją histologiczną WHO oraz postępująca choroba po leczeniu chirurgicznym lub nieoperacyjny guz, z koniecznością rozpoczęcia leczenia ogólnoustrojowego ze względu na ryzyko upośledzenia neurologicznego;",
+        "albo",
+        "glejak o wysokim stopniu złośliwości, zgodnie z klasyfikacją histologiczną WHO oraz choroba nawrotowa lub z progresją/brakiem odpowiedzi na leczenie pierwszego rzutu (lub chorzy, którzy otrzymali wcześniej przynajmniej jeden cykl leczenia radioterapią lub chemioterapią);",
+        "obecność mutacji BRAF V600E;",
+        "obecność zmian możliwych do zmierzenia w celu przeprowadzenia obiektywnej oceny odpowiedzi na leczenie z zastosowaniem kryteriów oceny systemu RECIST 1.1 (lub RANO w przypadku nowotworów OUN) lub obecność policzalnych zmian niemierzalnych;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami ChPL;",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwskazanie do terapii w oparciu o aktualną na dzień wydania decyzji ChPL;",
+        "wykluczenie ciąży i okresu karmienia piersią;"
+    ],
+    "kryteria_wylaczenia": [
+        "stwierdzenie progresji choroby potwierdzonej w badaniu przedmiotowym (jeśli z uwagi na charakter choroby taka ocena jest możliwa i miarodajna) lub obrazowym na podstawie kryteriów RECIST 1.1. (lub RANO w przypadku przerzutów w OUN);",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania;",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie nadwrażliwości na dabrafenib lub trametynib lub na substancję pomocniczą;",
+        "okres ciąży lub karmienia piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnych opiekunów."
+    ],
+    "leki": [
+        {
+            "nazwa": "",
+            "dawkowanie": ""
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "histologiczne potwierdzenie obecności glejaka o niskim stopniu złośliwości albo o wysokim stopniu złośliwości",
+        "potwierdzenie mutacji BRAF V600E z użyciem zwalidowanej metody diagnostycznej",
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny w osoczu",
+        "oznaczenie aktywności aminotransferazy alaninowej we krwi",
+        "oznaczenie stężenia bilirubiny całkowitej we krwi",
+        "pomiar ciśnienia krwi",
+        "badanie TK lub MR w zależności od sytuacji klinicznej",
+        "konsultacja dermatologiczna w kierunku zmian skórnych"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny w osoczu",
+        "oznaczenie aktywności aminotransferazy alaninowej we krwi",
+        "oznaczenie stężenia bilirubiny całkowitej we krwi",
+        "pomiar ciśnienia krwi",
+        "oznaczenie stężenia amylazy w surowicy krwi",
+        "oznaczenie stężenia lipazy w surowicy krwi",
+        "konsultacja okulistyczną",
+        "konsultacja kardiologiczna"
+    ]
+}

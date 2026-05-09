@@ -1,0 +1,49 @@
+{
+    "nazwa_pliku": "B.154.FM. (od 01-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek 2 lata i powyżej",
+        "rozpoznanie kliniczne zespołu Lennoxa-Gastauta lub zespołu Dravet, w którym napady padaczkowe nie są w pełni kontrolowane przez aktualnie stosowane leki przeciwpadaczkowe",
+        "brak kontroli napadów pomimo zastosowania co najmniej trzech leków przeciwpadaczkowych, w dotychczasowej terapii (w odpowiedniej dawce przez odpowiedni czas)",
+        "w przypadku kwalifikacji do terapii kannabidiolem: obecna terapia przeciwpadaczkowa prowadzona z użyciem klobazamu lub równoczesne rozpoczęcie terapii klobazamem w momencie włączenia do programu",
+        "prowadzenie dzienniczka napadów padaczkowych w okresie co najmniej 6 miesięcy przed włączeniem do programu lekowego",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej Charakterystyki Produktu Leczniczego (zwanej dalej ChPL)",
+        "nieobecność istotnych schorzeń współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL",
+        "brak przeciwwskazań do stosowania: kannabidiolu oraz klobazamu zgodnie z aktualną ChPL w przypadku kwalifikacji do terapii kannabidiolem, fenfluraminy zgodnie z aktualną ChPL w przypadku kwalifikacji do terapii fenfluraminą",
+        "wykluczenie okresu ciąży lub karmienia piersią"
+    ],
+    "kryteria_wylaczenia": [
+        "brak adekwatnej odpowiedzi ocenianej po pierwszych 4 miesiącach leczenia (± 14 dni), rozumianej jako nieuzyskanie co najmniej 30% redukcji miesięcznej liczby napadów w 4 miesiącu leczenia w programie lekowym w porównaniu ze średnią miesięczną z 6 miesięcy bezpośrednio poprzedzających rozpoczęcie leczenia",
+        "brak adekwatnej odpowiedzi ocenianej po każdych kolejnych 3 miesiącach leczenia (± 14 dni) rozumianej jako nieuzyskanie co najmniej 30% redukcji miesięcznej liczby napadów w okresie ostatnich 3 miesięcy leczenia w programie lekowym w porównaniu ze średnią miesięczną z 6 miesięcy bezpośrednio poprzedzających rozpoczęcie leczenia",
+        "niekorzystny stosunek korzyści do ryzyka",
+        "dodanie nowego leku do schematu leczenia przeciwpadaczkowego w przypadku braku adekwatnej odpowiedzi zgodnie z punktem 4.1. lub 4.2. (nie dotyczy leków stosowanych krótkotrwale do przerywania napadu)",
+        "zakończenie stosowania klobazamu – dotyczy terapii kannabidiolem",
+        "ciąża, z wyjątkiem sytuacji, gdy potencjalne korzyści dla matki wyraźnie przewyższają ryzyko dla płodu",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia",
+        "wystąpienie działań niepożądanych uniemożliwiających kontynuację leczenia zgodnie z decyzją lekarza",
+        "wystąpienie nadwrażliwości na lek lub substancję pomocniczą uniemożliwiające kontynuację leczenia",
+        "wystąpienie zagrażającej życiu albo nieakceptowalnej toksyczności pomimo zastosowania adekwatnego postępowania",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich ze strony świadczeniobiorcy lub jego prawnych opiekunów, w tym brak prowadzenia dzienniczka napadów padaczkowych lub dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia"
+    ],
+    "leki": [
+        {
+            "nazwa": "Kannabidiol",
+            "dawkowanie": "10 mg/kg mc. podawana 2 x dobę (20 mg/kg mc./dobę)"
+        },
+        {
+            "nazwa": "Fenfluramina",
+            "dawkowanie": "26 mg (13 mg dwa razy na dobę, tj. 6,0 ml dwa razy na dobę)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie stężenia aminotransferazy alaninowej",
+        "oznaczenie stężenia aminotransferazy asparaginianowej",
+        "oznaczenie stężenia bilirubiny całkowitej"
+    ],
+    "badania_monitorujace": [
+        "liczba napadów padaczkowych w miesiącu",
+        "liczba dni bez napadów w miesiącu",
+        "najdłuższy czas trwania napadu",
+        "semiologia napadu",
+        "nazwa, liczba i dawki przyjmowanych leków przerywających napad"
+    ]
+}

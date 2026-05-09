@@ -1,0 +1,58 @@
+{
+    "nazwa_pliku": "B.86. (od 07-2022).docx",
+    "kryteria_kwalifikacji": [
+        "Wrodzone zespoły autozapalne: okresowe zespoły zależne od kriopiryny (CAPS), w tym NOMID, CINCA, MWS, FCAS; inne wrodzone zespoły autozapalne: TRAPS i inne zespoły autozapalne mediowane przez IL-1, FMF, po nieskuteczności leczenia maksymalną tolerowaną dawką kolchicyny; poligenowe zespoły autozapalne mediowane przez IL1: zespól Schnitzler; amyloidoza wtórna, zależna od zmian autozapalnych.",
+        "TRAPS i inne zespoły autozapalne mediowane przez IL-1",
+        "FMF, po nieskuteczności leczenia maksymalną tolerowaną dawką kolchicyny",
+        "zespól Schnitzler",
+        "amyloidoza wtórna, zależna od zmian autozapalnych"
+    ],
+    "kryteria_wylaczenia": [
+        "nieakceptowane działania niepożądane lub nadwrażliwość na anakinrę",
+        "stwierdzenie nieskuteczności leczenia",
+        "ciężka niewydolnością nerek (klirens kreatyniny < 30 ml/min.) - jeżeli jest to uzasadnione klinicznie w opinii Zespołu Koordynacyjnego ds. Chorób Ultrarzadkich - Sekcji ds. Zespołów Autozapalnych i Obrzęku Naczynioruchowego lub lekarza prowadzącego",
+        "rezygnacja pacjenta z leczenia lub brak współpracy z pacjentem"
+    ],
+    "leki": [
+        {
+            "nazwa": "anakinra",
+            "dawkowanie": "indywidualnie dla danego pacjenta zgodnie z Charakterystyką Produktu Leczniczego"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "OB",
+        "CRP",
+        "SAA",
+        "morfologia krwi pełna z rozmazem",
+        "układ krzepnięcia: APTT, INR, D-dimery, fibrynogen",
+        "próby wątrobowe: AlAT, AspAT, GGTP",
+        "kreatynina",
+        "mocznik w surowicy",
+        "klirens kreatyniny",
+        "albuminy",
+        "proteinogram",
+        "ocena ciśnienia tętniczego",
+        "badanie ogólne moczu",
+        "RTG klatki piersiowej",
+        "USG jamy brzusznej",
+        "konsultacja laryngologiczna lub konsultacja laryngologiczna z badaniem słuchu",
+        "konsultacja neurologiczna lub konsultacja neurologiczna z badaniem obrazowym (USG OUN lub MRI OUN)",
+        "badanie okulistyczne (odcinek przedni i dno oka)",
+        "ocena kardiologiczna lub ocena kardiologiczna z ECHO serca",
+        "konsultacja stomatologiczna",
+        "DZM na białko"
+    ],
+    "badania_monitorujace": [
+        "OB",
+        "CRP",
+        "SAA",
+        "morfologia krwi pełna z rozmazem",
+        "układ krzepnięcia: APTT, INR, D-dimery, fibrynogen",
+        "próby wątrobowe: AlAT, AspAT, GGTP",
+        "kreatynina",
+        "mocznik w surowicy",
+        "klirens kreatyniny",
+        "badanie ogólne moczu",
+        "ocena ciśnienia tętniczego"
+    ]
+}

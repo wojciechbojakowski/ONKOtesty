@@ -1,0 +1,69 @@
+{
+    "nazwa_pliku": "B.166. (od 04-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek 4 miesiące i więcej;",
+        "rozpoznanie achondroplazji potwierdzone odpowiednim badaniem genetycznym;",
+        "niezamknięte nasady kości długich (wiek kostny poniżej 16 lat u dziewcząt albo poniżej 18 lat u chłopców);",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii;",
+        "brak przeciwskazań do stosowania leku zgodnie z ChPL;",
+        "zgoda opiekuna prawnego na leczenie w programie lekowym, a w przypadku chorych powyżej 16 r.ż. również pacjenta."
+    ],
+    "kryteria_wylaczenia": [
+        "potwierdzenie braku potencjału dalszego wzrostu definiowanego przez tempo wzrastania < 1,5 cm/rok i zamknięcia nasad kości długich (leczenie prowadzi się maksymalnie do osiągnięcia wieku kostnego 16 lat przez dziewczęta albo 18 lat przez chłopców);",
+        "wystąpienie działań niepożądanych uniemożliwiających kontynuację leczenia;",
+        "wystąpienie nadwrażliwości na lek lub substancję pomocniczą uniemożliwiające kontynuację leczenia;",
+        "obecność poważnych wrodzonych anomalii lub chorób współistniejących, które w ocenie lekarza kwalifikującego do leczenia lub Zespołu Koordynacyjnego, mogą uniemożliwić poprawę stanu zdrowia świadczeniobiorcy;",
+        "okres ciąży lub karmienia piersią."
+    ],
+    "leki": [
+        {
+            "nazwa": "Leczenie",
+            "dawkowanie": "Wyznaczenie dawki leku, sposób podawania, ewentualne czasowe wstrzymania leczenia oraz modyfikacje dawki prowadzone zgodnie z aktualną Charakterystyką Produktu Leczniczego (ChPL)."
+        },
+        {
+            "nazwa": "Leczenie",
+            "dawkowanie": "Pacjent odbywa w ośrodku minimum cztery wizyty w odstępach zgodnych z dawkowaniem leku lub przebywa w oddziale do czasu właściwego wyszkolenia pacjenta lub opiekunów prawnych."
+        },
+        {
+            "nazwa": "Leczenie",
+            "dawkowanie": "Pacjent lub opiekunowie prawni pacjenta muszą być poinstruowani odnośnie techniki podawania leku, prowadzenia dziennika leczenia oraz rozpoznawania działań niepożądanych (ciężkich reakcji alergicznych) i czynności, które należy podjąć w przypadku ich wystąpienia."
+        },
+        {
+            "nazwa": "Leki",
+            "dawkowanie": "Pacjent otrzymuje leki dla celów terapii domowej w ośrodku prowadzącym terapię danego pacjenta."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "potwierdzenie rozpoznania achondroplazji za pomocą odpowiedniego badania genetycznego",
+        "ocena wieku kostnego metodą Greulicha-Pyle'a lub metodą Tannera-Whitehouse'a",
+        "MRI ośrodkowego układu nerwowego, z oceną otworu wielkiego",
+        "pomiary antropometryczne: masa ciała, wzrost/długość ciała, długość tułowia, długość kończyn dolnych, obwód głowy i obwód klatki piersiowej",
+        "ocena dojrzewania płciowego w skali Tannera",
+        "pomiar ciśnienia tętniczego krwi",
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia sodu, potasu oraz wapnia w surowicy krwi",
+        "oznaczenie odsetka hemoglobiny glikowanej (HbA1c)",
+        "oznaczenie stężenia triglicerydów, całkowitego cholesterolu, frakcji HDL cholesterolu i LDL cholesterolu",
+        "oznaczenie stężenia hormonu tyreotropowego (TSH) oraz wolnej tyroksyny (FT4)",
+        "konsultacja audiologiczna lub laryngologiczna z badaniem słuchu",
+        "konsultacja neurochirurgiczna – do decyzji lekarza prowadzącego",
+        "konsultacja ortopedyczna"
+    ],
+    "badania_monitorujace": [
+        "pomiary antropometryczne: masa ciała, wzrost/długość ciała, długość tułowia, długość kończyn dolnych, obwód głowy i obwód klatki piersiowej",
+        "oznaczenie stężenia wapnia zjonizowanego i fosforanów",
+        "pomiar ciśnienia tętniczego krwi",
+        "morfologia krwi z rozmazem",
+        "oznaczenie odsetka hemoglobiny glikowanej (HbA1c)",
+        "oznaczenie stężenia triglicerydów, całkowitego cholesterolu, frakcji HDL cholesterolu i LDL cholesterolu",
+        "oznaczenie stężenia hormonu tyreotropowego (TSH) oraz wolnej tyroksyny (FT4)",
+        "oznaczenie fosfatazy alkalicznej",
+        "ocena dojrzewania płciowego w skali Tannera",
+        "oznaczenie stężenia 25OH wit. D",
+        "ocena wieku kostnego metodą Greulicha-Pyle'a lub metodą Tannera-Whitehouse'a",
+        "MRI ośrodkowego układu nerwowego, z oceną otworu wielkiego",
+        "konsultacja neurochirurgiczna – do decyzji lekarza prowadzącego",
+        "konsultacja audiologiczna lub laryngologiczna z badaniem słuchu - do decyzji lekarza prowadzącego",
+        "konsultacja ortopedyczna"
+    ]
+}

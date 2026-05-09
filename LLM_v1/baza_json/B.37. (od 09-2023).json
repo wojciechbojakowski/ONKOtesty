@@ -1,0 +1,46 @@
+{
+    "nazwa_pliku": "B.37. (od 09-2023).docx",
+    "kryteria_kwalifikacji": [
+        "niedokrwistość ze stężeniem hemoglobiny poniżej 10 g/dl, pod warunkiem wykluczenia innych przyczyn niż niewydolność nerek",
+        "upośledzenie funkcji nerek wykazane w badaniu GFR: poniżej 45 ml/min. - u pacjentów chorujących na cukrzycę; poniżej 30 ml/min. - u pozostałych pacjentów",
+        "wiek: powyżej 1 roku życia – dla terapii darbepoetyną alfa i epoetyną alfa; powyżej 18 roku życia – dla terapii roksadustatem",
+        "wykluczenie dializoterapii",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazania do terapii, stwierdzonych przez lekarza prowadzącego w oparciu o aktualną Charakterystykę Produktu Leczniczego (ChPL) i aktualną wiedzę medyczną",
+        "wykluczenie ciąży i okresu karmienia piersią"
+    ],
+    "kryteria_wylaczenia": [
+        "konieczność dializoterapii świadczeniobiorcy",
+        "wystąpienie objawów nadwrażliwości na którąkolwiek substancję czynną lub substancję pomocniczą",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają monitorowanie przebiegu leczenia lub jego dalsze prowadzenie",
+        "okres ciąży lub karmienia piersią",
+        "wystąpienie ciężkiego, opornego na leczenie nadciśnienia tętniczego",
+        "schyłkowa niewydolność nerek",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnych opiekunów"
+    ],
+    "leki": [
+        {
+            "nazwa": "darbepoetyna alfa",
+            "dawkowanie": "0,45 µg/kg mc., raz w tygodniu, dożylnie lub podskórnie; 0,75 µg/ kg mc., raz na 2 tygodnie, podskórnie; 1,5 µg/kg mc., raz w miesiącu, podskórnie – tylko dla dorosłych. Leczenie podtrzymujące: pojedyncze wstrzyknięcie raz na tydzień lub raz na 2 tygodnie lub raz w miesiącu (tylko u pacjentów dorosłych)."
+        },
+        {
+            "nazwa": "epoetyna alfa",
+            "dawkowanie": "faza wyrównania: dawka początkowa 50 j.m./kg, 3 razy w tygodniu; faza podtrzymująca: podanie dożylne – 3 razy w tygodniu, podanie podskórne – raz w tygodniu lub raz na 2 tygodnie. Dawka ustalana indywidualnie w zależności od ostatniego pomiaru stężenia hemoglobiny. Maksymalnie: 150 j.m./kg, 3 razy w tygodniu, 240 j.m./kg (do maks. 20 000 j.m.) raz w tygodniu, 480 j.m./kg (do maks. 40 000 j.m.) raz na 2 tygodnie."
+        },
+        {
+            "nazwa": "roksadustat",
+            "dawkowanie": "dawka początkowa: 3 razy w tygodniu, w nienastępujące po sobie dni: masa ciała do 100 kg: 70 mg, masa ciała powyżej 100 kg: 100 mg; dawka podtrzymująca: od 20 mg do 100 mg, 3 razy w tygodniu, w nienastępujące po sobie dni, w zależności od ostatniego pomiaru stężenia hemoglobiny."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie stężenia hemoglobiny",
+        "badanie poziomu hematokrytu",
+        "badanie wysycenia transferryny żelazem we krwi (TSAT)",
+        "oznaczenie wskaźnika filtracji kłębuszkowej (GFR)",
+        "badanie stężenia białka C-reaktywnego we krwi (CRP) – nie dotyczy terapii roksadustatem"
+    ],
+    "badania_monitorujace": [
+        "oznaczenie stężenia hemoglobiny",
+        "badanie poziomu hematokrytu"
+    ]
+}

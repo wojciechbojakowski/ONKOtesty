@@ -1,0 +1,53 @@
+{
+    "nazwa_pliku": "B.119. (od 04-2025).docx",
+    "kryteria_kwalifikacji": [
+        "histologiczne rozpoznanie zróżnicowanego raka tarczycy, tj. brodawkowatego, pęcherzykowego lub onkocytarnego;",
+        "wiek powyżej 18 roku życia;",
+        "zmiany nowotworowe możliwe do obiektywnej oceny w badaniach obrazowych metodą tomografii komputerowej (KT) lub rezonansu magnetycznego (MR) według klasyfikacji RECIST;",
+        "nieobecność przerzutów w ośrodkowym układzie nerwowym (dopuszczalne wcześniejsze wycięcie przerzutów lub radioterapia, o ile po leczeniu utrzymuje się stan bezobjawowy);",
+        "wykluczenie współwystępowania innych nowotworów złośliwych niekontrolowanych leczeniem;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej ChPL;",
+        "wykluczenie ciąży i okresu karmienia piersią;",
+        "niewystępowanie stanów klinicznych, które w opinii lekarza prowadzącego uniemożliwiają włączenie terapii."
+    ],
+    "kryteria_wylaczenia": [
+        "udokumentowana progresja w trakcie stosowania leku;",
+        "w przypadku oligoprogresji (oligoprogresja definiowana jako sytuacja kliniczna, w której nastąpiła progresja ograniczonej liczby miejsc nowotworu z przerzutami ≤5, włączając w to progresje w OUN - do oceny przez lekarza prowadzącego) istnieje możliwość kontynuowania leczenia po zastosowaniu skutecznego leczenia miejscowego, o ile pacjent odnosi korzyści kliniczne i utrzymuje się odpowiedź lub stabilizacja pozostałych zmian chorobowych;",
+        "wystąpienie nadwrażliwości na lek lub substancję pomocniczą uniemożliwiające kontynuację leczenia;",
+        "nawracająca lub nieakceptowalna toksyczność powyżej 3 stopnia według skali WHO;",
+        "pogorszenie stanu sprawności o 1 lub 2 stopnie, w zależności od wartości przy kwalifikacji, ale maksymalnie do wartości 2 wg ECOG;",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "okres ciąży lub karmienia piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnych opiekunów."
+    ],
+    "leki": [
+        {
+            "nazwa": "Kabozantynib",
+            "dawkowanie": "dobowej dawce 60 mg bez przerw"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "histologiczne potwierdzenie zróżnicowanego raka tarczycy",
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia hemoglobiny",
+        "oznaczenie stężenia bilirubiny – w surowicy, kreatyniny;",
+        "oznaczenie aktywności transaminaz (AspAT, AlAT) oraz fosfatazy alkalicznej;",
+        "oznaczenie białka w moczu",
+        "test ciążowy u kobiet w wieku rozrodczym",
+        "scyntygrafia kości",
+        "MR lub KT jamy brzusznej i miednicy",
+        "RTG lub KT klatki piersiowej",
+        "elektrokardiogram (EKG)",
+        "pomiar ciśnienia tętniczego",
+        "inne badania w razie wskazań klinicznych"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie w surowicy krwi stężenia: bilirubiny, kreatyniny, transaminaz (AspAT, AlAT), wapnia, TSH;",
+        "oznaczenie białka w moczu",
+        "oznaczenie aktywności fosfatazy alkalicznej",
+        "EKG",
+        "KT lub MR odpowiedniego obszaru ciała",
+        "inne badania w razie wskazań klinicznych"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "nazwa_pliku": "B.27. (od 11-2021).docx",
+    "kryteria_kwalifikacji": [
+        "wiek od 6 lat",
+        "udokumentowane przewlekłe zakażenie płuc wywołane przez Pseudomonas aeruginosa",
+        "oporność na kolistynę lub udokumentowana nietolerancja kolistyny (nietolerancję kolistyny można wykazać poprzez spadek FEV1 lub FVC po rozpoczęciu leczenia kolistyną podawaną wziewnie lub dodatni wynik testu degranulacji bazofilów z kolistyną)",
+        "wiek od 18 lat",
+        "udokumentowane przewlekłe zakażenie płuc wywołane przez Pseudomonas aeruginosa",
+        "nietolerancja lub brak poprawy lub stabilizacji klinicznej po stosowaniu kolistyny wziewnej",
+        "nietolerancja lub brak poprawy lub stabilizacja kliniczna po stosowaniu tobramycyny wziewnej"
+    ],
+    "kryteria_wylaczenia": [
+        "nadwrażliwość na tobramycynę albo lewofloksacynę, inny aminoglikozyd, inne chinolony (dotyczy lewofloksacyny), czy substancję pomocniczą",
+        "upośledzenie słuchu (z dużą ostrożnością należy rozważyć stosowanie leku u świadczeniobiorcy przyjmującego inne leki ototoksyczne) – dotyczy tobramycyny",
+        "uszkodzenie nerek (stężenie kreatyniny w surowicy nie mniejsze niż 2mg/dl lub mocznika nie mniejsze niż 40mg/dl)",
+        "krwioplucie nie mniejsze niż 60 cm3 na dobę w okresie 30 dni przed pierwszym podaniem tobramycyny albo 28 dni przed pierwszym podaniem lewofloksacyny",
+        "stwierdzenie ropnia płuca w RTG klatki piersiowej",
+        "choroby ścięgien związane z podawaniem fluorochinolonów w wywiadzie – dotyczy lewofloksacyny",
+        "choroby tkanki łącznej – dotyczy lewofloksacyny",
+        "padaczka lub zaburzenia wymagające podawania leków przeciwdrgawkowych – dotyczy lewofloksacyny",
+        "zakażenie wirusem HIV lub przewlekłe aktywne zapalenie wątroby wtórne do zapalenia wątroby typu B i/lub C – dotyczy lewofloksacyny",
+        "czynniki predysponujące do wystąpienia tętniaka i rozwarstwienia aorty (dodatni wywiad rodzinny w kierunku tętniaka, wcześniejsze występowanie tętniaka lub rozwarstwienia aorty, zespół Marfana, Zespół Ehlersa-Danlosa typu naczyniowego, zapalenia tętnic Takayasu, olbrzymiokomórkowe zapalenie tętnic, choroba Behçeta, nadciśnienię tętnicze, miażdżyca) – dotyczy lewofloksacyny",
+        "ciąża lub karmienie piersią (czasowe zawieszenie leczenia w Programie lekowym) – dotyczy lewofloksacyny"
+    ],
+    "leki": [
+        {
+            "nazwa": "tobramycyna",
+            "dawkowanie": "300 mg dwa razy na dobę (rano i wieczorem) przez 28 dni, następnie 28-dniowa przerwa w leczeniu"
+        },
+        {
+            "nazwa": "lewofloksacyna",
+            "dawkowanie": "240 mg dwa razy na dobę, możliwe dokładnie co 12 godzin, naprzemiennych cyklach (28 dni leczenia + 28-dniowa przerwa)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "stężenie kreatyniny",
+        "stężenie mocznika",
+        "test degranulacji bazofilów (opcjonalnie)",
+        "badanie mikrobiologiczne potwierdzające oporność P. aeruginosa na kolistynę oraz potwierdzające wrażliwość drobnoustroju na tobramycynę",
+        "RTG klatki piersiowej",
+        "badanie spirometryczne przed i po podaniu kolistyny (2 mln j.m.) w celu potwierdzenia nietolerancji leku",
+        "audiometria"
+    ],
+    "badania_monitorujace": [
+        {
+            "type": "periodic",
+            "frequency": "8 tygodni",
+            "tests": [
+                "badanie mikrobiologiczne",
+                "badanie spirometryczne"
+            ]
+        },
+        {
+            "type": "periodic",
+            "frequency": "48 tygodni",
+            "tests": [
+                "stężenie kreatyniny",
+                "stężenie mocznika",
+                "badanie mikrobiologiczne",
+                "badanie spirometryczne",
+                "badanie słuchu – audiometria"
+            ]
+        },
+        {
+            "type": "periodic",
+            "frequency": "4 miesiące",
+            "tests": [
+                "stężenie kreatyniny w surowicy krwi",
+                "oznaczenie stężenia glukozy na czczo we krwi",
+                "badanie spirometryczne",
+                "EKG"
+            ]
+        }
+    ]
+}

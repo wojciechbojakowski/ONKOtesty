@@ -1,0 +1,46 @@
+{
+    "nazwa_pliku": "B.117. (nowy od 05-2021).docx",
+    "kryteria_kwalifikacji": [
+        "histologiczne potwierdzenie przerzutowego raka z komórek Merkla",
+        "niemożliwe radykalne leczenie operacyjne",
+        "brak wcześniejszego leczenia za pomocą przeciwciał anty-PD-1 lub anty-PD-L1 z powodu choroby przerzutowej raka z komórek Merkla",
+        "dla pierwszej linii – brak wcześniejszego leczenia systemowego lub dla drugiej i kolejnych linii – progresja po wcześniejszym leczeniu systemowym raka z komórek Merkla;",
+        "stan sprawności według kryteriów ECOG w stopniu 0-1",
+        "wiek ≥ 18 lat",
+        "zmiany nowotworowe umożliwiające ocenę odpowiedzi na leczenie według kryteriów aktualnej wersji RECIST",
+        "brak przerzutów w OUN lub cech progresji przerzutów z OUN u chorych po wcześniejszym leczeniu miejscowym (chirurgia, radioterapia) oraz brak istotnych klinicznie objawów neurologicznych i potrzeby zwiększania dawki glikokortykosteroidów w ciągu miesiąca przed włączeniem leczenia;",
+        "nieobecność aktywnych chorób autoimmunologicznych lub niedoborów immunologicznych, które wymagały leczenia immunosupresyjnego;",
+        "niestosowanie systemowe leków steroidowych (w dawce przekraczającej 10 mg prednizonu na dobę lub równoważnej dawki innego leku steroidowego) w ciągu 28 dni przed rozpoczęciem terapii awelumabem;",
+        "negatywny wywiad w kierunku HIV lub AIDS oraz wirusowego zapalenia wątroby (WZW) typu B lub C;",
+        "wyniki badań laboratoryjnych (przed rozpoczęciem leczenia) o następujących wartościach: liczba leukocytów ≥ 3 x 109/l, liczba neutrofilów ≥ 1,0 x 109/l, liczba płytek krwi ≥ 100 x 109/l, stężenie hemoglobiny ≥ 9 g/dl, stężenie bilirubiny całkowitej ≤ 1,5 x GGN (górna granica normy) – z wyjątkiem chorych z zespołem Gilberta, gdzie tolerowana wartość jest wyższa",
+        "aktywność AST/ALT ≤ 2,5 x GGN u chorych bez przerzutów do wątroby i ≤ 5 x GGN u chorych z przerzutami",
+        "wykluczenie ciąży lub karmienia piersią u pacjentek w wieku rozrodczym;",
+        "brak przeciwwskazań do stosowania leku określonych w aktualnej Charakterystyce Produktu Leczniczego."
+    ],
+    "kryteria_wylaczenia": [
+        "progresja choroby z wyjątkiem pacjentów, u których wystąpi radiologiczna progresja choroby niezwiązana z ciężkim pogorszeniem stanu klinicznego, definiowanym jako wystąpienie nowych objawów lub pogorszenie obecnie występujących, u których nie obserwuje się zmiany w stopniu sprawności przez okres dłuższy niż dwa tygodnie i u których nie ma konieczności zastosowania leczenia ratującego życie;",
+        "Nadwrażliwość na lek lub na substancję pomocniczą;",
+        "Działania niepożądane związane z leczeniem prowadzące do przerwania leczenia zgodnie z wytycznymi zawartymi w aktualnej Charakterystyce Produktu Leczniczego."
+    ],
+    "leki": [
+        {
+            "nazwa": "awelumab",
+            "dawkowanie": "800 mg podawana dożylnie przez 60 minut co 2 tygodnie"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "histologiczne potwierdzenie raka z komórkami Merkla",
+        "diagnostyka obrazowa umożliwiająca ocenę odpowiedzi na leczenie według aktualnych kryteriów RECIST: TK lub MRI",
+        "badanie TK lub MR mózgu – w przypadku osób z podejrzeniem przerzutów do ośrodkowego układu nerwowego",
+        "badanie przedmiotowe",
+        "ocena sprawności w skali ECOG",
+        "elektrokardiogram (EKG)",
+        "test ciążowy u kobiet w wieku rozrodczym",
+        "badania laboratoryjne: pełna morfologia z rozmazem oraz liczbą płytek, parametry biochemiczne surowicy: aminotransferazy (ALT lub AST), bilirubina całkowita, kreatynina, glukoza, elektrolity (w tym stężenie sodu, potasu, wapnia), TSH i wolna T4"
+    ],
+    "badania_monitorujace": [
+        "diagnostyka obrazowa umożliwiająca ocenę odpowiedzi na leczenie według aktualnych kryteriów RECIST: TK lub MRI po 6-8 tygodniach leczenia, a następnie nie rzadziej niż w odstępach 12-tygodniowych",
+        "badania laboratoryjne co 2-6 tygodni: pełna morfologia z rozmazem oraz liczbą płytek, parametry biochemiczne surowicy: aminotransferazy (ALT lub AST), bilirubina całkowita, kreatynina, glukoza, elektrolity (w tym stężenie sodu, potasu, wapnia), TSH i wolna T4",
+        "inne badania w zależności od wskazań klinicznych"
+    ]
+}

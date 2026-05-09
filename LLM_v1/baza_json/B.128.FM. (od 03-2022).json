@@ -1,0 +1,57 @@
+{
+    "nazwa_pliku": "B.128.FM. (od 03-2022).docx",
+    "kryteria_kwalifikacji": [
+        "wiek ≥12 lat;",
+        "udokumentowana diagnoza ostrej porfirii wątrobowej (AIP – ostra porfiria przerywana, HCP – dziedziczna koproporfiria, VP – porfiria mieszana, ADP – porfiria z niedoborem dehydratazy kwasu aminolewulinowego) na podstawie stanu klinicznego, co najmniej 1 udokumentowana wartość porfobilinogenu (PBG) lub delta-kwasu aminolewulinowego (ALA) w moczu lub osoczu ≥4 × górna granica normy (GGN) w ciągu ostatniego roku przed kwalifikacją do programu lub w jego trakcie oraz jedno z poniższych:",
+        "udokumentowana obecność genetycznych mutacji w genie związanym z ostrą porfirią wątrobową (AHP), zdefiniowanym jako dowolny z poniższych:",
+        "AIP: mutacja w genie HMBS;",
+        "HCP: mutacja w genie CPOX;",
+        "VP: mutacja w genie PPOX;",
+        "ADP: mutacja w genach homozygotycznych lub złożonych genów heterozygotycznych ALAD;",
+        "cechy kliniczne pacjenta oraz diagnostyczne kryteria biochemiczne wskazujące na AHP, nawet jeśli wyniki badań genetycznych pacjenta nie wykazały mutacji w genie związanym z porfirią (<5%);",
+        "aktywna choroba, z co najmniej 2 atakami porfirii wymagającymi hospitalizacji lub podania heminy w warunkach szpitalnych w ciągu 6 miesięcy przed kwalifikacją do programu;",
+        "gotowość do przestrzegania wymogów związanych z kontrolą urodzeń w okresie leczenia."
+    ],
+    "kryteria_wylaczenia": [
+        "ALT >2×GGN;",
+        "bilirubina całkowita (TBL)>1,5×GGN (dla pacjentów z zespołem Gilberta TBL>2xGGN);",
+        "INR>1,5 (dla pacjentów przyjmujących leki przeciwzakrzepowe INR>3,5);",
+        "eGFR <15ml/min/1,73m2 przy zastosowaniu wzoru MDRD;",
+        "reakcje alergiczne na oligonukleotyd lub GalNAc w wywiadzie;",
+        "nietolerancja iniekcji podskórnych w wywiadzie;",
+        "aktywne zakażenie HIV lub potwierdzone obecne lub przewlekłe zakażenie HCV lub HBV;",
+        "ciąża lub planowanie ciąży w trakcie leczenia;",
+        "karmienie piersią;",
+        "każdy stan który w opinii lekarza sprawiłby, że pacjent mógłby nie przyjąć odpowiedniej dawki lub który mógłby zakłócać zgodność, bezpieczeństwo pacjenta lub udział pacjenta w programie (np. nadużywanie alkoholu lub substancji psychoaktywnych, ale także niestabilne zaburzenia sercowo-naczyniowe, neurologiczne, żołądkowo-jelitowe, endokrynologiczne, nerek lub zaburzenia psychiatryczne niezwiązane z porfirią, zidentyfikowane na podstawie nieprawidłowych wyników badań laboratoryjnych lub wywiadu medycznego);",
+        "nawracające zapalenie trzustki lub ostre zapalenie trzustki w wywiadzie z aktywnością choroby w ciągu ostatnich 12 miesięcy przed kwalifikacją do programu;",
+        "wczesne leczenie giwosyranem sodowym (nie dotyczy pacjentów, którzy byli leczeni giwosyranem sodowym w ramach innego sposobu finansowania terapii, pod warunkiem, że w chwili rozpoczęcia leczenia spełniali kryteria kwalifikacji do programu lekowego);"
+    ],
+    "leki": [
+        {
+            "nazwa": "giwosyran sodowy",
+            "dawkowanie": "2,5 mg/kg m.c. raz na miesiąc we wstrzyknięciu podskórnym"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie przedmiotowe",
+        "w tym masa ciała, wzrost, BMI, ECOG, ciśnienie tętnicze krwi, częstość akcji serca;",
+        "pełna morfologia krwi ze wzorem odsetkowym",
+        "badania biochemiczne (sód, potas, mocznik, fosforany, kreatynina i eGFR, albumina, kwas moczowy, wapń, białko całkowite, glukoza, stężenie jonów chlorkowych, lipaza, amylaza, ferrytyna)",
+        "badania czynności wątroby: AspAT, ALAT, ALP, bilirubina (całkowita i bezpośrednia)",
+        "koagulogram: czas protrombinowy (PT), czas częściowej tromboplastyny po aktywacji (APTT), ocena D-dimerów, międzynarodowy współczynnik znormalizowany (INR);",
+        "badanie ogólne moczu;",
+        "w przypadku kobiet w wieku rozrodczym – oznaczenie beta hCG (gonadotropina kosmówkowa) w moczu lub krwi;",
+        "ALA i PBG w moczu;",
+        "badanie w kierunku HIV: test przesiewowy HIV Ag/Ab umożliwiający wykrycie antygenu p24 oraz przeciwciał anty-HIV 1/2, HBV HBsAg i HBcAb, a w przypadku dodatniego wyniku HBsAg lub HBcAb badanie HBV-DNA, i HCV (anty-HCV, a w przypadku dodatniego wyniku HCV RNA);",
+        "ocena jakości życia mierzona w skali PCS SF-12"
+    ],
+    "badania_monitorujace": [
+        "pełna morfologia krwi ze wzorem odsetkowym;",
+        "badania biochemiczne (sód, potas, mocznik, kreatynina i eGFR, albumina, kwas moczowy, wapń, białko całkowite, glukoza, lipaza, amylaza, ferrytyna)- badania przez pierwszych 6 miesięcy, a następnie raz na pół roku lub gdy są wskazania kliniczne;",
+        "badania czynności wątroby: AspAT, ALAT, ALP, bilirubina (całkowita i bezpośrednia)- przez pierwszych 6 miesięcy, a następnie raz na pół roku lub gdy są wskazania kliniczne;",
+        "badania krzepliwości krwi: czas protrombinowy (PT), czas częściowej tromboplastyny po aktywacji (APTT), ocena D-dimerów, międzynarodowy współczynnik znormalizowany (INR) - przez pierwszych 6 miesięcy, a następnie raz na pół roku lub gdy są wskazania kliniczne;",
+        "Ocena jakości życia mierzona w skali PCS SF-12;",
+        "Poziom ALA i PBG w moczu.",
+        "Raz na rok: Ocena skuteczności terapii: roczny wskaźnik napadów porfirii (AAR) w postaci napadów wymagających hospitalizacji lub podania heminy w warunkach szpitalnych, liczba dni stosowania heminy rocznie, poziom ALA i PBG w moczu, jakość życia mierzona w skali PCS SF-12."
+    ]
+}

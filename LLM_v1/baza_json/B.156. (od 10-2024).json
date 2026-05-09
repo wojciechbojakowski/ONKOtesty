@@ -1,0 +1,53 @@
+{
+    "nazwa_pliku": "B.156. (od 10-2024).docx",
+    "kryteria_kwalifikacji": [
+        "Wiek ≥ 18 lat;",
+        "Potwierdzone zapalenie typu 2: tkankowa eozynofilia ≥ 10/wpw lub eozynofilia we krwi ≥ 150, lub IgE całkowite ≥ 100;",
+        "Ciężkie przewlekłe zapalenie nosa i zatok przynosowych:",
+        "Obustronne polipy nosa (potwierdzone badaniem endoskopowym) – wynik w skali NPS ≥5,",
+        "Wynik w skali SNOT-22 ≥40;",
+        "Brak kontroli choroby stwierdzonej przez lekarza prowadzącego mimo stosowania kortykosteroidów ogólnoustrojowych lub przeciwwskazania do ich zastosowania (zgodnie z zaleceniami EUFOREA2023);",
+        "Có najmniej 2 zabiegi chirurgiczne zatok przynosowych z otwarciem co najmniej 3 zatok w tym sitowia tylnego (zatoki sitowej tylnej) udokumentowane w wywiadzie (ostatni zabieg wykonany co najmniej 6 miesięcy przed włączeniem do programu) lub przeciwwskazania do operacji zgodnymi z obowiązującymi przeciwskazaniami do zabiegu chirurgicznego w PZZPzPN (kwestionariuszem kwalifikacji do zabiegu);",
+        "Adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej Charakterystyki Produktu Leczniczego (zwanej dalej ChPL);",
+        "Nieobecność istotnych schorzeń współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL;",
+        "Brak przeciwwskazań do stosowania leku zgodnie z aktualną ChPL;",
+        "Wykluczenie okresu ciąży lub karmienia piersią.",
+        "Ponadto do programu lekowego kwalifikowani są pacjenci wymagający kontynuacji leczenia, którzy byli leczeni substancjami czynnymi finansowanymi w programie lekowym w ramach innego sposobu finansowania terapii (za wyjątkiem trwających badań klinicznych tych leków), pod warunkiem, że w chwili rozpoczęcia leczenia spełniali kryteria kwalifikacji do programu lekowego."
+    ],
+    "kryteria_wylaczenia": [
+        "Brak skuteczności, ocenianej zgodnie z harmonogramem monitorowania skuteczności leczenia pacjenta, rozumianej jako niespełnienie przynajmniej jednego z kryteriów:",
+        "Obniżenie wyniku w skali NPS o ≥1 pkt (w porównaniu z wizytą w tygodniu zakwalifikowania pacjenta do leczenia dupilumabem albo mepolizumabem);",
+        "Obniżenie wyniku w skali SNOT-22 o ≥8,9 pkt (w porównaniu z wizytą w tygodniu zakwalifikowania pacjenta do leczenia dupilumabem albo mepolizumabem);",
+        "Redukcji zapotrzebowania na kortykosteroidy ogólnoustrojowe;",
+        "Zmniejszenia wpływu chorób współistniejących;",
+        "Wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "Wystąpienie nadwrażliwości na lek lub substancję pomocniczą;",
+        "Pogorszenie jakości życia o istotnym znaczeniu według oceny lekarza;",
+        "Wystąpienie zagrażającej życiu lub nieakceptowalnej toksyczności pomimo zastosowania adekwatnego postępowania;",
+        "Brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnych opiekunów."
+    ],
+    "leki": [
+        {
+            "nazwa": "dupilumab",
+            "dawkowanie": "Dawka początkowa zalecana i jednocześnie maksymalna to podanie 300 mg. Następnie dawka podtrzymująca zalecana i jednocześnie maksymalna to podanie 300 mg co dwa tygodnie."
+        },
+        {
+            "nazwa": "mepolizumab",
+            "dawkowanie": "Zalecana i jednocześnie maksymalna dawka mepolizumabu to 100 mg podawane podskórnie raz na 4 tygodnie."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie tomografii komputerowej zatok",
+        "ocena wielkości polipów nosa w skali NPS w badaniu endoskopowym",
+        "ocena jakości życia przy wykorzystaniu testu SNOT-22",
+        "pomiar eozynofilii tkankowej lub eozynofilii we krwi lub całkowitego stężenienia IgE",
+        "morfologia krwi z rozmazem i badania biochemiczne: oznaczenie stężenia kreatyniny w surowicy krwi, oznaczenie stężenia mocznika w surowicy krwi, oznaczenie stężenia białka C-reaktywnego (CRP), oznaczenie aktywności aminotransferazy alaninowej (ALT), oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "ocena ogólnego stanu zdrowia pacjenta na podstawie wywiadu",
+        "test ciążowy (u kobiet w wieku rozrodczym)"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem i badania biochemiczne: oznaczenie stężenia kreatyniny w surowicy krwi, oznaczenie stężenia mocznika w surowicy krwi, oznaczenie stężenia białka C-reaktywnego (CRP), oznaczenie aktywności aminotransferazy alaninowej (ALT), oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "ocena ogólnego stanu zdrowia pacjenta na podstawie wywiadu",
+        "ocenę skuteczności zastosowanej terapii wg: redukcji wielkości polipów nosa na podstawie skali NPS w badaniu endoskopowym, redukcji zapotrzebowania na kortykosteroidy ogólnoustrojowe, poprawy jakości życia na podstawie skali SNOT-22, zmniejszenia wpływu chorób współistniejących"
+    ]
+}

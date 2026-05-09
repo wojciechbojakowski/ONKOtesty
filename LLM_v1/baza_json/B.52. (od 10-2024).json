@@ -1,0 +1,53 @@
+{
+    "nazwa_pliku": "B.52. (od 10-2024).docx",
+    "kryteria_kwalifikacji": [
+        "Płaskonabłonkowy nowotwór jamy ustnej, gardła lub krtani (z wykluczeniem raka typu nosogardłowego) z nawrotem miejscowym lub/i regionalnym po leczeniu loko regionalnym lub przerzutami odległymi;",
+        "Brak możliwości ratującego leczenia chirurgicznego lub radioterapii;",
+        "Niestosowanie wcześniejszego leczenia systemowego z wyłączeniem chemioterapii lub leczenia celowanego stosowanego łącznie z napromienianiem w ramach leczenia radykalnego;",
+        "Sprawność w stopniu 0-1 wg klasyfikacji WHO lub ECOG;",
+        "Wiek powyżej 18. roku życia;",
+        "Brak współwystępowania chorób o istotnym klinicznie znaczeniu bez możliwości kontroli za pomocą właściwego leczenia;",
+        "Nieobecność aktywnych chorób autoimmunologicznych z wyłączeniem cukrzycy typu 1., niedoczynności tarczycy w trakcie suplementacji hormonalnej, łuszczycy i bielactwa;",
+        "Wykluczenie ciąży lub karmienia piersią;",
+        "Brak przeciwwskazań: brak przeciwskazań do stosowania pembrolizumabu zgodnie z Charakterystyką Produktu Leczniczego (w przypadku monoterapii) lub brak przeciwskazań do stosowania pembrolizumabu i chemioterapii opartej na pochodnych platyny i 5-fluorouracylu (5-FU) zgodnie z odpowiednimi Charakterystykami Produktów Leczniczych (w przypadku terapii skojarzonej);",
+        "Brak wcześniejszego leczenia lekami z grupy anty-PD-L/PD-L1;",
+        "Udokumentowany nawrót (miejscowy lub węzłowy) lub uogólnienie (przerzuty) stwierdzony w trakcie lub w ciągu 6 miesięcy po zakończeniu wcześniejszej chemioterapii z udziałem jednej z pochodnych platyny (w tym stosowanych w skojarzeniu z lekami anty-EGFR);",
+        "Sprawność w stopniu 0-1 wg klasyfikacji WHO lub ECOG;",
+        "Brak aktywnych chorób autoimmunologicznych z wyłączeniem cukrzycy typu I, niedoczynności tarczycy (leczonej wyłącznie suplementacją hormonalną), łuszczycy, bielactwa;"
+    ],
+    "kryteria_wylaczenia": [
+        "Progresja choroby oceniona na podstawie obecnie obowiązujących kryteriów klasyfikacji RECIST, która w razie potrzeby powinna być potwierdzona na podstawie kolejnej oceny badaniem obrazowym wykonanym nie wcześniej niż po upływie 4 tygodni;",
+        "Nadwrażliwość na lek;",
+        "Wystąpienie klinicznie istotnej toksyczności leczenia w stopniu 3 lub 4 według kryteriów CTC (ang. Common Toxity Criteria) zgodnie z Charakterystyką Produktu Leczniczego;",
+        "Kobiety w wieku rozrodczym, które nie chcą lub nie są w stanie stosować dopuszczalnej metody antykoncepcji w celu uniknięcia ciąży przez cały okres leczenia oraz przez 5 miesięcy po jego zakończeniu;",
+        "Kobiety w ciąży lub karmiące piersią;"
+    ],
+    "leki": [
+        {
+            "nazwa": "Pembrolizumab",
+            "dawkowanie": "leczenie płaskonabłonkowego raka jamy ustnej, gardła lub krtani"
+        },
+        {
+            "nazwa": "Niwolumab",
+            "dawkowanie": "leczenie płaskonabłonkowego raka jamy ustnej, gardła lub krtani postępującego podczas lub po zakończeniu terapii opartej na pochodnych platyny"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie podmiotowe i przedmiotowe",
+        "ocena stanu sprawności w skali ECOG",
+        "pomiar masy ciała",
+        "badania laboratoryjne: morfologia krwi, oznaczenie stężenia kreatyniny, oznaczanie stężenia glukozy, oznaczenie stężenia bilirubiny całkowitej, oznaczenie aktywności aminotransferazy alaninowej i asparaginianowej, oznaczenie poziomu sodu, wapnia, potasu, oznaczenie poziomu TSH, test ciążowy u kobiet w wieku prokreacyjnym",
+        "badanie obrazowe – obligatoryjne – umożliwiające rozpoznanie miejscowego nawrotu lub uogólnienia płaskonabłonkowego raka narządów głowy i szyi – TK lub inne, jeżeli wymaga tego stan kliniczny pacjenta",
+        "Potwierdzenie obecności ekspresji PDL1 zgodnie z kryteriami kwalifikowania chorych przy użyciu przeciwciała DAKO 22C3 lub przeciwciała Ventana SP263"
+    ],
+    "badania_monitorujace": [
+        "badanie podmiotowe i przedmiotowe",
+        "morfologia krwi",
+        "wskaźniki biochemiczne: oznaczenie stężenia kreatyniny, glukozy, bilirubiny całkowitej, sodu, potasu, wapnia, aminotransferaz, TSH"
+    ],
+    "badania_skuteczności": [
+        "badanie przedmiotowe",
+        "badania laboratoryjne",
+        "badanie obrazowe – obligatoryjne – umożliwiające ocenę odpowiedzi na leczenie według aktualnych kryteriów RECIST: TK lub inne, jeżeli wymaga tego stan kliniczny pacjenta"
+    ]
+}

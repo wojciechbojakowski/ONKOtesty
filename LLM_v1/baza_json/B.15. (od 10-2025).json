@@ -1,0 +1,96 @@
+{
+    "nazwa_pliku": "B.15. (od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "Pierwotna profilaktyka krwawień u dzieci od 1. dnia życia z zachowaniem ciągłości leczenia do ukończenia 18. roku życia, z ciężką postacią hemofilii A lub B, o poziomie aktywności czynników krzepnięcia VIII lub IX równym lub poniżej 1% poziomu normalnego.",
+        "Pierwotna profilaktyka krwawień nowozdiagnozowanych dzieci z ciężką postacią hemofilii A i B wcześniej nie leczonych czynnikami krzepnięcia osoczopochodnymi (ludzkimi), u których wystąpiło nie więcej niż jedno krwawienie dostawowe, rozpoczęta do 3. roku życia.",
+        "Wtórna profilaktyka krwawień jest prowadzona u dzieci od 1. dnia życia do ukończenia 18. roku życia, chorych na hemofilię A lub B, po wystąpieniu więcej niż jednego krwawienia do stawów.",
+        "Objęcie programem wywoływania tolerancji immunologicznej wszystkich pacjentów z hemofilią powikłaną nowopowstałym krążącym antykoagulantem (inhibitorem) (powyżej 5 B.U. oraz o mianie niższym lub równym 5 B.U. w przypadku przetrwania powyżej 6 miesięcy od momentu wykrycia)."
+    ],
+    "kryteria_wylaczenia": [
+        "Stwierdzenie obecności inhibitora (krążącego antykoagulantu o mianie powyżej 5 B.U. oraz o mianie niższym lub równym 5 B.U. w przypadku przetrwania inhibitora powyżej 6 miesięcy).",
+        "Ukończenie 18 roku życia."
+    ],
+    "leki": [
+        {
+            "nazwa": "czynnik VIII osoczopochodny",
+            "dawkowanie": "100-700 j.m./kg m. c. na 28 dni (4 tygodnie)"
+        },
+        {
+            "nazwa": "czynnik VIII rekombinowany",
+            "dawkowanie": "140-700 j.m./kg m. c. na 28 dni (4 tygodnie)"
+        },
+        {
+            "nazwa": "czynnik VIII rekombinowany o przedłużonym działaniu",
+            "dawkowanie": "120-480 j.m./kg m. c. na 28 dni (4 tygodnie)"
+        },
+        {
+            "nazwa": "efanezoktokog alfa",
+            "dawkowanie": "50 j.m./kg m.c. raz na tydzień"
+        },
+        {
+            "nazwa": "emicizumab",
+            "dawkowanie": "3 mg/ kg m. c. raz na tydzień (tydzień 1-4); 1,5 mg/kg m. c. raz na tydzień lub 3 mg/kg m. c. raz na 2 tygodnie lub 6 mg/kg m. c. raz na 4 tygodnie"
+        },
+        {
+            "nazwa": "czynnik IX osoczopochodny",
+            "dawkowanie": "100-400 j. m./kg m. c. na 28 dni (4 tygodnie)"
+        },
+        {
+            "nazwa": "czynnik IX rekombinowany",
+            "dawkowanie": "120-480 j.m./kg m. c. na 28 dni (4 tygodnie)"
+        },
+        {
+            "nazwa": "czynnik IX rekombinowany o przedłużonym działaniu",
+            "dawkowanie": "120-400 j.m./kg m. c., na 28 dni (4 tygodnie)"
+        },
+        {
+            "nazwa": "efanezoktokog alfa",
+            "dawkowanie": "50 j.m./kg m.c. raz na tydzień"
+        },
+        {
+            "nazwa": "emicizumab",
+            "dawkowanie": "3 mg/ kg m. c. raz na tydzień (tydzień 1-4); 1,5 mg/kg m. c. raz na tydzień lub 3 mg/kg m. c. raz na 2 tygodnie lub 6 mg/kg m. c. raz na 4 tygodnie"
+        },
+        {
+            "nazwa": "czynnik VIII",
+            "dawkowanie": "40-70 j.m./kg m. c., co 8 godzin (pierwsza doba); 30-50 j.m./ kg m. c., co 12 godzin (od drugiej do piątej doby); 30-50 j.m./kg m. c. (szósta doba i dziesiąta doba)"
+        },
+        {
+            "nazwa": "efanezoktokog alfa",
+            "dawkowanie": "50 j.m./kg m.c."
+        },
+        {
+            "nazwa": "czynnik IX osoczopochodny",
+            "dawkowanie": "50-80 j.m./kg m. c., co 12 godzin (pierwsza doba); 40-60 j.m./ kg m. c., co 12 godzin (od drugiej do piątej doby); 40-60 j.m./kg m. c. (szósta doba i dziesiąta doba)"
+        },
+        {
+            "nazwa": "czynnik IX rekombinowany",
+            "dawkowanie": "40-120 j.m./kg m. c., co 12 godzin (pierwsza doba); 30-80 j.m./ kg m. c., co 12 godzin (od drugiej do piątej doby); 30-80 j.m./kg m. c. (szósta doba i dziesiąta doba)"
+        },
+        {
+            "nazwa": "rekombinowany czynnik krzepnięcia IX połączonego z rekombinowaną albuminą",
+            "dawkowanie": "50-100 j.m./kg mc. przed zabiegiem; 50-100 j/kg mc. co 24-72 godz. w dawce (pierwszy tydzień); 50 - 80 j.m./ kg mc. (trzecia dawka i zdjęcie szwów)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "czas częściowej tromboplastyny po aktywacji (aPTT)",
+        "czas protrombinowy (PT)",
+        "czas trombinowy (TT)",
+        "wykonanie testu korekcji osoczem prawidłowym",
+        "ocena aktywności czynników krzepnięcia I, VIII i IX, von Willebranda (vWFRCo), XI, XII",
+        "antygen czynnika von Willebranda (vWFAg)",
+        "ocena miana inhibitora czynnika VIII i IX u dzieci uprzednio leczonych (test Bethesda w modyfikacji Nijmegen)",
+        "wykonanie badań wirusologicznych (w tym HCV PCR, HBV PCR u chorych z obecnymi przeciwciałami anty HCV, HBV PCR u chorych z dodatnim antygenem HBs)",
+        "morfologia krwi"
+    ],
+    "badania_monitorujace": [
+        "aminotransferaza alaninowa (AlAT) co najmniej raz w roku",
+        "obecność przeciwciał anty-HBs",
+        "obecność antygenu HBs (w przypadku braku miana zabezpieczającego przeciwciał anty-HBS)",
+        "przeciwciała anty-HCV (raz w roku)",
+        "przeciwciała anty-HIV (w uzasadnionych przypadkach)",
+        "USG naczyń w okolicy dojścia żylnego, nie rzadziej niż raz w roku",
+        "badanie ogólne moczu",
+        "ocena układu ruchu za pomocą skali HJHS"
+    ]
+}

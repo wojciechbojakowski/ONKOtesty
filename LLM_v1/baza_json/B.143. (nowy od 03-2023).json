@@ -1,0 +1,49 @@
+{
+    "nazwa_pliku": "B.143. (nowy od 03-2023).docx",
+    "kryteria_kwalifikacji": [
+        "hiperamonemia rozpoznana przy stężeniu amoniaku: >90 μmol/l u dzieci, >50 μmol/l u dorosłych, w przebiegu acydurii propionowej, metylomalonowej oraz izowalerianowej zdiagnozowanej na podstawie analizy profilu kwasów organicznych w moczu metodą GC/MS i profilu acylokarnityn we krwi metodą tandem MS.",
+        "Pacjenci leczeni w ramach innego sposobu finansowania terapii, pod warunkiem, że w chwili rozpoczęcia leczenia spełniali kryteria kwalifikacji do programu lekowego."
+    ],
+    "kryteria_wylaczenia": [
+        "stwierdzenie braku skuteczności leczenia - weryfikacji skuteczności leczenia dokonuje co 6 miesięcy Zespół Koordynacyjny ds. Chorób Ultrarzadkich, na podstawie nadesłanej karty monitorowania terapii;",
+        "wystąpienie nadwrażliwości na kwas kargluminowy lub którykolwiek z pozostałych składników leku;",
+        "ciąża lub karmienie piersią;",
+        "brak współpracy pacjenta przy realizacji programu."
+    ],
+    "leki": [
+        {
+            "nazwa": "lek",
+            "dawkowanie": "100 mg/kg, do 250 mg/kg; następnie dawkę dostosować indywidualnie tak, aby utrzymać prawidłowe stężenie amoniaku w osoczu wg zasad opisanych w ChPL"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "szczegółowy wywiad",
+        "stężenie amoniaku w osoczu",
+        "ilościowe oznaczenie stężenia aminokwasów",
+        "morfologia z rozmazem",
+        "gazometria krwi",
+        "profil kwasów organicznych w moczu metodą GC/MS",
+        "profil acylokarnityn w suchej kropli krwi",
+        "pomiar parametrów auksologicznych",
+        "aktywność enzymów wątrobowych",
+        "EKG",
+        "konsultacja neurologiczna",
+        "konsultacja dietetyczna",
+        "konsultacja psychologiczna"
+    ],
+    "badania_monitorujace": [
+        "szczegółowy wywiad",
+        "stężenie amoniaku w osoczu",
+        "gazometria krwi",
+        "ilościowe oznaczenie stężenia aminokwasów",
+        "morfologia z rozmazem",
+        "pomiar parametrów auksologicznych",
+        "aktywność enzymów wątrobowych",
+        "EKG",
+        "konsultacja neurologiczna",
+        "konsultacja dietetyczna",
+        "konsultacja psychologiczna",
+        "badanie EEG",
+        "MRI OUN"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "nazwa_pliku": "B.39. (od 07-2022).docx",
+    "kryteria_kwalifikacji": [
+        "wtórna nadczynność przytarczyc;",
+        "przeciwwskazania do zastosowania innych opcji terapeutycznych (np. paratyroidektomii) lub brak zgody pacjenta na leczenie zabiegowe (w tym m.in. farmakologiczną i laserową paratyreidektolizę) lub niepowodzenie innych opcji terapeutycznych (np. paratyroidektomii);",
+        "stężenie iPTH > 500pg/ml;",
+        "długotrwałe leczenia dializami z powodu schyłkowej niewydolności nerek;",
+        "wiek od 18 roku życia w przypadku terapii parykalcytolem."
+    ],
+    "kryteria_wylaczenia": [
+        "osiągnięcie normalizacji wskaźników gospodarki wapniowo - fosforanowej zgodnie z aktualnymi wytycznymi K/DOQI (Kidney Disease Outcome Quality Initiative - US National Kidney Foundation);",
+        "przeszczepienie nerki;",
+        "nadwrażliwość na lek lub substancje pomocnicze;",
+        "wystąpienie ciężkich działań niepożądanych w trakcie leczenia."
+    ],
+    "leki": [
+        {
+            "nazwa": "cynakalcet",
+            "dawkowanie": "30 mg/dobę"
+        },
+        {
+            "nazwa": "paricalcitol",
+            "dawkowanie": ""
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "stężenie iPTH",
+        "stężenie wapnia w surowicy",
+        "stężenie fosforu w surowicy",
+        "iloczyn Ca x P w surowicy"
+    ],
+    "badania_monitorujace": [
+        "stężenie iPTH",
+        "stężenie wapnia w surowicy",
+        "stężenie fosforu w surowicy"
+    ]
+}

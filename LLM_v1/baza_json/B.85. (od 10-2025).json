@@ -1,0 +1,44 @@
+{
+    "nazwa_pliku": "B.85. (od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "rozpoznanie gruczolakoraka trzustki, potwierdzone histologicznie lub cytologicznie",
+        "u chorych w stadium rozsiewu poddanych chemioterapii z zastosowaniem pochodnych platyny",
+        "u chorych w stadium miejscowego zaawansowania nie kwalifikujących się do leczenia radykalnego, ale poddanych chemioterapii z zastosowaniem pochodnych platyn",
+        "obecność patogennej lub prawdopodobnie patogennej mutacji dziedzicznej w genach BRCA1/BRCA2 potwierdzone w badaniu NGS",
+        "odpowiedź całkowita (CR), częściowa (PR) lub stabilizacja choroby (SD) po chemioterapii zawierającej pochodne platyny zastosowanej jako pierwsza linia leczenia paliatywnego",
+        "ECOG 0-1",
+        "wiek 18 lat lub powyżej",
+        "adekwatna wydolność narządowa określona na podstawie badań laboratoryjnych krwi zgodnie z zapisami aktualnej ChPL",
+        "brak przeciwskazań do terapii zgodnie z zapisami aktualnej ChPL"
+    ],
+    "kryteria_wylaczenia": [
+        "progresja choroby wg aktualnych kryteriów RECIST",
+        "długotrwałe i istotne klinicznie działania niepożądane w stopniu ≥ 3 według klasyfikacji NCI CTC",
+        "istotne i długotrwałe pogorszenie jakości życia lub stanu sprawności ogólnej w stosunku do wartości wyjściowych"
+    ],
+    "leki": [
+        {
+            "nazwa": "olaparyb",
+            "dawkowanie": "do 8 tygodni od ostatniej dawki chemioterapii zawierającej związki platyny"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie tomografii komputerowej (TK) lub rezonansu magnetycznego (MRI) jamy brzusznej i miednicy oraz innych okolic ciała",
+        "badanie RTG klatki piersiowej",
+        "morfologia krwi z rozmazem",
+        "oznaczenie w surowicy stężenia: kreatyniny, bilirubiny",
+        "oznaczenie aktywności transaminaz (AspAT, AlAT)",
+        "inne badania w razie wskazań klinicznych"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia w surowicy: kreatyniny, bilirubiny",
+        "oznaczenie aktywności transaminaz (AspAT, AlAT)",
+        "inne badania w razie wskazań klinicznych"
+    ],
+    "badania_monitorowania_skuteczności": [
+        "badanie tomografii komputerowej lub rezonansu magnetycznego jamy brzusznej i miednicy oraz innych okolic ciała",
+        "RTG klatki piersiowej, jeśli nie była wykonana TK/ RMI (zgodnie z pkt. 1)",
+        "inne badania w razie wskazań klinicznych"
+    ]
+}

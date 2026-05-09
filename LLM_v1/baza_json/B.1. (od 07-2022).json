@@ -1,0 +1,57 @@
+{
+    "nazwa_pliku": "B.1. (od 07-2022).docx",
+    "kryteria_kwalifikacji": [
+        "chorzy na przewlekle wirusowe zapalenie wątroby typu B, charakteryzujący się obecnością HBV DNA w surowicy oraz antygenu HBs przez czas dłuższy niż 6 miesięcy",
+        "poziom wiremii HBV DNA powyżej 2000 IU/mL",
+        "potwierdzenie aktywnego zapalenia wątroby w postaci aktywności AIAT przekraczającej górną granicę normy w co najmniej trzech oznaczeniach wykonanych w okresie nie krótszym niż trzy miesiące i nie dłuższym niż 12 miesięcy",
+        "zmiany histologiczne w wątrobie potwierdzające rozpoznanie przewlekłego zapalenia wątroby",
+        "sztywność tkanki wątrobowej wskazująca na znaczące włóknienie (>7,0 kPa) w badaniu elastograficznym wątroby"
+    ],
+    "kryteria_wylaczenia": [
+        "niewyrównana marskość wątroby",
+        "ciężka współistniejąca choroba serca, w tym niewydolność krążenia, niestabilna choroba wieńcowa",
+        "niewyrównana cukrzyca insulinozależna",
+        "choroby o podłożu autoimmunologicznym, z wyłączeniem autoimmunologicznego zapalenia wątroby typu II (anty-LKM-1); "
+    ],
+    "leki": [
+        {
+            "nazwa": "Interferon pegylowany alfa-2a",
+            "dawkowanie": "90 µg/0,5 ml roztwór do wstrzykiwań, 135 µg/0,5 ml roztwór do wstrzykiwań, 180 µg/0,5 ml roztwór do wstrzykiwań"
+        },
+        {
+            "nazwa": "Lamiwudyna",
+            "dawkowanie": "tabletki po 100 mg - raz dziennie 1 tabletka"
+        },
+        {
+            "nazwa": "Entekawir",
+            "dawkowanie": "tabletki po 0,5 mg - raz dziennie 1 tabletka u osób uprzednio nieleczonych analogami nukleozydowymi lub nukleotydowymi, tabletki po 1,0 mg - raz dziennie 1 tabletka u osób uprzednio leczonych analogami nukleozydowymi lub nukleotydowymi"
+        },
+        {
+            "nazwa": "Tenofowir",
+            "dawkowanie": "tabletki po 245 mg - raz dziennie 1 tabletka"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie antygenu HBs",
+        "oznaczenie antygenu HBe",
+        "oznaczenie przeciwciał anty-HBe",
+        "oznaczenie przeciwciał anty-HCV",
+        "oznaczenie przeciwciał anty-HIV",
+        "morfologia krwi",
+        "oznaczenie poziomu ALT",
+        "proteinogram",
+        "czas lub wskaźnik protrombinowy",
+        "oznaczenie stężenia mocznika i kreatyniny",
+        "USG jamy brzusznej",
+        "biopsja wątroby – w przypadkach uzasadnionych kryteriami kwalifikacji",
+        "próba ciążowa u kobiet w wieku rozrodczym"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi",
+        "oznaczenie poziomu ALT",
+        "czas lub wskaźnik protrombinowy",
+        "oznaczenie stężenia kreatyniny",
+        "oznaczenie poziomu AFP",
+        "oznaczenie antygenu HBsAg metodą ilościową"
+    ]
+}

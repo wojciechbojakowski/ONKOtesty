@@ -1,0 +1,67 @@
+{
+    "nazwa_pliku": "B.66. (od 07-2024).docx",
+    "criteria": [
+        "1. Stan sprawności 0-2 według skali ECOG",
+        "2. Potwierdzona histologicznie diagnoza układowego chłoniaka anaplastycznego z dużych komórek (sALCL)",
+        "3. Potwierdzona immunohistochemicznie obecność antygenu CD30",
+        "4. Brak przeciwwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego",
+        "5. Wykluczenie ciąży i okresu karmienia piersią",
+        "6. Zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną Charakterystyką Produktu Leczniczego",
+        "7. Nieobecność aktywnych, ciężkich zakażeń",
+        "8. Nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną Charakterystykę Produktu Leczniczego",
+        "9. Adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii"
+    ],
+    "1st line treatment": [
+        "brentuksymab vedotin in combination with cyclophosphamide, doxorubicin and prednisone (CHP)"
+    ],
+    "2nd and subsequent lines of treatment": [
+        "brentuksymab vedotin monotherapy"
+    ],
+    "leki": [
+        {
+            "nazwa": "beksaroten",
+            "dawkowanie": "300 mg/m2 pc./dobę, obliczenie dawki początkowej zgodnie z aktualną Charakterystyką Produktu Leczniczego. W ramach programu dopuszczalne jest rozpoczęcie terapii od dawki beksarotenu 150 mg/m2 p.c./dobę, podawanej przez okres 14 dni, po których należy zwiększyć dawkę do 300 mg/m2 p.c./dobę"
+        },
+        {
+            "nazwa": "brentuksymab vedotin",
+            "dawkowanie": "1,8 mg/kg mc. podawana we wlewie dożylnym trwającym 30 minut co 3 tygodnie"
+        },
+        {
+            "nazwa": "mogamulizumab",
+            "dawkowanie": "1 mg/kg m.c. podawana w infuzji dożylnej trwającej co najmniej 60 minut w dniach 1., 8., 15. i 22. cyklu 1., a następnie w dniach 1. i 15. każdego kolejnego cyklu"
+        },
+        {
+            "nazwa": "brentuksymab vedotin",
+            "dawkowanie": "1,8 mg/kg mc. podawana we wlewie dożylnym trwającym 30 minut co 3 tygodnie (jeśli masa ciała pacjenta przekracza 100 kg, do obliczenia dawki należy przyjąć 100 kg)"
+        },
+        {
+            "nazwa": "cyklofosfamid",
+            "dawkowanie": "750 mg/m2 pc. podawana we wlewie dożylnym co 3 tygodnie"
+        },
+        {
+            "nazwa": "doksorubicyna",
+            "dawkowanie": "50/m2 pc. podawana we wlewie dożylnym co 3 tygodnie"
+        },
+        {
+            "nazwa": "prednizon",
+            "dawkowanie": "100 mg podawana doustnie w dniach 1-5 każdego 3-tygodniowego cyklu"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi",
+        "oznaczenie stężenia glukozy we krwi",
+        "test ciążowy (u kobiet w wieku rozrodczym)",
+        "badanie immunohistochemiczne na obecność antygenu CD30+ w tkance chłoniaka",
+        "badanie obrazowe: tomografia komputerowa (TK) lub tomografia emisyjna pozytonowa (PET/TK)"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi",
+        "oznaczenie stężenia glukozy we krwi"
+    ]
+}

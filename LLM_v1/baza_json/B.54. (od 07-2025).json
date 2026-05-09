@@ -1,0 +1,111 @@
+{
+    "nazwa_pliku": "B.54. (od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "punkt 1",
+        "wiek 18 lat i powyżej;",
+        "stan sprawności 0-2 według skali ECOG – za wyjątkiem terapii Tec;",
+        "rozpoznanie szpiczaka plazmocytowego;",
+        "brak przeciwwskazań do stosowania leku/leków (składowych wybranego schematu leczenia) zgodnie z aktualnymi Charakterystykami Produktu Leczniczego;",
+        "brak nadwrażliwości na lek lub którąkolwiek substancję pomocniczą leku;",
+        "wykluczenie ciąży i okresu karmienia piersią;",
+        "zgoda pacjenta na prowadzenie antykoncepcji zgodnie z odpowiednią, aktualną Charakterystyką Produktu Leczniczego;",
+        "nieobecność aktywnych, ciężkich zakażeń;",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną/aktualne Charakterystyki Produktu Leczniczego;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii."
+    ],
+    "kryteria_wylaczenia": [
+        "choroba 1",
+        "stan 2"
+    ],
+    "Teklistamab": {
+        "dawka_startowa": 0.06,
+        "dawka_max": 1.5
+    },
+    "Elranatamab": {
+        "dawka_startowa": 12,
+        "dawka_max": 76,
+        "schemat_dawkowania": [
+            [
+                "tydzień 1",
+                12
+            ],
+            [
+                "tydzień 4",
+                32
+            ],
+            [
+                "tygodnie 2-24",
+                76,
+                "co tydzień"
+            ],
+            [
+                "tygodnie 25-48",
+                76,
+                "co dwa tygodnie"
+            ],
+            [
+                "tygodnie 49+",
+                76,
+                "co cztery tygodnie"
+            ]
+        ]
+    },
+    "Talkwetamab": {
+        "dawka_startowa": 0.01,
+        "schemat_dawkowania": [
+            [
+                "tydzień 1",
+                0.01
+            ],
+            [
+                "tydzień 3",
+                0.06
+            ],
+            [
+                "tydzień 5",
+                0.4
+            ],
+            [
+                "faza leczenia",
+                0.4,
+                "co tydzień"
+            ]
+        ]
+    },
+    "Tal": {
+        "dawka_startowa": 0.01,
+        "schemat_dawkowania": [
+            [
+                "tydzień 1",
+                0.01
+            ],
+            [
+                "tydzień 3",
+                0.06
+            ],
+            [
+                "tydzień 5",
+                0.4
+            ],
+            [
+                "faza leczenia",
+                0.8,
+                "co dwa tygodnie"
+            ]
+        ]
+    },
+    "researchStudies": [
+        {
+            "studyName": "Zwróć TYLKO kod JSON"
+        },
+        {
+            "studyName": "Teklistamab: leczenie teklistamabem należy rozpocząć od dawek startowych 0,06 mg/kg m.c. i 0,3 mg mg/kg m.c."
+        },
+        {
+            "studyName": "Elranatamab: leczenie elranatamabem podawanym we wstrzyknięciu podskórnym, należy rozpocząć od stopniowego zwiększania dawki w celu zmniejszenia częstości występowania i nasilenia CRS i ICANS"
+        },
+        {
+            "studyName": "Talkwetamab: należy podawać podskórnie w schemacie dawkowania co tydzień lub co dwa tygodnie zgodnie z aktualną Charakterystyką Produktu Leczniczego dla talkwetamabu"
+        }
+    ]
+}

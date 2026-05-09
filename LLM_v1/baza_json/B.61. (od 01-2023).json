@@ -1,0 +1,60 @@
+{
+    "nazwa_pliku": "B.61. (od 01-2023).docx",
+    "kryteria_kwalifikacji": [
+        "stężenie hemicystyny (cystyny) w leukocytach krwi obwodowej > 1 nmol/mg białka komórkowego;",
+        "aktualnie lub w wywiadzie cechy nefropatii (zespół Fanconiego lub białkomocz);",
+        "zidentyfikowanie kryształków cystyny w badaniu przedniego odcinka oka w lampie szczelinowej lub mikroskopem konfokalnym;",
+        "wiek ≥2 lat."
+    ],
+    "kryteria_wylaczenia": [
+        "wystąpienie nadwrażliwości na cysteaminę lub substancje pomocnicze;",
+        "wystąpienie objawów nietolerancji na cysteaminę, uniemożliwiające dalsze leczenie;",
+        "nadwrażliwość na penicylaminę;",
+        "karmienie piersią;",
+        "ciąża;",
+        "rezygnacja pacjenta lub jego opiekunów prawnych;",
+        "znaczna progresja choroby, pojawiająca się pomimo zastosowanego leczenia."
+    ],
+    "leki": [
+        {
+            "nazwa": "cysteamina",
+            "dawkowanie": "1,3 g/m2 powierzchni ciała / dobę (dla dzieci poniżej 12 lat), 2 g (dla pacjentów powyżej 12 lat i o masie ciała powyżej 50 kg); 4 razy na dobę, w równych dawkach podzielonych co 6 h; dawka początkowa: 1/4 do 1/6 zalecanej dawki; stopniowe zwiększanie przez okres 4-6 tygodni"
+        },
+        {
+            "nazwa": "cysteamina",
+            "dawkowanie": "jedna kropla zakraplana do każdego oka 4 razy na dobę w godzinach dziennych; pomiędzy każdym zakraplaniem zaleca się zachować 4 godziny odstępu"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "stężenie hemicystyny (cystyny) w leukocytach krwi obwodowej;",
+        "morfologia krwi z rozmazem;",
+        "stężenie kreatyniny, glukozy, cholesterolu, sodu, potasu, chloru, wapnia, fosforu, kwasu moczowego, białka całkowitego, albumin, transaminaz (ASPAT, ALAT) w surowicy krwi na czczo;",
+        "stężenie kreatyniny, wapnia, magnezu, fosforu w porannej porcji moczu (nie dotyczy pacjentów z GFR<60 ml/min/1,73 m2 powierzchni ciała oraz pacjentów po przeszczepie nerki);",
+        "gazometria krwi żylnej;",
+        "badanie ogólne moczu;",
+        "ocena parametrów rozwojowych: wysokość, masa ciała, powierzchnia ciała;",
+        "USG jamy brzusznej;",
+        "konsultacja nefrologiczna z oceną eGFR;",
+        "konsultacja neurologiczna;",
+        "konsultacja endokrynologiczna;",
+        "konsultacja pulmonologiczna z badaniem spirometrycznym u pacjentów > 10 r.ż.;",
+        "konsultacja okulistyczna (badanie przedniego odcinka oka w lampie szczelinowej lub mikroskopem konfokalnym);"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem;",
+        "stężenie kreatyniny, glukozy, cholesterolu, sodu, potasu, chloru, wapnia, fosforu w surowicy krwi na czczo;",
+        "stężenie kreatyniny, wapnia, magnezu, fosforu w porannej porcji moczu (nie dotyczy pacjentów z GFR<60 ml/min/1,73 m2 powierzchni ciała oraz pacjentów po przeszczepie nerki);",
+        "gazometria krwi żylnej;",
+        "badanie ogólne moczu;",
+        "ocena parametrów rozwojowych: wysokość, masa ciała, powierzchnia ciała;",
+        "konsultacja nefrologiczna z oceną eGFR;",
+        "stężenie TSH, fT4;",
+        "konsultacja okulistyczna (badanie przedniego odcinka oka w lampie szczelinowej lub mikroskopem konfokalnym);",
+        "USG jamy brzusznej;",
+        "konsultacja neurologiczna;",
+        "konsultacja endokrynologiczna;",
+        "konsultacja psychologiczna;",
+        "konsultacja gastrologiczna;",
+        "konsultacja pulmonologiczna z badaniem spirometrycznym u pacjentów > 10 r.ż;"
+    ]
+}

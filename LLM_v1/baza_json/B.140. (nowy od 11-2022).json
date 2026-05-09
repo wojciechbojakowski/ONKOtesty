@@ -1,0 +1,39 @@
+{
+    "nazwa_pliku": "B.140. (nowy od 11-2022).docx",
+    "kryteria_kwalifikacji": [
+        "zaburzenie cyklu mocznikowego potwierdzone badaniem enzymatycznym, biochemicznym lub genetycznym, obejmujące niedobór: syntetazy karbamoilofosforanowej I, lub karbamoilotransferazy ornitynowej, lub syntetazy argininobursztynianowej, lub liazy argininobursztynianowej, lub arginazy I, lub translokazy ornitynowej (tzw. zespół HHH tj. hiperamonemia-hiperornitynemia-homocytrulinuria);",
+        "brak skutecznego leczenia zaburzeń cyklu mocznikowego tylko poprzez ograniczenie spożycia białka lub suplementację aminokwasów"
+    ],
+    "kryteria_wylaczenia": [
+        "przeszczepienie wątroby",
+        "nadwrażliwość na fenylooctan lub fenylomaślan",
+        "ciąża lub karmienie piersią",
+        "wystąpienie działań niepożądanych, które w opinii lekarza prowadzącego uniemożliwiają kontynuację terapii"
+    ],
+    "leki": [
+        {
+            "nazwa": "Fenylomaślan glicerolu",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej na dzień wydania decyzji Charakterystyce Produktu Leczniczego"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "stężenie amoniaku we krwi",
+        "profil aminokwasów w osoczu",
+        "wydalanie kwasu orotowego w moczu (metodą ilościową)",
+        "przy podejrzeniu zespołu HHH - profil aminokwasów w moczu",
+        "przy podejrzeniu deficytu liazy argininobursztynianu – poziom argininobursztynianu we krwi lub moczu",
+        "analiza DNA w kierunku wariantu odpowiedzialnego za hiperamonemię",
+        "konsultacja psychologa (ocena rozwoju psychoruchowego / intelektualnego)",
+        "konsultacja neurologa",
+        "konsultacja dietetyka (z oceną skuteczności stosowanej dotychczas diety oraz zawartości białka całkowitego i naturalnego w diecie)",
+        "szczegółowy wywiad dotyczący przebiegu klinicznego choroby, zwłaszcza liczby i ciężkości epizodów hiperamonemii"
+    ],
+    "badania_monitorujace": [
+        "szczegółowy wywiad dotyczący przebiegu klinicznego choroby, zwłaszcza liczby i ciężkości epizodów hiperamonemii",
+        "stężenie amoniaku we krwi",
+        "stężenie aminokwasów w osoczu",
+        "konsultacja psychologa (ocena postępów w rozwoju psychoruchowym / intelektualnym)",
+        "konsultacja neurologa",
+        "konsultacja dietetyka"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "nazwa_pliku": "B.10. (od 10-2025).docx",
+    "1. Linia Leczenia": {
+        "Kryteria Kwalifikacji": [
+            "histologicznie potwierdzone rozpoznanie: raka nerkowokomórkowego z wyłączeniem raka z kanalików zbiorczych - w przypadku kabozantynibu, raka nerkowokomórkowego z komponentem raka jasnokomórkowego lub sarkomatycznym – w przypadku niwolumabu; nowotwór w stadium zaawansowanym bez możliwości radykalnego leczenia miejscowego; stan sprawności według skali Karnofsky'ego 70-100; ukończony 18. rok życia; uprzednie usunięcie guza pierwotnego lub odstąpienie od nefrektomii potwierdzone na podstawie udokumentowanej decyzji konsylium multidyscyplinarnego; zmiany możliwe do obiektywnej oceny w badaniach obrazowych (wg aktualnej wersji RECIST); nieobecność przerzutów w ośrodkowym układzie nerwowym (dopuszczalne wcześniejsze usunięcie przerzutów lub stereotaktyczna radioterapia, o ile po leczeniu utrzymuje się stan bezobjawowy); w przypadku współistnienia innych aktywnych nowotworów kwalifikacja do leczenia musi uwzględniać rokowanie związane ze współistniejącym nowotworem; nieobecność istotnych klinicznie objawów niepożądanych związanych z uprzednio stosowaną terapią przeciwnowotworową; nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwskazanie do rozpoczęcia terapii w oparciu o aktualną ChPL; adekwatna wydolność narządowa określona na podstawie badań laboratoryjnych krwi zgodnie z zapisami aktualnej ChPL; wykluczenie ciąży i okresu karmienia piersią; zgoda pacjenta na zapobieganie ciąży zgodnie z aktualną ChPL stosowanych leków."
+        ],
+        "Kryteria Wyłączenia": [
+            "udokumentowana progresja według aktualnych kryteriów RECIST (w przypadku niwolumabu z możliwością potwierdzenia progresji w kolejnym badaniu po upływie 4-8 tygodni); w przypadku oligoprogresji (progresja nie więcej niż 5 ognisk w nie więcej niż 3 narządach, w tym w ośrodkowym układzie nerwowym), dopuszcza się kontynuację leczenia pod warunkiem zastosowania radykalnego leczenia miejscowego (chirurgia, radioterapia stereotaktyczna), o ile pacjent odnosi korzyści kliniczne i utrzymuje się odpowiedź lub stabilizacja pozostałych zmian chorobowych; wystąpienie objawów nadwrażliwości na którąkolwiek substancję czynną lub substancję pomocniczą; ciąża lub okres karmienia piersią; wystąpienie zagrażającej życiu toksyczności lub istotnej klinicznie toksyczności niższego stopnia, która nawraca pomimo zastosowania adekwatnego postępowania, zgodnie z zasadami zawartymi w aktualnej ChPL lub w aktualnych zaleceniach Towarzystw Onkologicznych; utrzymujące się istotne pogorszenie stanu sprawności ogólnej lub jakości życia uniemożliwiające kontynuację leczenia; wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają prowadzenie leczenia; brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy."
+        ],
+        "Określenie Czasu Leczenia": [
+            "Leczenie trwa do czasu podjęcia przez lekarza prowadzącego decyzji o wyłączeniu świadczeniobiorcy z programu, zgodnie z kryteriami wyłączenia."
+        ]
+    },
+    "2. Linia Leczenia": {
+        "Kryteria Kwalifikacji": [
+            "udokumentowane niepowodzenie dwóch linii wcześniejszego leczenia systemowego z zastosowaniem wielokinazowych inhibitorów o działaniu antyangiogennym (możliwa wcześniejsza immunoterapia z wykorzystaniem cytokin); brak wcześniejszego leczenia raka nerki inhibitorami punktów kontrolnych układu immunologicznego (o aktywności anty-PD-1/ PD-L1, anty-CTLA4) w tym leczenia adjuwantowego; nieobecność aktywnych chorób immunologicznych z wyłączeniem zespołu Sjögrena, bielactwa, cukrzycy typu I, niedoczynności tarczycy (leczonej wyłącznie suplementacją hormonalną), łuszczycy niewymagającej leczenia systemowego; nie stosowanie systemowych leków kortykosteroidowych (w dawce przekraczającej 10 mg prednizonu na dobę lub równoważnej dawki innego leku kortykosteroidowego) lub leków immunosupresyjnych w ciągu14 dni przed rozpoczęciem leczenia niwolumabem (kortykosteroidy wziewne są dozwolone); brak nadwrażliwości na przeciwciała monoklonalne w wywiadzie."
+        ],
+        "Kryteria Wyłączenia": [
+            "udokumentowana progresja według aktualnych kryteriów RECIST (w przypadku niwolumabu z możliwością potwierdzenia progresji w kolejnym badaniu po upływie 4-8 tygodni); w przypadku oligoprogresji (progresja nie więcej niż 5 ognisk w nie więcej niż 3 narządach, w tym w ośrodkowym układzie nerwowym), dopuszcza się kontynuację leczenia pod warunkiem zastosowania radykalnego leczenia miejscowego (chirurgia, radioterapia stereotaktyczna), o ile pacjent odnosi korzyści kliniczne i utrzymuje się odpowiedź lub stabilizacja pozostałych zmian chorobowych; wystąpienie objawów nadwrażliwości na którąkolwiek substancję czynną lub substancję pomocniczą; ciąża lub okres karmienia piersią; wystąpienie zagrażającej życiu toksyczności lub istotnej klinicznie toksyczności niższego stopnia, która nawraca pomimo zastosowania adekwatnego postępowania, zgodnie z zasadami zawartymi w aktualnej ChPL lub w aktualnych zaleceniach Towarzystw Onkologicznych; utrzymujące się istotne pogorszenie stanu sprawności ogólnej lub jakości życia uniemożliwiające kontynuację leczenia; wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają prowadzenie leczenia; brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy."
+        ],
+        "Określenie Czasu Leczenia": [
+            "Leczenie trwa do czasu podjęcia przez lekarza prowadzącego decyzji o wyłączeniu świadczeniobiorcy z programu, zgodnie z kryteriami wyłączenia."
+        ]
+    },
+    "3. Linia Leczenia": {
+        "Kryteria Kwalifikacji": [
+            "udokumentowane niepowodzenie trzech linii wcześniejszego leczenia systemowego z zastosowaniem wielokinazowych inhibitorów o działaniu antyangiogennym (możliwa wcześniejsza immunoterapia z wykorzystaniem cytokin); brak wcześniejszego leczenia raka nerki inhibitorami punktów kontrolnych układu immunologicznego (o aktywności anty-PD-1/ PD-L1, anty-CTLA4) w tym leczenia adjuwantowego; nieobecność aktywnych chorób immunologicznych z wyłączeniem zespołu Sjögrena, bielactwa, cukrzycy typu I, niedoczynności tarczycy (leczonej wyłącznie suplementacją hormonalną), łuszczycy niewymagającej leczenia systemowego; nie stosowanie systemowych leków kortykosteroidowych (w dawce przekraczającej 10 mg prednizonu na dobę lub równoważnej dawki innego leku kortykosteroidowego) lub leków immunosupresyjnych w ciągu14 dni przed rozpoczęciem leczenia niwolumabem (kortykosteroidy wziewne są dozwolone); brak nadwrażliwości na przeciwciała monoklonalne w wywiadzie."
+        ],
+        "Kryteria Wyłączenia": [
+            "udokumentowana progresja według aktualnych kryteriów RECIST (w przypadku niwolumabu z możliwością potwierdzenia progresji w kolejnym badaniu po upływie 4-8 tygodni); w przypadku oligoprogresji (progresja nie więcej niż 5 ognisk w nie więcej niż 3 narządach, w tym w ośrodkowym układzie nerwowym), dopuszcza się kontynuację leczenia pod warunkiem zastosowania radykalnego leczenia miejscowego (chirurgia, radioterapia stereotaktyczna), o ile pacjent odnosi korzyści kliniczne i utrzymuje się odpowiedź lub stabilizacja pozostałych zmian chorobowych; wystąpienie objawów nadwrażliwości na którąkolwiek substancję czynną lub substancję pomocniczą; ciąża lub okres karmienia piersią; wystąpienie zagrażającej życiu toksyczności lub istotnej klinicznie toksyczności niższego stopnia, która nawraca pomimo zastosowania adekwatnego postępowania, zgodnie z zasadami zawartymi w aktualnej ChPL lub w aktualnych zaleceniach Towarzystw Onkologicznych; utrzymujące się istotne pogorszenie stanu sprawności ogólnej lub jakości życia uniemożliwiające kontynuację leczenia; wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają prowadzenie leczenia; brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy."
+        ],
+        "Określenie Czasu Leczenia": [
+            "Leczenie trwa do czasu podjęcia przez lekarza prowadzącego decyzji o wyłączeniu świadczeniobiorcy z programu, zgodnie z kryteriami wyłączenia."
+        ]
+    },
+    "leki": [
+        {
+            "nazwa": "pembrolizumab",
+            "dawkowanie": ""
+        }
+    ],
+    "Badania przy kwalifikacji do leczenia kabozantynibem, niwolumabem": [
+        {
+            "rozpoznanie histopatologiczne raka nerkowokomórkowego": null,
+            "morfologia krwi z rozmazem": null,
+            "oznaczenie stężenia kreatyniny we krwi": null,
+            "oznaczenie stężenia bilirubiny we krwi": null,
+            "oznaczenie aktywności aminotransferazy alaninowej": null,
+            "oznaczenie aktywności aminotransferazy asparaginianowej": null,
+            "oznaczenie aktywności dehydrogenazy mleczanowej (LDH)": null,
+            "oznaczenie stężenia TSH i fT4": null,
+            "oznaczenie skorygowanego stężenia wapnia w surowicy": null,
+            "badanie ogólne moczu – dla kabozantynibu": null,
+            "oznaczenie aktywności fosfatazy alkalicznej": null,
+            "oznaczenie stężenia glukozy we krwi": null,
+            "inne badania laboratoryjne w razie wskazań klinicznych": null,
+            "test ciążowy u kobiet w wieku rozrodczym (jeśli wskazany klinicznie)": null,
+            "elektrokardiogram (EKG)": null,
+            "pomiar ciśnienia tętniczego": null,
+            "badanie TK klatki piersiowej i jamy brzusznej": null,
+            "badanie RTG klatki piersiowej – wyłącznie w przypadkach możliwości przeprowadzenia pomiaru zmian chorobowych oraz oceny odpowiedzi na leczenie": null,
+            "badanie TK lub MR mózgu – w przypadku osób z podejrzeniem przerzutów do ośrodkowego układu nerwowego (tj. w przypadku objawów ze strony ośrodkowego układu nerwowego oraz u osób po wcześniejszym leczeniu miejscowym przerzutów)": null,
+            "inne badania obrazowe w razie wskazań klinicznych": null
+        }
+    ],
+    "Monitorowanie bezpieczeństwa leczenia": [
+        {
+            "morfologia krwi z rozmazem": null,
+            "oznaczenie stężenia kreatyniny we krwi": null,
+            "oznaczenie stężenia bilirubiny we krwi": null,
+            "oznaczenie aktywności aminotransferazy alaninowej": null,
+            "oznaczenie aktywności aminotransferazy asparaginianowej": null,
+            "badanie ogólne moczu – dla kabozantynibu": null,
+            "oznaczenie stężenia fT4 i TSH": null,
+            "pomiar ciśnienia tętniczego": null,
+            "inne badania w razie wskazań klinicznych": null
+        }
+    ],
+    "Monitorowanie skuteczności leczenia": [
+        {
+            "badanie KT lub MR odpowiedniego obszaru": null,
+            "badanie RTG klatki piersiowej – jeżeli nie jest wykonywane badanie KT": null,
+            "inne badania obrazowe w razie wskazań klinicznych": null
+        }
+    ],
+    "Monitorowanie programu": [
+        {
+            "gromadzenie w dokumentacji medycznej danych dotyczących monitorowania leczenia i każdorazowe ich przedstawianie na żądanie kontrolerów Narodowego Funduszu Zdrowia": null,
+            "uzupełnianie danych zawartych w elektronicznym systemie monitorowania programów lekowych dostępnym za pomocą aplikacji internetowej udostępnionej przez OW NFZ, z częstotliwością zgodną z opisem programu oraz na zakończenie leczenia": null,
+            "przekazywanie informacji sprawozdawczo-rozliczeniowych do NFZ (informacje przekazuje się do NFZ w formie papierowej lub w formie elektronicznej) zgodnie z wymaganiami opublikowanymi przez NFZ": null
+        }
+    ]
+}

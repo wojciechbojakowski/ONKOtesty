@@ -1,0 +1,52 @@
+{
+    "nazwa_pliku": "B.161. (nowy od 07-2024).docx",
+    "kryteria_kwalifikacji": [
+        "pacjenci w wieku ≥ 18 lat;",
+        "obecność czynnej umiarkowanej lub ciężkiej postaci hidradenitis suppurativa definiowanej jako: występowanie co najmniej 5 zmian zapalnych w postaci ropni lub guzków zapalnych w co najmniej dwóch lokalizacjach (co najmniej 1 lokalizacja w II lub III stopniu Hurley), lub nasilenie choroby w skali IHS4≥4;",
+        "pacjenci, u których uzyskano ocenę jakości życia ze wskaźnikiem DLQI większym niż 10;",
+        "w przypadku kobiet wymagana jest zgoda na świadomą kontrolę urodzeń, zgodnie z Charakterystyką Produktu Leczniczego leku, którym odbywa się leczenie w programie lekowym;",
+        "nieobecność istotnych schorzeń współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL;",
+        "brak przeciwwskazań do stosowania określonej w aktualnej ChPL substancji czynnej ujętej w programie lekowym."
+    ],
+    "kryteria_wylaczenia": [
+        "brak uzyskania adekwatnej odpowiedzi na leczenie po 16 tygodniach terapii rozumianej jako co najmniej 50% redukcja liczby zmian zapalnych (guzków lub ropni) i bez wzrostu liczby ropni lub sączących przetok w porównaniu do okresu sprzed leczenia;",
+        "utrata adekwatnej odpowiedzi na leczenie potwierdzona w trakcie dwóch kolejnych wizyt monitorujących oznaczająca wzrost liczby zmian zapalnych (guzków lub ropni) lub IHS4 powyżej poziomu z wizyty kwalifikacyjnej do programu;",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie objawów nadwrażliwości na którąkolwiek substancję czynną lub substancję pomocniczą;",
+        "wystąpienie toksyczności wymagającej zakończenia leczenia w opinii lekarza prowadzącego zgodnie z aktualną ChPL;",
+        "pogorszenie jakości życia o istotnym znaczeniu według oceny lekarza;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego opiekuna prawnego."
+    ],
+    "leki": [
+        {
+            "nazwa": "sekukinumab",
+            "dawkowanie": "300 mg co tygodniu (0., 1., 2., 3. i 4.), 300 mg co miesiąc, możliwość zwiększenia do 300 mg co 2 tygodnie"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi",
+        "oznaczenie stężenia białka C-reaktywnego (CRP)",
+        "test QuantiFERON – TB",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "stężenie kreatyniny w surowicy",
+        "oznaczenie stężenia bilirubiny całkowitej",
+        "obecność antygenu HBs",
+        "przeciwciała anty-HCV",
+        "obecność antygenu wirusa HIV (HIV Ag/Ab Combo)",
+        "test ciążowy (u kobiet w wieku rozrodczym)",
+        "RTG klatki piersiowej z opisem (maksymalnie do 6 miesięcy przed kwalifikacją)",
+        "EKG"
+    ],
+    "badania_monitorujace": [
+        "morfologię krwi",
+        "oznaczenie stężenia białka C-reaktywnego (CRP)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "stężenie kreatyniny w surowicy",
+        "ocenę skuteczności zastosowanej terapii wg wskaźników",
+        "ocenę liczby zmian zapalnych (guzków lub ropni) i wzrostu liczby ropni lub sączących przetok",
+        "ocenę nasilenia choroby wg skali IHS4",
+        "ocenę jakości życia wg wskaźnika DLQI"
+    ]
+}

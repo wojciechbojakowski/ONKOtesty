@@ -1,0 +1,53 @@
+{
+    "nazwa_pliku": "B.133. (od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "Pacjenci, którzy ukończyli 18 r. życia;",
+        "Chorzy na migrenę przewlekłą mający co najmniej 15 dni z bólem głowy w miesiącu przez co najmniej 3 kolejne miesiące, z których co najmniej 8 spełnia kryteria rozpoznania migreny określone w aktualnym wydaniu Międzynarodowej Klasyfikacji Bólów Głowy (ang. International Classification of Headache Disorders, ICHD);",
+        "Minimum 2 udokumentowane próby leczenia profilaktycznego migreny przewlekłej lekami o różnym działaniu, wybranymi spośród: topiramat – stosowany przez okres nie krótszy niż 3 miesiące w dawce 100 mg – 200 mg na dobę (dawkowanie zgodnie z aktualnym CHPL), kwas walproinowy lub jego pochodne – stosowany przez okres nie krótszy niż 3 miesiące w dawce 500-1500 mg na dobę, amitryptylina stosowana przez okres nie krótszy niż 3 miesiące w dawce 50-150 mg na dobę lub przeciwwskazanie do stosowania lub brak tolerancji wyżej wymienionych leków zgodnie z odpowiednimi aktualnymi Charakterystykami Produktów Leczniczych;",
+        "Nieskuteczność definiowana jest jako zmniejszenie liczby dni z bólem głowy w miesiącu o mniej niż 50% względem wartości sprzed rozpoczęcia leczenia.",
+        "Brak wcześniejszego leczenia toksyną botulinową typu A we wskazaniu migrena przewlekła (nie dotyczy pacjentów, którzy byli leczeni w ramach innego sposobu finansowania terapii, pod warunkiem, że w chwili rozpoczęcia leczenia spełniali kryteria kwalifikacji do programu lekowego);",
+        "Pisemna zgoda pacjenta na monitorowanie efektów leczenia przez 12 miesięcy po ostatnim podaniu toksyny botulinowej typu A.",
+        "Brak tolerancji wyżej wymienionych leków zgodnie z odpowiednimi aktualnymi Charakterystykami Produktów Leczniczych;",
+        "Nawrót migreny przewlekłej stwierdzony w wyniku finalnej oceny leczenia toksyną botulinową (ocena dokonywana jest nie wcześniej niż po 12-16 tyg. od ostatniego podania leku, ale nie później niż 6 miesięcy);",
+        "Przeciwwskazanie do stosowania toksyny botulinowej A zgodnie z aktualną Charakterystyką Produktu Leczniczego;",
+        "Pacjentki wyłączone z programu w związku z ciążą, które w czasie wyłączenia spełniały pozostałe kryteria leczenia w programie oraz są obserwowane co 3 miesiące (przez okres 12 miesięcy) pod kątem nawrotu migreny przewlekłej.",
+        "U chorych u których nie dochodzi do w/w sytuacji w czasie roku obserwacji – udział w programie lekowym ulega zakończeniu."
+    ],
+    "kryteria_wyłączenia": [
+        "Brak prawidłowego prowadzenia dzienniczka bólów głowy;",
+        "Brak odpowiedzi na leczenie oceniane podczas wizyt kontrolnych;",
+        "Pogorszenie lub brak zmiany w jakości życia, mierzone skalą MIDAS, stwierdzone i zweryfikowane podczas wizyt monitorujących;",
+        "Wystąpienie nadwrażliwości na lek lub substancje pomocnicze uniemożliwiające kontynuacje leczenia;",
+        "Wystąpienie ciężkich działań niepożądanych uniemożliwiających dalsze stosowanie leku."
+    ],
+    "leki": [
+        {
+            "nazwa": "Toksyna botulinowa",
+            "dawkowanie": "maksymalna dawka 195 j, kolejne podanie po upływie co najmniej 12 tygodni, ale nie później niż 16 tygodni od podania poprzedniej dawki leku"
+        },
+        {
+            "nazwa": "Eptinezumab",
+            "dawkowanie": "100 mg w infuzji dożylnej co 12 tygodni"
+        },
+        {
+            "nazwa": "Erenumab",
+            "dawkowanie": "140 mg we wstrzyknięciu podskórnym co 4 tygodnie"
+        },
+        {
+            "nazwa": "Fremanezumab",
+            "dawkowanie": "225 mg we wstrzyknięciu podskórnym raz na miesiąc lub 675 mg raz na trzy miesiące"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "Wywiad z pacjentem potwierdzający spełnienie kryteriów kwalifikacji do programu lekowego;",
+        "Badanie fizykalne – neurologiczne;",
+        "Dzienniczek pacjenta z udokumentowanymi napadami bólu głowy i bólu migrenowego prowadzony przez okres minimum 3 ostatnich miesięcy;",
+        "Prawidłowo prowadzona historia choroby uwzględniająca wymagane w kryteriach włączenia próby leczenia w przeszłości;",
+        "Kwestionariusz jakości życia – skala MIDAS."
+    ],
+    "badania_monitorujace": [
+        "Kontrolne wizyty u lekarza z oceną efektów leczenia co 12 tygodni (± 15 dni) od momentu włączenia do programu lekowego;",
+        "Analiza skuteczności leczenia na podstawie prowadzonego dzienniczka pacjenta;",
+        "Analiza jakości życia na podstawie kwestionariusza wg skali MIDAS."
+    ]
+}

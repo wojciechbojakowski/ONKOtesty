@@ -1,0 +1,84 @@
+{
+    "nazwa_pliku": "B.141.FM. (od 07-2025).docx",
+    "kryteria kwalifikacji": [
+        {
+            "awelumabem": {
+                "rak w stadium miejscowego zaawansowania poza możliwościami miejscowego leczenia o charakterze radykalnym lub w stadium uogólnienia; niepowodzenie wcześniejszego leczenia raka urotelialnego w oparciu o chemioterapię zawierającą pochodne platyny (progresja po 1. linii leczenia paliatywnego) lub wznowa w ciągu 12 miesięcy od zakończenia wcześniejszego leczenia przed- lub pooperacyjnego pochodnymi platyny; ustąpienie wszystkich klinicznie istotnych działań niepożądanych wcześniejszego leczenia; stopień zaawansowania pT3-pT4a lub pN+ w przypadku pacjentów, u których nie zastosowano neoadjuwantowej chemioterapii opartej na platynie, stopień zaawansowania ypT2-ypT4a lub ypN+ w przypadku pacjentów po zastosowaniu neoadjuwantowej chemioterapii opartej na platynie; potwierdzenie poziomu ekspresji PD-L1 na komórkach nowotworowych ≥ 1%.": [
+                    {
+                        "progresja radiologiczna choroby u pacjentów, którzy otrzymali chemioterapię opartą o pochodną platyny oraz leczenie inhibitorem receptora programowanej śmierci komórki 1 (PD-1) lub inhibitorem ligandu programowanej śmierci komórki 1 (PD-L1).": []
+                    }
+                ]
+            },
+            "pembrolizumabem": {
+                "rak w stadium miejscowego zaawansowania poza możliwościami miejscowego leczenia o charakterze radykalnym lub w stadium uogólnienia; niepowodzenie wcześniejszego leczenia raka urotelialnego w oparciu o chemioterapię zawierającą pochodne platyny (progresja po 1. linii leczenia paliatywnego) lub wznowa w ciągu 12 miesięcy od zakończenia wcześniejszego leczenia przed- lub pooperacyjnego pochodnymi platyny; ustąpienie wszystkich klinicznie istotnych działań niepożądanych wcześniejszego leczenia.": []
+            },
+            "enfortumabem wedotyny": {
+                "rak w stadium miejscowego zaawansowania poza możliwościami miejscowego leczenia o charakterze radykalnym lub w stadium uogólnienia; progresja radiologiczna choroby podczas lub po terapii z inhibitorem receptora programowanej śmierci komórki 1 (PD-1) lub inhibitorem ligandu programowanej śmierci komórki 1 (PD-L1).": []
+            },
+            "erdafitynibem": {
+                "rak w stadium miejscowego zaawansowania poza możliwościami miejscowego leczenia o charakterze radykalnym lub w stadium uogólnienia; obecność podatnych zmian genetycznych FGFR3; progresja radiologiczna choroby podczas lub po terapii z inhibitorem receptora programowanej śmierci komórki 1 (PD-1) lub inhibitorem ligandu programowanej śmierci komórki 1 (PD-L1).": []
+            }
+        },
+        "wyłączenie z programu: progresja choroby oceniona zgodnie z aktualnie obowiązującymi kryteriami RECIST, z możliwością potwierdzenia w kolejnej ocenie badaniem obrazowym wykonanym nie wcześniej niż po upływie 4 tygodni – dotyczy terapii awelumabem, pembrolizumabem, enfortumabem wedotyny, erdafitynibem lub niwolumabem w skojarzeniu z cisplatyną i gemcytabiną; nawrót choroby- dotyczy terapii niwolumabem w leczeniu uzupełniającym; wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania; obniżenie sprawności do stopnia 3-4 według skali ECOG (dla erdafitynibu) lub do stopnia 2-4 według skali ECOG (dla pozostałych leków w programie); wystąpienie objawów nadwrażliwości na lek, białko mysie lub na którąkolwiek substancję pomocniczą uniemożliwiające kontynuację leczenia; wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia; pogorszenie jakości życia o istotnym znaczeniu według oceny lekarza; okres ciąży lub karmienia piersią; brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnych opiekunów."
+    ],
+    "leki": [
+        {
+            "nazwa": "awelumab",
+            "dawkowanie": "800 mg co 2 tygodnie"
+        },
+        {
+            "nazwa": "niwolumab",
+            "dawkowanie": "240 mg co 2 tygodnie lub 480 mg co 4 tygodnie"
+        },
+        {
+            "nazwa": "niwolumab",
+            "dawkowanie": "360 mg co 3 tygodnie, przez 6 cykli a następnie 240 mg co 2 tygodnie lub 480 mg co 4 tygodnie"
+        },
+        {
+            "nazwa": "pembrolizumab",
+            "dawkowanie": "200 mg co 3 tygodnie lub 400 mg co 6 tygodni"
+        },
+        {
+            "nazwa": "enfortumabu wedotyny",
+            "dawkowanie": "1,25 mg/kg mc. (maksymalnie do 125 mg u pacjentów o masie ciała ≥100 kg)"
+        },
+        {
+            "nazwa": "erdafitynibu",
+            "dawkowanie": "8 mg na dobę"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie histopatologiczne w celu potwierdzenia raka urotelialnego",
+        "ocena, za pomocą zwalidowanego testu, poziomu ekspresji PD-L1 w tkance nowotworowej – dotyczy terapii niwolumabem w leczeniu uzupełniającym",
+        "ocena, za pomocą zwalidowanego testu obecności podatnych zmian genetycznych FGFR3 – dotyczy terapii erdafitynibem",
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia hemoglobiny",
+        "oznaczenie stężenia kreatyniny",
+        "oznaczenie stężenia bilirubiny",
+        "oznaczenie stężenia glukozy",
+        "oznaczenie aktywności aminotransferazy alaninowej i asparaginianowej",
+        "oznaczenie stężenia elektrolitów (w tym stężenie sodu, potasu, wapnia) – dotyczy terapii pembrolizumabem",
+        "oznaczenie antygenu HBs (HbsAg)",
+        "oznaczenie stężenia fosforanów w surowicy – dotyczy terapii erdafitynibem",
+        "oznaczenie stężenia elektrolitów (w tym stężenie sodu, potasu, wapnia) – dotyczy terapii pembrolizumabem",
+        "test ciążowy u kobiet w wieku rozrodczym",
+        "TK lub MRI klatki piersiowej, jamy brzusznej i miednicy",
+        "RTG klatki piersiowej – wyłącznie w przypadkach możliwości przeprowadzenia pomiaru zmian chorobowych oraz oceny odpowiedzi na leczenie",
+        "TK lub MRI mózgu – w przypadku osób z podejrzeniem przerzutów do ośrodkowego układu nerwowego (tj. w przypadku objawów ze strony ośrodkowego układu nerwowego oraz u osób po wcześniejszej resekcji lub napromienianiu przerzutów)",
+        "inne badania obrazowe w razie wskazań klinicznych",
+        "elektrokardiogram (EKG)",
+        "pomiar ciśnienia tętniczego",
+        "pełne badanie okulistyczne zgodnie z aktualną Charakterystyką Produktu Leczniczego (ChPL) – dotyczy terapii erdafitynibem"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia hemoglobiny",
+        "oznaczenia stężenia kreatyniny",
+        "oznaczenie stężenia bilirubiny",
+        "oznaczenie stężenia glukozy",
+        "oznaczenie aktywności aminotransferazy alaninowej i asparaginianowej",
+        "oznaczenie stężenia elektrolitów (w tym stężenie sodu, potasu, wapnia) – dotyczy terapii pembrolizumabem",
+        "badanie ogólne moczu – dotyczy terapii pembrolizumabem",
+        "inne badania w zależności od wskazań klinicznych"
+    ]
+}

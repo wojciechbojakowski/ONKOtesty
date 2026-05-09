@@ -1,0 +1,222 @@
+{
+    "nazwa_pliku": "B.82. (od 10-2024).docx",
+    "criteria": [
+        {
+            "name": "Postaci osiowej",
+            "values": [
+                {
+                    "BASDAI": {
+                        "min": 50,
+                        "max": null
+                    },
+                    "ASDAS": {
+                        "min": 2,
+                        "max": null
+                    }
+                },
+                {
+                    "time": {
+                        "min": 3,
+                        "max": 6
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Postaci obwodowej",
+            "values": [
+                {
+                    "number_of_joints": {
+                        "min": -30,
+                        "max": null
+                    },
+                    "patient_score": {
+                        "min": -1,
+                        "max": null
+                    }
+                },
+                {
+                    "time": {
+                        "min": 3,
+                        "max": 6
+                    }
+                }
+            ]
+        }
+    ],
+    "response_criteria": [
+        {
+            "name": "Postaci osiowej",
+            "values": [
+                {
+                    "BASDAI": {
+                        "min": 50,
+                        "max": null
+                    },
+                    "ASDAS": {
+                        "min": 2,
+                        "max": null
+                    }
+                },
+                {
+                    "time": {
+                        "min": 6,
+                        "max": null
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Postaci obwodowej",
+            "values": [
+                {
+                    "number_of_joints": {
+                        "min": -50,
+                        "max": null
+                    },
+                    "patient_score": {
+                        "min": -1.3,
+                        "max": null
+                    }
+                },
+                {
+                    "time": {
+                        "min": 6,
+                        "max": null
+                    }
+                }
+            ]
+        }
+    ],
+    "exclusion_criteria": [
+        {
+            "name": "Lack of response",
+            "values": [
+                {
+                    "BASDAI": {
+                        "min": 50,
+                        "max": null
+                    },
+                    "ASDAS": {
+                        "min": 2,
+                        "max": null
+                    }
+                },
+                {
+                    "time": {
+                        "min": 6,
+                        "max": null
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Adverse reactions",
+            "values": [
+                {
+                    "severe_reaction": true
+                },
+                {
+                    "time": {
+                        "min": 3,
+                        "max": null
+                    }
+                }
+            ]
+        }
+    ],
+    "re-entry_criteria": [
+        {
+            "name": "Nawrót choroby",
+            "values": [
+                {
+                    "BASDAI": {
+                        "min": 50,
+                        "max": null
+                    },
+                    "ASDAS": {
+                        "min": 2,
+                        "max": null
+                    }
+                },
+                {
+                    "time": {
+                        "min": 3,
+                        "max": null
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Recovery from adverse reactions",
+            "values": [
+                {
+                    "adverse_reaction": true
+                },
+                {
+                    "time": {
+                        "min": 3,
+                        "max": null
+                    }
+                }
+            ]
+        }
+    ],
+    "leki": [
+        {
+            "nazwa": "certolizumab pegol",
+            "dawkowanie": "400 mg (2 podskórne wstrzyknięcia po 200 mg każde) w tygodniach 0., 2. i 4; 200 mg co 2 tygodnie lub 400 mg co 4 tygodnie"
+        },
+        {
+            "nazwa": "etanercept",
+            "dawkowanie": "25 mg dwa razy w tygodniu lub 50 mg raz w tygodniu"
+        },
+        {
+            "nazwa": "iksekizumab",
+            "dawkowanie": "160 mg (dwa wstrzyknięcia po 80 mg) we wstrzyknięciach podskórnych w tygodniu 0; 80 mg co 4 tygodnie"
+        },
+        {
+            "nazwa": "sekukinumab",
+            "dawkowanie": "150 mg we wstrzyknięciu podskórnym w tygodniach 0., 1., 2., 3. i 4.; 150 mg co miesiąc"
+        },
+        {
+            "nazwa": "upadacytynib",
+            "dawkowanie": "15 mg raz na dobę"
+        },
+        {
+            "nazwa": "bimekizumab",
+            "dawkowanie": "160 mg (podawana jako jedno podskórne wstrzyknięcie) co cztery tygodnie"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie antygenu HLA B27 kiedykolwiek w przeszłości;",
+        "morfologia krwi",
+        "oznaczenie płytek krwi (PLT)",
+        "oznaczenie wartości odczynu Biernackiego (OB)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie stężenia białka C-reaktywnego (CRP)",
+        "badanie ogólne moczu (do decyzji lekarza);",
+        "próba tuberkulinowa lub test Quantiferon;",
+        "obecność antygenu HBs;",
+        "przeciwciała anty-Hbc;",
+        "przeciwciała anty-HCV;",
+        "obecność antygenu wirusa HIV (HIV Ag/Ab Combo);",
+        "oznaczenie stężenia cholesterolu całkowitego, cholesterolu HDL, cholesterolu LDL i triglicerydów (lipidogram)- u pacjentów kwalifikowanych do leczenia upadacytynibem;",
+        "RTG klatki piersiowej z opisem (maksymalnie do 6 miesięcy przed kwalifikacją);",
+        "EKG z opisem; ",
+        "badanie obrazowe RTG stawów krzyżowo-biodrowych;",
+        "MR stawów krzyżowo-biodrowych;"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi, a w przypadku pacjentów kwalifikowanych do leczenia upadacytynibem morfologia krwi z oznaczeniem bezwzględnej liczby granulocytów i limfocytów;",
+        "oznaczenie wartości odczynu Biernackiego (OB);",
+        "oznaczenie stężenia białka C-reaktywnego (CRP);",
+        "oznaczenie stężenia kreatyniny w surowicy krwi;",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT);",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST);",
+        "oznaczenie stężenia cholesterolu całkowitego, cholesterolu HDL, cholesterolu LDL i triglicerydów (lipidogram) - u pacjentów kwalifikowanych do leczenia upadacytynibem;",
+        "ocenę skuteczności zastosowanej terapii wg wskaźników zalecanych przez EULAR/ASAS i stosowanych rutynowo w SpA;"
+    ]
+}

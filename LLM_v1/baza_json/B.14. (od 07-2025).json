@@ -1,0 +1,60 @@
+{
+    "nazwa_pliku": "B.14. (od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "Wiek 18 lat i powyżej;",
+        "Stan sprawności 0-2 według skali ECOG;",
+        "Rozpoznanie przewlekłej białaczki szpikowej z udokumentowaną obecnością genu BCR-ABL1 lub chromosomu Filadelfia (Ph+);",
+        "Brak przeciwwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego;",
+        "Brak nadwrażliwości na lek lub którąkolwiek substancję pomocniczą leku;",
+        "Adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii.",
+        "przewlekła białaczka szpikowa w fazie przewlekłej lub akceleracji lub kryzy blastycznej;",
+        "Stosowano uprzednio co najmniej jedną linię leczenia;",
+        "Wystąpienie co najmniej jednego z poniższych warunków: oporność na uprzednie leczenie związana z wykrytą mutacją T315I lub wcześniejsze leczenie przynajmniej dwoma inhibitorami kinazy tyrozynowej, po których wystąpiła nietolerancja lub niepowodzenie leczenia.",
+        "przewlekła białaczka szpikowa w fazie przewlekłej;",
+        "Stosowano uprzednio co najmniej dwie linie leczenia;",
+        "Wcześniejsze leczenie przynajmniej dwoma inhibitorami kinazy tyrozynowej, po których wystąpiła nietolerancja lub niepowodzenie leczenia.",
+        "Pacjenci wymagający kontynuacji leczenia, którzy byli leczeni substancjami czynnymi finansowanymi w programie lekowym w ramach innego sposobu finansowania terapii (za wyjątkiem trwających badań klinicznych tych leków), pod warunkiem, że w chwili rozpoczęcia leczenia spełniali kryteria kwalifikacji do programu lekowego – dotyczy każdej z terapii w programie."
+    ],
+    "kryteria_wylaczenia": [
+        "Progresja choroby w trakcie leczenia wyrażająca się: utratą odpowiedzi hematologicznej, lub utratą całkowitej odpowiedzi cytogenetycznej, lub zwiększeniem o 30% odsetka komórek z chromosomem Filadelfia u świadczeniobiorcy z remisją cytogenetyczną mniejszą niż całkowita, lub utratą dotychczasowej odpowiedzi cytogenetycznej lub pojawieniem się nowych aberracji chromosomalnych w klonie białaczkowym Filadelfia (Ph+) lub nowych mutacji domeny kinazy ABL;",
+        "Brak odpowiedzi hematologicznej po 3 miesiącach stosowania leku;",
+        "Brak minimalnej odpowiedzi cytogenetycznej (tj. sytuacja, w której odsetek komórek Ph(+) w szpiku >95%) po 3 miesiącach stosowania leku;",
+        "Brak częściowej cytogenetycznej odpowiedzi (tj. sytuacja, w której odsetek komórek Ph(+) w szpiku >35%) lub BCR-ABL1 >10% IS (MR1) po 6 miesiącach stosowania leku;",
+        "Brak redukcji BCR-ABL1 do <1% IS po 12 miesiącach stosowania leku;",
+        "Znalezienie dawcy i podjęcie decyzji o wykonaniu zabiegu przeszczepienia allogenicznych krwiotwórczych komórek macierzystych u danego świadczeniobiorcy;",
+        "Wystąpienie chorób lub stanów, które według oceny lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "Wystąpienie objawów nadwrażliwości na lek lub na którąkolwiek substancję pomocniczą leku, uniemożliwiających kontynuację leczenia;",
+        "Wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania;",
+        "Brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia, ze strony świadczeniobiorcy lub jego opiekuna prawnego."
+    ],
+    "leki": [
+        {
+            "nazwa": "ponatynib",
+            "dawkowanie": "45 mg podawana doustnie raz na dobę – u pacjenta z mutacją T315I, mutacjami złożonymi lub progresją przewlekłej białaczki szpikowej do fazy akceleracji lub fazy kryzy blastycznej,\n30 mg lub 15 mg podawana doustnie raz na dobę – u pacjenta nietolerującego uprzedniego leczenia inhibitorami kinaz tyrozynowych lub z opornością i współistniejącym podwyższonym ryzkiem powikłań w układzie sercowo-naczyniowym."
+        },
+        {
+            "nazwa": "asciminib",
+            "dawkowanie": "40 mg podawana doustnie dwa razy na dobę (co odpowiada całkowitej dawce dobowej 80 mg). Odstęp pomiędzy kolejnymi dawkami powinien wynosić około 12 godzin."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie cytogenetyczne szpiku lub badanie molekularne PCR na obecność genu BCR-ABL",
+        "morfologia krwi z rozmazem",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie stężenia lipazy w surowicy krwi",
+        "badanie cytogenetyczne krwi (opcjonalnie)",
+        "badanie cytologiczne szpiku (opcjonalnie)",
+        "badanie mutacji domeny kinazy ABL w przypadku oporności na poprzednio stosowany inhibitor kinazy tyrozynowej",
+        "dodatkowo w przypadku terapii ponatynibem: oznaczenie stężenia trójglicerydów we krwi, oznaczenie stężenia cholesterolu całkowitego we krwi, oznaczenie stężenia cholesterolu HDL we krwi, oznaczenie stężenia cholesterolu LDL we krwi"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie stężenia lipazy w surowicy krwi",
+        "dodatkowo w przypadku terapii ponatynibem: oznaczenie stężenia trójglicerydów we krwi, oznaczenie stężenia cholesterolu całkowitego we krwi, oznaczenie stężenia cholesterolu HDL we krwi, oznaczenie stężenia cholesterolu LDL we krwi"
+    ]
+}

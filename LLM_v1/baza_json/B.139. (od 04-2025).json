@@ -1,0 +1,30 @@
+{
+    "nazwa_pliku": "B.139. (od 04-2025).docx",
+    "kryteria_kwalifikacji": [
+        "histologiczne rozpoznanie dobrze zróżnicowanego guza neuroendokrynnego trzustki (stopień G1 lub G2, indeks proliferacyjny Ki-67≤20%);",
+        "guz nieresekcyjny lub z przerzutami;",
+        "wykazana zwiększona ekspresja receptorów somatostatyny we wszystkich zmianach nowotworowych (zmiany pierwotne i przerzuty) – potwierdzona w badaniu tomografii pozytonowej (PET/CT z [68Ga]Ga-SSA) lub - w razie braku dostępu - scyntygrafii (SPECT/CT z [99mTc]Tc-SSA);",
+        "udokumentowana progresja choroby w czasie 15 miesięcy przed włączeniem do programu, określona według kryteriów klinicznych i/lub hormonalnych i/lub RECIST;",
+        "stan sprawności 0-2 według klasyfikacji ECOG (Eastern Cooperative Oncology Group) lub WHO;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami Charakterystyki Produktu Leczniczego (dalej ChPL);",
+        "wykluczenie wcześniejszego stosowania radioterapii obejmującej zewnętrzne napromienianie wiązką obejmującą ponad 25% szpiku kostnego;",
+        "wiek ≥ 18 roku życia."
+    ],
+    "kryteria_wylaczenia": [
+        "udokumentowana nadwrażliwość na substancję czynną lub którąkolwiek substancję pomocniczą;",
+        "ciężka niewydolność krążenia (stopień III - IV w skali NYHA);",
+        "ciąża i karmienie piersią;",
+        "stosowanie interferonu, ewerolimusu lub innych przeciwnowotworowych terapii systemowych w ostatnich 4 tygodniach przed włączeniem do programu;",
+        "leczenie chirurgiczne, bezpośrednia przeztętnicza terapia dowątrobowa lub chemioterapia, w czasie 12 tygodni poprzedzających udział w programie;"
+    ],
+    "leki": [
+        {
+            "nazwa": "177Lu-DOTATATE",
+            "dawkowanie": "do 4 infuzji po 7 400 MBq każda, odstęp pomiędzy każdym podaniem wynosi 8 tygodni (lub do 16 tygodni w przypadku występowania objawów toksyczności modyfikującej dawkę)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "Leczenie pacjentów z nowotworami neuroendokrynnymi trzustki (ICD-10 C 25.4)",
+        "Leczenie pacjentów z nowotworami neuroendokrynnymi przewodu pokarmowego wywodzącego się ze środka odcinka prajelita (MIDGUT) (ICD-10 C17.0-C17.9, C18.0-C18.4)"
+    ]
+}

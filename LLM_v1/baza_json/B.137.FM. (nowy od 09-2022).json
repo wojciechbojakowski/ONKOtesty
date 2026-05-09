@@ -1,0 +1,41 @@
+{
+    "nazwa_pliku": "B.137.FM. (nowy od 09-2022).docx",
+    "kryteria_kwalifikacji": [
+        "wiek ≥ 18 lat;",
+        "schyłkowa niewydolność nerek (stadium V CKD);",
+        "małe prawdopodobieństwo przeszczepienia w ramach dostępnego systemu alokacji nerek, w tym programów priorytetyzacji dla wysoko immunizowanych pacjentów:",
+        "cPRA>=90% i obecność na krajowej liście oczekujących >1 roku;",
+        "cPRA>=85% i <90% i obecność na krajowej liście oczekujących >1 roku i:",
+        "brak zadowalających efektów po przejściu dwóch protokołów odczulania lub",
+        "ocena Zespołu Koordynującego ds. Leczenia wysoko immunizowanych potencjalnych biorców nerki wskazująca na potencjalną niską skuteczność protokołu odczulania u danego pacjenta;",
+        "spełnienie kryteriów dla wysoko immunizowanych pacjentów (pacjent ma krążące przeciwciała anty-HLA) z pozytywnym wynikiem próby krzyżowej (XM) przeciwko potencjalnemu zmarłemu dawcy nerki.",
+        "pacjent, dla którego korzyść z przeszczepienia niezgodnego narządu jest większa niż ryzyko pozostania na liście oczekujących i dializy, z uwzględnieniem powiązanego z tym ryzyka rozwoju powikłań oraz śmiertelności;",
+        "brak chorób współistniejących mogących stanowić przeciwwskazanie do odczulania i przeszczepienia nerki;",
+        "wyrażenie świadomej zgody przez pacjenta na udział w programie lekowym."
+    ],
+    "kryteria_wylaczenia": [
+        "wczesne leczenie imlifidazą;",
+        "nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą;",
+        "trwające poważne zakażenie;",
+        "zakrzepowa plamica małopłytkowa (TTP);",
+        "negatywny wynik próby krzyżowej."
+    ],
+    "leki": [
+        {
+            "nazwa": "imlifidaza",
+            "dawkowanie": "zgodnie z aktualną na dzień wydania decyzji Charakterystyką Produktu Leczniczego (CHPL)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "potwierdzenie obecności przeciwciał DSA",
+        "próba krzyżowa"
+    ],
+    "badania_monitorujace": [
+        "w ciągu 24 godzin po zakończeniu leczenia imlifidazą, ale przed przeszczepieniem należy potwierdzić konwersję wyniku próby krzyżowej z dodatniego na ujemny",
+        "kliniczne testy laboratoryjne określające parametry życiowe, EKG",
+        "badania eGFR, stężenie kreatyniny i białkomocz",
+        "oznaczanie poziomu IgG (w przypadku immunosupresji z zastosowaniem IVIg)",
+        "poziom przeciwciał anty-HLA (DSA; po 3, 7, 14, 21, 28, a następnie raz w miesiącu do 6. miesiąca po implantacji)",
+        "biopsja nerki po 3 miesiącach oraz w przypadku wystąpienia wskazań do jej przeprowadzenia"
+    ]
+}

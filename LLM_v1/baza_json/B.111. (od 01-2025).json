@@ -1,0 +1,56 @@
+{
+    "nazwa_pliku": "B.111. (od 01-2025).docx",
+    "kryteria_kwalifikacji": [
+        "objawy niedoboru hormonu wzrostu (GH)",
+        "stężenie IGF-1 poniżej zakresu wartości prawidłowych lub w dolnym przedziale zakresu referencyjnego",
+        "potwierdzenie ciężkiego niedoboru GH (GHD) na podstawie: u osób dorosłych i u młodzieży po zakończonym procesie wzrastania (wiek kostny starszy niż 14 lat u dziewcząt i 16 lat u chłopców), zarówno nieleczonych w dzieciństwie z powodu GHD (adult-onset GHD – AO-GHD), jak i leczonych w dzieciństwie z powodu GHD (childhood-onset GHD – CO-GHD) – obniżone wydzielanie GH (poniżej 3 ng/ml) w dwóch różnych testach stymulacyjnych w przypadku izolowanego GHD lub w jednym teście stymulacyjnym w przypadku wielohormonalnej niedoczynności przysadki (testy muszą być wykonane po wcześniejszym właściwym wyrównaniu niedoboru co najmniej kortyzolu i L-tyroksyny), w przypadku występowania wielohormonalnej niedoczynności przysadkowej w zakresie wszystkich osi (z wyjątkiem prolaktyny) i potwierdzenia przyczyny organicznej i/lub genetycznej tego stanu, możliwe jest odstąpienie od wykonania testów stymulacyjnych i kwalifikacja do leczenia rhGH po potwierdzeniu obniżonego stężenia IGF-1; brak przeciwwskazań do terapii GH stwierdzonych na podstawie wyników badań ogólnych lub obrazowych (w szczególności badania MR okolicy podwzgórzowo-przysadkowej lub badania TK z kontrastem) w celu wykluczenia czynnego procesu nowotworowego",
+        "brak przeciwwskazań do terapii GH stwierdzonych na podstawie wyników badań ogólnych lub obrazowych (w szczególności badania MR okolicy podwzgórzowo-przysadkowej lub badania TK z kontrastem) w celu wykluczenia czynnego procesu nowotworowego"
+    ],
+    "kryteria_wylaczenia": [
+        "ujawnienie lub wznowa czynnego procesu nowotworowego",
+        "ciężkie stany zagrażające życiu",
+        "cukrzyca nie dająca się wyrównać w warunkach leczenia rhGH",
+        "utrzymujące się podwyższone stężenie IGF-1, pomimo zmniejszenia dawki leku do minimalnej (0,1 mg/dziennie)",
+        "wystąpienie nowych lub brak poprawy istniejących zaburzeń metabolicznych i pogorszenie jakości życia",
+        "brak zgody świadczeniobiorcy na kontynuację leczenia lub brak współpracy świadczeniobiorcy"
+    ],
+    "leki": [
+        {
+            "nazwa": "Somatotropina",
+            "dawkowanie": "0,1-1,0 mg"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "ocena wzrostu, masy ciała i obwodu talii (wskaźnik BMI i WHR)",
+        "pomiar ciśnienia tętniczego krwi",
+        "morfologia krwi z rozmazem",
+        "ocena stężenia 25OHD oraz jonogramu surowicy krwi (co najmniej stężenie Na, K i Ca)",
+        "ocena stężenia IGF-1",
+        "ocena gospodarki węglowodanowej: oznaczenie stężenia glukozy na czczo i odsetka hemoglobiny glikowanej (HbA1c) lub wykonanie testu doustnego obciążenia glukozą - z oceną glikemii i insulinemii",
+        "ocena gospodarki lipidowej: ocena stężenia triglicerydów, całkowitego cholesterolu, frakcji HDL cholesterolu i LDL cholesterolu",
+        "ocena jakości życia poprzez użycie odpowiedniego kwestionariusza quality of life (QoL)",
+        "oznaczenie stężenia TSH i FT4",
+        "pomiar stężenia kortyzolu w godzinach porannych",
+        "u osób przyjmujących substytucję hormonalną - oznaczenie stężenia kortyzolu po 2 godzinach od przyjęcia porannej dawki leku",
+        "u osób stosujących substytucję w zakresie hormonów płciowych - oznaczenie poziomu estrogenów u kobiet",
+        "jeden lub dwa testy stymulujące sekrecję GH, zgodnie z kryteriami kwalifikacji do programu",
+        "obrazowanie okolicy podwzgórzowo-przysadkowej (badanie MR lub TK z kontrastem)",
+        "badanie USG jamy brzusznej",
+        "wykonanie EKG, ewentualnie badanie USG serca",
+        "badanie dna oka",
+        "badanie gęstości mineralnej kości metodą DXA [odcinek lędźwiowy kręgosłupa oraz densytometria całego ciała (total body) z oceną składu ciała]",
+        "u pacjentów < 18 rż. - ocena wieku kostnego na podstawie badania radiologicznego kośćca nadgarstka i ręki niedominującej"
+    ],
+    "badania_monitorujace": [
+        "pomiar stężenia IGF-1 w celu ustalenia dawki optymalnej (dalsze monitorowanie co 6 tygodni w przypadku zmiany dawki)",
+        "ocena wzrostu, masy ciała i obwodu talii (wskaźnik BMI i WHR), zalecane: ocena składu ciała metodą bioimpedancji",
+        "pomiar ciśnienia tętniczego krwi",
+        "ocena stężenia 25OHD oraz jonogramu w surowicy krwi (co najmniej stężenie Na, K i Ca)",
+        "określenie odsetka HbA1c",
+        "ocena stężenia IGF-1",
+        "oznaczenie stężenia TSH i FT4",
+        "ocena stężenia triglicerydów, całkowitego cholesterolu, frakcji HDL cholesterolu i LDL cholesterolu",
+        "ocena jakości życia poprzez użycie odpowiedniego kwestionariusza quality of life (QoL)",
+        "inne badania i konsultacje w zależności od potrzeb"
+    ]
+}

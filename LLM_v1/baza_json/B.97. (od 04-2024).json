@@ -1,0 +1,58 @@
+{
+    "nazwa_pliku": "B.97. (od 04-2024).docx",
+    "kryteria_kwalifikacji": [
+        "wiek ≥18 lat",
+        "rozpoznanie pierwotnej małopłytkowości immunologicznej (ITP)",
+        "niedostateczna odpowiedź na co najmniej jedną wcześniejszą terapię farmakologiczną, w tym brak odpowiedzi na kortykosteroidy lub stwierdzenie steroidozależności lub nietolerancji kortykosteroidów",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii",
+        "nieobecność aktywnych, ciężkich zakażeń, w tym aktywnego zapalenia wątroby typu B – w przypadku kwalifikacji do leczenia rytuksymabem",
+        "zgoda pacjentki na stosowanie wysoce skutecznej metody zapobiegania ciąży podczas stosowania rytuksymabu i przez 12 miesięcy od zakończenia leczenia (w przypadku kobiet w wieku rozrodczym)"
+    ],
+    "kryteria_wylaczenia": [
+        "nadwrażliwość na substancję czynną lub którąkolwiek substancję pomocniczą",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania",
+        "zaburzenia czynności wątroby: wynik w skali Child-Pugh ≥ 5 – dotyczy leczenia eltrombopagiem, wynik w skali Child-Pugh ≥ 7 – dotyczy leczenia romiplostymem",
+        "istotne zwiększenie się aktywności AlAT (powyżej trzykrotności górnej granicy normy dla lokalnego laboratorium) w przypadkach, gdy przekroczenie normy: będzie narastać, albo będzie utrzymywać się ≥ 4 tygodni, albo będzie związane ze zwiększeniem stężenia bilirubiny bezpośredniej, albo będzie związane z objawami klinicznymi uszkodzenia wątroby lub objawami dekompensacji wątroby – dotyczy wyłącznie chorych leczonych eltrombopagiem",
+        "okres ciąży lub karmienia piersią",
+        "brak odpowiedzi na leczenie: eltrombopagiem w dawce 75 mg podawanej przez 4 kolejne tygodnie leczenia (4 pomiary), albo romiplostymem pomimo stosowania maksymalnej dawki (10 μg/kg mc.) przez 4 kolejne tygodnie leczenia, albo awatrombopagiem w dawce 40 mg raz na dobę, podawanej przez 4 kolejne tygodnie leczenia, jeśli liczba płytek krwi nie zwiększy się do ≥ 50 x 109/L",
+        "trwała remisja choroby niewymagająca jakiegokolwiek leczenia",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia, ze strony świadczeniobiorcy lub jego opiekuna prawnego"
+    ],
+    "leki": [
+        {
+            "nazwa": "eltrombopag",
+            "dawkowanie": "zalecana dawka początkowa: 50 mg raz na dobę; dawkę leku ustala się indywidualnie w zależności od liczby płytek krwi u pacjenta"
+        },
+        {
+            "nazwa": "romiplostim",
+            "dawkowanie": "dawka początkowa: 1 µg/kg mc. raz w tygodniu podskórnie, z uwzględnieniem masy ciała pacjenta na początku leczenia; następnie dawkę leku ustala się indywidualnie w zależności od liczby płytek krwi u chorego"
+        },
+        {
+            "nazwa": "avatrombopag",
+            "dawkowanie": "zalecana dawka początkowa: 20 mg raz na dobę; dawkę leku ustala się indywidualnie w zależności od liczby płytek krwi u pacjenta"
+        },
+        {
+            "nazwa": "rituximab",
+            "dawkowanie": "zalecana dawka: 375 mg/m2 we wlewie dożylnym raz w tygodniu; czas trwania cyklu: 4 tygodnie; 30 minut przed wlewem rytuksymabu należy podać metyloprednizolon w dawce 100 mg dożylnie"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi z rozmazem",
+        "parametry czynności wątroby: AlAT, AspAT, bilirubina całkowita – dotyczy kwalifikacji do leczenia eltrombopagiem lub rytuksymabem",
+        "AST, AlAT, bilirubina całkowita, czas protrombinowy, stężenie albumin we krwi – dotyczy kwalifikacji do leczenia romiplostymem, lub awatrombopagiem;",
+        "badania przesiewowe w kierunku WZW typu B, zawierające co najmniej testy w kierunku HbsAg i HbcAb, a w przypadku dodatniego wyniku HbsAg lub HBcAb badanie HBV-DNA – dotyczy kwalifikacji do leczenia rytuksymabem;",
+        "oznaczenie stężenia immunoglobulin (IgG, IgA, IgM) w surowicy krwi – dotyczy kwalifikacji do leczenia rytuksymabem;",
+        "biopsja aspiracyjna szpiku i trepanobiopsja (wykonana w okresie 6 miesięcy przed kwalifikacją do programu lekowego) – w przypadku chorych w wieku powyżej 60 lat, chorych z objawami układowymi i innymi nieprawidłowymi objawami;",
+        "badanie okulistyczne – dotyczy kwalifikacji do leczenia eltrombopagiem;",
+        "elektrokardiogram (EKG) – dotyczy kwalifikacji do leczenia rytuksymabem;",
+        "test ciążowy u kobiet w wieku rozrodczym"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "parametry czynności wątroby (AlAT, AspAT, bilirubina całkowita) – wykonywane co 2 tygodnie w przypadku leczenia eltrombopagiem;",
+        "badania przeprowadzane po uzyskaniu stabilnej liczby płytek: morfologia krwi z rozmazem, parametry czynności wątroby (AlAT, AspAT, bilirubina całkowita) – wykonywane co 1 miesiąc;",
+        "trepanobiopsja szpiku kostnego wraz z oceną włóknienia retikulinowego – wykonywane w przypadku pojawienia się innych niż małopłytkowość, istotnych nieprawidłowości w morfologii krwi;",
+        "badanie okulistyczne co 12 miesięcy – dotyczy leczenia eltrombopagiem"
+    ]
+}

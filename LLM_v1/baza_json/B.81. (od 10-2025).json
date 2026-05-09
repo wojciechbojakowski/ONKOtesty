@@ -1,0 +1,61 @@
+{
+    "nazwa_pliku": "B.81. (od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "Wiek 18 lat i powyżej",
+        "Stan sprawności 0-2 według skali ECOG",
+        "Brak przeciwwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego",
+        "Brak nadwrażliwości na lek lub którąkolwiek substancję pomocniczą leku",
+        "Wykluczenie ciąży i okresu karmienia piersią",
+        "Zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną Charakterystyką Produktu Leczniczego",
+        "Nieobecność aktywnych, ciężkich zakażeń",
+        "Nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną Charakterystykę Produktu Leczniczego",
+        "Adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii"
+    ],
+    "kryteria_wylaczenia": [
+        "Progresja choroby według aktualnych rekomendacji, w tym transformacja do mielofibrozy (w przypadku PV), zespołów mielodysplastycznych lub ostrej białaczki, niezależnie od czasu jej wystąpienia",
+        "Brak lub utrata odpowiedzi na leczenie rozumiane jako: brak jakiegokolwiek zmniejszenia w badaniu przedmiotowym powiększonej w momencie kwalifikacji śledziony – po 3 miesiącach leczenia (dotyczy jedynie pacjentów nieleczonych wcześniej inhibitorami kinazy janusowej, u których przy kwalifikacji do prowadzonej terapii śledziona była powiększona ≥ 5 cm poniżej lewego łuku żebrowego)",
+        "Brak zmniejszenia w badaniu USG powiększonej śledziony, o co najmniej 25% długości jej wyjściowego powiększenia obserwowanego w momencie kwalifikacji – po 6 miesiącach leczenia (dotyczy pacjentów, u których przy kwalifikacji do prowadzonej terapii śledziona była powiększona ≥ 5 cm poniżej lewego łuku żebrowego)",
+        "Pojawienie się nowych lub nasilenie wyjściowych objawów ogólnych związanych z chorobą, wymienionych w kryteriach kwalifikacji do programu, ocenianych w skali MPN-SAF TSS – po: 3 miesiącach leczenia lub 6 miesiącach leczenia lub każdych kolejnych 6 miesiącach leczenia",
+        "Wystąpienie chorób lub stanów, które według oceny lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia",
+        "Wystąpienie objawów nadwrażliwości na lek lub na którąkolwiek substancję pomocniczą leku, uniemożliwiających kontynuację leczenia; "
+    ],
+    "leki": [
+        {
+            "nazwa": "ruksolitynib",
+            "dawkowanie": "5 mg doustnie podawane 2 razy na dobę (co odpowiada całkowitej dawce dobowej 10 mg) do 20 mg doustnie podawane 2 razy na dobę (co odpowiada całkowitej dawce dobowej 40 mg), z możliwością zwiększenia o 5 mg dwa razy na dobę, do maksymalnej dawki 25 mg dwa razy na dobę"
+        },
+        {
+            "nazwa": "ruksolitynib",
+            "dawkowanie": "10 mg doustnie podawana 2 razy na dobę (co odpowiada całkowitej dawce dobowej 20 mg), z możliwością zwiększenia o 5 mg dwa razy na dobę, do maksymalnej dawki 25 mg dwa razy na dobę"
+        },
+        {
+            "nazwa": "fedratynib",
+            "dawkowanie": "400 mg doustnie podawana 1 raz na dobę"
+        },
+        {
+            "nazwa": "momelotynib",
+            "dawkowanie": "200 mg doustnie podawana 1 raz na dobę (1 x 200 mg)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "trepanobiopsja szpiku",
+        "USG jamy brzusznej wraz z oceną wymiarów śledziony",
+        "morfologia krwi z rozmazem mikroskopowym",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "test ciążowy (u kobiet w wieku rozrodczym)",
+        "oceny wielkości śledziony",
+        "objawów ogólnych ocenianych przy użyciu formularza MPN-SAF TSS: poty nocne, utrata masy ciała, gorączka o nieznanej etiologii, bóle kostne, świąd, zmęczenie",
+        "badanie przesiewowe w kierunku HBV (HBsAg i HBcAb, a w razie konieczności HBV DNA)",
+        "oznaczenie stężenia amylazy",
+        "oznaczenie stężenia lipazy",
+        "oznaczenie stężenia tiaminy"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem (wzorem odsetkowym)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi",
+        "oznaczenie stężenia kreatyniny w surowicy krwi"
+    ]
+}

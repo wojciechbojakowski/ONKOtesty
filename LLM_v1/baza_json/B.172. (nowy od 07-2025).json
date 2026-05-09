@@ -1,0 +1,62 @@
+{
+    "nazwa_pliku": "B.172. (nowy od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek 18 lat i powyżej",
+        "rozpoznanie mięsaka podścieliskowego przewodu pokarmowego potwierdzone histologicznie",
+        "leczenie choroby zaawansowanej: brak możliwości wykonania resekcji lub obecność przerzutów udokumentowana na podstawie oceny stanu klinicznego lub wyników badań obrazowych",
+        "stosowanie uprzednio 3 lub więcej inhibitorów kinaz, w tym imatynibu",
+        "udokumentowana progresja lub nietolerancja leczenia inhibitorami kinaz, w tym imatynibem, pomimo modyfikacji dawkowania (3.-4. stopień toksyczności)",
+        "obecność przynajmniej jednej zmiany możliwej do zmierzenia zgodnie z aktualnie obowiązującymi kryteriami RECIST 1.1",
+        "stan sprawności 0-2 według klasyfikacji ECOG",
+        "brak przeciwwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego (ChPL)",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazanie do terapii stwierdzone przez lekarza prowadzącego w oparciu o aktualną ChPL",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii",
+        "brak aktywnych przerzutów do ośrodkowego układu nerwowego",
+        "wykluczenie ciąży i okresu karmienia piersią",
+        "zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną Charakterystyką Produktu Leczniczego"
+    ],
+    "kryteria_wylaczenia": [
+        "wystąpienie objawów nadwrażliwości na ripretynib lub którykolwiek z pozostałych składników tego leku",
+        "progresja choroby oceniona zgodnie z aktualnie obowiązującymi kryteriami RECIST 1.1",
+        "utrzymywanie się toksyczności według skali WHO większej bądź równej 3",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia",
+        "pogorszenie jakości życia o istotnym znaczeniu według oceny lekarza",
+        "okres ciąży lub karmienia piersią",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnych opiekunów"
+    ],
+    "leki": [
+        {
+            "nazwa": "ripretynib",
+            "dawkowanie": "Szczegóły dotyczące sposobu podawania, ewentualnego czasowego wstrzymania leczenia oraz ewentualnego zmniejszania dawki leku zgodnie z aktualną Charakterystyką Produktu Leczniczego ripretynibu."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi z rozmazem",
+        "badanie ogólne moczu",
+        "aktywność transaminaz wątrobowych",
+        "stężenie bilirubiny",
+        "poziom albumin",
+        "pomiar ciśnienia tętniczego",
+        "EKG",
+        "ocena frakcji wyrzutowej na podstawie echokardiogramu",
+        "tomografia komputerowa (TK) jamy brzusznej i miednicy",
+        "ocena skóry pod kątem nowotworów złośliwych skóry",
+        "test ciążowy (u kobiet w wieku rozrodczym)",
+        "inne badania laboratoryjne i obrazowe w razie wskazań klinicznych"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "badanie ogólne moczu",
+        "aktywność aminotransferaz wątrobowych",
+        "stężenie bilirubiny i kreatyniny",
+        "poziom albumin",
+        "pomiar ciśnienia tętniczego",
+        "EKG",
+        "ocena frakcji wyrzutowej na podstawie echokardiogramu",
+        "tomografia komputerowa odpowiednich obszarów ciała",
+        "ocena skóry pod kątem nowotworów złośliwych skóry",
+        "test ciążowy (u kobiet w wieku rozrodczym)",
+        "inne badania laboratoryjne i obrazowe w razie wskazań klinicznych"
+    ]
+}

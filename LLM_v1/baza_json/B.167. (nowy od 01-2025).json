@@ -1,0 +1,43 @@
+{
+    "nazwa_pliku": "B.167. (nowy od 01-2025).docx",
+    "kryteria_kwalifikacji": [
+        "bialleliczna mutacja genu RPE65 potwierdzona badaniem genetycznym w przebiegu wrodzonej ślepoty Lebera;",
+        "wiek od 4 do 35 lat;",
+        "ostrość wzroku określona według tablicy Snellena (lub odpowiednio ekwiwalent ETDRS) równa lub większa 0,05 w leczonym oku i pole widzenia ograniczone nie więcej niż do 30 stopni we wszystkich południkach w leczonym oku;",
+        "wystarczająca liczba żywych komórek siatkówki, oszacowana w optycznej koherentnej tomografii (OCT) opisana kryteriami jak niżej:",
+        "obszar siatkówki w obrębie tylnego bieguna >100 mikronów grubości;",
+        "obszary siatkówki bez atrofii i zwyrodnienia barwnikowego w obrębie tylnego bieguna o wielkości ≥3 dd (wielkości tarczy nerwu wzrokowego);",
+        "niewygaszona bioelektryczna czynność w odpowiedzi fotopowej w badaniu ERG;",
+        "pozytywny wynik badania progu pełnego pola w badaniu FST na barwę białą przy jednoczesnym pozytywnym badaniu progu pełnego pola w badaniu FST na barwę czerwoną i niebieską;",
+        "brak innych, współistniejących mutacji biallelicznych genu RPE65 potwierdzonych badaniem genetycznym, mających wpływ na funkcje widzenia;",
+        "zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną ChPL;",
+        "wykluczenie ciąży i okresu karmienia piersią."
+    ],
+    "kryteria_wylaczenia": [
+        "przyjmowanie wysokich dawek związków retinoidowych (>7500 jednostek retinolu [lub >3300 IU] ekwiwalentnych do dziennej dawki witaminy A lub ich prekursorów w ciągu ostatnich 18 miesięcy, które potencjalnie mogłyby wpływać na aktywność biochemiczną enzymu RPE65;",
+        "operacja wewnątrzgałkowa w ciągu ostatnich 6 miesięcy;",
+        "nadwrażliwość na leki zaplanowane do przyjmowania w okresie okołooperacyjnym;",
+        "wczesne choroby oczu lub choroby ogólnoustrojowe, które w opinii Zespołu Koordynacyjnego uniemożliwiłyby planowaną operację bądź zakłóciłyby poprawną interpretację wyników badań;",
+        "czynna choroba zakaźna;",
+        "wystąpienie innych chorób lub stanów, które w opinii Zespołu Koordynacyjnego lub lekarza prowadzącego uniemożliwiają prowadzenie leczenia;",
+        "okres ciąży i karmienia piersią."
+    ],
+    "leki": [],
+    "badania_przy_kwalifikacji": [
+        "potwierdzenie biallelicznej mutacji genu RPE65",
+        "badanie okulistyczne z oceną ostrości wzroku według tablicy ETDRS",
+        "badanie pola widzenia metodą perymetrii kinetycznej Goldmana lub perymetrii komputerowej Humphrey’a",
+        "oszacowanie liczby żywych komórek siatkówki z użyciem optycznej tomografii koherencyjnej (OCT)",
+        "badanie FST – badanie progu czułości na światło białe, czerwone i niebieskie",
+        "badanie ERG siatkówki",
+        "test ciążowy (u kobiet w wieku rozrodczym)"
+    ],
+    "badania_monitorujace": [
+        "rutynowe badanie okulistyczne oceniające ostrość wzroku, przedni i tylny odcinek oka; pomiar ciśnienia wewnątrzgałkowego",
+        "badanie okulistyczne z oceną ostrości wzroku według tablicy ETDRS – u pacjentów, u których niemożliwe jest badanie przy użyciu tablicy ETDRS badanie przeprowadza się przy zastosowaniu skali: brak poczucia światła (bpś), poczucie światła (pś), ruchy ręki przed okiem (rrpo), liczy palce przed okiem (lppo);",
+        "pomiar ciśnienia wewnątrzgałkowego",
+        "badanie pola widzenia metodą perymetrii kinetycznej Goldmana lub perymetrii komputerowej Humphrey’a",
+        "badanie FST - badanie progu czułości na światło białe, czerwone i niebieskie",
+        "badanie ERG siatkówki"
+    ]
+}

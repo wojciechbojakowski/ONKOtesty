@@ -1,0 +1,55 @@
+{
+    "nazwa_pliku": "B.90. (od 07-2024).docx",
+    "kryteria_kwalifikacji": [
+        "rozpoznanie choroby Parkinsona w oparciu o aktualne MDS Clinical Diagnostic Criteria for Parkinson’s Disease;",
+        "czas trwania choroby ≥ 5 lat;",
+        "wczesniejsze leczenie: w przypadku kwalifikacji do leczenia lewodopą+karbidopa albo foslewodopą+foskarbidopą: wyczerpanie możliwości optymalnej terapii farmakologicznej prowadzonej co najmniej 3 lekami lub nieskuteczność monoterapii przy udokumentowanej nietolerancji innych leków (w ocenie neurologa posiadającego doświadczenie w leczeniu zaawansowanej choroby Parkinsona);",
+        "łączny czas trwania stanów off ≥2 godziny, oraz czas trwania stanów on z obecnością uciążliwych dyskinez szczytu dawki ≥1 godzina, udokumentowanych w dzienniczku Hausera przez 3 kolejne dni;",
+        "zapewnienie codziennej obecności i pomocy ze strony opiekuna w zakresie obsługi pompy;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej Charakterystyki Produktu Leczniczego (zwanej dalej ChPL);",
+        "nieobecność istotnych schorzeń współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL;",
+        "brak przeciwwskazań do stosowania apomorfiny, foslewodopy+foskarbidopy albo lewodopy+karbidopy zgodnie z aktualnymi ChPL."
+    ],
+    "kryteria_wylaczenia": [
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie działań niepożądanych uniemożliwiających kontynuację leczenia zgodnie z decyzją lekarza;",
+        "wystąpienie nadwrażliwości na lek lub substancję pomocniczą uniemożliwiające kontynuację leczenia;",
+        "wystąpienie zagrażającej życiu albo nieakceptowalnej toksyczności pomimo zastosowania adekwatnego postępowania;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich ze strony świadczeniobiorcy lub jego opiekuna dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia;",
+        "brak możliwości zapewnienia codziennej obecności i pomocy ze strony opiekuna lub brak współpracy pacjenta z opiekunem w zakresie obsługi pompy."
+    ],
+    "leki": [
+        {
+            "nazwa": "",
+            "dawkowanie": "Dawkowanie"
+        },
+        {
+            "nazwa": "apomorfiny",
+            "dawkowanie": "zgodnie z zapisami aktualnych Charakterystyk Produktów Leczniczych"
+        },
+        {
+            "nazwa": "foslewodopy+foskarbidopy",
+            "dawkowanie": "zgodnie z zapisami aktualnych Charakterystyk Produktów Leczniczych"
+        },
+        {
+            "nazwa": "lewodopy+karbidopy",
+            "dawkowanie": "zgodnie z zapisami aktualnych Charakterystyk Produktów Leczniczych"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "ocena stanu ruchowego",
+        "test z odstawieniem lewodopy",
+        "ocena neuropsychologiczna",
+        "morfologia krwi",
+        "oznaczenie aktywności transaminaz",
+        "badanie układu krzepnięcia",
+        "badanie obrazowe mózgowia",
+        "badanie EKG"
+    ],
+    "badania_monitorujace": [
+        "morfologię krwi z rozmazem",
+        "AspAT, AlAT",
+        "badanie EKG z oceną odstępu QT",
+        "ocenę stanu ruchowego"
+    ]
+}

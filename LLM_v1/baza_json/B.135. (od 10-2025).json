@@ -1,0 +1,77 @@
+{
+    "nazwa_pliku": "B.135. (od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "rok 18 lat i powyżej",
+        "rozpoznanie choroby śródmiąższowej płuc na podstawie badania tomografii komputerowej wysokiej rozdzielczości (TKWR)",
+        "FVC ≥ 40% wartości należnej",
+        "pojemność dyfuzyjna płuc TLco powyżej 30% wartości należnej",
+        "wykluczenie ciąży i okresu karmienia piersią – dotyczy kobiet w wieku rozrodczym",
+        "zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną Charakterystyką Produktów Leczniczych (ChPL) – dotyczy kobiet w wieku rozrodczym",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań umożliwiająca w opinii Zespołu Koordynacyjnego lub lekarza prowadzącego bezpieczne rozpoczęcie terapii",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwskazanie do terapii stwierdzonych przez Zespół Koordynacyjny lub lekarza prowadzącego w oparciu o odpowiednie, aktualne ChPL",
+        "brak przeciwwskazań do stosowania leku zgodnie z aktualną ChPL"
+    ],
+    "kryteria_wylaczenia": [
+        "brak adekwatnej odpowiedzi na leczenie definiowany jako bezwzględne obniżenie FVC o co najmniej 10% w ciągu pierwszych 12 miesięcy (±3 miesiące) leczenia, a następnie po każdych kolejnych 12 miesiącach (±3 miesiące), potwierdzone w dwóch badaniach spirometrycznych wykonanych w odstępie co najmniej 2 tygodni",
+        "wystąpienie objawów nadwrażliwości na którykolwiek ze stosowanych leków lub na którąkolwiek substancję pomocniczą leku, uniemożliwiających kontynuację leczenia",
+        "okres ciąży lub karmienia piersią",
+        "wystąpienie chorób lub stanów, które według oceny lekarza prowadzącego lub Zespołu Koordynacyjnego uniemożliwiają dalsze prowadzenie leczenia",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego opiekuna prawnego"
+    ],
+    "leki": [
+        {
+            "nazwa": "Nintedanib",
+            "dawkowanie": "Maksymalna dawka dobowa: 300 mg, w przypadku pacjentów z chorobą śródmiąższową płuc związaną z twardziną układową, u których mykofenolan mofetylu jest dobrze tolerowany i nie jest przeciwwskazany, nintedanib należy podawać w skojarzeniu z mykofenolanem mofetylu w rekomendowanej dawce."
+        },
+        {
+            "nazwa": "Rytuksymab",
+            "dawkowanie": "Cykl leczenia rytuksymabem składa się z dwóch infuzji dożylnych po 1000 mg każda podawanych w odstępie 2 tygodni. Kolejne cykle, w zależności od odpowiedzi klinicznej, mogą być podawane w odstępie nie krótszym niż 6 m-cy od podania drugiej infuzji poprzedniego cyklu."
+        },
+        {
+            "nazwa": "Tocilizumab",
+            "dawkowanie": "Tocilizumab w postaci dożylnej należy podawać we wlewie dożylnym co 4 tygodnie w dawce nie większej niż 8 mg/kg masy ciała. Zalecana maksymalna dawka tocilizumabu w postaci podskórnej wynosi 162 mg, podawane podskórnie raz w tygodniu."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie wartości odczynu Biernackiego (OB)",
+        "oznaczenie stężenia białka C-reaktywnego (CRP)",
+        "badanie morfologii krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny/GFR w surowicy",
+        "oznaczenie stężenia kwasu moczowego w surowicy",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AspAT)",
+        "oznaczenie aktywności aminotransferazy alaninowej (AlAT)",
+        "oznaczenie stężenia NT-proBNP",
+        "oznaczenie stężenia czynnika reumatoidalnego RF",
+        "oznaczenie miana p/ciał aCCP",
+        "oznaczenie miana p/ciał c-ANCA i p-ANCA",
+        "oznaczenie miana p/ciał przeciwjądrowych (ANA)",
+        "badanie ogólne moczu",
+        "badanie kapilaroskopowe",
+        "badanie elektrokardiograficzne (EKG)",
+        "badanie ECHO serca",
+        "badanie spirometryczne",
+        "badanie wskaźnika transferu płucnego dla CO (TLco)",
+        "badanie TK wysokiej rozdzielczości klatki piersiowej (TKWR)",
+        "test ciążowy (u kobiet w wieku rozrodczym)",
+        "oznaczenie stężenia bilirubiny w surowicy",
+        "oznaczenie czasu kaolinowo-kefalinowego (APTT)",
+        "oznaczenie wskaźnika INR",
+        "oznaczenie antygenu HBs",
+        "oznaczenie przeciwciał anty- Hbc",
+        "oznaczenie przeciwciał anty-HCV",
+        "oznaczenie antygenu wirusa HIV (HIV Ag/Ab Combo)",
+        "oznaczenie stężenia IgG, IgM, IgA",
+        "oznaczenie cholesterolu całkowitego, LDL, HDL, trójglicerydów"
+    ],
+    "badania_monitorujace": [
+        "badanie morfologii krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny/GFR w surowicy",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AspAT)",
+        "oznaczenie aktywności aminotransferazy alaninowej (AlAT)",
+        "oznaczenie stężenia bilirubiny w surowicy",
+        "oznaczenie wskaźnika INR",
+        "oznaczenie czasu kaolinowo-kefalinowego (APTT)",
+        "oznaczenie stężenia cholesterolu całkowitego, LDL, HDL, trójglicerydów"
+    ]
+}

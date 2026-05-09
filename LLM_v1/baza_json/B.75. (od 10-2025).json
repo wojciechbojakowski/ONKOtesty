@@ -1,0 +1,76 @@
+{
+    "nazwa_pliku": "B.75. (od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek: 6 lat i powyżej w przypadku kwalifikacji do terapii mepolizumabem, 18 lat i powyżej w przypadku kwalifikacji do terapii benralizumabem;",
+        "udokumentowane rozpoznanie eozynofilowej ziarniniakowatości z zapaleniem naczyń (EGPA) zgodnie z aktualnymi wytycznymi opartymi na dowodach naukowych, w tym kryteriami klasyfikacyjnymi wg ACR/EULAR;",
+        "aktywna postać EGPA (BVAS ≥ 2) pomimo leczenia zgodnego z zaleceniami ACR/EULAR;",
+        "postać nawracająco-ustępująca definiowana jako co najmniej jeden nawrót aktywnej choroby (BVAS ≥ 2) w okresie 6 miesięcy poprzedzających włączenie do programu, pomimo stosowania skojarzonego leczenia podtrzymującego;",
+        "postać oporna na leczenie w okresie 6 miesięcy poprzedzających włączenie do programu definiowana jako: brak uzyskania co najmniej niskiej aktywności choroby (BVAS < 2) pomimo stosowania zalecanego przez ACR/EULAR skojarzonego leczenia indukującego remisję w pierwszej linii;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej Charakterystyki Produktu Leczniczego (ChPL);",
+        "nieobecność istotnych schorzeń współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego;",
+        "brak przeciwwskazań do stosowania leku zgodnie z aktualną ChPL;"
+    ],
+    "Kryteria wyłączenia": [
+        "uzyskanie trwałej remisji choroby (BVAS = 0) lub trwałej niskiej aktywności choroby (BVAS < 2), które w opinii lekarza prowadzącego umożliwiają wstrzymania podawania leku w ramach programu;",
+        "niespełnienie kryteriów oceny skuteczności o których mowa w pkt 3. Kryteria oceny skuteczności leczenia;",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "ciąża, z wyjątkiem sytuacji, gdy potencjalne korzyści dla matki wyraźnie przewyższają ryzyko dla płodu;",
+        "wystąpienie działań niepożądanych uniemożliwiających kontynuację leczenia zgodnie z decyzją lekarza prowadzącego;",
+        "wystąpienie nadwrażliwości na lek lub substancję pomocniczą uniemożliwiające kontynuację leczenia;",
+        "zagrażającej życiu albo nieakceptowalnej toksyczności pomimo zastosowania adekwatnego postępowania;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich ze strony świadczeniobiorcy lub jego prawnych opiekunów, m.in. dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia."
+    ],
+    "leki": [
+        {
+            "nazwa": "rytuksymab",
+            "dawkowanie": "zgodnie z aktualną Charakterystyką Produktu Leczniczego, mniejsze niż ciężka postać analogiczne jak w postaci ciężkiej"
+        },
+        {
+            "nazwa": "awakopan",
+            "dawkowanie": "w skojarzeniu z rytuksymabem lub cyklofosfamidem zgodnie ze schematem leczenia opisanym w aktualnym ChPL, maksymalna dobowa dawka to 60 mg"
+        },
+        {
+            "nazwa": "tocilizumab",
+            "dawkowanie": "w postaci dożylnej co 4 tygodnie w dawce 8 mg/kg masy ciała, ewentualne zmniejszenie dawki lub wydłużenie odstępu między podaniami leku prowadzone zgodnie z aktualnymi rekomendacjami"
+        },
+        {
+            "nazwa": "mepolizumab",
+            "dawkowanie": "zalecana i maksymalna dawka to 300 mg podawane podskórnie raz na 4 tygodnie, dostosowanie dawki u dzieci i młodzieży - zgodnie z aktualną ChPL"
+        },
+        {
+            "nazwa": "benralizumab",
+            "dawkowanie": "zalecana i maksymalna dawka to 30 mg we wstrzyknięciu podskórnym co 4 tygodnie"
+        }
+    ],
+    "list_of_studies": [
+        {
+            "study_name": "Leczenie choroby tkankowej",
+            "parameters": [
+                "morfologia krwi",
+                "oznaczenie cholesterolu całkowitego",
+                "oznaczenie aktywności aminotransferazy alaninowej",
+                "oznaczenie białka C-reaktywnego",
+                "stężenie kreatyniny/GFR w surowicy krwi"
+            ]
+        },
+        {
+            "study_name": "Monitorowanie terapii tocilizumabem",
+            "parameters": [
+                "morfologia krwi z oznaczeniem płytek krwi i bezwzględną liczbą granulocytów obojętnych",
+                "oznaczenie aktywności aminotransferazy alaninowej",
+                "oznaczenie białka C-reaktywnego",
+                "stężenie kreatyniny/GFR w surowicy krwi"
+            ]
+        },
+        {
+            "study_name": "Leczenie choroby tkankowej z zapaleniem naczyń (EGPA)",
+            "parameters": [
+                "określenie poziomu aktywności choroby przy użyciu skali BVAS",
+                "morfologia krwi z oznaczeniem bezwzględnej liczby eozynofilów",
+                "badanie ogólne moczu",
+                "oznaczenie dobowej proteinurii",
+                "oznaczenie aktywności aminotransferazy alaninowej i asparaginianowej"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "nazwa_pliku": "B.12.FM. (od 01-2025).docx",
+    "type": "immunotherapy",
+    "name": "CAR-T cell therapy",
+    "indications": [
+        "relapsed or refractory diffuse large B-cell lymphoma (DLBCL)",
+        "primary mediastinal B-cell lymphoma (PMBCL)"
+    ],
+    "contraindications": [
+        "active infection",
+        "severe organ dysfunction",
+        "history of severe allergic reactions"
+    ],
+    "precautions": [
+        "monitor for cytokine release syndrome and neurotoxicity",
+        "administer corticosteroids as needed"
+    ],
+    "dosage": [
+        "single infusion of CAR-T cells"
+    ],
+    "duration": [
+        "12 months from the date of infusion"
+    ],
+    "aksykabtagen cyloleucelu": {
+        "cykl 1": {
+            "dzień 1": "0,15 mg/kg m.c.",
+            "dzień 8": "0,15 mg/kg m.c.",
+            "dzień 15": "0,075 mg/kg m.c."
+        },
+        "cykle 2-3": {
+            "dzień 1": "0,15 mg/kg m.c."
+        },
+        "cykle 4-12": {
+            "dzień 1": "0,075 mg/kg m.c."
+        }
+    },
+    "breksukabtagen autoleucelu": {
+        "schemat dawkowania": "zgodnie z zapisami aktualnej Charakterystyki Produktu Leczniczego"
+    },
+    "tisagenlecleucel": {
+        "cykl 1": {
+            "dzień 1": "0,15 mg/kg m.c.",
+            "dzień 8": "0,15 mg/kg m.c.",
+            "dzień 15": "0,075 mg/kg m.c."
+        },
+        "cykle 2-3": {
+            "dzień 1": "0,15 mg/kg m.c."
+        },
+        "cykle 4-12": {
+            "dzień 1": "0,075 mg/kg m.c."
+        }
+    },
+    "ibrutynibu": {
+        "dawka dobową": "560 mg"
+    },
+    "zanubrutynibu": {
+        "dawka dobową": "320 mg",
+        "możliwość podzielenia na dwie dawki": true
+    },
+    "list_of_studies": [
+        {
+            "study_name": "Leczenie chłoniaka strefy brzeżnej (MZL) (ICD-10: C85.1, C85.7)",
+            "monitoring_frequency": {
+                "initial_6_months": 1,
+                "every_3_months_after_initial_6_months": 1
+            },
+            "monitoring_tests": [
+                {
+                    "name": "Morfologia krwi z rozmazem (wzorem odsetkowym)"
+                },
+                {
+                    "name": "Oznaczenie aktywności aminotransferazy alaninowej (ALT)"
+                },
+                {
+                    "name": "Oznaczenie stężenia bilirubiny całkowitej w surowicy krwi"
+                },
+                {
+                    "name": "Oznaczenie stężenia kreatyniny u chorych z zaburzeniami czynności nerek"
+                },
+                {
+                    "name": "Elektrokardiografia (EKG)"
+                }
+            ]
+        },
+        {
+            "study_name": "Leczenie chłoniaka strefy brzeżnej (MZL) (ICD-10: C85.1, C85.7)",
+            "monitoring_frequency": {
+                "every_3_months_for_12_months": 1
+            },
+            "monitoring_tests": [
+                {
+                    "name": "TK lub PET-TK lub NMR"
+                }
+            ]
+        },
+        {
+            "study_name": "Leczenie chłoniaka strefy brzeżnej (MZL) (ICD-10: C85.1, C85.7)",
+            "monitoring_frequency": {
+                "every_3_months_for_24_months": 1
+            },
+            "monitoring_tests": [
+                {
+                    "name": "TK lub PET-TK lub NMR"
+                }
+            ]
+        }
+    ]
+}

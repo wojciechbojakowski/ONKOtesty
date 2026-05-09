@@ -1,0 +1,46 @@
+{
+    "nazwa_pliku": "B.131. (nowy od 07-2022).docx",
+    "kryteria_kwalifikacji": [
+        "potwierdzona wieloogniskowa postać choroby Castlemana",
+        "wiek powyżej 18 roku życia",
+        "ujemne wyniki badań w kierunku zakażenia wirusem HIV oraz HHV-8",
+        "brak czynnego zakażenia WZW B",
+        "odpowiednia wydolność szpiku oceniana na podstawie wyników badań laboratoryjnych: całkowita liczba neutrofilów ≥ 1,0 x 109/l, liczba płytek ≥ 50 x 109/l, hemoglobina < 170 g/l (10,6 mmol/l)",
+        "stosowanie skutecznej metody antykoncepcji",
+        "brak występowania chłoniaka w wywiadzie",
+        "Pacjent musi spełniać wszystkie poniższe kryteria włączenia do programu"
+    ],
+    "kryteria_wylaczenia": [
+        "wystąpienie objawów nadwrażliwości na siltuksymab lub którykolwiek ze składników preparatu",
+        "wystąpienie toksyczności powyżej 3. stopnia według WHO",
+        "utrzymujący się przez ≥ 3 tygodnie wzrost nasilenia (≥ 2. stopnia) objawów związanych z chorobą",
+        "pogorszenie stanu sprawności ogólnej, tj. utrzymujący się przez ≥ 3 tygodnie wzrost o > 1 punkt w skali ECOG",
+        "progresja choroby potwierdzona w badaniu tomografii komputerowej węzłów chłonnych na podstawie zmodyfikowanych kryteriów Lugano",
+        "ciąża i laktacja"
+    ],
+    "leki": [
+        {
+            "nazwa": "siltuksymab",
+            "dawkowanie": "zgodnie z Charakterystyką Produktu Leczniczego aktualną na dzień objęta refundacją"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi z rozmazem",
+        "CRP",
+        "stężenie albumin",
+        "profil nerkowy (stężenie kreatyniny, mocznika, potasu, sodu i kwasu moczowego, GFR)",
+        "aktywność AspAT, AIAT, stężenie bilirubiny",
+        "badania w kierunku zakażenia HIV (test przesiewowy HIV Ag/Ab umożliwiający wykrycie antygenu p24 oraz przeciwciał anty-HIV 1/2) oraz HHV-8 (badanie LANA-1 w immunohistochemii lub metoda reakcji łańcuchowej polimerazy PCR)",
+        "badania przesiewowe w kierunku zakażenia HBV (HBsAg i HBcAb, a w przypadku dodatniego wyniku HBsAg lub HBcAb badanie HBV-DNA)",
+        "test ciążowy (oznaczenie stężenie gonadotropiny kosmówkowej w moczu lub krwi)",
+        "tomografia komputerowa (TK) obejmująca szyję, klatkę piersiową, jamę brzuszną i miednicę"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "CRP",
+        "stężenie albumin",
+        "profil nerkowy (stężenie kreatyniny, mocznika, potasu, sodu i kwasu moczowego, GFR)",
+        "aktywność AspAT, AIAT",
+        "ocena wielkości węzłów chłonnych na podstawie zmodyfikowanych kryteriów Lugano (tomografia komputerowa)"
+    ]
+}

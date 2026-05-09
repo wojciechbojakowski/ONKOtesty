@@ -1,0 +1,52 @@
+{
+    "nazwa_pliku": "B.6. (od 10-2025).docx",
+    "criteria": [
+        "wystąpienie progresji choroby potwierdzonej w badaniu przedmiotowym lub obrazowym ocenionej według aktualnie obowiązujących kryteriów RECIST",
+        "oligoprogresja – w przypadku pojawienia się w trakcie leczenia jednej do trzech – nowych zmian poza ośrodkowym układem nerwowym (OUN) u chorych leczonych systemowo inhibitorami EGFR, ALK, ROS1, KRAS oraz inhibitorami immunologicznych punktów kontrolnych dopuszcza się kontynuowanie leczenia po zastosowaniu miejscowego leczenia ablacyjnego (najczęściej radioterapia stereotaktyczna wysokodawkowa lub chirurgia)",
+        "oligoprogresja – w przypadku pojawienia się w trakcie leczenia nowych zmian w obrębie OUN u chorych leczonych systemowo inhibitorami EGFR, ALK, ROS1, KRAS oraz inhibitorami immunologicznych punktów kontrolnych dopuszcza się kontynuowanie leczenia po zastosowaniu miejscowego leczenia ablacyjnego (radioterapia, radioterapia stereotaktyczna wysokodawkowa lub chirurgia)",
+        "pogorszenie (istotne klinicznie) stanu chorego bez progresji potwierdzonej w badaniu przedmiotowym",
+        "wystąpienie klinicznie istotnej toksyczności leczenia lub wystąpienie przynajmniej jednego działania niepożądanego będącego zagrożeniem życia według oceny lekarza prowadzącego",
+        "wystąpienie toksyczności leczenia wymagającej zakończenia leczenia zgodnie z aktualnie obowiązującą ChPL",
+        "wystąpienie istotnej klinicznie nadwrażliwości na lek lub na substancję pomocniczą",
+        "obniżenie stanu sprawności do stopnia 3-4 według kryteriów Zubroda-WHO lub ECOG",
+        "przerwanie stosowania inhibitorów EGFR, ALK, ROS1, KRAS dłuższe niż 8 tygodni albo inhibitorów immunologicznych punktów kontrolnych dłuższe niż 12 tygodni wskutek wystąpienia niepożądanych działań leczenia",
+        "pogorszenie jakości życia chorego o istotnym znaczeniu według oceny lekarza",
+        "wycofanie zgody na udział w programie (rezygnacja chorego)",
+        "upłynięcie 12 miesięcznego okresu leczenia – dotyczy stosowania durwalumabu do leczenia konsolidującego albo atezolizumabu po całkowitej resekcji",
+        "upłynięcie 24 miesięcznego okresu leczenia – dotyczy stosowania alektynibu w ramach leczenia uzupełniającego po radykalnym leczeniu chirurgicznym"
+    ],
+    "leki": [
+        {
+            "nazwa": "Dawkowanie leków w programie",
+            "dawkowanie": "Dawkowanie oraz sposób modyfikacji dawkowania należy prowadzić zgodnie z zapisami aktualnych na dzień wydania decyzji Charakterystyk Produktów Leczniczych (ChPL)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "histologiczne lub cytologiczne potwierdzenie określonego typu niedrobnokomórkowego lub drobnokomórkowego raka płuca",
+        "potwierdzenie obecności odpowiednich czynników molekularnych (stan genów EGFR, ALK lub ROS1 lub KRAS) oraz immunohistochemiczne (stopień ekspresji PD-L1)",
+        "morfologia krwi z rozmazem",
+        "oznaczenia stężenia kreatyniny",
+        "oznaczenie stężenia bilirubiny",
+        "oznaczenie aktywności aminotransferazy alaninowej",
+        "oznaczenie aktywności aminotransferazy asparaginianowej",
+        "oznaczenie aktywności fosfatazy zasadowej",
+        "oznaczenie T3, T4 i TSH w przypadku stosowania inhibitorów PD-1 lub PD-L1",
+        "lipidogram w przypadku stosowania lorlatynibu",
+        "EKG",
+        "badanie pozytonowej tomografii emisyjnej (w przypadku przedoperacyjnego leczenia wstępnego z zastosowaniem niwolumabu albo okołooperacyjnego leczenia pembrolizumabem)",
+        "badanie MR lub TK ośrodkowego układu nerwowego (w przypadku przedoperacyjnego leczenia wstępnego z zastosowaniem niwolumabu albo okołooperacyjnego leczenia pembrolizumabem albo w przypadku leczenia uzupełniającego po radykalnym leczeniu chirurgicznym alektynibem)",
+        "badanie TK klatki piersiowej z objęciem nadbrzusza"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenia stężenia kreatyniny",
+        "oznaczenie stężenia bilirubiny",
+        "oznaczenie aktywności aminotransferazy alaninowej",
+        "oznaczenie aktywności aminotransferazy asparaginianowej",
+        "oznaczenie aktywności fosfatazy zasadowej",
+        "oznaczenie T3, T4 i TSH w przypadku stosowania inhibitorów PD-1 lub PD-L1",
+        "lipidogram w przypadku stosowania lorlatynibu",
+        "EKG",
+        "oznaczenie aktywności kinazy fosfokreatynowej w przypadku alektynibu albo brygatynibu"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "nazwa_pliku": "B.149. (nowy od 09-2023).docx",
+    "kryteria_kwalifikacji": [
+        "pacjent z chorobą przeszczep przeciwko gospodarzowi po przeszczepieniu allogenicznych krwiotwórczych komórek macierzystych;",
+        "wiek 12 lat i powyżej;",
+        "brak przeciwwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego;",
+        "brak nadwrażliwości na lek lub którąkolwiek substancję pomocniczą leku;",
+        "wykluczenie ciąży i okresu karmienia piersią;",
+        "zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną Charakterystyką Produktu Leczniczego;",
+        "nieobecność aktywnych, ciężkich zakażeń;",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną Charakterystykę Produktu Leczniczego;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii.",
+        "rozpoznanie ostrej (stopnia II do IV) choroby przeszczep przeciwko gospodarzowi wg kryteriów np. Glucksberga lub MAGIC;",
+        "pacjent po przeszczepieniu allogenicznych krwiotwórczych komórek macierzystych, z niewystarczającą odpowiedzią na leczenie kortykosteroidami definiowaną jako jedno z poniższych:",
+        "progresja choroby w zakresie jakiegokolwiek narządu w ciągu 5 dni od rozpoczęcia stosowania dawki ≥2,0 mg/kg mc., a w przypadku aGvHD w stopniu II przynajmniej 0,5mg/kg mc. metyloprednizolonu lub jego odpowiednika;",
+        "brak odpowiedzi na kortykosteroidy w ciągu 7 dni;",
+        "niecałkowita odpowiedź na leki immunosupresyjne w tym kortykosteroidy po 28 dniach stosowania.",
+        "rozpoznanie przewlekłej (umiarkowanej lub ciężkiej) choroby przeszczep przeciwko gospodarzowi wg kryteriów np. NIH;",
+        "pacjent po przeszczepieniu allogenicznych krwiotwórczych komórek macierzystych, z niewystarczającą odpowiedzią na leczenie kortykosteroidami definiowaną jako jedno z poniższych:",
+        "progresja objawów ciężkiej cGvHD w trakcie przyjmowania metyloprednizolonu w dawce ≥1,0 mg/kg mc, a w przypadku cGvHD umiarkowanej – w dawce ≥0,5-1,0 mg/kg mc. lub odpowiednika przez 2 tygodnie;",
+        "stabilizacja objawów w trakcie przyjmowania metyloprednizolonu w dawce ≥0,5 mg/kg mc. lub odpowiednika przez miesiąc;",
+        "nawrót objawów przy próbie odstawienia metyloprednizolonu lub odpowiednika."
+    ],
+    "kryteria_wylaczenia": [
+        "progresja choroby przeszczep przeciwko gospodarzowi;",
+        "brak jakiejkolwiek odpowiedzi na leczenie po maksymalnie: 8 tygodniach w przypadku aGvHD, 24 tygodniach w przypadku cGvHD;",
+        "wystąpienie chorób lub stanów, które według oceny lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie objawów nadwrażliwości na lek lub na którąkolwiek substancję pomocniczą leku, uniemożliwiających kontynuację leczenia;",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania;",
+        "okres ciąży lub karmienia piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia, ze strony świadczeniobiorcy lub jego opiekuna prawnego."
+    ],
+    "leki": [
+        {
+            "nazwa": "ruksolitynib",
+            "dawkowanie": "10 mg doustnie podawana 2 razy na dobę (co odpowiada całkowitej dawce dobowej 20 mg)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi",
+        "ocena wydolności wątroby: oznaczenie aktywności aminotransferazy alaninowej (ALT), oznaczenie aktywności aminotransferazy asparaginianowej (AST), oznaczenie stężenia bilirubiny całkowitej w surowicy krwi",
+        "ocena wydolności nerek – oznaczenie stężenia kreatyniny w surowicy krwi",
+        "test ciążowy (u kobiet w wieku rozrodczym)"
+    ],
+    "badania_monitorujace": [
+        {
+            "w przypadku ostrej choroby przeszczep przeciwko gospodarzowi (aGvHD)": [
+                "morfologia krwi",
+                "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+                "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+                "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi"
+            ],
+            "w przypadku przewlekłej choroby przeszczep przeciwko gospodarzowi (cGvHD)": [
+                "morfologia krwi",
+                "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+                "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+                "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi",
+                "badanie w kierunku zakażeń wirusowych"
+            ]
+        },
+        {
+            "w przypadku ostrej choroby przeszczep przeciwko gospodarzowi (aGvHD)": [
+                "ocena stopnia nasilenia objawów aGvHD według kryteriów np. Glucksberga lub MAGIC"
+            ],
+            "w przypadku przewlekłej choroby przeszczep przeciwko gospodarzowi (cGvHD)": [
+                "ocena stopnia nasilenia objawów cGvHD według kryteriów np. NIH (National Institutes of Health)"
+            ]
+        }
+    ]
+}

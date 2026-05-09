@@ -1,0 +1,57 @@
+{
+    "nazwa_pliku": "B.5. (od 10-2024).docx",
+    "kryteria_kwalifikacji": [
+        "Wiek 18 lat i powyżej;",
+        "histologicznie lub cytologicznie potwierdzony miejscowo zaawansowany lub przerzutowy rak wątrobowokomórkowy. W przypadku pacjentów z marskością wątroby i ze zmianami o średnicy ≥ 1 cm możliwe jest odstąpienie od rozpoznania histologicznego lub cytologicznego pod warunkiem uzyskania typowego obrazu dla HCC w wielofazowej tomografii komputerowej (TK) lub rezonansie magnetycznym z kontrastem (MRI), ze wzmocnieniem w fazie tętniczej (zmiana hiperdensyjna) oraz wypłukiwaniem kontrastu z ogniska w fazie żylnej wrotnej lub opóźnionej (zmiana hipodensyjna);",
+        "brak możliwości zastosowania radykalnego leczenia chirurgicznego lub terapii lokoregionalnych lub ich nieskuteczność;",
+        "stan sprawności 0-1 według ECOG;",
+        "czynnościowy stan wątroby w kategorii A na podstawie oceny według klasyfikacji Child-Pugh;",
+        "obecność przynajmniej jednej zmiany możliwej do oceny, zgodnie z aktualnie obowiązującymi kryteriami RECIST;",
+        "nieobecność istotnych schorzeń współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o odpowiednie Charakterystyki Produktu Leczniczego oraz wytyczne Polskiego Towarzystwa Onkologii Klinicznej w leczeniu raka wątrobowokomórkowego;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii;",
+        "brak przeciwwskazań do stosowania każdego z leków;",
+        "w przypadku współistnienia innych aktywnych nowotworów kwalifikacja do leczenia musi uwzględniać rokowanie związane ze współistniejącym nowotworem;",
+        "wykluczenie ciąży oraz okresu karmienia piersią."
+    ],
+    "kryteria_wylaczenia": [
+        "progresja choroby oceniona zgodnie z aktualnie obowiązującymi kryteriami RECIST;",
+        "pogorszenie jakości życia o istotnym znaczeniu według oceny lekarza;",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania;",
+        "wystąpienie objawów nadwrażliwości na którąkolwiek substancję czynną lub substancję pomocniczą;",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "pogorszenie stanu sprawności do stopnia 2-4 według skali ECOG;",
+        "okres ciąży lub karmienia piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnych opiekunów."
+    ],
+    "leki": [
+        {
+            "nazwa": "kabozantynib",
+            "dawkowanie": "60 mg (codziennie), każdy cykl obejmuje 28 dni leczenia"
+        },
+        {
+            "nazwa": "atezolizumab",
+            "dawkowanie": "1 200 mg"
+        },
+        {
+            "nazwa": "bewacyzumab",
+            "dawkowanie": "15 mg/kg masy ciała podawanego dożylnie"
+        },
+        {
+            "nazwa": "durwalumab",
+            "dawkowanie": "1 500 mg (początkowa dawka), co 4 tygodnie w monoterapii po zakończeniu chemioterapii"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "histologiczne lub cytologiczne potwierdzenie raka wątrobowokomórkowego",
+        "morfologia krwi z rozmazem",
+        "badanie ogólne moczu",
+        "oznaczenia stężenia kreatyniny, bilirubiny, AspAT, AlAT, fT4 i TSH w surowicy",
+        "tomografia komputerowa lub rezonans magnetyczny klatki piersiowej"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny, bilirubiny, AspAT, AlAT w surowicy",
+        "elektrokardiografia (EKG)",
+        "inne badania w razie wskazań klinicznych"
+    ]
+}

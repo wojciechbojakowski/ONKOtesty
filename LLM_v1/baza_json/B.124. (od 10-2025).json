@@ -1,0 +1,79 @@
+{
+    "nazwa_pliku": "B.124. (od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "Wiek 6 miesięcy i powyżej - w przypadku kwalifikacji do terapii dupilumabem",
+        "Albo wiek 12 lat i powyżej - w przypadku kwalifikacji do terapii upadacytynibem albo tralokinumabem albo abrocytynibem albo lebrykizumabem",
+        "Albo wiek 18 lat i powyżej- w przypadku kwalifikacji do terapii baricytynibem;",
+        "Wieku - w przypadku osób pomiędzy 12 a 18 r.ż.: niepowodzenie immunosupresyjnej terapii ogólnej lub przeciwskazania do stosowania immunosupresyjnej terapii ogólnej, które uniemożliwiają jej zastosowanie, lub wystąpienie działań niepożądanych, które uniemożliwiają kontynuowanie immunosupresyjnej terapii ogólnej;",
+        "Wieku 18 lat i powyżej: niepowodzenie leczenia cyklosporyną, lub przeciwwskazania do stosowania cyklosporyny, które uniemożliwiają jej zastosowanie, lub wystąpienie działań niepożądanych, które uniemożliwiają kontynuowanie leczenia cyklosporyną;",
+        "Adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej Charakterystyki Produktu Leczniczego;",
+        "Brak przeciwwskazań do stosowania określonych w aktualnej ChPL substancji czynnej ujętej w programie lekowym;",
+        "Brak aktywnego zakażenia pasożytniczego lub infekcji, która w opinii lekarza jest przeciwskazaniem do terapii - dotyczy dupilumabu;",
+        "Wykluczenie okresu ciąży lub karmienia piersią.",
+        "Pacjenci wymagający kontynuacji leczenia, którzy byli leczeni substancjami czynnymi finansowanymi w programie lekowym w ramach innego sposobu finansowania terapii (za wyjątkiem trwających badań klinicznych tych leków), pod warunkiem, że w chwili rozpoczęcia leczenia spełniali kryteria kwalifikacji do programu lekowego."
+    ],
+    "kryteria_wylaczenia": [
+        "Brak adekwatnej odpowiedzi na leczenie, ocenianej zgodnie z harmonogramem monitorowania skuteczności leczenia pacjenta.",
+        "Wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "Wystąpienie objawów nadwrażliwości na którąkolwiek substancję czynną lub substancję pomocniczą;",
+        "Wystąpienie toksyczności wymagającej zakończenia leczenia w opinii lekarza prowadzącego zgodnie z aktualną ChPL;",
+        "Pogorszenie jakości życia o istotnym znaczeniu według oceny lekarza;",
+        "Brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego opiekuna prawnego;",
+        "Ciąża lub laktacja."
+    ],
+    "leki": [
+        {
+            "nazwa": "dupilumab",
+            "dawkowanie": "600 mg (dwa wstrzyknięcia po 300 mg), a następnie dawka 300 mg co dwa tygodnie, podawane we wstrzyknięciach podskórnych"
+        },
+        {
+            "nazwa": "upadacytynib",
+            "dawkowanie": "30 mg raz na dobę"
+        },
+        {
+            "nazwa": "baricytynib",
+            "dawkowanie": "4 mg raz na dobę"
+        },
+        {
+            "nazwa": "tralokinumab",
+            "dawkowanie": "600 mg (dawka początkowa), a następnie dawka 300 mg podawana co dwa tygodnie drogą wstrzyknięcia podskórnego"
+        },
+        {
+            "nazwa": "abrocytynib",
+            "dawkowanie": "200 mg raz na dobę"
+        },
+        {
+            "nazwa": "lebrykizumab",
+            "dawkowanie": "500 mg zarówno w tygodniu 0. jak i tygodniu 2., a następnie 250 mg podawane podskórnie co dwa tygodnie, do tygodnia 16. Stan niektórych pacjentów z początkową częściową odpowiedzią na leczenie może się dodatkowo poprawić dzięki kontynuacji leczenia co drugi tydzień, do tygodnia 24. Po uzyskaniu odpowiedzi klinicznej zalecana dawka podtrzymująca lebrykizumabu wynosi 250 mg co cztery tygodnie."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie stężenie mocznika we krwi",
+        "oznaczenie wartości odczynu Biernackiego (OB) lub oznaczenie stężenia białka C-reaktywnego (CRP)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "oznaczenie stężenia cholesterolu całkowitego, cholesterolu HDL, cholesterolu LDL i triglicerydów (lipidogram) – w przypadku pacjentów kwalifikowanych do leczenia upadacytynibem albo baricytynibem albo abrocytynibem",
+        "badania wirusologiczne w przypadku pacjentów kwalifikowanych do leczenia upadacytynibem albo baricytynibem albo abrocytynibem: obecność antygenu HBs, przeciwciała anty-HCV, a w przypadku pozytywnego wyniku – oznaczenie PCR HCV metodą ilościową, antygen wirusa HIV (HIV Ag/Ab Combo) – tylko w przypadku upadacytynibu albo baricytynibu albo abrocytynibu",
+        "badanie ogólne moczu",
+        "RTG klatki piersiowej z opisem, maksymalnie do 6 miesięcy przed kwalifikacją (w przypadku pacjentów w wieku od 6 miesięcy do 18 lat – do decyzji lekarza prowadzącego)",
+        "EKG z opisem (pacjenci w wieku od 6 miesięcy do 18 lat – do decyzji lekarza prowadzącego)",
+        "próba tuberkulinowa lub test Quantiferon w przypadku pacjentów kwalifikowanych do leczenia upadacytynibem albo baricytynibem albo abrocytynibu",
+        "ocena ogólnego stanu zdrowia pacjenta na podstawie wywiadu",
+        "ocena nasilenia objawów choroby wg EASI",
+        "ocena jakości życia wg DLQI u osób ≥ 18 r.ż., u osób od 4 r.ż. do 18 r.ż. skalą CDLQI, a u osób od 6 mies. do poniżej 4 lat skalą IDQOL",
+        "test ciążowy u kobiet w wieku rozrodczym"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie stężenie mocznika we krwi",
+        "oznaczenie wartości odczynu Biernackiego (OB) lub oznaczenie stężenia białka C-reaktywnego (CRP)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "oznaczenie stężenia cholesterolu całkowitego, cholesterolu HDL, cholesterolu LDL i triglicerydów (lipidogram) w przypadku monitorowania leczenia upadacytynibem albo baricytynibem albo abrocytynibem",
+        "ocena ogólnego stanu zdrowia pacjenta na podstawie wywiadu",
+        "ocena skuteczności zastosowanej terapii: ocena nasilenia objawów choroby wg EASI, ocena jakości życia wg DLQI u osób ≥ 18 r.ż., u osób od 4 r.ż. do 18 r.ż. skalą CDLQI, a u osób od 6 mies. do poniżej 4 lat skalą IDQOL"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "nazwa_pliku": "B.115. (od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "Poznana agresywna mastocytoza układowa (ASM), mastocytoza układowa ze współistniejącym nowotworem układu mieloidalnego lub chłonnego (SM-AHN) lub białaczka mastocytowa (MCL) – zgodnie z aktualnymi kryteriami WHO",
+        "Wiek 18 lat i powyżej",
+        "Obecność co najmniej jednego z poniższych objawów wynikających z nacieku komórkami tucznymi: neutropenia <1x109/L lub niedokrwistość <10 g/dL lub małopłytkowość <100x109/L, powiększona wątroba z wodobrzuszem lub zwiększoną aktywnością transaminaz lub nadciśnieniem wrotnym, splenomegalia z hipersplenizmem, zaburzenia wchłaniania z hipoalbuminemią i ewentualną utratą wagi ciała, rozległe zmiany osteolityczne (≥2 cm) lub patologiczne złamania kości",
+        "Brak przeciwwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego; adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii",
+        "Nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną Charakterystykę Produktu Leczniczego",
+        "Wykluczenie ciąży i okresu karmienia piersią; zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną Charakterystyką Produktu Leczniczego",
+        "Nieobecność aktywnych, ciężkich zakażeń"
+    ],
+    "kryteria_wylaczenia": [
+        "Brak skuteczności terapii definiowany jako: brak uzyskania przynajmniej częściowej odpowiedzi na leczenie po 3 cyklach terapii według zmodyfikowanych kryteriów Valenta – w przypadku terapii midostauryną, lub progresja choroby w trakcie leczenia według zmodyfikowanych kryteriów IWG-MRT-ECNM (modified International Working Group-Myeloproliferative Neoplasms Research and Treatment & European Competence Network on Mastocytosis) – w przypadku terapii midostauryną lub awaprytynibem; wystąpienie objawów nadwrażliwości na lek lub na którąkolwiek substancję pomocniczą leku, uniemożliwiających kontynuację leczenia; wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania; okres ciąży lub karmienia piersią; wystąpienie chorób lub stanów, które według oceny lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia; brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia, ze strony świadczeniobiorcy lub jego opiekuna prawnego"
+    ],
+    "leki": [
+        {
+            "nazwa": "midostauryna",
+            "dawkowanie": "100 mg doustnie dwa razy na dobę (całkowita dawka dobowe 200 mg), odstęp pomiędzy kolejnymi dawkami około 12 godzin, podawana w 28-dniowych cyklach"
+        },
+        {
+            "nazwa": "awaprytynib",
+            "dawkowanie": "200 mg doustnie raz na dobę, podawana w 28-dniowych cyklach"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "biopsja aspiracyjna szpiku z badaniem immunofenotypowym",
+        "badanie molekularne w kierunku obecności mutacji D816V lub mutacji w innych krytycznych regionach w genie KIT",
+        "trepanobiopsja szpiku z barwieniem na tryptazę",
+        "ocena stanu ogólnego według skali ECOG",
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi",
+        "oznaczenie stężenia sodu w surowicy krwi",
+        "oznaczenie stężenia potasu w surowicy krwi",
+        "oznaczenie stężenia wapnia w surowicy krwi",
+        "oznaczenie stężenia glukozy we krwi",
+        "oznaczenie stężenia albumin",
+        "oznaczenie APTT",
+        "oznaczenie czasu protrombinowego (PT)",
+        "oznaczenie stężenia fibrynogenu",
+        "oznaczenie stężenia tryptazy w surowicy krwi",
+        "test ciążowy (u kobiet w wieku rozrodczym)",
+        "elektrokardiografia (EKG)",
+        "ECHO serca – w przypadku wywiadu kardiologicznego lub zmian w EKG"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi",
+        "oznaczenie stężenia sodu w surowicy krwi",
+        "oznaczenie stężenia potasu w surowicy krwi",
+        "oznaczenie stężenia wapnia w surowicy krwi",
+        "oznaczenie stężenia glukozy we krwi",
+        "oznaczenie APTT",
+        "oznaczenie czasu protrombinowego (PT)",
+        "elektrokardiografia (EKG) – w uzasadnionych przypadkach"
+    ]
+}

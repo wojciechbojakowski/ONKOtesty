@@ -1,0 +1,40 @@
+{
+    "nazwa_pliku": "B.129.FM. (nowy od 03-2022).docx",
+    "kryteria_kwalifikacji": [
+        "potwierdzenie choroby PH1 badaniem molekularnym",
+        "przewlekła choroba nerek w stadium I-III (eGFR>30 ml/min/1,73m2)",
+        "średnie dobowe wydalanie szczawianów z moczem ≥0,70 mmol /1,73 m2/24h",
+        "brak efektywności terapii witaminą B6 (pirydoksyną) rozumianej jako redukcja dobowego wydalania szczawianów z moczem ≥ 30% w okresie co najmniej 3- miesięcznym",
+        "pisemna świadoma zgoda pacjenta na leczenie; w przypadku pacjentów poniżej 18. roku życia – zgoda opiekuna prawnego",
+        "pacjenci, którzy byli leczeni w ramach innego sposobu finansowania terapii, pod warunkiem, że w chwili rozpoczęcia leczenia spełniali kryteria kwalifikacji do programu lekowego"
+    ],
+    "kryteria_wylaczenia": [
+        "eGFR < 30 ml/min/1,73m2",
+        "klinicznie istotne nieprawidłowe wyniki badań laboratoryjnych (ALT i AST > 2xULN; bilirubina całkowita >1,5xULN; INR > 1,5ULN)",
+        "zakażenie wirusem HIV lub WZW B lub WZW C",
+        "przeszczepienie nerki lub wątroby",
+        "nietolerancja wstrzyknięć podskórnych",
+        "ciąża",
+        "karmienie piersią",
+        "odmowa stosowania antykoncepcji przez kobiety w wieku rozrodczym",
+        "historia nadużywania alkoholu w ciągu ostatnich 12 miesięcy lub niemożność lub niechęć do ograniczenia spożycia alkoholu w trakcie leczenia",
+        "wczesnejsze leczenie lumazyranem sodowym (nie dotyczy pacjentów, którzy byli leczeni lumazyranem sodowym w ramach innego sposobu finansowania terapii, pod warunkiem, że w chwili rozpoczęcia leczenia spełniali kryteria kwalifikacji do programu lekowego)"
+    ],
+    "leki": [
+        {
+            "nazwa": "Oxlumo",
+            "dawkowanie": "masa ciała poniżej 10 kg: dawka nasycająca 6 mg / kg m.c., dawka podtrzymująca 3 mg / kg m.c. raz w miesiącu; masa ciała od 10 kg do mniej niż 20 kg: dawka nasycająca 6 mg / kg m.c., dawka podtrzymująca 6 mg / kg m.c. raz na 3 miesiące; masa ciała 20 kg i więcej: dawka nasycająca 3 mg / kg m.c., dawka podtrzymująca 3 mg / kg m.c. raz na 3 miesiące"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "pomiar wzrostu i masy ciała",
+        "test ciążowy dla kobiet w wieku rozrodczym",
+        "badanie DNA dla określenia mutacji genu AGXT",
+        "badania przesiewowe w kierunku HIV oraz HBV, HCV",
+        "ocena laboratoryjna: co najmniej dwukrotna ocena dobowego wydalania szczawianów z moczem (mmol /1,73 m2/24h), badania krwi: morfologia, kreatynina z oceną eGFR (formuła MDRD dla dorosłych lub wg Schwartz’a dla dzieci), mocznik, kwas moczowy, białko całkowite, albumina, AST, ALT, ALP, bilirubina, elektrolity (sód, potas, wapń, fosforany, chlorki), układ krzepnięcia (czas protrombinowy, czas częściowej tromboplastyny po aktywacji- APTT, międzynarodowy współczynnik znormalizowany- INR), gazometria krwi żylnej, badanie ogólne moczu; USG układu moczowego"
+    ],
+    "badania_monitorujace": [
+        "pomiar wzrostu (pacjenci pediatryczni) i masy ciała",
+        "ocena laboratoryjna: co najmniej dwukrotna ocena dobowego wydalania szczawianów z moczem (mmol /1,73 m2/24h), badania krwi: morfologia, kreatynina z oceną eGFR (formuła MDRD dla dorosłych lub wg Schwartz’a dla dzieci), mocznik, kwas moczowy, białko całkowite, albumina, AST, ALT, ALP, bilirubina, elektrolity (sód, potas, wapń, fosforany, chlorki), układ krzepnięcia (czas protrombinowy, czas częściowej tromboplastyny po aktywacji- APTT, międzynarodowy współczynnik znormalizowany- INR), gazometria krwi żylnej, badanie ogólne moczu; USG układu moczowego"
+    ]
+}

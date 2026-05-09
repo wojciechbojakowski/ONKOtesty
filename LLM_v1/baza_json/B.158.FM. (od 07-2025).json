@@ -1,0 +1,67 @@
+{
+    "nazwa_pliku": "B.158.FM. (od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek < 18. roku życia;",
+        "rozpoznanie ASMD typu A/B lub B na podstawie braku lub niedoboru aktywności enzymu kwaśnej sfingomielinazy, potwierdzone badaniem genetycznym;",
+        "objętość śledziony lub jej fragmentu (u pacjentów z częściową splenektomią) ≥ 5 wielokrotności objętości prawidłowej  mierzonej za pomocą rezonansu magnetycznego (MRI);",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii;",
+        "brak ostrych lub szybko postępujących objawów neurologicznych związanych z ASMD;",
+        "brak przeciwskazań do stosowania leku zgodnie z ChPL;",
+        "zgoda opiekuna prawnego na leczenie w programie lekowym, a w przypadku chorych powyżej 16 r.ż. również pacjenta;"
+    ],
+    "kryteria_wylaczenia": [
+        "brak skuteczności leczenia stwierdzony przez Zespół Koordynacyjny rozumiany jako: brak zmniejszenia objętości śledziony lub wątroby o co najmniej 30% w porównaniu z wielkością narządu ocenioną na wizycie kwalifikującej do leczenia (stwierdzone w badaniu MRI) w okresie pierwszych 12 miesięcy leczenia, w porównaniu do wartości wyjściowych – zmniejszenie objętości śledziony lub wątroby o co najmniej 30% względem wartości określonej przy kwalifikacji pacjenta, musi być potwierdzone na każdej kolejnej wizycie monitorującej leczenie tj. co 6 miesięcy po pierwszych 12 miesiącach leczenia;",
+        "znaczna progresja choroby pomimo podjętego leczenia;",
+        "wystąpienie objawów ciężkiej nadwrażliwości na lek;",
+        "obecność poważnych wrodzonych anomalii lub chorób współistniejących, które w ocenie lekarza kwalifikującego do leczenia lub Zespołu Koordynacyjnego ds. Chorób Ultrarzadkich, mogą uniemożliwić poprawę stanu zdrowia świadczeniobiorcy;",
+        "okres ciąży i karmienie piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub opiekuna prawnego."
+    ],
+    "leki": [
+        {
+            "nazwa": "olipudaza alfa",
+            "dawkowanie": "0,1 mg/kg mc. dla dorosłych, następnie zwiększenie dawki: 0,1 mg/kg mc. (Dzień 1/Tydzień 0), 0,3 mg/kg mc. (Tydzień 2), 0,3 mg/kg mc. (Tydzień 4), 0,6 mg/kg mc. (Tydzień 6), 0,6 mg/kg mc. (Tydzień 8), 1 mg/kg mc. (Tydzień 10), 2 mg/kg mc. (Tydzień 12), 3 mg/kg mc. (Tydzień 14) (zalecana dawka podtrzymująca); dla dzieci i młodzieży: 0,03 mg/kg mc. (Dzień 1/Tydzień 0), 0,1 mg/kg mc. (Tydzień 2), 0,3 mg/kg mc. (Tydzień 4), 0,3 mg/kg mc. (Tydzień 6), 0,6 mg/kg mc. (Tydzień 8), 0,6 mg/kg mc. (Tydzień 10), 1 mg/kg mc. (Tydzień 12), 2 mg/kg mc. (Tydzień 14), 3 mg/kg mc. (Tydzień 16) (zalecana dawka podtrzymująca)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie aktywności enzymu kwaśnej sfingomielinazy",
+        "analiza genu SMPD1",
+        "badanie poziomu biomarkera Lyso- sphyngomyelin",
+        "badanie zdolności dyfuzyjnej płuc dla tlenku węgla (DLco) – u pacjentów w wieku ≥ 18. roku życia",
+        "badanie aktywności chitotriozydazy",
+        "morfologia krwi z rozmazem",
+        "oznaczenie czasu częściowej tromboplastyny po aktywacji (APTT)",
+        "oznaczenie czasu protrombinowego (INR)",
+        "oznaczenie stężenia bilirubiny całkowitej i sprzężonej",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "oznaczenie aktywności fosfatazy alkalicznej",
+        "lipidogram – oznaczenie cholesterolu całkowitego, triglicerydów, cholesterolu frakcji LDL i HDL",
+        "badanie USG i MRI jamy brzusznej, z oceną objętości (z podaniem wymiarów) śledziony i wątroby",
+        "badanie RTG płuc lub w uzasadnionych przypadkach HRCT",
+        "spirometria (u pacjentów współpracujących, jeżeli istnieje możliwość wykonania badania)",
+        "pomiary antropometryczne (masa i wysokość/długość ciała); ",
+        "elektrokardiografia (EKG)",
+        "badanie densytometryczne kości (DEXA) – opcjonalnie uzasadnionych przypadkach",
+        "badanie RTG (MRI w uzasadnionych przypadkach) kości długich",
+        "konsultacja neurologiczna",
+        "konsultacja pulmonologiczna"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "parametry czynności wątroby (aminotransferaza alaninowa (ALT), aminotransferaza asparaginianowa (AST), bilirubina całkowita)",
+        "pomiary antropometryczne (masa i wysokość ciała, z oceną tempa wzrastania u dzieci do zakończenia procesu wzrastania); u dorosłych pacjentów tylko masa ciała",
+        "stosowne do wieku oceny neurologiczne i rozwojowe (u dzieci)",
+        "badanie MRI i USG jamy brzusznej, z oceną objętości (z podaniem wymiarów) śledziony i wątroby - badania obligatoryjne po 12 miesiącach terapii, a następnie co 6 miesięcy terapii – USG obligatoryjne, natomiast MRI jedynie w przypadku stwierdzenia zwiększenia objętości śledziony lub wątroby w badaniu USG sugerujące możliwość spełnienia kryterium wyłączenia",
+        "badanie poziomu biomarkera Lyso- sphyngomyelin",
+        "lipidogram – oznaczenie cholesterolu całkowitego, triglicerydów, cholesterolu frakcji LDL i HDL",
+        "elektrokardiografia (EKG)",
+        "badanie RTG płuc lub w uzasadnionych przypadkach HRCT",
+        "spirometria (u pacjentów współpracujących, jeżeli istnieje możliwość wykonania badania) - w uzasadnionych przypadkach",
+        "badanie densytometryczne kości (DXA) – w uzasadnionych przypadkach",
+        "badanie RTG (MRI w uzasadnionych przypadkach) kości długich - w uzasadnionych przypadkach",
+        "konsultacja neurologiczna",
+        "konsultacja pulmonologiczna - w uzasadnionych przypadkach",
+        "konsultacja ortopedyczna - w uzasadnionych przypadkach"
+    ]
+}

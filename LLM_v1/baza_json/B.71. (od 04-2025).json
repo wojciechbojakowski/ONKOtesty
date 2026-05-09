@@ -1,0 +1,59 @@
+{
+    "nazwa_pliku": "B.71. (od 04-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek: 3 lat i powyżej w przypadku kwalifikacji do terapii sofosbuwirem + welpataswirem albo sofosbuwirem + ledipaswirem albo glekaprewirem + pibrentaswirem",
+        "wiek: 12 lat i powyżej w przypadku kwalifikacji do terapii sofosbuwirem + welpataswirem + woksylaprewirem",
+        "rozpoznanie przewlekłego wirusowego zapalenia wątroby typu C",
+        "obecność HCV RNA w surowicy krwi lub w tkance wątrobowej",
+        "udokumentowany stopień zaawansowania choroby wątroby określony z wykorzystaniem: elastografii wątroby wykonanej techniką umożliwiającą pomiar ilościowy w kPa lub wskaźnika APRI lub FIB-4 lub biopsji wątroby",
+        "potwierdzona obecność zakażenia genotypem: 1 HCV - w przypadku kwalifikacji do terapii sofosbuwirem w skojarzeniu z ledipaswirem albo 1,2,3,4,5,6 HCV - w przypadku kwalifikacji do terapii sofosbuwirem w skojarzeniu z welpataswirem lub glekaprewirem w skojarzeniu z pibrentaswirem albo 1,2,3,4,5,6 HCV – w przypadku kwalifikacji do terapii sofosbuwirem w skojarzeniu z welpataswirem oraz woksylaprewirem w przypadku pacjentów po niepowodzeniu uprzedniej terapii inhibitorami NS5A"
+    ],
+    "kryteria_wylaczenia": [
+        "nadwrażliwość na substancję czynną lub substancję pomocniczą",
+        "niestwierdzenie HCV RNA w surowicy lub w tkance wątrobowej przy obecności przeciwciał anty-HCV",
+        "ciężka niewydolność wątroby (stopień C wg klasyfikacji Child-Pugh) - nie dotyczy kwalifikowania do terapii z użyciem sofosbuwiru w skojarzeniu z ledipaswirem lub welpataswirem",
+        "konieczność przyjmowania leków mogących obniżać aktywność osoczową sofosbuwiru i ledipaswiru albo sofosbuwiru i welpataswiru, albo sofosbuwiru, welpataswiru i woksylaprewiru w szczególności silnych induktorów glikoproteiny P w jelitach (o ile dotyczy)",
+        "ciąża lub karmienie piersią",
+        "inne przeciwwskazania do stosowania określone w odpowiednich charakterystykach"
+    ],
+    "leki": [
+        {
+            "nazwa": "Sofosbuwir+ledipaswir",
+            "dawkowanie": "zgodnie z odpowiednimi aktualnymi na dzień wydania decyzji Charakterystykami Produktów Leczniczych."
+        },
+        {
+            "nazwa": "Sofosbuwir+welpataswir",
+            "dawkowanie": "zgodnie z odpowiednią aktualną na dzień wydania decyzji Charakterystyką Produktu Leczniczego."
+        },
+        {
+            "nazwa": "Sofosbuvir+welpataswir+woksyleprewir",
+            "dawkowanie": "zgodnie z odpowiednią aktualną na dzień wydania decyzji Charakterystyką Produktu Leczniczego."
+        },
+        {
+            "nazwa": "Glekaprewir+pibrentaswir",
+            "dawkowanie": "zgodnie z odpowiednią aktualną na dzień wydania decyzji Charakterystyką Produktu Leczniczego."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie HCV RNA metodą ilościową",
+        "morfologia krwi",
+        "oznaczenie aktywności AlAT",
+        "oznaczenie stężenia albumin",
+        "oznaczenie stężenia bilirubiny",
+        "czas lub wskaźnik protrombinowy",
+        "oznaczenie poziomu kreatyniny",
+        "oznaczenie przeciwciał anty-HIV",
+        "oznaczenie antygenu HBs",
+        "USG jamy brzusznej (jeśli nie było wykonywane w okresie ostatnich 6 miesięcy)",
+        "badanie określające zaawansowanie włóknienia wątroby - elastografia wątroby wykonana techniką umożliwiającą pomiar ilościowy w kPa lub biopsja wątroby (jeśli nie było wykonywane wcześniej) lub oznaczenie wskaźników APRI lub FIB-4",
+        "oznaczenie genotypu HCV (z podtypem w przypadku genotypu 1) - jeśli nie było wykonywane wcześniej"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi",
+        "oznaczenie aktywności AlAT",
+        "oznaczenie stężenia bilirubiny",
+        "próba ciążowa u kobiet w wieku rozrodczym",
+        "oznaczenie HCV RNA metodą jakościową",
+        "USG jamy brzusznej"
+    ]
+}

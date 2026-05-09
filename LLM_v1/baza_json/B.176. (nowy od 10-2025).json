@@ -1,0 +1,55 @@
+{
+    "nazwa_pliku": "B.176. (nowy od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek:18 lat i powyżej;",
+        "rozpoznanie postaci genetycznej stwardnienia zanikowego bocznego (ALS, amyotrophic lateral sclerosis) spowodowanej mutacją w genie dysmutazy ponadtlenkowej 1 SOD1 potwierdzoną badaniem genetycznym;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej ChPL;",
+        "brak przeciwwskazań do nakłucia lędźwiowego;",
+        "brak istotnych chorób współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL;",
+        "wykluczenie ciąży lub karmienia piersią;",
+        "wymagający kontynuacji leczenia, którzy byli leczeni dotychczas w ramach innego sposobu finansowania terapii, za wyjątkiem trwających badań klinicznych, pod warunkiem, że w chwili rozpoczęcia leczenia tofersenem spełniali kryteria kwalifikacji do programu lekowego"
+    ],
+    "kryteria_wylaczenia": [
+        "stopień ciężkości choroby, w którym terapia nosi znamiona uporczywej;",
+        "pojawienie się przeciwwskazań do leczenia wymienionych w Charakterystyce Produktu Leczniczego;",
+        "pojawienie się przeciwwskazań do nakłucia lędźwiowego;",
+        "drenaż płynu mózgowo-rdzeniowego;",
+        "wystąpienie chorób lub stanów, które uniemożliwiają kontynuację leczenia;",
+        "wystąpienie działań niepożądanych, które uniemożliwiają kontynuację leczenia;",
+        "wystąpienie nadwrażliwości na lek lub substancję pomocniczą uniemożliwiające kontynuację leczenia;",
+        "wystąpienie zagrażającej życiu albo nieakceptowalnej toksyczności pomimo zastosowania adekwatnego postępowania;",
+        "ciąża lub karmienie piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich ze strony świadczeniobiorcy lub jego prawnych opiekunów w szczególności dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia"
+    ],
+    "leki": [
+        {
+            "nazwa": "tofersen",
+            "dawkowanie": "100 mg na podanie, 3 dawki nasycające w odstępach 14-dniowych, następnie dawka podtrzymująca raz na 28 dni"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie genetyczne",
+        "oznaczenie stężenia aminotransferazy alaninowej",
+        "oznaczenie stężenia aminotransferazy asparaginianowej",
+        "oznaczenie stężenia kreatyniny we krwi",
+        "oznaczenie eGFR we krwi",
+        "morfologia krwi z rozmazem",
+        "koagulogram (APTT, PT, TT, fibrynogen, płytki krwi)",
+        "oznaczenie wskaźnika BMI",
+        "spirometria lub gazometria tętnicza",
+        "tomografia komputerowa głowy",
+        "test ciążowy",
+        "konsultacja neurologiczna z oceną stopnia ciężkości choroby w skali ALSFRS-R"
+    ],
+    "badania_monitorujace": [
+        "badanie dna oka",
+        "oznaczenie wskaźnika BMI",
+        "oznaczenie stężenia aminotransferazy alaninowej",
+        "oznaczenie stężenia aminotransferazy asparaginianowej",
+        "oznaczenie stężenia kreatyniny we krwi",
+        "oznaczenie eGFR we krwi",
+        "morfologia krwi z rozmazem",
+        "koagulogram (APTT, PT, TT, fibrynogen, płytki krwi)",
+        "test ciążowy"
+    ]
+}

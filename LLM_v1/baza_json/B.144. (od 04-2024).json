@@ -1,0 +1,61 @@
+{
+    "nazwa_pliku": "B.144. (od 04-2024).docx",
+    "kryteria_kwalifikacji": [
+        "rozpoznanie histologiczne lub cytologiczne nowotworu litego;",
+        "obecność fuzji genu receptorowej kinazy tyrozynowej dla neurotrofin (NTRK) potwierdzona z wykorzystaniem zwalidowanego testu sekwencjonowania kolejnej generacji (NGS, next-generation sequencing) wykonywanego w laboratorium posiadającym aktualny certyfikat europejskiego programu kontroli jakości dla danego testu;",
+        "nowotwór w stadium miejscowo zaawansowanym lub przerzutowym lub nowotwór, w przypadku którego resekcja chirurgiczna prawdopodobnie doprowadzi do poważnych i niekorzystnych następstw zdrowotnych;",
+        "brak wcześniejszego leczenia inhibitorem NTRK;",
+        "wiek od 12 roku życia - w przypadku entrektynibu;",
+        "wyczerpanie możliwości terapeutyczne lub brak innych terapii, dla których potwierdzono korzyści kliniczne w danym wskazaniu, ustalone na podstawie dokumentacji medycznej przez Zespół Koordynacyjny;",
+        "obecność zmian możliwych do zmierzenia w celu przeprowadzenia obiektywnej oceny odpowiedzi na leczenie z zastosowaniem kryteriów oceny systemu RECIST 1.1 (lub RANO w przypadku nowotworów OUN) lub obecność policzalnych zmian niemierzalnych;",
+        "stan sprawności: dorośli oraz dzieci w wieku co najmniej 16 lat 0-1 według w skali ECOG lub równoważny wynik w skali Karnofsky’ego, dzieci poniżej 16 r.ż. co najmniej 50 w skali Lansky’ego;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej na dzień wydania decyzji ChPL;",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwskazanie do terapii stwierdzonych przez Zespół Koordynacyjny lub lekarza prowadzącego w oparciu o aktualną na dzień wydania decyzji ChPL;",
+        "wykluczenie ciąży lub karmienia piersią."
+    ],
+    "kryteria_wylaczenia": [
+        "stwierdzenie progresji choroby potwierdzonej w badaniu przedmiotowym (jeśli z uwagi na charakter choroby taka ocena jest możliwa i miarodajna) lub obrazowym na podstawie kryteriów RECIST 1.1. (lub RANO w przypadku przerzutów w OUN);",
+        "wystąpienie klinicznie istotnej toksyczności leczenia lub wystąpienie przynajmniej jednego działania niepożądanego będącego zagrożeniem życia według kryteriów klasyfikacji CTC-AE lub wystąpienie nawracającej lub nieakceptowalnej toksyczności leczenia w stopniu 3. lub 4. według kryteriów klasyfikacji CTC-AE (wznowienie leczenia możliwe po ustąpieniu objawów toksyczności lub zmniejszeniu nasilenia do stopnia 1. według kryteriów klasyfikacji CTC-AE) zgodnie z zapisami ChPL;",
+        "wystąpienie chorób lub stanów, które w opinii Zespołu Koordynacyjnego lub lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie nadwrażliwości na entrektynib/larotrektynib lub na substancję pomocniczą;",
+        "obniżenie sprawności: o 1 lub 2 stopnie w zależności od wartości przy kwalifikacji, ale maksymalnie do wartości 2 według kryteriów skali ECOG, wynik w skali Karnofsky’ego lub w skali Lansky’ego poniżej 50;",
+        "okres ciąży lub karmienia piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia entrektynibem /larotrektynibem ze strony świadczeniobiorcy lub jego prawnych opiekunów."
+    ],
+    "leki": [
+        {
+            "nazwa": "Entrektynib",
+            "dawkowanie": "600 mg raz na dobę (dorosłych), 300 mg/m2 raz na dobę, maksymalnie 400 mg na dawkę dobową u pacjentów o powierzchni ciała do 1,50 m2 lub 600 mg na dawkę dobową u pacjentów o powierzchni ciała od 1,51 m2"
+        },
+        {
+            "nazwa": "Larotrektynib",
+            "dawkowanie": "100 mg dwa razy na dobę (dorosłych), 100 mg/m2 dwa razy na dobę, maksymalnie 100 mg na dawkę (dzieci i młodzież)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "histologiczne lub cytologiczne potwierdzenie obecności nowotworu litego",
+        "potwierdzenie obecności fuzji genu NTRK w materiale tkankowym uzyskanym z nowotworu na podstawie wyniku zwalidowanego testu z zastosowaniem molekularnych metod diagnostycznych",
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny",
+        "oznaczenie stężenia bilirubiny",
+        "oznaczenie aktywności aminotransferazy alaninowej",
+        "oznaczenie aktywności aminotransferazy asparaginianowej",
+        "test ciążowy u kobiet w wieku rozrodczym",
+        "elektrokardiografia (EKG)",
+        "badanie TK lub MR w zależności od sytuacji klinicznej",
+        "inne badania obrazowe w zależności od sytuacji klinicznej"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie aktywności kinazy fosfokreatynowej",
+        "oznaczenie stężenia kreatyniny",
+        "oznaczenie stężenia bilirubiny",
+        "oznaczenie aktywności aminotransferazy alaninowej",
+        "oznaczenie aktywności aminotransferazy asparaginianowej",
+        "EKG"
+    ],
+    "badania_skuteczności": [
+        "badanie TK lub MR w zależności od sytuacji klinicznej",
+        "inne badania obrazowe konieczne do oceny zmian według kryteriów RECIST 1.1. (lub RANO w przypadku przerzutów OUN) w zależności od sytuacji klinicznej"
+    ]
+}

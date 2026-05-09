@@ -1,0 +1,67 @@
+{
+    "nazwa_pliku": "B.170. (nowy od 04-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek 18 lat i więcej;",
+        "rozpoznanie amyloidozy transtyretynowej (ATTR);",
+        "postać dziedziczna ATTR potwierdzona wynikiem badania genetycznego;",
+        "stwierdzona polineuropatia stadium I lub II wg klasyfikacji Coutinho (stadium I – pacjent chodzący samodzielnie z objawami polineuropatii; stadium II – pacjent chodzący z jedno- lub obustronnym podparciem z objawami polineuropatii);",
+        "nieobecność zaawansowanej kardiomiopatii (klasa NYHA 3 lub 4);",
+        "wykluczenie występowania innej postaci amyloidozy;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej Charakterystyki Produktu Leczniczego (ChPL);",
+        "nieobecność istotnych schorzeń współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego, w tym zaawansowanych chorób lub uszkodzeń narządów skutkujących złym rokowaniem;",
+        "brak przeciwwskazań do stosowania leku zgodnie z aktualną ChPL;",
+        "wykluczenie okresu ciąży lub karmienia piersią."
+    ],
+    "kryteria_wylaczenia": [
+        "nieskuteczność terapii stwierdzona na wizycie monitorującej leczenie po 12 miesiącach leczenia definiowana jako progresja polineuropatii do stadium III wg klasyfikacji Coutinho;",
+        "znaczna progresja choroby pomimo podjętego leczenia (zgodnie z definicją przyjętą w pkt 2. Określenie czasu leczenia w programie), gdy w opinii lekarza prowadzącego oraz Zespołu Koordynacyjnego nie ma zasadności do kontynuacji terapii;",
+        "wystąpienie chorób lub stanów, które według oceny lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie objawów nadwrażliwości na którykolwiek ze stosowanych leków lub na którąkolwiek substancję pomocniczą leku, uniemożliwiających kontynuację leczenia;",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania;",
+        "okres ciąży lub karmienia piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia, ze strony świadczeniobiorcy lub jego opiekuna prawnego."
+    ],
+    "leki": [
+        {
+            "nazwa": "wutrisyran",
+            "dawkowanie": "25 mg podawane podskórnie co 3 miesiące"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie podmiotowe",
+        "badanie przedmiotowe",
+        "sekwencjonowanie genu transtyretyny (TTR)",
+        "potwierdzenie rozpoznania polineuropatii i ocena stopnia jej zaawansowania",
+        "badanie neurologiczne z oceną siły mięśniowej, odruchów ścięgnistych, czucia dotyku, bólu, temperatury, ułożenia i wibracji",
+        "badanie przewodnictwa nerwowego nerwów ruchowych i czuciowych 4-kończynowo",
+        "ocena czynności układu autonomicznego z wykorzystaniem kwestionariusza CADT",
+        "ocena obecności i nasilenia bólu neuropatycznego za pomocą skali wzrokowo-analogowej (0-10) VAS",
+        "10-metrowy test marszowy lub test 6-minutowego chodu",
+        "określenie stadium polineuropatii wg klasyfikacji Coutinho",
+        "konsultacja kardiologiczna z określeniem klasy NYHA",
+        "badania laboratoryjne krwi/surowicy: morfologia krwi z rozmazem; układ krzepnięcia: APTT, INR; AST, ALT, TSH, bilirubina, mocznik, kreatynina, eGFR, glukoza, białko całkowite, albumina, prealbumina",
+        "badanie moczu: ogólne, ocena albuminurii i proteinurii",
+        "konsultacja nefrologiczna - opcjonalnie",
+        "pomiar wskaźnika mBMI (modified body mass index)",
+        "stężenie witaminy A w surowicy krwi",
+        "konsultacja okulistyczna ukierunkowana na zmiany związane z ATTRv i powikłaniami okulistycznymi niedoboru witaminy A - opcjonalnie",
+        "hemoglobina glikowana",
+        "diagnostyka białka monoklonalnego (metodą immunofiksacji) w surowicy i w moczu oraz wolne łańcuchy lekkie w surowicy krwi (FLC)",
+        "stężenie wit. B12 w surowicy"
+    ],
+    "badania_monitorujace": [
+        "ocena stopnia zaawansowania polineuropatii",
+        "badanie neurologiczne z oceną siły mięśniowej, odruchów ścięgnistych, czucia dotyku, bólu, temperatury, ułożenia i wibracji",
+        "ocena czynności układu autonomicznego z wykorzystaniem kwestionariusza CADT",
+        "badanie przewodnictwa nerwowego nerwów ruchowych i czuciowych 4-kończynowo",
+        "ocena obecności i nasilenia bólu neuropatycznego za pomocą skali wzrokowo-analogowej (0-10) VAS",
+        "10-metrowy test marszowy lub test 6-minutowego chodu",
+        "określenie stadium polineuropatii wg klasyfikacji Coutinho",
+        "konsultacja kardiologiczna – z określeniem klasy NYHA – wykonana w ciągu miesiąca przed wizytą monitorującą",
+        "badania laboratoryjne krwi/surowicy: morfologia krwi z rozmazem; układ krzepnięcia: APTT, INR; AST, ALT, bilirubina, mocznik, kreatynina, eGFR, glukoza, białko całkowite, albumina, prealbumina",
+        "badanie moczu: ogólne, ocena albuminurii i proteinurii",
+        "konsultacja nefrologiczna - opcjonalnie",
+        "pomiar wskaźnika mBMI (modified body mass index)",
+        "konsultacja okulistyczna ukierunkowana na zmiany związane z ATTRv i powikłaniami okulistycznymi niedoboru witaminy A - opcjonalnie"
+    ]
+}

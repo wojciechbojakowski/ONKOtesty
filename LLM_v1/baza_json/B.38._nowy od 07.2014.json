@@ -1,0 +1,50 @@
+{
+    "nazwa_pliku": "B.38._nowy od 07.2014.docx",
+    "kryteria_kwalifikacji": [
+        "klirens kreatyniny niższy niż 75 ml/1,73m2/min.;",
+        "wysokość ciała dziecka poniżej -1,88 odchylenia standardowego (SDS), dla płci i wieku metrykalnego lub tempo wzrastania SDS poniżej - 2.0;",
+        "opóźniony wiek szkieletowy, poniżej 12,5 lat dla chłopców i poniżej 11,5 lat dla dziewczynek, według norm Greulicha i Pyle;",
+        "wykluczenie innych przyczyn niskorosłości."
+    ],
+    "kryteria_wylaczenia": [
+        "inna aniżeli PNN przyczyna niskorosłości;",
+        "zaburzenia przemian węglowodanowych;",
+        "choroba nowotworowa;",
+        "niezadowalający efekt leczenia, tj. przyrost wysokości ciała świadczeniobiorcy leczonego hormonem wzrostu poniżej 3cm na rok (nie dotyczy dziewcząt z wiekiem kostnym powyżej 14 lat oraz chłopców z wiekiem kostnym powyżej 16 lat);",
+        "osiągnięcie wieku kostnego powyżej 16 lat przez dziewczynkę i powyżej 18 lat przez chłopca."
+    ],
+    "leki": [
+        {
+            "nazwa": "Somatotropina",
+            "dawkowanie": "0,33 mg-0,37 mg (1,0-1,1 IU)/kg masy ciała/tydzień"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "Pomiar stężenia IGF-1",
+        "Badania densytometryczne",
+        "RTG stawów biodrowych"
+    ],
+    "badania_monitorujace": [
+        "Stężenie parathormonu (intact PTH)",
+        "Fosfataza alkaliczna",
+        "Proteinogram",
+        "Stężenie glukozy we krwi",
+        "Stężenie kreatyniny",
+        "Stężenie mocznika",
+        "Jonogram w surowicy krwi (Na+, K+, Ca++, Ca zjonizowany+, P-)",
+        "Morfologia krwi z rozmazem",
+        "Gazometria",
+        "Konsultacja urologiczna",
+        "USG jamy brzusznej",
+        "Konsultacja dietetyka",
+        "Stężenie triglicerydów",
+        "Stężenie całkowitego cholesterolu",
+        "RTG śródręcza z bliższą przynasadą kości przedramienia (do oceny wieku kostnego)",
+        "Badania densytometryczne",
+        "RTG stawów biodrowych",
+        "Konsultacja okulistyczna",
+        "Konsultacja ortopedyczna",
+        "Cystouretografia",
+        "Posiew moczu"
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "nazwa_pliku": "B.35. (od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "Wystąpienie choroby reumatycznej, w tym łuszczenia naczyn krwionośnych (PSA) i łuszczenia stawów (AS)",
+        "Brak uzyskania adekwatnej odpowiedzi na leczenie zgodnie z programem",
+        "Wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia"
+    ],
+    "adekwatna_odpowiedź": [
+        "Po 3 miesiącach (± 1 miesiąc) terapii zmniejszenie o co najmniej 30% w stosunku do wartości sprzed leczenia łącznej liczby zajętych stawów i przyczepów ścięgnistych",
+        "Po 6 miesiącach (± 1 miesiąc) terapii osiągnięcie niskiej aktywności choroby"
+    ],
+    "warunki_zmiany_terapii": [
+        "Wystąpienie ciężkiej reakcji uczuleniowej na substancję czynną lub pomocniczą",
+        "Wystąpienie ciężkich działań niepożądanych uniemożliwiających kontynuowanie terapii"
+    ],
+    "kryteria_wyłączenia": [
+        "Brak uzyskania adekwatnej odpowiedzi na leczenie zgodnie z programem",
+        "Utrata adekwatnej odpowiedzi na leczenie stwierdzona w trakcie dwóch kolejnych wizyt monitorujących"
+    ],
+    "kryteria_ponownego_włączenia": [
+        "Pacjent, u którego zaprzestano podawania substancji czynnej leku biologicznego, tofacytynibu lub upadacytynibu, zastosowanej zgodnie z zapisami programu",
+        "Pacjent jest włączany do ponownego leczenia substancją czynną, której zastosowanie wywołało niską aktywność choroby"
+    ],
+    "leki": [
+        {
+            "nazwa": "Adalimumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Certolizumab pegol",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Etanercept",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Golimumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Infliksymab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego, zmiana postaci dożylnej na postać podskórną może być przeprowadzona wyłącznie zgodnie z wymaganiami określonymi w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Iksekizumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Sekukinumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Tofacytynib",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Upadacytynib",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Ryzankizumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Guselkumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Bimekizumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "obecność czynnika reumatoidalnego (RF) (z wyłączeniem testu lateksowego);",
+        "morfologia krwi, a w przypadku pacjentów kwalifikowanych do leczenia tofacytynibem lub upadacytynibem - morfologia krwi z oznaczeniem bezwzględnej liczby granulocytów i limfocytów;",
+        "oznaczenie płytek krwi (PLT);",
+        "oznaczenie wartości odczynu Biernackiego (OB);",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST);",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT);",
+        "oznaczenie stężenia kreatyniny w surowicy krwi;",
+        "oznaczenie stężenia białka C-reaktywnego (CRP);",
+        "badanie ogólne moczu (do decyzji lekarza);",
+        "próba tuberkulinowa lub test Quantiferon;",
+        "obecność antygenu HBs;",
+        "przeciwciała anty-HBc;",
+        "przeciwciała anty-HCV;",
+        "obecność antygenu wirusa HIV (HIV Ag/Ab Combo);",
+        "oznaczenie stężenia cholesterolu całkowitego, LDL, HDL, trójglicerydów- u pacjentów kwalifikowanych do leczenia tofacytynibem lub upadacytynibem;",
+        "RTG klatki piersiowej z opisem (maksymalnie do 6 miesięcy przed kwalifikacją);",
+        "EKG z opisem;",
+        "badanie obrazowe RTG stawów krzyżowo-biodrowych, które potwierdza obecność sacroiliitis - u pacjentów z postacią osiową."
+    ],
+    "badania_monitorujace": [
+        "morfologię krwi, a w przypadku pacjentów kwalifikowanych do leczenia tofacytynibem lub upadacytynibem morfologię krwi z oznaczeniem bezwzględnej liczby granulocytów i limfocytów;",
+        "oznaczenie wartości odczynu Biernackiego (OB);",
+        "oznacznie stężenia białka C-reaktywnego (CRP);",
+        "oznaczenie stężenia kreatyniny w surowicy krwi;",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST);",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT);",
+        "oznaczenie stężenia cholesterolu całkowitego, LDL, HDL, trójglicerydów- u pacjentów kwalifikowanych do leczenia tofacytynibem lub upadacytynibem;"
+    ]
+}

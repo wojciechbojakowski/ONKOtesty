@@ -1,0 +1,52 @@
+{
+    "nazwa_pliku": "B.107. (od 09-2022).docx",
+    "kryteria_kwalifikacji": [
+        "wiek≥ 12. roku życia;",
+        "udokumentowana historia przewlekłej pokrzywki spontanicznej poprzedzająca kwalifikację do programu;",
+        "ciężka postać pokrzywki, ze wskaźnikami: Skala Aktywności Pokrzywki: UAS7≥ 28 oraz jakości życia zależnych od zmian skórnych DLQI≥10;",
+        "oporna przewlekła pokrzywka spontaniczna, w przypadku, gdy w okresie poprzedzającym kwalifikację do programu nie uzyskano oczekiwanej poprawy kontroli objawów po leczeniu lekami przeciwhistaminowymi H1 drugiej generacji przyjmowanych w dawce 4-krotnie przekraczającej dawkę standardową przez okres minimum 4 tygodni;",
+        "w przypadku kobiet i miesiączkujących dziewcząt wymagana jest zgoda na świadoma kontrolę urodzeń w czasie leczenia."
+    ],
+    "kryteria_wylaczenia": [
+        "brak odpowiedzi na leczenie omalizumabem po podaniu 3 dawek leku oceniona w 12 tygodniu na podstawie kryteriów skuteczności leczenia zdefiniowanych jako UAS7>16 lub DLQI≥10;",
+        "ciąża lub laktacja;",
+        "wystąpienie któregokolwiek z przeciwskazań do stosowania omalizumabu;",
+        "izolowany obrzęk naczynioruchowy;",
+        "wysiewy bąbli pokrzywkowych będące objawem innych schorzeń, np.: anafilaksji, chorób nowotworowych, mastocytozy czy infekcji pasożytniczych;",
+        "potwierdzona pokrzywka naczyniowa;",
+        "aktualna terapia lekami przeciwnowotworowymi, immunoglobulinami lub innymi lekami biologicznymi;",
+        "niestosowanie się pacjenta do zaleceń lekarskich."
+    ],
+    "leki": [
+        {
+            "nazwa": "omalizumab",
+            "dawkowanie": "300mg podawanych podskórnie co 4 tygodnie"
+        },
+        {
+            "nazwa": "lek przeciwhistaminowy",
+            "dawkowanie": ""
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "ocena ogólnego stanu zdrowia pacjenta na podstawie wywiadu",
+        "ocena nasilenia objawów pokrzywki: Skala Aktywności Pokrzywki: UAS7",
+        "Ocena jakości życia na podstawie kwestionariusza DLQI",
+        "morfologia krwi z rozmazem",
+        "CRP",
+        "TSH",
+        "aminotransferaza alaninowa (ALAT)",
+        "kreatynina i mocznik w surowicy",
+        "próba ciążowa u kobiet w wieku rozrodczym"
+    ],
+    "badania_monitorujace": [
+        "ocena kliniczna z oceną skuteczności leczenia i jakości życia (weryfikacja kwestionariuszy UAS7 i DLQI)",
+        "dokładny wywiad dotyczący efektów leczenia i ewentualnych działań niepożądanych",
+        "ocena kliniczna z oceną skuteczności leczenia i jakości życia (wypełnienie kwestionariuszy UAS7 i DLQI)",
+        "morfologia krwi z rozmazem",
+        "CRP",
+        "TSH",
+        "aminotransferaza alaninowa (ALAT)",
+        "próba ciążowa u kobiet w wieku rozrodczym",
+        "ocena ogólnego stanu zdrowia pacjenta na podstawie wywiadu"
+    ]
+}

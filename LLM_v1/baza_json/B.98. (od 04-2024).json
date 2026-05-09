@@ -1,0 +1,50 @@
+{
+    "nazwa_pliku": "B.98. (od 04-2024).docx",
+    "kryteria_kwalifikacji": [
+        "wiek 1-18 lat;",
+        "rozpoznanie przewlekłej (trwającej powyżej 12 miesięcy) lub przetrwałej (rozumianej jako trwającej powyżej 6 miesięcy) pierwotnej małopłytkowości immunologicznej (ITP);",
+        "niedostateczna odpowiedź na wcześniejsze leczenie farmakologiczne ITP.",
+        "wiek 1-18 lat;",
+        "rozpoznanie opornej na immunosupresję małopłytkowości immunologicznej (trwającej powyżej 4 miesięcy);",
+        "zagrażająca życiu małopłytkowość immunologiczna z cechami krwawienia lub liczbą płytek poniżej 20 tys/µL;",
+        "niedostateczna odpowiedź na leczenie kortykosteroidami, IGIV lub agonistów rTPO."
+    ],
+    "kryteria_wylaczenia": [
+        "nadwrażliwość na substancję czynną lub którąkolwiek substancję pomocniczą;",
+        "zaburzenia czynności wątroby:",
+        "wynik w skali Child-Pugh ≥ 5 – dotyczy leczenia eltrombopagiem;",
+        "wynik w skali Child-Pugh ≥ 7 – dotyczy leczenia romiplostymem;",
+        "istotne zwiększenie się aktywności AlAT (powyżej trzykrotności górnej granicy normy dla lokalnego laboratorium) w przypadkach, gdy przekroczenie normy:",
+        "brak odpowiedzi na leczenie:",
+        "eltrombopagiem w dawce 75 mg podawanej przez 4 kolejne tygodnie leczenia (4 pomiary),",
+        "lub romiplostymem pomimo stosowania maksymalnej dawki (10 μg/kg mc.) przez 4 kolejne tygodnie leczenia;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnych opiekunów.",
+        "okres ciąży lub karmienia piersią;"
+    ],
+    "leki": [
+        {
+            "nazwa": "eltrombopag",
+            "dawkowanie": "50 mg raz na dobę - dla pacjentów w wieku 6-17 lat, 25 mg raz na dobę - dla pacjentów w wieku 1-5 lat oraz dla pacjentów pochodzenia wschodnioazjatyckiego; maksymalna dawka dobowa wynosi 75 mg"
+        },
+        {
+            "nazwa": "romiplostym",
+            "dawkowanie": "1 µg/kg mc., raz w tygodniu jako wstrzyknięcie podskórne, następnie dawkę leku ustala się indywidualnie w zależności od liczby płytek krwi pacjenta oraz zmiany masy ciała"
+        },
+        {
+            "nazwa": "rytuksymab",
+            "dawkowanie": "375 mg/m2 we wlewie dożylnym raz w tygodniu, 30 minut przed wlewem rytuksymabu należy podać metyloprednizolon w dawce 100 mg dożylnie"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi z rozmazem białokrwinkowym i liczbą płytek",
+        "parametry czynności wątroby (AlAT, AspAT, bilirubina całkowita, APTT, INR, albumina)",
+        "badanie okulistyczne – dotyczy kwalifikacji do eltrombopagu",
+        "test ciążowy u kobiet w wieku rozrodczym – jeśli dotyczy."
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem białokrwinkowym i liczbą płytek",
+        "parametry czynności wątroby (AlAT, AspAT, bilirubina całkowita, APTT, INR, albumina)",
+        "biopsja szpiku kostnego z barwieniem oceniającym włóknienie",
+        "badanie okulistyczne co 6 miesięcy – dotyczy leczenia eltrombopagiem"
+    ]
+}

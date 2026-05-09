@@ -1,0 +1,52 @@
+{
+    "nazwa_pliku": "B.164. (nowy od 10-2024).docx",
+    "kryteria_kwalifikacji": [
+        "Wiek 12 lat lub powyżej",
+        "Masa ciała co najmniej 40 kg",
+        "Kliniczne objawy epizodu immunologicznej zakrzepowej plamicy małopłytkowej (iTTP), wymagającego leczenia z zastosowaniem wymiany osocza",
+        "Liczba płytek <100 x 109/L",
+        "Rozpad czerwonych krwinek stwierdzony na podstawie obecności schistocytów w rozmazie krwi",
+        "Aktywność ADAMTS13 <10% oraz obecność inhibitora anty-ADAMTS13 (leczenie może być wprowadzone w oczekiwaniu na wyniki badania ADAMTS13 na podstawie oceny stanu klinicznego i innych wyników badań wykonywanych przy kwalifikacji do programu)",
+        "Ocena aktywności ADAMTS13 musi być przeprowadzona na podstawie próbki osocza pobranej przed rozpoczęciem leczenia z zastosowaniem wymiany osocza",
+        "Wyniki badań powinny być uzyskane w ciągu 5 dni od rozpoczęcia leczenia z zastosowaniem wymiany osocza, a czas oczekiwania na wynik nie może przekroczyć 7 dni",
+        "Wykluczenie atypowego zespołu hemolityczno-mocznicowego",
+        "Wykluczenie innych przyczyn małopłytkowości"
+    ],
+    "kryteria_wylaczenia": [
+        "Wystąpienie aktywnego, istotnego klinicznie krwawienia w trakcie terapii kaplacyzumabem",
+        "Wystąpienie objawów nadwrażliwości na którąkolwiek substancję czynną lub substancję pomocniczą",
+        "Wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia",
+        "Aktywność ADAMTS13 ≥10% na podstawie oceny próbki osocza pobranej przed rozpoczęciem leczenia z zastosowaniem wymiany osocza – wynik powinien być uzyskany w ciągu 5 dni od rozpoczęcia leczenia z zastosowaniem wymiany osocza, a czas oczekiwania na wynik nie może przekroczyć 7 dni",
+        "Negatywny wynik na obecność inhibitora ADAMTS13 – na podstawie oceny próbki osocza pobranej przed rozpoczęciem leczenia z zastosowaniem wymiany osocza – wynik powinien być uzyskany w ciągu 5 dni od rozpoczęcia leczenia z zastosowaniem wymiany osocza, a czas oczekiwania na wynik nie może przekroczyć 7 dni",
+        "Aktywność ADAMTS13 ≥30%na podstawie oceny próbki osocza pobranej w trakcie trwania trzeciego, opcjonalnego etapu leczenia",
+        "Ciąża",
+        "Wystąpienie ciężkich działań niepożądanych związanych z lekiem",
+        "Brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnych opiekunów"
+    ],
+    "leki": [
+        {
+            "nazwa": "Kaplacyzumab",
+            "dawkowanie": "w połączeniu z wymianą osocza oraz immunosupresją"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie aktywności ADAMTS13",
+        "oznaczenie obecności inhibitora anty-ADAMTS13",
+        "oznaczenie aktywności dehydrogenazy mleczanowej (LDH)",
+        "oznaczenie stężenia kreatyniny",
+        "oznaczenie liczby płytek krwi",
+        "morfologia krwi z rozmazem (obecność schistocytów)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "badania przesiewowe w kierunku WZW typu B",
+        "badania przesiewowe w kierunku WZW typu C",
+        "test na HIV"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie aktywności dehydrogenzy mleczanowej (LDH)",
+        "oznaczenie stężenia kreatyniny",
+        "oznacznie stężenia haptoglobiny (Hp)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności ADAMTS13"
+    ]
+}

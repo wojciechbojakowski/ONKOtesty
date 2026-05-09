@@ -1,0 +1,173 @@
+{
+    "nazwa_pliku": "B.29. (od 07-2025).docx",
+    "Kryteria wyłączenia z programu": [
+        {
+            "type": "przejście w postać wtórnie postępującą",
+            "value": true
+        },
+        {
+            "type": "stan kliniczny chorego oceniany w trakcie badania kontrolnego w skali EDSS powyżej 7,0 (w trakcie remisji)",
+            "value": true
+        },
+        {
+            "type": "podejrzenie postępującej wieloogniskowej leukoencefalopatii (PML)",
+            "value": true
+        }
+    ],
+    "Kryteria braku skuteczności leczenia": [
+        {
+            "type": "wystąpienie 1 lub więcej rzutów w poprzednich 12 miesiącach oraz co najmniej 1 nowe ognisko GD+ lub co najmniej 2 nowe ogniska w sekwencji T2",
+            "value": true
+        },
+        {
+            "type": "progresja choroby mimo leczenia, co oznacza utrzymujące się przez co najmniej 3 miesiące pogorszenie się stanu neurologicznego o co najmniej: 2 pkt EDSS, gdy EDSS do 3,5, 1 pkt EDSS, gdy EDSS od 4,0",
+            "value": true
+        },
+        {
+            "type": "zmiany w badaniu rezonansu magnetycznego wykonanym po każdych 12 miesiącach, gdy stwierdza się jedno z poniższych: więcej niż jedna nowa zmiana Gd (+), więcej niż dwie nowe zmiany w sekwencji T2",
+            "value": true
+        }
+    ],
+    "Kryteria kontynuacji leczenia w programie": [
+        {
+            "type": "nie spełnia kryteriów wyłączenia zgodnie z pkt. 3 i kryteriów braku skuteczności wskazanych w pkt. 4",
+            "value": true
+        },
+        {
+            "type": "po ukończeniu 18 roku życia nie ma konieczności ponownej kwalifikacji pacjenta do programu, po przeniesieniu leczenia do ośrodka dla dorosłych",
+            "value": true
+        }
+    ],
+    "leki": [
+        {
+            "nazwa": "alemtuzumab",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "fingolimod",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "fumarant dimetylu",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "interferon beta-1a",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "interferon beta-1b",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "kladrybina",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "natalizumab i.v.",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "natalizumab s.c.",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "octan glatirameru",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "ofatumumab",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "okrelizumeb i.v.",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "okrelizumab s.c.",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "ozanimod",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "peginterferon beta-1a",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "ponesimod",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "siponimod",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "teryflunomide",
+            "dawkowanie": "leczenie"
+        },
+        {
+            "nazwa": "ublituximab",
+            "dawkowanie": "leczenie"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "funkcje nerek",
+        "funkcje wątroby",
+        "funkcje tarczycy",
+        "morfologia krwi z rozmazem",
+        "badanie ogólne moczu",
+        "test ciążowy u pacjentek w wieku rozrodczym",
+        "ocena stanu neurologicznego z określeniem EDSS",
+        "badania w kierunku HIV, HBV, HCV, TBC"
+    ],
+    "monitorowanie_leczenia": [
+        {
+            "typ_leku": "alemtuzumabem",
+            "częstotliwość": "co miesiąc",
+            "badania": [
+                "morfologia krwi z rozmazem",
+                "stężenie kreatyniny w surowicy",
+                "aktywność aminotransferaz",
+                "badanie moczu z mikroskopową oceną osadu"
+            ]
+        },
+        {
+            "typ_leku": "fingolimodem",
+            "częstotliwość": "co 6 miesięcy",
+            "badania": [
+                "morfologia krwi z rozmazem",
+                "okresowa kontrola ciśnienia tętniczego krwi",
+                "badanie ogólne moczu"
+            ]
+        },
+        {
+            "typ_leku": "natalizumabem i.v. lub natalizumabem s.c.",
+            "częstotliwość": "co 6 miesięcy",
+            "badania": [
+                "morfologia krwi z rozmazem",
+                "badanie moczu z mikroskopową oceną osadu",
+                "test ciążowy u kobiet w wieku rozrodczym"
+            ]
+        },
+        {
+            "typ_leku": "okrelizumabem i.v., okrelizumabem s.c. lub ublituksymabem",
+            "częstotliwość": "przed każdym podaniem leku",
+            "badania": [
+                "morfologia krwi z rozmazem",
+                "badanie ogólne moczu",
+                "test ciążowy u kobiet w wieku rozrodczym"
+            ]
+        },
+        {
+            "typ_leku": "kladrybiną",
+            "częstotliwość": "co 6 miesięcy",
+            "badania": [
+                "morfologia krwi z rozmazem",
+                "ocena stanu neurologicznego z określeniem EDSS",
+                "test ciążowy u kobiet w wieku rozrodczym"
+            ]
+        }
+    ]
+}

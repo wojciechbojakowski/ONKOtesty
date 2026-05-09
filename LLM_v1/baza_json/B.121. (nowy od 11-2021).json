@@ -1,0 +1,52 @@
+{
+    "nazwa_pliku": "B.121. (nowy od 11-2021).docx",
+    "kryteria_kwalifikacji": [
+        "zespołem miastenicznym Lamberta-Eatona (LEMS)",
+        "wynik przeciwciała przeciwko VGCC",
+        "wykazanie cech LEMS w elektrostymulacyjnej próbie męczliwości"
+    ],
+    "kryteria_wylaczenia": [
+        "ciąża i karmienie piersią",
+        "nadwrażliwość na fosforan amifamprydyny lub inny składnik preparatu",
+        "brak skuteczności leczenia",
+        "padaczka",
+        "niewyrównana astma oskrzelowa",
+        "jednoczesne stosowanie sultoprydu",
+        "jednoczesne stosowanie produktów terapeutycznych o wąskim indeksie terapeutycznym",
+        "występowanie wrodzonego zespołu QT"
+    ],
+    "leki": [
+        {
+            "nazwa": "",
+            "dawkowanie": "15 mg na dobę podawana doustnie, zwiększanie o 5 mg co 4-5 dni do maksymalnej dawki: 60 mg na dobę. Dawka pojedyncza nie powinna być większa niż 20 mg."
+        },
+        {
+            "nazwa": "",
+            "dawkowanie": "umiarkowane lub ciężkie zaburzenia czynności nerek lub wątroby – zalecana dawka początkowa wynosi 5 mg na dobę; łagodne zaburzenia czynności nerek lub wątroby – 10 mg na dobę (5 mg dwa razy na dobę). Tempo zwiększania dawki powinno być wolniejsze niż u pacjentów z prawidłową czynnością nerek i wątroby – o 5 mg co 7 dni."
+        },
+        {
+            "nazwa": "",
+            "dawkowanie": "wyjątkowe okoliczności – dopuszcza się stosowanie maksymalnej dawki 80 mg na dobę. Zwiększanie dawki z 60 mg do 80 mg na dobę powinno następować o 5 mg co 7 dni."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi z rozmazem",
+        "AlAT",
+        "AspAT",
+        "ocena obrazowa śródpiersia (tomografia komputerowa lub rezonans magnetyczny)",
+        "USG lub TK jamy brzusznej",
+        "oznaczenie przeciwciał anty-VGCC (lub dodatni wynik potwierdzający rozpoznanie w przeszłości)",
+        "badania elektrofizjologiczne (próba męczliwości lub dodatni wynik potwierdzający rozpoznanie w przeszłości)",
+        "konsultacja ginekologiczna u kobiet",
+        "badanie EKG",
+        "oznaczenie stężenia kreatyniny"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny",
+        "AlAT",
+        "AspAT",
+        "badanie EKG",
+        "inne indywidualnie ustalone przez lekarza"
+    ]
+}

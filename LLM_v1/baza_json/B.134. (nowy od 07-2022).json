@@ -1,0 +1,49 @@
+{
+    "nazwa_pliku": "B.134. (nowy od 07-2022).docx",
+    "kryteria_kwalifikacji": [
+        "wiek 18 lat i powyżej",
+        "stan sprawności wg ECOG 0-2",
+        "rozpoznanie: uogólniony proces nowotworowy (IV stopień zaawansowania) – potwierdzony histologicznie lub cytologicznie nowotwór lity lub szpiczak plazmocytowy; potwierdzona w badaniu obrazowym obecność: w przypadku nowotworów litych – co najmniej jednej zmiany przerzutowej do kości; lub w przypadku szpiczaka plazmocytowego – co najmniej jednej zmiany osteolitycznej lub zmiany naciekającej kości;",
+        "a) w przypadku pacjentów z przerzutami do kości z nowotworów litych: nietolerancja lub przeciwskazania do stosowania bisfosfonianów; b) w przypadku pacjentów ze szpiczakiem plazmocytowym: nietolerancja lub przeciwskazania do stosowania bisfosfonianów lub stwierdzenie zaburzeń funkcji nerek;",
+        "Kryteria kwalifikacji muszą być spełnione łącznie"
+    ],
+    "kryteria_wylaczenia": [
+        "ciężka, nieleczona hipokalcemia, zgodnie z punktem 4.4 Charakterystyce Produktu Leczniczego;",
+        "niezagojone rany po zabiegach stomatologicznych lub chirurgicznych w jamie ustnej;",
+        "martwica kości szczęki lub zapalenie kości szczęki w wywiadzie;",
+        "równoczesne leczenie bisfosfonianami;",
+        "równoczesne leczenie innymi produktami leczniczymi zawierającymi denosumab (z powodu osteoporozy);",
+        "objawy nadwrażliwości na denosumabu lub na którąkolwiek substancję pomocniczą preparatu;",
+        "ciąża, planowanie ciąży, karmienie piersią;",
+        "wystąpienie martwicy kości szczęki;",
+        "wystąpienie atypowego złamania kości udowej;",
+        "progresja bólu kostnego niezależna od progresji choroby podstawowej (w przypadku nowotworów litych), lub niebędąca konsekwencją terapii podstawowej (np. polineuropatii w przypadku szpiczaka plazmocytowego), zdefiniowana jako konieczność włączenia silnych opioidów lub podwojenia dawek podawanych silnych opioidów;",
+        "terminalne stadium choroby zdefiniowane jako przewidywana długość życia nieprzekraczająca 3 miesięcy;",
+        "utrzymujące się pogorszenie stanu sprawności do stopnia 3. lub 4. wg ECOG."
+    ],
+    "leki": [
+        {
+            "nazwa": "denosumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "Guzy lite",
+        "histologiczne lub cytologiczne potwierdzenie rozpoznania nowotworu złośliwego;",
+        "potwierdzenie obecności co najmniej jednej zmiany przerzutowej do kości w badaniu obrazowym;",
+        "aktywność AlAT;",
+        "aktywność AspAT;",
+        "stężenie bilirubiny;",
+        "stężenie wapnia;",
+        "stężenie kreatyniny;",
+        "test ciążowy u kobiet w wieku rozrodczym.",
+        "potwierdzenie diagnozy szpiczaka plazmocytowego zgodnie z aktualnymi zaleceniami Polskiej Grupy Szpiczakowej;",
+        "potwierdzenie występowania co najmniej jednej zmiany osteolitycznej w badaniu obrazowym;"
+    ],
+    "badania_monitorujace": [
+        "oznaczenie stężenia: wapnia w surowicy",
+        "w ciągu 2 tygodni po podaniu pierwszej dawki oraz następnie w sytuacji, kiedy wystąpią objawy hipokalcemii.",
+        "dodatkową kontrolę stężenia wapnia należy rozważyć także podczas leczenia chorych z czynnikami ryzyka rozwoju hipokalcemii lub jeżeli wymaga tego stan chorego.",
+        "inne badanie w razie wskazań klinicznych."
+    ]
+}

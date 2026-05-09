@@ -1,0 +1,49 @@
+{
+    "nazwa_pliku": "B.147. (od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek od ukończenia 18 roku życia do 75 roku życia",
+        "potwierdzone rozpoznanie depresji zakwalifikowanej wg obowiązującej klasyfikacji ICD-10 do kodów: F33.1 i F33.2",
+        "aktualny epizod depresji o nasileniu umiarkowanym (20-34) lub ciężkim (35-60) wg skali MADRS",
+        "przeciwwskazania lub oporność lub brak zgody pacjenta na terapię elektrowstrząsami; ",
+        "potwierdzenie depresji lekoopornej zdefiniowanej jako zaburzenia depresyjne u osób dorosłych, u których nie wystąpiła odpowiedź na co najmniej dwa różne leki przeciwdepresyjne (stosowane w odpowiedniej dawce przez odpowiedni czas, zgodnie z wytycznymi Polskiego Towarzystwa Psychiatrycznego i Konsultanta Krajowego ds. Psychiatrii Dorosłych) w obecnym epizodzie depresji o stopniu nasilenia od umiarkowanego do ciężkiego;",
+        "nie więcej niż 5 różnych leków przeciwdepresyjnych w bieżącym epizodzie depresji;",
+        "co najmniej drugi epizod depresji;",
+        "obecny epizod trwający co najmniej 6 miesięcy wg daty pierwszej wizyty lekarskiej związanej z leczeniem tego epizodu;",
+        "wykluczenie rozpoznanie zaburzeń osobowości typu borderline lub choroby afektywnej dwubiegunowej;",
+        "brak historii uzależnień w wywiadzie (uzależnienie od alkoholu, leków nasennych, uspokajających, przeciwbólowych lub narkotyków);",
+        "wykluczenie ciąży i okresu karmienia piersią;",
+        "występowanie stanów klinicznych, które w opinii lekarza prowadzącego uniemożliwiają włączenie terapii;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej ChPL."
+    ],
+    "kryteria_wylaczenia": [
+        "brak potwierdzonej skuteczności leczenia pod koniec fazy indukcji (redukcja wyniku w skali MADRS o mniej niż 50% w porównaniu do wyniku z badania kwalifikującego do programu);",
+        "utrata skuteczności terapii w trakcie leczenia podtrzymującego (wynik w skali MADRS > 22 w trakcie dwóch kolejnych badań);",
+        "nadwrażliwość na substancję czynną lub substancje pomocnicze;",
+        "wystąpienie działań niepożądanych związanych ze stosowaniem leku uniemożliwiających jego dalsze stosowanie;",
+        "hospitalizacja z powodu nasilenia się depresji lub innego klinicznie istotnego zdarzenia określonego na podstawie oceny klinicznej jako wskazującego na nawrót choroby depresyjnej takiej jak - próby samobójcze lub hospitalizacja w celu zapobiegania samobójstwom;",
+        "zmiana towarzyszącego leczenia przeciwdepresyjnego (z przyczyn innych niż nietolerancja doustnego leku przeciwdepresyjnego)"
+    ],
+    "leki": [
+        {
+            "nazwa": "esketamina",
+            "dawkowanie": "56 mg, kolejne podania 56 mg lub 84 mg dwa razy w tygodniu (tygodnie 1-4), następnie 56 mg lub 84 mg raz w tygodniu (tygodnie 5-8) i co 2 tygodnie lub raz w tygodniu (od 9 tygodnia)"
+        },
+        {
+            "nazwa": "lek przeciwdepresyjny z grupy SSRI lub SNRI",
+            "dawkowanie": ""
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "ocena nasilenia depresji wg skali MADRS",
+        "badanie psychiatryczne mające na celu udokumentowanie wykluczenia: zaburzeń osobowości, choroby afektywnej dwubiegunowej, uzależniania od alkoholu, leków nasennych, uspokajających, przeciwbólowych lub narkotyków",
+        "badania laboratoryjne służące ocenie wydolności narządowej",
+        "badanie poziomu TSH",
+        "pomiar ciśnienia krwi",
+        "test ciążowy w celu wykluczenia ciąży – w przypadku kobiet w wieku rozrodczym"
+    ],
+    "badania_monitorujace": [
+        "pomiary ciśnienia krwi (przed podaniem leczenia oraz około 40 minut po podaniu dawki, a następnie, zgodnie z potrzebą kliniczną)",
+        "ocena nasilenia objawów według skali MADRS",
+        "monitorowanie skuteczności leczenia"
+    ]
+}

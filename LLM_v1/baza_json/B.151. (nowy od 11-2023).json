@@ -1,0 +1,65 @@
+{
+    "nazwa_pliku": "B.151. (nowy od 11-2023).docx",
+    "kryteria_kwalifikacji": [
+        "rozpoznanie hipofosfatemii sprzężonej z chromosomem X (XLH) potwierdzone obecnością mutacji w genie PHEX u chorego lub bezpośrednio spokrewnionego członka rodziny, z którym związane jest dziedziczenie sprzężone z chromosomem X;",
+        "dzieci w wieku ≥1 r.ż. oraz młodzież, u której nie nastąpiło zamknięcie płytki wzrostowej (chrząstki nasadowej);",
+        "radiologicznie potwierdzona choroba kości (RSS ≥2);",
+        "stężenie fosforanów w surowicy na czczo poniżej zakresu prawidłowego, odpowiedniego dla wieku (dotyczy pacjentów nieleczonych burosumabem);",
+        "przerwanie stosowania doustnych fosforanów i aktywnych analogów witaminy D na 1 tydzień przed rozpoczęciem leczenia burosumabem;",
+        "wykluczenie ciężkiego zaburzenia czynności nerek lub schyłkowej niewydolności nerek;",
+        "brak przeciwskazań do terapii określonych w aktualnej Charakterystyce Produktu Leczniczego (ChPL);",
+        "poziom wapnia w surowicy zgodnie z normami skorygowanymi względem wieku;",
+        "wykluczenie nadczynności przytarczyc."
+    ],
+    "kryteria_wylaczenia": [
+        "ukończenie przez chorego 18 r.ż.;",
+        "brak skuteczności ocenianej przez Zespół Koordynacyjny zgodnie z harmonogramem monitorowania skuteczności leczenia pacjenta rozumianej jako niespełnienie jednego z następujących kryteriów ocenianych co 6 miesięcy leczenia:",
+        "brak normalizacji stężenia fosforanów w dwóch kolejnych oznaczeniach lub podwyższenie stężenia fosforanów <30% w stosunku do wartości początkowych (w warunkach, w których osiągnięto maksymalną zalecaną dawkę) ",
+        "brak normalizacji stężenia TmP/GFR przy dwóch kolejnych oznaczeniach lub podwyższenie stężenia TmP/GFR o <30% w stosunku do wartości początkowych",
+        "brak dynamiki (trendu) normalizacji poziomu fosfatazy alkalicznej (ALP) przy dwóch kolejnych oznaczeniach lub dwukrotne podwyższenie granicy normy poziomu ALP w stosunku do wartości początkowych (z wyłączeniem sytuacji, które fizjologicznie lub patologicznie podwyższają poziom ALP);",
+        "brak skuteczności ocenianej przez Zespół Koordynacyjny zgodnie z harmonogramem monitorowania skuteczności leczenia pacjenta rozumianej jako niespełnienie jednego z następujących kryteriów ocenianych w 12-tym miesiącu leczenia:",
+        "brak poprawy całkowitego wyniku RSS o ≥ 0,5 pkt. w 12 mies. względem wartości początkowych (momentu rozpoczęcia leczenia)",
+        "brak utrzymania wyniku RSS osiągniętego w czasie 12 mies. leczenia;",
+        "wystąpienie chorób lub stanów, które w opinii Zespołu Koordynacyjnego lub lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie działań niepożądanych uniemożliwiających kontynuację leczenia zgodnie z decyzją Zespołu Koordynacyjnego lub lekarza prowadzącego;",
+        "wystąpienie nadwrażliwości na lek lub substancję pomocniczą uniemożliwiające kontynuację leczenia;",
+        "wystąpienie zagrażającej życiu albo nieakceptowalnej toksyczności pomimo zastosowania adekwatnego postępowania;",
+        "okres ciąży lub karmienia piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich ze strony świadczeniobiorcy lub jego prawnych opiekunów, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy."
+    ],
+    "leki": [
+        {
+            "nazwa": "burosumab",
+            "dawkowanie": "0,8mg/kg masy ciała (zaokrąglać do najbliższej wielokrotności 10 mg), co 2 tygodnie"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie stężenia fosforanów w surowicy",
+        "oznaczenie stężenia wapnia w surowicy",
+        "oznaczenie stężenia kreatyniny w surowicy",
+        "oznaczenie stężenia fosfatazy alkalicznej w surowicy",
+        "oznaczenie stężenia parathormonu w surowicy",
+        "oznaczenie stężenia fosforanów w moczu",
+        "oznaczenie stężenia wapnia w moczu",
+        "oznaczenie stężenia kreatyniny w moczu",
+        "oznaczenie wartości wskaźnika TmP/GFR",
+        "oznaczenie wartości wskaźnika Ca/kreatynina",
+        "badanie RTG kośćca",
+        "badanie USG nerek",
+        "ocena ciężkości krzywicy na podstawie skali RSS"
+    ],
+    "badania_monitorujace": [
+        "oznaczenie stężenia fosforanów w surowicy",
+        "oznaczenie stężenia wapnia w surowicy",
+        "oznaczenie stężenia kreatyniny w surowicy",
+        "oznaczenie stężenia fosfatazy alkalicznej w surowicy",
+        "oznaczenie stężenia parathormonu w surowicy",
+        "oznaczenie stężenia fosforanów w moczu",
+        "oznaczenie stężenia wapnia w moczu",
+        "oznaczenie stężenia kreatyniny w moczu",
+        "oznaczenie wartości wskaźnika TmP/GFR",
+        "oznaczenie wartości wskaźnika Ca/kreatynina",
+        "badanie RTG stawów kolanowych i obu nadgarstków",
+        "badanie USG nerek"
+    ]
+}

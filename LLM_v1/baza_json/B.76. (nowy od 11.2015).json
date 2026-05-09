@@ -1,0 +1,67 @@
+{
+    "nazwa_pliku": "B.76. (nowy od 11.2015).docx",
+    "kryteria_kwalifikacji": [
+        "potwierdzone rozpoznane tyrozynemii typu 1 (HT-1)"
+    ],
+    "kryteria_wylaczenia": [
+        "wystąpienie nadwrażliwości na nityzynon lub substancję pomocniczą;",
+        "wystąpienie działań niepożądanych w trakcie stosowania nityzynonu;",
+        "brak skuteczności leczenia;",
+        "przeszczepienie wątroby;",
+        "inne przeciwskazania określone w Charakterystyce Produktu Leczniczego;",
+        "brak współpracy pacjenta przy realizacji programu"
+    ],
+    "leki": [
+        {
+            "nazwa": "nityzynon",
+            "dawkowanie": "Dawkowanie nityzynonu"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie profilu kwasów organicznych w moczu metodą chromatografii gazowej sprzężonej ze spektrometrią masową (GC/MS) na obecność bursztynyloacetonu;",
+        "oznaczenie bursztynyloacetonu w  „suchej” kropli krwi metodą tandemowej spektrometrii mas;",
+        "oznaczenie poziomu alfa-fetoproteiny",
+        "oznaczenie ilościowe stężenia aminokwasów w osoczu;",
+        "morfologia krwi, z  płytkami krwi;",
+        "AlAT, AspAT;",
+        "bilirubina całkowita i frakcje;",
+        "fosfataza alkaliczna;",
+        "GGTP;",
+        "INR;",
+        "czas protrombinowy;",
+        "APPT;",
+        "białko całkowite, albuminy we krwi;",
+        "gazometria;",
+        "sód, potas, chlorki we krwi;",
+        "wapń, fosfor we krwi i moczu;",
+        "mocznik, kreatynina we krwi;",
+        "kwas moczowy we krwi i moczu;",
+        "kreatynina w moczu;",
+        "USG jamy brzusznej, z oceną wątroby;",
+        "badanie oczu z użyciem lampy szczelinowej;",
+        "konsultacja dietetyczna"
+    ],
+    "badania_monitorujace": [
+        "oznaczenie bursztynyloacetonu w  „suchej” kropli krwi metodą tandemowej spektrometrii mas;",
+        "oznaczenie poziomu alfa-fetoproteiny;",
+        "oznaczenie ilościowe stężenia aminokwasów w osoczu;",
+        "morfologia krwi, z  płytkami krwi;",
+        "AlAT, AspAT;",
+        "bilirubina całkowita i frakcje;",
+        "fosfataza alkaliczna;",
+        "GGTP;",
+        "INR;",
+        "czas protrombinowy;",
+        "APPT;",
+        "białko całkowite, albuminy we krwi;",
+        "gazometria;",
+        "sód, potas, chlorki we krwi;",
+        "wapń, fosfor we krwi i moczu;",
+        "mocznik, kreatynina we krwi;",
+        "kwas moczowy we krwi i moczu;",
+        "kreatynina w moczu;",
+        "USG jamy brzusznej, z oceną wątroby;",
+        "badanie oczu z użyciem lampy szczelinowej;",
+        "konsultacja dietetyczna"
+    ]
+}

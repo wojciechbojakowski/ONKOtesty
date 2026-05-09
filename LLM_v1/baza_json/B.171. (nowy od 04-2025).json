@@ -1,0 +1,48 @@
+{
+    "nazwa_pliku": "B.171. (nowy od 04-2025).docx",
+    "kryteria_kwalifikacji": [
+        "pacjenci z rozpoznaną pierwotną nefropatią IgA (IgAN), potwierdzoną biopsją nerki;",
+        "wiek ≥ 18 lat;",
+        "ryzyko szybkiej progresji choroby rozumianej jako utrzymujący się białkomocz (stosunek białka do kreatyniny w moczu [ang. urine protein creatinine ratio - UPCR] wynoszący ≥1,5 g/gram) pomimo zoptymalizowanego leczenia nefroprotekcyjnego tj. maksymalnej tolerowanej lub maksymalnej dozwolonej dawki inhibitora konwertazy angiotensyny (ACEi) lub antagonisty receptora angiotensyny (ARB) przez ≥3 miesiące;",
+        "eGFR ≥35 ml/min/1,73 m2;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej Charakterystyki Produktu Leczniczego (zwanej dalej ChPL);",
+        "nieobecność istotnych schorzeń współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL."
+    ],
+    "kryteria_wylaczenia": [
+        "wystąpienie nadwrażliwości na budezonid lub na którąkolwiek substancję pomocniczą;",
+        "ciężkie zaburzenia czynności wątroby (stopień C według klasyfikacji Childa-Pugha);",
+        "wystąpienie ciężkich działań niepożądanych związanych z leczeniem, wymagających przerwania terapii w ocenie lekarza prowadzącego lub wystąpienie określonych w aktualnym ChPL przeciwwskazań do leczenia;",
+        "okres ciąży lub karmienia piersią, chyba że istnieją przekonujące powody uzasadniające stosowanie leku, zgodnie z aktualną ChPL;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnych opiekunów."
+    ],
+    "leki": [
+        {
+            "nazwa": "butezonid",
+            "dawkowanie": "16 mg raz na dobę przez 9 miesięcy"
+        },
+        {
+            "nazwa": "butezonid",
+            "dawkowanie": "8 mg raz na dobę przez 2 tygodnie terapii"
+        },
+        {
+            "nazwa": "butezonid",
+            "dawkowanie": "4 mg raz na dobę na dodatkowe 2 tygodnie, według uznania lekarza prowadzącego"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "wynik biopsji nerek potwierdzający rozpoznanie IgAN",
+        "morfologia krwi",
+        "ocena stężenia elektrolitów (sód, potas), kwasu moczowego i kreatyniny, eGFR, próby wątrobowe (AST, ALT, GGTP, fosfataza alkaliczna, bilirubina całkowita), glukozy i hemoglobiny glikowanej w surowicy",
+        "badanie ogólne moczu",
+        "ocena dobowego wydalania białka z moczem – na podstawie stosunku stężeń białka do kreatyniny w moczu (UPCR) - co najmniej 2 pomiary w odstępnie co najmniej miesiąca",
+        "pomiar ciśnienia tętniczego",
+        "badanie okulistyczne"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi",
+        "stężenie elektrolitów (sód, potas), kwasu moczowego i kreatyniny, eGFR, glukozy i hemoglobiny glikowanej w surowicy",
+        "badanie ogólne moczu",
+        "ocena dobowego wydalania białka z moczem na podstawie stosunku stężeń białka do kreatyniny w moczu (UPCR)",
+        "pomiar ciśnienia tętniczego"
+    ]
+}

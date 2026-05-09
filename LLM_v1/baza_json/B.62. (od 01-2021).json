@@ -1,0 +1,56 @@
+{
+    "nazwa_pliku": "B.62. (od 01-2021).docx",
+    "kryteria_kwalifikacji": [
+        "rozpoznanie pierwotnego niedoboru odporności wymagającego terapii substytucyjnej z wykorzystaniem preparatów immunoglobulin (Ig), potwierdzone przez lekarza specjalistę immunologii klinicznej;",
+        "wykluczenie innych przyczyn zaburzeń odporności;",
+        "stężenie IgG poniżej dolnej granicy normy dla wieku (z wyjątkiem D80.3 i D80.6);",
+        "wiek ≥ 18 lat."
+    ],
+    "kryteria_wylaczenia": [
+        "wystąpienie powikłań, stanowiących bezwzględne przeciwskazanie do substytucyjnego leczenia Ig, stwierdzone przez lekarza specjalistę immunologii klinicznej;",
+        "negatywna weryfikacja wskazań do dalszej terapii substytucyjnej za pomocą Ig u danego pacjenta przez lekarza specjalistę immunologii klinicznej;",
+        "brak zgody pacjenta lub jego opiekuna prawnego na kontynuację udziału w programie lekowym."
+    ],
+    "leki": [
+        {
+            "nazwa": "IVIg",
+            "dawkowanie": "0,4-0,8 g/kg m.c. co 2-4 tygodnie, a następnie co najmniej 0,2 g/kg m.c. co 3-6 tygodni"
+        },
+        {
+            "nazwa": "SCIg",
+            "dawkowanie": "0,1-0,15 g/kg m.c. w ciągu jednego tygodnia, a następnie dawki podtrzymujące w regularnych odstępach czasu tak, aby osiągnąć skumulowaną miesięczną dawkę rzędu co najmniej 0,2 g/kg m.c."
+        },
+        {
+            "nazwa": "SCIg+rHuPH20",
+            "dawkowanie": "0,4-0,8 g/kg m.c./miesiąc w odstępach od 1 do 6 tygodni, a następnie dawki podtrzymujące w regularnych odstępach czasu tak, aby osiągnąć skumulowaną miesięczną dawkę rzędu co najmniej 0,2 g/kg m.c."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "poziom IgG, IgA, IgM, IgE w surowicy krwi",
+        "morfologia krwi z rozmazem",
+        "poziom glukozy w surowicy krwi",
+        "oznaczenie w żylnej krwi obwodowej liczebności subpopulacji oraz ocena funkcji limfocytów",
+        "ocena funkcji wątroby: poziom aminotransferazy alaninowej (AlAT), aminotransferazy asparaginianowej (AspAT), fosfatazy alkalicznej (ALP) oraz gamma-glutamylotranspeptydazy (GGTP)",
+        "ocena funkcji nerek: ogólne badanie moczu, poziom kreatyniny w surowicy, ocena GFR",
+        "poziom białka C-reaktywnego (CRP)",
+        "poziom dehydrogenazy mleczanowej (LDH)",
+        "ocena wzrostu, masy ciała oraz ciśnienia tętniczego krwi",
+        "USG, RTG, TK lub MRI: klatki piersiowej, zatok obocznych nosa lub czołowych, jamy brzusznej",
+        "badania wirusologiczne: HBs-antygen oraz diagnostyka HCV i HIV metodą PCR",
+        "badanie wirusologiczne EBV metoda PCR w zależności od wskazania klinicznego"
+    ],
+    "badania_monitorujace": [
+        "poziom IgG (ew. podklas IgG, w zależności od wskazań klinicznych) w surowicy krwi",
+        "liczebność subpopulacji limfocytów w żylnej krwi obwodowej",
+        "morfologia krwi z rozmazem",
+        "poziom glukozy we krwi",
+        "ocena funkcji wątroby: poziomy AlAT, AspAT, ALP oraz GGTP",
+        "ocena funkcji nerek: ogólne badanie moczu, poziom kreatyniny, GFR",
+        "poziom CRP",
+        "poziom LDH",
+        "masa ciała na każdej wizycie",
+        "ciśnienie krwi na każdej wizycie",
+        "USG, RTG, TK lub MRI: klatki piersiowej, zatok obocznych nosa lub czołowych, jamy brzusznej",
+        "badania wirusologiczne: HBs-antygen oraz diagnostyka HCV lub HIV metodą PCR w zależności od wskazań klinicznych do decyzji lekarza prowadzącego"
+    ]
+}

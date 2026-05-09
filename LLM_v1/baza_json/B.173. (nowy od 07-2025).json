@@ -1,0 +1,57 @@
+{
+    "nazwa_pliku": "B.173. (nowy od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek 12 lat i powyżej;",
+        "rozpoznanie łysienia plackowatego potwierdzone badaniem przedmiotowym i badaniem trichoskopowym lub badaniem histologicznym;",
+        "ciężka postać choroby definiowana jako wynik w skali SALT (Severity of Alopecia Tool) ≥ 50;",
+        "łysienie plackowate trwające bez odrostu od 6 miesięcy;",
+        "nieskuteczność co najmniej jednego leczenia systemowego lub nietolerancja dotychczasowej terapii;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii;",
+        "brak przeciwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego (ChPL);",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL;",
+        "wykluczenie ciąży i okresu karmienia piersią."
+    ],
+    "kryteria_wylaczenia": [
+        "brak uzyskania co najmniej adekwatnej odpowiedzi na leczenie zgodnie z definicją przedstawioną w pkt a) Kryteria oceny skuteczności leczenia;",
+        "uzyskanie trwałej remisji choroby, która w opinii lekarza prowadzącego umożliwia zakończenie podawania leku w ramach programu;",
+        "ciąża lub laktacja – gdy leczenie nie zostaje zawieszone zgodnie z opisem w Określenie czasu leczenia w programie;",
+        "wystąpienie nadwrażliwości na lek lub substancję pomocniczą uniemożliwiające kontynuację leczenia;",
+        "wystąpienie działań niepożądanych uniemożliwiających kontynuację leczenia zgodnie z decyzją lekarza;",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia, m.in. aktywne ciężkie zakażenie, w tym gruźlica;",
+        "wystąpienie zagrażającej życiu albo nieakceptowalnej toksyczności pomimo zastosowania adekwatnego postępowania;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich ze strony świadczeniobiorcy lub jego prawnych opiekunów, dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia."
+    ],
+    "leki": [
+        {
+            "nazwa": "ritlecytynib",
+            "dawkowanie": "50 mg raz na dobę"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia białka C – reaktywnego (CRP)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "oznaczenie stężenia glukozy w surowicy krwi",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie poziomu mocznika w surowicy",
+        "oznaczenie antygenu HBS",
+        "oznaczenie przeciwciał anty-HCV",
+        "oznaczenie HCV RNA metodą ilościową PCR – w przypadku pozytywnego wyniku na przeciwciała anty-HCV",
+        "oznaczenie przeciwciał anty-HIV",
+        "test Quantiferon w kierunku zakażenia prątkiem gruźlicy",
+        "test ciążowy u kobiet w wieku rozrodczym",
+        "badanie trichoskopowe",
+        "ocena nasienia objawów choroby w skali SALT",
+        "ocena jakości życia za pomocą kwestionariusza DLQI u dorosłych oraz cDLQI u osób < 18 rż"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia białka C – reaktywnego (CRP)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "oznaczenie stężenia glukozy w surowicy krwi",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie poziomu mocznika w surowicy"
+    ]
+}

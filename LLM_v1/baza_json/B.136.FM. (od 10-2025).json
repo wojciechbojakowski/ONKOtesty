@@ -1,0 +1,40 @@
+{
+    "nazwa_pliku": "B.136.FM. (od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek ≥ 14 lat;",
+        "wielolekooporna gruźlica płuc (MDR-TB) udokumentowana dodatnim wynikiem posiewu lub badaniem molekularnym w ciągu 3 miesięcy przed lub w trakcie kwalifikacji;",
+        "udokumentowany brak odpowiedzi na leczenie najlepszym dostępnym schematem przez 6 miesięcy lub dłużej przed przystąpieniem do terapii",
+        "niewystępowanie stanów klinicznych, które w opinii lekarza prowadzącego uniemożliwiają włączenie terapii;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami Charakterystyki Produktu leczniczego (dalej ChPL);",
+        "brak przeciwskazań do stosowania każdego z leków zgodnie z ChPL;",
+        "stan sprawności powyżej 50 według skali Karnofsky’ego w ciągu 30 dni przed rozpoczęciem terapii;",
+        "brak uzależnienia od alkoholu i narkotyków ocenionego indywidualnie przez lekarza kwalifikującego;",
+        "brak zakażenia wirusem HIV z liczbą limfocytów CD4+ ≤ 50 komórek/µl;",
+        "brak wcześniejszego leczenia bedakiliną lub badakiliną w skojarzeniu z pretomanidem;",
+        "wyrażenie zgody przez pacjenta lub jego opiekuna prawnego dla chorych < 18 r. ż. na monitorowanie jego stanu zdrowia w 6 i 24 miesiącu po zakończeniu leczenia w programie lekowym."
+    ],
+    "kryteria_wylaczenia": [
+        "wystąpienie objawów nadwrażliwości na którykolwiek lek lub którąkolwiek substancje pomocniczą;",
+        "wystąpienie zagrażającej życiu lub nawrotowej toksyczności mimo zastosowania adekwatnego postepowania, zgodnie z zasadami zawartymi w aktualnych ChPL;",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają prowadzenie leczenia;",
+        "utrzymujący się stan sprawności 50 lub niższy według skali Karnofsky’ego;",
+        "ciąża lub karmienie piersią;",
+        "BMI < 17 kg/m2 w przypadku osób ≥ 18 r.ż, w przypadku pacjentów < 18 r.ż. z-score dla BMI nie niższy niż -2,5;",
+        "zakażenie wirusem HIV z liczbą limfocytów CD4+ ≤ 50 komórek/µl."
+    ],
+    "leki": [],
+    "badania_przy_kwalifikacji": [
+        "zdjęcie RTG klatki piersiowej",
+        "badania laboratoryjne (morfologia krwi z rozmazem, stężenie potasu, wapnia i magnezu w surowicy, aminotransferaza alaninowa [AlAT], aminotransferaza asparaginowa [AspAT], fosfataza zasadowa i bilirubina, stężenie kreatyniny)",
+        "badanie EKG",
+        "pomiar BMI",
+        "test ciążowy",
+        "test na obecność na wirusa HIV",
+        "badanie plwociny przy pomocy systemu BACTEC MGIT lub wykonanie testu molekularnego w przypadku gruźlicy"
+    ],
+    "badania_monitorujace": [
+        "badania czynności wątroby (AlAT, AspAT, fosfataza zasadowa i bilirubina) – w trakcie leczenia oraz zgodnie z potrzebami",
+        "morfologia krwi",
+        "badanie EKG"
+    ]
+}

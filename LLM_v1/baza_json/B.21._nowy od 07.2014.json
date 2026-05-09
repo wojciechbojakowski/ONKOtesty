@@ -1,0 +1,49 @@
+{
+    "nazwa_pliku": "B.21._nowy od 07.2014.docx",
+    "kryteria_kwalifikacji": [
+        "Punkt 1: wysoki poziom homocysteiny we krwi, tj. > 50 µmol/l, oraz nieprawidłowy poziom metioniny, tj. < 5 lub > 40 µmol/l, po wykluczeniu niedoboru witaminy B12 i kwasu foliowego",
+        "Punkt 2: negatywny wynik testu obciążenia witaminą B6 (pirydoksyną) w przypadku rozpoznania homocystynurii klasycznej (deficyt CBS)",
+        "Punkt 3: niejednoznaczne wyniki badań biochemicznych, które wymagają potwierdzenia badaniem enzymatycznym, analizą komplementarności w fibroblastach skóry lub analizą DNA"
+    ],
+    "kryteria_wylaczenia": [
+        "Wystąpienie nadwrażliwości na betainę",
+        "Pozytywny wynik testu z witaminą B6 - pacjenci z tym typem homocystynurii witaminoB6-zależnej odpowiadają bowiem na leczenie pirydoksyną w stopniu zadowalającym i nie wymagają dodatkowej podaży betainy",
+        "Dyskwalifikacja z powodu działań niepożądanych leku, w tym wystąpienie obrzęku mózgu związanego z wysokim poziomem metioniny we krwi > 1000 µmol/l u pacjentów z homocystynurią klasyczną (deficyt CBS)",
+        "Stwierdzenie nieskuteczności leczenia - weryfikacji skuteczności leczenia dokonuje co 6 miesięcy Zespół Koordynacyjny ds. Chorób Ultrarzadkich, na podstawie nadesłanej karty monitorowania terapii",
+        "Ciąża lub karmienie piersią"
+    ],
+    "leki": [
+        {
+            "nazwa": "betainy bezwodnej",
+            "dawkowanie": "100-200 mg, 2 razy na dobę"
+        },
+        {
+            "nazwa": "betainy bezwodnej",
+            "dawkowanie": "więcej niż 200 mg, w zależności od postaci deficytu MTHFR"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "poziom homocysteiny całkowitej we krwi",
+        "poziom metioniny we krwi (aminoacydogram)",
+        "morfologia krwi",
+        "stężenie witaminy B12 i kwasu foliowego we krwi",
+        "profil kwasów organicznych moczu metodą GC/MS z ilościową oceną wydalania kwasu metylomalonowego",
+        "profil acylokarnityn metodą MS/MS",
+        "MRI OUN",
+        "konsultacja neurologiczna",
+        "badanie psychologiczne, z oceną ilorazu inteligencji",
+        "badanie densytometryczne kośćca (dla pacjentów powyżej 5 roku życia)",
+        "konsultacja okulistyczna, z oceną narządu wzroku w lampie szczelinowej (jeśli pacjent nie przebył lansektomii)"
+    ],
+    "badania_monitorujace": [
+        "poziom homocysteiny całkowitej we krwi",
+        "poziom metioniny we krwi (aminoacydogram)",
+        "morfologia krwi",
+        "stężenie witaminy B12, kwasu foliowego, witaminy 250HD3 we krwi",
+        "poziom Ca, PO4 3-, fosfatazy alkalicznej we krwi",
+        "badanie psychologiczne, z oceną ilorazu inteligencji",
+        "badanie densytometryczne kośćca (dla pacjentów powyżej 5 roku życia)",
+        "konsultacja neurologiczna",
+        "konsultacja dietetyczna"
+    ]
+}

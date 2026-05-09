@@ -340,7 +340,7 @@ def parse_document2(text: str) -> Dict[str, object]:
             output[hdr] = pts
     return output
 
-def split_into_sections(text: str) -> Dict[str, str]:
+def split_into_sections(text: str) -> Dranict[str, str]:
     """
     Dzieli tekst na sekcje, zakładając że nagłówki to całe linie wielkimi literami
     lub linie kończące się dwukropkiem.

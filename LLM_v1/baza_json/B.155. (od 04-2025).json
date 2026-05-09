@@ -1,0 +1,64 @@
+{
+    "nazwa_pliku": "B.155. (od 04-2025).docx",
+    "kryteria_kwalifikacji": [
+        "Wiek: ≥3 i ≤18 r.ż.",
+        "Powierzchnia ciała ≥0,55m²",
+        "Zdolność do połykania całych kapsułek bez niszczenia ich otoczki i wysypywania zawartości",
+        "Potwierdzone klinicznie lub molekularne rozpoznanie NF-1 zgodnie z najnowszymi kryteriami konferencji konsensusu NIH-88",
+        "Objawowy, tj. powodujący istotne objawy kliniczne wymagające interwencji medycznej lub zagrożenie dla zdrowia lub życia, nieoperacyjny nerwiakowłókniak splotowaty (PN) co najmniej 3 cm w jednym wymiarze, którego nie można całkowicie usunąć chirurgicznie bez ryzyka znacznych powikłań z powodu lokalizacji lub bezpośredniego sąsiedztwa ważnych życiowo struktur anatomicznych",
+        "Stan sprawności: dorosłych i dzieci w wieku co najmniej 16 lat - co najmniej 70% w skali Karnofsky’ego, dzieci w wieku poniżej 16 r.ż. - co najmniej 70% w skali Lansky’ego",
+        "Adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej Charakterystyki Produktu Leczniczego (dalej ChPL)",
+        "Nieobecność istotnych stanów i schorzeń współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez Zespół Koordynacyjny lub lekarza prowadzącego, w oparciu o aktualną ChPL",
+        "Brak trwającej terapii przeciwnowotworowej niezależnie od przyczyny, w tym zawłaszcza: radioterapii, chemioterapii, terapii hormonalnej, przeciwnowotworowej immunoterapii lub terapii biologicznej",
+        "Brak zmian patologicznych w dokładnym badaniu okulistycznym sugerujących odwarstwienie nabłonka barwnikowego siatkówki (ang. retinal pigment epithelial detachment, RPED) lub centralną surowiczą retinopatię (ang. central serous retinopathy, CSR) ze zmniejszoną ostrością widzenia oraz jaskrę",
+        "Upłynięcie co najmniej: 4 tygodni od ewentualnego leczenia farmakologicznego z powodu PN oraz ustąpienie wszystkich ostrych działań niepożądanych, 6 tygodni od zastosowanej radioterapii, 4 tygodni od zabiegu chirurgicznego",
+        "Brak przeciwskazań do stosowania selumetynibu",
+        "Wykluczenie ciąży i okresu karmienia piersią"
+    ],
+    "kryteria_wylaczenia": [
+        "Brak korzyści klinicznych lub progresja choroby, rozumiana jako zwiększenie objętości wybranego do oceny leczenia PN o 20% lub więcej w porównaniu z wartością wyjściową, potwierdzone w kolejnym wolumetrycznym MR",
+        "Wystąpienie objawów nadwrażliwości na selumetynib lub na którąkolwiek substancję pomocniczą",
+        "Wystąpienie zagrażającej życiu lub nawrotowej toksyczności mimo zastosowania adekwatnego postępowania, zgodnie z zasadami zawartymi w aktualnej ChPL",
+        "Klinicznie istotne pogorszenie stanu sprawności ogólnej lub utrzymujący się stan sprawności: niższy niż 70% według skali Karnofsky’ego w przypadku dorosłych i dzieci mających co najmniej 16 lat, niższy niż 70% według skali Lansky’ego w przypadku dzieci poniżej 16 lat",
+        "Wystąpienie chorób lub stanów, które w opinii Zespołu Koordynacyjnego lub lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia",
+        "Okres ciąży lub karmienia piersią",
+        "Brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia selumetynibem ze strony świadczeniobiorcy lub jego prawnych opiekunów"
+    ],
+    "leki": [
+        {
+            "nazwa": "selumetynib",
+            "dawkowanie": "25mg/m2, doustnie dwa razy na dobę (co około 12 godzin)"
+        },
+        {
+            "nazwa": "selumetynib",
+            "dawkowanie": "indywidualnie ustalana na podstawie powierzchni ciała (mg/m2), zaokrąglona do najbliższej dostępnej wartości dawki 5 mg lub 10 mg (do maksymalnej pojedynczej dawki 50 mg)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie stężenia aminotransferazy alaninowej",
+        "oznaczenie stężenia aminotransferazy asparaginowej",
+        "oznaczenie stężenia albuminy",
+        "oznaczenie stężenia bilirubiny",
+        "ocena aktywności kinazy fosfokreatynowej",
+        "oznaczenie stężenia kreatyniny",
+        "oznaczenie stężenia hemoglobiny",
+        "ocena koagulogramu",
+        "pomiar ciśnienia tętniczego krwi",
+        "ocena frakcji wyrzutowej lewej komory serca (LVEF)",
+        "wywiad w kierunku występowania zaburzeń czynności lewej komory serca u pacjentów z początkową wartością LVEF poniżeje dolnej granicy normy (DGN)",
+        "echokardiografia – ocena LVEF",
+        "ocena wolumetryczna PN w badaniu MR",
+        "szczegółowe badanie okulistyczne z wykluczeniem obecnej lub przebytej w przeszłości retinopatii surowiczej środkowej, obecnej lub przebytej w przeszłości niedrożności żyły siatkówkowej oraz oceną ciśnienia śródgałkowego (IOP) i wykluczaniem niekontrolowanej jaskry",
+        "pomiar wzrostu i masy dziecka z określeniem powierzchni ciała",
+        "ocena ryzyka zadławienia kapsułką i zaburzeń połykania"
+    ],
+    "badania_monitorujace": [
+        "ocena wolumetryczna PN w badaniu MR",
+        "pomiar wzrostu i masy dziecka z określeniem powierzchni ciała (w celu dostosowania dawki leku)",
+        "echokardiografia - ocena frakcji wyrzutowej lewej komory serca (LVEF)",
+        "ocena okulistyczna",
+        "badania laboratoryjne dotyczące wątroby: oznaczenie stężenia aminotransferazy alaninowej, oznaczenie stężenia aminotransferazy asparaginowej, oznaczenie stężenia albuminy, oznaczenie stężenia bilirubiny",
+        "ocena zmian skórnych i zaburzeń tkanki podskórnej",
+        "ocena krzepliwości (w tym INR lub czas protrombinowy)"
+    ]
+}

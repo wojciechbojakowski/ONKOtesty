@@ -1,0 +1,74 @@
+{
+    "nazwa_pliku": "B.25. (od 04-2025).docx",
+    "kryteria_kwalifikacji": [
+        "mukopolisacharydoza typu II (MPS II) zdiagnozowana na podstawie udokumentowanego, znacznego deficytu aktywności enzymu sulfatazy iduronianu w surowicy lub leukocytach krwi obwodowej lub w fibroblastach skóry;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii;",
+        "brak przeciwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego (ChPL);",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL."
+    ],
+    "kryteria_wylaczenia": [
+        "stwierdzenie braku skuteczności leczenia – weryfikację skuteczności leczenia dokonuje co 6 miesięcy Zespół Koordynacyjny ds. Chorób Ultrarzadkich, na podstawie nadesłanej karty monitorowania terapii;",
+        "znaczna progresja choroby pojawiająca się pomimo leczenia;",
+        "wystąpienie zagrażającej życiu albo nieakceptowalnej toksyczności pomimo zastosowania adekwatnego postępowania;",
+        "obecność poważnych wrodzonych anomalii lub chorób współistniejących, które w ocenie lekarza kwalifikującego do leczenia lub Zespołu Koordynacyjnego ds. Chorób Ultrarzadkich, mogą uniemożliwić poprawę stanu zdrowia świadczeniobiorcy;",
+        "okres ciąży lub karmienia piersią;",
+        "wystąpienie nadwrażliwości na lek lub substancję pomocniczą uniemożliwiające kontynuację leczenia;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnych opiekunów."
+    ],
+    "leki": [
+        {
+            "nazwa": "Sulfataza iduronianu",
+            "dawkowanie": "0,5 mg/kg masy ciała, co tydzień, w postaci dożylnego wlewu, trwającego ok. 3 godzin, który może być stopniowo skracany do 1 godziny"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie molekularne w kierunku mukopolisacharydozy typu II",
+        "układ krzepnięcia",
+        "gazometria",
+        "oznaczenie: AST, ALT, CK, bilirubina",
+        "wydalanie glikozaminoglikanów z moczem",
+        "poziom przeciwciał przeciwko sulfatazie iduronianu (badanie nie jest obligatoryjne)",
+        "parametry życiowe",
+        "pomiary antropometryczne",
+        "elektroencefalografia EEG",
+        "elektrokardiografia EKG",
+        "echokardiografia",
+        "RTG klatki piersiowej",
+        "USG jamy brzusznej",
+        "MRI OUN z uwzględnieniem odcinka szyjnego kręgosłupa",
+        "RTG kręgosłupa",
+        "diagnostyka zespołu cieśni nadgarstka (EMG)",
+        "badanie pulmonologiczne (wydolność oddechowa, spirometria)",
+        "badanie audiometryczne",
+        "badanie ortopedyczne, z oceną ruchomości stawów",
+        "badanie okulistyczne",
+        "badanie psychologiczne z określeniem ilorazu inteligencji lub rozwoju psychoruchowego u młodszych dzieci",
+        "badanie narządu ruchu oraz funkcji motorycznych",
+        "test 3/6 minutowego marszu",
+        "test SF36"
+    ],
+    "badania_monitorujace": [
+        "układ krzepnięcia",
+        "gazometria",
+        "oznaczenie: AST, ALT, CK, bilirubina",
+        "wydalanie glikozaminoglikanów z moczem",
+        "poziom przeciwciał przeciwko sulfatazie iduronianu (badanie nie jest obligatoryjne)",
+        "ocena parametrów życiowych",
+        "pomiary antropometryczne",
+        "elektroencefalografia EEG",
+        "elektrokardiografia EKG",
+        "echokardiografia",
+        "USG jamy brzusznej",
+        "badanie pulmonologiczne (wydolność oddechowa, spirometria)",
+        "badanie ortopedyczne, z oceną ruchomości stawów",
+        "badanie narządu ruchu oraz funkcji motorycznych",
+        "test 3/6 minutowego marszu",
+        "test SF36",
+        "RTG klatki piersiowej",
+        "RTG kręgosłupa",
+        "MRI OUN wskazane przede wszystkim w przypadku współistniejącego wodogłowia (w zależności od decyzji lekarza)",
+        "badanie audiometryczne",
+        "badanie okulistyczne, z oceną dna oka",
+        "diagnostyka zespołu cieśni nadgarstka (EMG)"
+    ]
+}

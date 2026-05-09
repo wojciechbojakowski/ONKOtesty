@@ -1,0 +1,46 @@
+{
+    "nazwa_pliku": "B.153. (od 01-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek 2 lata i powyżej",
+        "rozpoznanie kliniczne zespołu stwardnienia guzowatego, w przypadku braku pełnej kontroli napadów padaczkowych z zastosowaniem aktualnie stosowanych leków przeciwpadaczkowych",
+        "brak kontroli napadów pomimo zastosowania co najmniej trzech leków przeciwpadaczkowych, w dotychczasowej terapii (w odpowiedniej dawce przez odpowiedni czas)",
+        "prowadzenie dzienniczka napadów padaczkowych z okresu co najmniej 6 miesięcy przed włączeniem do programu lekowego",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej Charakterystyki Produktu Leczniczego (zwanej dalej ChPL)",
+        "nieobecność istotnych schorzeń współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL",
+        "brak przeciwwskazań do stosowania kannabidiolu zgodnie z aktualną ChPL",
+        "wykluczenie okresu ciąży lub karmienia piersią"
+    ],
+    "kryteria_wylaczenia": [
+        "brak adekwatnej odpowiedzi ocenianej po pierwszych 4 miesiącach leczenia kannabidiolem, rozumianej jako nieuzyskanie co najmniej 30% redukcji miesięcznej liczby napadów w 4 miesiącu leczenia kannabidiolem w programie lekowym w porównaniu ze średnią miesięczną z 6 miesięcy bezpośrednio poprzedzających rozpoczęcie leczenia kannabidiolem",
+        "brak adekwatnej odpowiedzi ocenianej po każdych kolejnych 3 miesiącach leczenia kannabidiolem rozumianej jako nieuzyskanie co najmniej 30% redukcji miesięcznej liczby napadów w okresie ostatnich 3 miesięcy leczenia kannabidiolem w programie lekowym w porównaniu ze średnią miesięczną z 6 miesięcy bezpośrednio poprzedzających rozpoczęcie leczenia kannabidiolem",
+        "niekorzystny stosunek korzyści do ryzyka",
+        "dodanie nowego leku do schematu leczenia przeciwpadaczkowego w przypadku braku adekwatnej odpowiedzi zgodnie z punktem 3.1. lub 3.2.",
+        "ciąża, z wyjątkiem sytuacji, gdy potencjalne korzyści dla matki wyraźnie przewyższają ryzyko dla płodu",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia",
+        "wystąpienie działań niepożądanych uniemożliwiających kontynuację leczenia zgodnie z decyzją lekarza",
+        "wystąpienie nadwrażliwości na lek lub substancję pomocniczą uniemożliwiające kontynuację leczenia",
+        "wystąpienie zagrażającej życiu albo nieakceptowalnej toksyczności pomimo zastosowania adekwatnego postępowania",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich ze strony świadczeniobiorcy lub jego prawnych opiekunów, w tym brak prowadzenia dzienniczka napadów padaczkowych lub dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia"
+    ],
+    "leki": [
+        {
+            "nazwa": "kannabidiol",
+            "dawkowanie": "12,5 mg/kg mc., podawana 2 x dobę (25 mg/kg mc./dobę)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie stężenia aminotransferazy alaninowej",
+        "oznaczenie stężenia aminotransferazy asparaginianowej",
+        "oznaczenie stężenia bilirubiny całkowitej"
+    ],
+    "badania_monitorujace": [
+        "liczba napadów padaczkowych w miesiącu",
+        "liczba dni bez napadów",
+        "najdłuższy czas trwania napadu",
+        "semiologia napadu",
+        "nazwa, liczba i dawki przyjmowanych leków przerywających napad",
+        "oznaczenie stężenia aminotransferazy alaninowej",
+        "oznaczenie stężenia aminotransferazy asparaginianowej",
+        "oznaczenie stężenia bilirubiny całkowitej"
+    ]
+}

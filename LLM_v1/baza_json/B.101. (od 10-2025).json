@@ -1,0 +1,70 @@
+{
+    "nazwa_pliku": "B.101. (od 10-2025).docx",
+    "criteria": [
+        "1.2.1.",
+        "1.2.3.",
+        "1.2.4.",
+        "1.2.5."
+    ],
+    "treatment": {
+        "alirokumab": {
+            "duration": 6,
+            "target": 30
+        },
+        "ewolokumab": {
+            "duration": 6,
+            "target": 30
+        },
+        "inklisiran": {
+            "duration": 12,
+            "target": 40
+        }
+    },
+    "exclusion": [
+        "wystąpienie ciężkich reakcji alergicznych",
+        "brak skuteczności terapii",
+        "wystąpienie objawów nadwrażliwości",
+        "okres ciąży lub karmienia piersią",
+        "wystąpienie chorób lub stanów",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich"
+    ],
+    "leki": [
+        {
+            "nazwa": "Alirokumab",
+            "dawkowanie": "dorośli pacjenci: 150 mg co 2 tygodnie lub 300 mg co 4 tygodnie (miesięcznie), pediatryczni pacjenci: masa ciała poniżej 50 kg - 150 mg co 4 tygodnie, masa ciała 50 kg lub więcej - 300 mg co 4 tygodnie"
+        },
+        {
+            "nazwa": "Ewolokumab",
+            "dawkowanie": "heterozygotyczna postać hipercholesterolemii rodzinnej: 140 mg co 2 tygodnie, bardzo wysokie ryzyko chorób układu sercowo-naczyniowego: 140 mg co 2 tygodnie, homozygotyczna postać hipercholesterolemii rodzinnej: zalecana dawka początkowa to 420 mg raz w miesiącu, po 12 tygodniach leczenia - 420 mg raz na 2 tygodnie"
+        },
+        {
+            "nazwa": "Inklisiran",
+            "dawkowanie": "284 mg w pojedynczym wstrzyknięciu podskórnym, po raz pierwszy, ponownie po 3 miesiącach, a następnie co 6 miesięcy. Jeśli doszło do pominięcia zaplanowanej dawki w okresie krótszym niż 3 miesiące - inklisiran należy podać i kontynuować podawanie leku zgodnie z pierwotnym harmonogramem, jeśli doszło do pominięcia zaplanowanej dawki w okresie przekraczającym 3 miesiące - rozpocząć nowy schemat dawkowania"
+        },
+        {
+            "nazwa": "Lomitapid",
+            "dawkowanie": "Zalecana dawka początkowa wynosi 5 mg raz na dobę, po 2 tygodniach dawkę można zwiększyć do 10 mg, następnie w odstępach minimum 4 tygodni do 20 mg, 40 mg i do maksymalnej zalecanej dawki 60 mg"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie lipidogramu",
+        "oznaczenie aktywności aminotransferazy alaninowej (AlAT)",
+        "test ciążowy (u kobiet w wieku rozrodczym)",
+        "oznaczenie stężenia kreatyniny oraz badanie eGFR",
+        "oznaczenie aktywności kinazy kreatynowej (CK)",
+        "wynik badania genetycznego potwierdzającego występowanie HoFH w wywiadzie",
+        "oznaczenie aktywności aminotransferazy asparaginowej (AspAT) i fosfatazy alkalicznej (ALP)",
+        "oznaczenie stężenia bilirubiny całkowitej",
+        "oznaczenie stężenia albumin w surowicy krwi",
+        "oznaczanie aktywności transpeptydazy gamma - glutamylowej (GGTP)",
+        "badania przesiewowe w celu wykrycia stłuszczeniowego zapalenia i zwłóknienia wątroby"
+    ],
+    "badania_monitorujace": [
+        "monitorowanie bezpieczeństwa leczenia",
+        "badanie lipidogramu",
+        "oznaczenie stężenia cholesterolu i trójglicerydów",
+        "badania czynności wątroby (przynajmniej oznaczenie AlAT i AspAT)",
+        "badania przesiewowe w celu wykrycia stłuszczeniowego zapalenia i zwłóknienia wątroby"
+    ]
+}

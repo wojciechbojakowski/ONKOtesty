@@ -1,0 +1,72 @@
+{
+    "nazwa_pliku": "B.163.FM. (nowy od 07-2024).docx",
+    "kryteria_kwalifikacji": [
+        "Wzrost lub zagrożenie rozwoju guza poza gałkę oczną i brak możliwości postępowania terapeutycznego po zastosowaniu dostępnych metod leczenia miejscowego (dopuszczalna jest wcześniejsza resekcja chirurgiczna choroby oligometastatycznej);",
+        "Obecność przerzutów czerniaka błony naczyniowej stwierdzana w badaniach obrazowych wymienionych w punkcie 'badania przy kwalifikacji do leczenia';",
+        "Histologiczne lub cytologiczne potwierdzenie czerniaka błony naczyniowej oka;",
+        "Potwierdzona obecność antygenu leukocytarnego (HLA)-A*02:01;",
+        "Wiek 18 lat i powyżej;",
+        "Stopień sprawności 0 lub 1 według skali ECOG;",
+        "Odset QTc ≤ 500 ms;",
+        "Brak wcześniejszej terapii systemowej czerniaka błony naczyniowej oka (nie dotyczy terapii neoadjuwantowej i adjuwantowej stosowanej w leczeniu radykalnym pacjentów z chorobą miejscową);",
+        "W przypadku współistnienia innych aktywnych nowotworów kwalifikacja do leczenia musi uwzględniać rokowanie związane ze współistniejącym nowotworem;",
+        "Wykluczenie ciąży i okresu karmienia piersią;",
+        "Adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej Charakterystyki Produktu Leczniczego (zwanej dalej ChPL);",
+        "Nieobecność istotnych schorzeń współistniejących i stanów klinicznych stanowiących przeciwwskazanie do terapii, stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL lub wiedzę medyczną;",
+        "Zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną ChPL."
+    ],
+    "kryteria_wylaczenia": [
+        "Progresja choroby ocenianej zgodnie z aktualnie obowiązującymi  kryteriami RECIST;",
+        "Dopuszcza się możliwość kontynuacji leczenia w programie u chorych z progresją choroby w przypadku: braku klinicznych objawów progresji, braku pogorszenia stanu sprawności według kryteriów ECOG, braku zagrożenia niewydolnością narządów.",
+        "Ponowny wzrost sumy wymiarów ocenianych zmian (z uwzględnieniem nowych zmian mierzalnych) o co najmniej 20% z jednoczesnym wzrostem tej sumy o co najmniej 5 mm;",
+        "Jednoznaczna progresja zmian pozostałych;",
+        "Nowa zmiana.",
+        "Wystąpienie nadwrażliwości na lek lub na którąkolwiek substancję pomocniczą;",
+        "Wystąpienie działań niepożądanych związanych z lekiem uniemożliwiających jego dalsze stosowanie;",
+        "Wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania;",
+        "Wystąpienie chorób lub stanów, które w opinii Zespołu Koordynacyjnego ds. Leczenia Czerniaka Błony Naczyniowej Oka lub lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "Pogorszenie stanu sprawności o 1 lub 2 stopnie, w zależności od wartości przy kwalifikacji, ale maksymalnie do wartości 3 wg skali ECOG;",
+        "Okres ciąży lub karmienia piersią;",
+        "Brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub opiekuna prawnego."
+    ],
+    "leki": [
+        {
+            "nazwa": "tabentafuspu",
+            "dawkowanie": "20 µg - 1. dnia; 30 µg - 8. dnia; 68 µg– 15. dnia; następnie 68 µg co tydzień."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "test do genotypowania HLA w celu potwierdzenia występowania u pacjenta genotypu HLA-A*02:01;",
+        "badanie histologiczne lub cytologiczne w celu potwierdzenia czerniaka błony naczyniowej oka;",
+        "morfologia krwi z rozmazem;",
+        "oznaczenie stężenia bilirubiny we krwi;",
+        "oznaczenie stężenia kreatyniny we krwi;",
+        "oznaczenie aktywności aminotransferazy alaninowej we krwi;",
+        "oznaczenie aktywności aminotransferazy asparaginianowej we krwi;",
+        "oznaczenie aktywności fosfatazy zasadowej we krwi;",
+        "oznaczenie aktywności dehydrogenazy mleczanowej we krwi;",
+        "oznaczenie stężenia elektrolitów we krwi (sód i potas);",
+        "badanie ultrasonograficzne gałki ocznej w celu oceny wielkości guza (w przypadku choroby pierwotnej);",
+        "badania obrazowe potwierdzające obecność przerzutów:",
+        "badanie tomografii komputerowej lub rezonans magnetyczny mózgu;",
+        "badanie tomografii komputerowej klatki piersiowej, jamy brzusznej i miednicy;",
+        "badanie tomografii komputerowej lub inne badania obrazowe w zależności od sytuacji klinicznej;",
+        "elektrokardiogram (EKG) z oceną odstępu QTc (w przypadkach wątpliwych – konsultacja kardiologiczna);",
+        "test ciążowy u kobiet w wieku rozrodczym;",
+        "pełne badanie przedmiotowe z oceną całej skóry;",
+        "inne badania laboratoryjne i obrazowe w razie wskazań klinicznych."
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem;",
+        "oznaczenie stężenia bilirubiny we krwi;",
+        "oznaczenie stężenia kreatyniny we krwi;",
+        "oznaczenie aktywności aminotransferazy alaninowej we krwi;",
+        "oznaczenie aktywności aminotransferazy asparaginianowej we krwi;",
+        "oznaczenie aktywności fosfatazy zasadowej we krwi;",
+        "oznaczenie aktywności dehydrogenazy mleczanowej we krwi;",
+        "oznaczenie stężenia elektrolitów we krwi (sód i potas);",
+        "pełne badanie przedmiotowe z oceną całej skóry;",
+        "test ciążowy (u kobiet w wieku rozrodczym);",
+        "EKG z oceną odstępu QTc w razie wskazań klinicznych;"
+    ]
+}

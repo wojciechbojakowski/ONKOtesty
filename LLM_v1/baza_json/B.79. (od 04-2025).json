@@ -1,0 +1,81 @@
+{
+    "nazwa_pliku": "B.79. (od 04-2025).docx",
+    "kryteria_kwalifikacji": [
+        "rok 18 lat i powyżej",
+        "stan sprawności 0-2 według skali ECOG",
+        "rozpoznanie przewlekłej białaczki limfocytowej",
+        "obecność wskazań do leczenia wg International Workshop on Chronic Lymphocytic Leukemia updating (the National Cancer Institute-Working Group (IWCLL))",
+        "brak przeciwwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego",
+        "brak nadwrażliwości na którykolwiek lek lub białka mysie lub którąkolwiek substancję pomocniczą leku",
+        "wykluczenie ciąży i okresu karmienia piersią",
+        "zgoda pacjenta na prowadzenie antykoncepcji zgodnie z odpowiednią, aktualną Charakterystyką Produktu Leczniczego",
+        "nieobecność aktywnych, ciężkich zakażeń",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o odpowiednie, aktualne Charakterystyki Produktu Leczniczego",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii"
+    ],
+    "kryteria_wylaczenia": [
+        "progresja choroby w trakcie leczenia, w tym transformacja do bardziej agresywnego chłoniaka",
+        "wystąpienie objawów nadwrażliwości na którykolwiek ze stosowanych leków lub na białka mysie lub na którąkolwiek substancję pomocniczą leku, uniemożliwiających kontynuację leczenia",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania",
+        "wystąpienie postępującej wieloogniskowej leukoencefalopatii lub ciężkich reakcji skórnych (toksyczna nekroliza naskórka, zespół Stevensa Jonhsona) – w przypadku terapii wenetoklaksem w połączeniu z przeciwciałem anty-CD20",
+        "wystąpienie niekontrolowanej autoimmunologicznej anemii hemolitycznej lub immunologicznej trombocytopenii – w przypadku terapii z zastosowaniem wenetoklaksu w monoterapii lub w połączeniu z przeciwciałem monoklonalnym anty-CD20 albo ibrutynibem",
+        "okres ciąży lub karmienia piersią",
+        "wystąpienie chorób lub stanów, które według oceny lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia, ze strony świadczeniobiorcy lub jego opiekuna prawnego"
+    ],
+    "leki": [
+        {
+            "nazwa": "ibrutynib",
+            "dawkowanie": "420 mg 1 raz na dobę"
+        },
+        {
+            "nazwa": "akalabrutynib",
+            "dawkowanie": "100 mg dwa razy na dobę (co odpowiada całkowitej dawce dobowej 200 mg)"
+        },
+        {
+            "nazwa": "obinutuzumab",
+            "dawkowanie": "1000 mg w dniach 1., 2. (kontynuacja dnia 1.), 8. i 15. pierwszego 28-dniowego cyklu leczenia"
+        },
+        {
+            "nazwa": "zanubrutynib",
+            "dawkowanie": "320 mg na dobę"
+        },
+        {
+            "nazwa": "wenetoklaks",
+            "dawkowanie": "20 mg 1 raz na dobę przez 7 dni, następnie stopniowo zwiększać do dawki dobowej 400 mg"
+        },
+        {
+            "nazwa": "rituksymab",
+            "dawkowanie": "375 mg/m2 powierzchni ciała podawanego dożylnie w dniu 1. 28-dniowego cyklu, następnie 500 mg/m2 powierzchni ciała w dniu 1. każdego 28-dniowego cyklu"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi obwodowej z rozmazem",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie wskaźnika eGFR",
+        "oznaczenie stężenia kwasu moczowego w surowicy krwi",
+        "oznaczenie aktywności dehydrogenazy mleczanowej (LDH)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi",
+        "ocena stopnia zaawansowania klinicznego wg klasyfikacji Rai'a lub Bineta",
+        "ocena masy guza z zastosowaniem badań obrazowych (USG j. brzusznej i RTG klatki piersiowej albo w przypadkach uzasadnionych klinicznie TK lub MRI)",
+        "przesiewowe badanie w kierunku HBV (HBsAg i HBcAb, a w razie konieczności HBV DNA)",
+        "przesiewowe badanie w kierunku HCV (anty-HCV, a w razie konieczności HCV RNA)",
+        "elektrokardiografia (EKG)",
+        "test ciążowy (u kobiet w wieku rozrodczym)"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi obwodowej z rozmazem",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie stężenia kwasu moczowego w surowicy krwi",
+        "oznaczenie aktywności dehydrogenazy mleczanowej (LDH)",
+        "oznaczenie stężenia potasu w surowicy krwi",
+        "oznaczenie stężenia fosforanów w surowicy krwi",
+        "oznaczenie stężenia wapnia w surowicy krwi",
+        "ocena stopnia zaawansowania klinicznego wg klasyfikacji Rai'a lub Bineta",
+        "ocena masy guza z zastosowaniem badań obrazowych (USG j. brzusznej i RTG klatki piersiowej albo w przypadkach uzasadnionych klinicznie TK lub MRI)",
+        "EKG w celu wykrycia migotania przedsionków"
+    ]
+}

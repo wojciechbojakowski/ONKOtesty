@@ -1,0 +1,67 @@
+{
+    "nazwa_pliku": "B.145. (nowy od 07-2023).docx",
+    "kryteria_kwalifikacji": [
+        "wiek 18 lat i powyżej;",
+        "stan sprawności 0-2 według skali ECOG;",
+        "uprzednio nieleczona układowa amyloidoza łańcuchów lekkich (AL);",
+        "eGFR ≥ 20 ml/min/1,73m2 pc.;",
+        "stężenie NT-proBNP ≤ 8 500 ng/l;",
+        "skurczowe ciśnienie krwi ≥ 90mmHg;",
+        "brak niewydolności serca w stopniu IIIB i IV wg klasyfikacji NYHA;",
+        "brak przeciwwskazań do stosowania leków (składowych schematu leczenia) zgodnie z aktualnymi Charakterystykami Produktu Leczniczego;",
+        "brak nadwrażliwości na którykolwiek lek lub którąkolwiek substancję pomocniczą leku;",
+        "wykluczenie ciąży i okresu karmienia piersią;",
+        "zgoda pacjenta na prowadzenie antykoncepcji zgodnie z odpowiednią, aktualną Charakterystyką Produktu Leczniczego;",
+        "nieobecność aktywnych, ciężkich zakażeń;",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o odpowiednie, aktualne Charakterystyki Produktu Leczniczego;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii."
+    ],
+    "kryteria_wylaczenia": [
+        "progresja choroby w trakcie stosowania leczenia (po co najmniej 3 cyklach leczenia) definiowana jako: wystąpienie progresji hematologicznej (na podstawie stężenia białka M i sFLC), lub wystąpienie progresji narządowej (serca, nerek lub wątroby);",
+        "brak co najmniej bardzo dobrej odpowiedzi częściowej (VGPR) po 6 cyklach leczenia;",
+        "wystąpienie chorób lub stanów, które według oceny lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie objawów nadwrażliwości na którykolwiek ze stosowanych leków lub na którąkolwiek substancję pomocniczą leku, uniemożliwiających kontynuację leczenia;",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania;",
+        "okres ciąży lub karmienia piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia, ze strony świadczeniobiorcy lub jego opiekuna prawnego."
+    ],
+    "leki": [
+        {
+            "nazwa": "daratumumab",
+            "dawkowanie": "s.c. 1800 mg/podanie, raz w tygodniu w tygodniach 1-8, co dwa tygodnie w tygodniach 9-24 oraz od 25 tygodnia leczenia co 4 tygodnie"
+        },
+        {
+            "nazwa": "bortezomib",
+            "dawkowanie": "1,3 mg/m2 pc., podawana podskórnie w dniach 1., 8., 15. i 22. każdego cyklu przez pierwsze 6 cykli"
+        },
+        {
+            "nazwa": "cyklofosfamid",
+            "dawkowanie": "300 mg/m2 pc., podawana doustnie lub dożylnie (dawka maksymalna 500 mg) w dniach 1., 8., 15. i 22. każdego cyklu przez pierwsze 6 cykli"
+        },
+        {
+            "nazwa": "deksametazon",
+            "dawkowanie": "40 mg (lub 20 mg u pacjentów: w wieku > 70 lat lub ze wskaźnikiem masy ciała [BMI] <18,5 lub u pacjentów z hiperwolemią, źle kontrolowaną cukrzycą lub wcześniejszą nietolerancją steroidów), podawana doustnie lub dożylnie w dniach 1., 8., 15. i 22. każdego cyklu przez pierwsze 6 cykli"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "wykazanie amyloidu za pomocą barwienia dowolnego materiału tkankowego czerwienią Kongo",
+        "bezpośrednie typowanie amyloidu wykazujące obecność fragmentów łańcuchów lekkich immunoglobulin",
+        "wykazanie monoklonalnego rozrostu plazmocytów na podstawie stwierdzenia białka M (badanie elektroforezy i immunofiksacji białek surowicy i moczu) lub dysproporcji sFLC (badanie wolnych łańcuchów lekkich w surowicy) lub obecności klonalnych plazmocytów w szpiku czy innych tkankach (badanie histopatologiczne lub cytometryczne)",
+        "ocena zajęcia narządowego – serce: oznaczenie stężenia NT-proBNP, oznaczenie stężenia troponiny T lub troponiny I, pomiar wartości ciśnienia tętniczego, badanie echokardiograficzne serca, elektrokardiografia (EKG), rezonans magnetyczny serca (jeśli jest wskazany)",
+        "ocena zajęcia narządowego – wątroba: oznaczenie aktywności aminotransferazy alaninowej (ALT), oznaczenie aktywności aminotransferazy asparaginianowej (AST), oznaczenie stężenia fosfatazy zasadowej, oznaczenie stężenia bilirubiny całkowitej w surowicy krwi, ultrasonografia (USG) wątroby",
+        "ocena zajęcia narządowego – nerki: pomiar ilości białka w dobowej zbiórce moczu, oznaczenie stężenia kreatyniny w surowicy krwi, oznaczenie klirensu kreatyniny",
+        "morfologia krwi z rozmazem (wzorem odsetkowym)",
+        "oznaczenie stężenia i stosunku wolnych łańcuchów lekkich kappa/lambda w surowicy krwi (sFLC)",
+        "pośredni test antyglobulinowy (test pośredni Coombs’a)"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem (wzorem odsetkowym)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie klirensu kreatyniny",
+        "oznaczenie stężenia NT-proBNP",
+        "pomiar ilości białka w dobowej zbiórce moczu"
+    ]
+}

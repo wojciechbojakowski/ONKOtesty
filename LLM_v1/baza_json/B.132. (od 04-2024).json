@@ -1,0 +1,36 @@
+{
+    "nazwa_pliku": "B.132. (od 04-2024).docx",
+    "kryteria_kwalifikacji": [
+        "pediatryczny lub dorosły biorca przeszczepu allogenicznych krwiotwórczych komórek macierzystych (alloHSCT);",
+        "stwierdzona seropozytywność (obecne IgG) biorcy względem CMV;",
+        "brak przeciwwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego;",
+        "wykluczenie ciąży i okresu karmienia piersią (dotyczy kobiet w wieku rozrodczym);",
+        "zgoda pacjenta na prowadzenie antykoncepcji (dotyczy pacjentów w wieku rozrodczym) zgodnie z aktualną Charakterystyką Produktu Leczniczego;",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną Charakterystyką Produktu Leczniczego;",
+        "nieobecność ciężkiego (klasa C w skali Child-Pugh) zaburzenia czynności wątroby;",
+        "nieobecność umiarkowanego zaburzenia czynności wątroby (klasa B w skali Child-Pugh) i współwystępującego umiarkowanego (wartość eGFR 31,0 do 56,8 ml/min/1,73 m2) lub ciężkiego (wartość eGFR 11,9 do 28,1 ml/min/1,73 m2) zaburzenia czynności nerek."
+    ],
+    "kryteria_wylaczenia": [
+        "stwierdzenie przez lekarza prowadzącego konieczności rozpoczęcia leczenia wyprzedzającego wskutek wystąpienia u pacjenta klinicznie istotnej CMV DNA-emii (zgodnie ze standardową procedurą operacyjną ośrodka transplantacyjnego prowadzącego leczenie, nie dotyczy to wykrywania CMV DNA uwalnianego z komórek w postaci niezakaźnej);",
+        "wystąpienie chorób lub stanów, które według oceny lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie objawów nadwrażliwości na lek lub na którąkolwiek substancję pomocniczą leku, uniemożliwiających kontynuację leczenia;",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania;",
+        "okres ciąży lub karmienia piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia, ze strony świadczeniobiorcy lub jego opiekuna prawnego."
+    ],
+    "leki": [
+        {
+            "nazwa": "Letermowir",
+            "dawkowanie": "Dorośli pacjenci: 240 mg lub 480 mg, pediatryczni pacjenci: >30 kg - 240 mg lub 480 mg, 18-30 kg - 120 mg (lub 240 mg), <18 kg - 60 mg"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie statusu serologicznego CMV IgG i IgM biorcy;",
+        "ocena wydolności wątroby: oznaczenie stężenie bilirubiny w surowicy krwi, oznaczenie stężenia albuminy w surowicy krwi, oznaczenie INR, oznaczenie aktywności aminotransferazy alaninowej (ALT), określenie skali Child-Pugh;",
+        "ocena wydolności nerek: oznaczenie stężenia kreatyniny w surowicy krwi, oznaczenie wskaźnika eGFR."
+    ],
+    "badania_monitorujace": [
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT),",
+        "oznaczenie stężenia kreatyniny w surowicy krwi,"
+    ]
+}

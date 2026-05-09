@@ -1,0 +1,41 @@
+{
+    "nazwa_pliku": "B.18. (od 03-2020).docx",
+    "kryteria_kwalifikacji": [
+        "przedwczesne dojrzewanie płciowe typu ośrodkowego u dzieci (objawy dojrzewania płciowego u dziewcząt poniżej 8 roku życia, u chłopców poniżej 10 roku życia) ustalone na podstawie badań laboratoryjnych i obrazowych oraz badania klinicznego;",
+        "wczesne dojrzewanie płciowe z dużą akceleracją wieku kostnego i niskim przewidywanym wzrostem docelowym."
+    ],
+    "kryteria_wylaczenia": [
+        "osiągnięcie przez świadczeniobiorcę wieku chronologicznego właściwego dla wystąpienia cech dojrzewania płciowego;",
+        "stwierdzenie wieku kostnego: powyżej 13 lat;",
+        "zmniejszenie tempa wzrastania poniżej dolnej granicy normy dla okresu prepubertalnego (na rok)"
+    ],
+    "leki": [
+        {
+            "nazwa": "triptorelina",
+            "dawkowanie": "połowa zawartości ampułki 3,75 mg (u dzieci o masie ciała mniejszej niż zazwyczaj) co 28 dni; zawartość 1 ampułki 3,75 mg (u dzieci o masie ciała przekraczającej zazwyczaj) co 28 dni"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "stężenie β-gonadotropiny kosmówkowej (β-HCG)",
+        "stężenie estradiolu",
+        "stężenie siarczanu dehydroepiandrosteronu",
+        "stężenie 17-hydroksyprogesteronu",
+        "stężenie testosteronu",
+        "test stymulacji wydzielania LH i FSH",
+        "stężenie luteotropiny",
+        "stężenie folikulotropiny",
+        "stężenie prolaktyny",
+        "profil steroidów w moczu (w zależności od potrzeb)",
+        "RTG śródręcza ręki niedominującej, z przynasadami kości przedramienia, celem oceny wieku kostnego",
+        "USG miednicy małej i nadnerczy",
+        "badanie tomografii komputerowej lub rezonans magnetyczny głowy (układu podwzgórzowo-przysadkowego) w celu wykluczenia guza wewnątrzczaszkowego",
+        "pomiar wysokości i masy ciała, należy określić dotychczasowy przebieg wzrastania, dokonać oceny wzrostu rodziców, obliczyć wzrost docelowy dziecka",
+        "należy ocenić obecność cech płciowych i stadium dojrzewania płciowego według skali Tannera-Marschalla"
+    ],
+    "badania_monitorujace": [
+        "LH",
+        "FSH",
+        "ocenić występowanie cech płciowych według kryteriów Tannera-Marschalla",
+        "RTG śródręcza, z przynasadami kości przedramienia, celem oceny wieku kostnego"
+    ]
+}

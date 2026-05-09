@@ -1,0 +1,63 @@
+{
+    "nazwa_pliku": "B.112. (od 04-2025).docx",
+    "kryteria_kwalifikacji": [
+        "potwierdzone rozpoznanie mukowiscydozy",
+        "pisemna zgoda pacjenta lub opiekuna prawnego pacjenta na udział w programie",
+        "zgoda na monitorowanie efektów klinicznych leczenia na podstawie danych zebranych przez świadczeniodawcę lub płatnika w systemach informatycznych oraz w polskiej części Europejskiego Rejestru Mukowiscydozy",
+        "brak przeciwwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o odpowiednie, aktualne Charakterystyki Produktu Leczniczego",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii"
+    ],
+    "kryteria_wylaczenia": [
+        "brak skuteczności leczenia w ocenie trzyosobowego konsylium lekarskiego",
+        "stan po przeszczepieniu płuc",
+        "aktywność aminotransferazy alaninowej lub asparaginowej 5-krotnie większa od górnej granicy normy lub 3-krotnie większa od górnej granicy normy z jednoczesnym podwyższeniem stężenia bilirubiny 2-krotnie powyżej górnej granicy normy",
+        "ciężkie zaburzenia funkcjonowania wątroby (klasa C w skali Childa-Pugha) – dotyczy wyłącznie terapii eleksakaftorem/ tezakaftorem /iwakaftorem w skojarzeniu z iwakaftorem",
+        "wystąpienie działań niepożądanych uniemożliwiających kontynuację leczenia zgodnie z decyzją lekarza",
+        "okres ciąży lub planowania ciąży lub karmienia piersią (wyłączenie czasowe, na okres trwania ciąży, planowania ciąży i karmienia piersią)",
+        "wystąpienie objawów nadwrażliwości na którykolwiek ze stosowanych leków lub na którąkolwiek substancję pomocniczą leku, uniemożliwiających kontynuację leczenia",
+        "wystąpienie chorób lub stanów, które według oceny lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania",
+        "wycofanie zgody na monitorowanie efektów klinicznych leczenia na podstawie danych zebranych przez świadczeniodawcę lub płatnika w systemach informatycznych oraz w polskiej części Europejskiego Rejestru Mukowiscydozy",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia, ze strony świadczeniobiorcy lub jego opiekuna prawnego"
+    ],
+    "leki": [
+        {
+            "nazwa": "Iwakaftor",
+            "dawkowanie": "Granulat zawierający 50 mg co 12 godzin doustnie z posiłkiem zawierającym tłuszcze. (wiek 12 miesięcy i powyżej oraz masa ciała ≥7 kg do <14 kg), Dawka poranna: Jedna tabletka zawierająca 150 mg iwakaftoru. Dawka wieczorna: Jedna tabletka zawierająca 150 mg iwakaftoru. (wiek 6 lat i powyżej oraz masa ciała ≥ 25 kg)"
+        },
+        {
+            "nazwa": "Lumakaftor/iwakaftor",
+            "dawkowanie": "Dawka poranna: 1 saszetka zawierająca lumakaftor 100 mg/ iwakaftor 125 mg. Dawka wieczorna: 1 saszetka zawierająca lumakaftor 100 mg/ iwakaftor 125 mg. (wiek 2 do 5 lat oraz masa ciała <14 kg), Dawka poranna: 1 saszetka zawierająca lumakaftor 150 mg/ iwakaftor 188 mg. Dawka wieczorna: 1 saszetka zawierająca lumakaftor 150 mg/ iwakaftor 188 mg. (wiek 2 do 5 lat oraz masa ciała ≥14 kg)"
+        },
+        {
+            "nazwa": "Tezakaftor/iwakaftor w skojarzeniu z iwakaftorem",
+            "dawkowanie": "Dawka poranna: 1 tabletka zawierająca 50 mg tezakaftoru/ 75 mg iwakaftoru. Dawka wieczorna: 1 tabletka zawierająca 75 mg iwakaftoru. (wiek 6 do < 12 lat oraz masa ciała < 30 kg), Dawka poranna: 1 tabletka zawierająca 100 mg tezakaftoru/ 150 mg iwakaftoru. Dawka wieczorna: 1 tabletka zawierająca 150 mg iwakaftoru. (wiek 6 do < 12 lat oraz masa ciała ≥ 30 kg), Dawka poranna: 1 tabletka zawierająca 100 mg tezakaftoru/ 150 mg iwakaftoru. Dawka wieczorna: 1 tabletka zawierająca 150 mg iwakaftoru. (wiek ≥ 12 lat)"
+        },
+        {
+            "nazwa": "Eleksakaftor/tezakaftor/iwakaftor w skojarzeniu z iwakaftorem",
+            "dawkowanie": "Dawka poranna: 1 saszetka granulatu zawierająca 60 mg iwakaftoru, 40 mg tezakaftoru i 80 mg eleksakaftoru. Dawka wieczorna: 1 saszetka granulatu zawierająca 59,5 mg iwakaftoru. (wiek 2 do < 6 lat oraz masa ciała 10 kg do <14 kg), Dawka poranna: 1 saszetka granulatu zawierająca 75 mg iwakaftoru, 50 mg tezakaftoru i 100 mg eleksakaftoru. Dawka wieczorna: 1 saszetka granulatu zawierająca 75 mg iwakaftoru. (wiek 2 do < 6 lat oraz masa ciała ≥14 kg), Dawka poranna: 2 tabletki (każda zawierająca 37,5 mg iwakaftoru, 25 mg tezakaftoru i 50 mg eleksakaftoru). Dawka wieczorna: 1 tabletka zawierająca 75 mg iwakaftoru. (wiek 6 do < 12 lat oraz masa ciała < 30 kg), Dawka poranna: 2 tabletki (każda zawierająca 75 mg iwakaftoru, 50 mg tezakaftoru i 100 mg eleksakaftoru). Dawka wieczorna: 1 tabletka zawierająca 150 mg iwakaftoru. (wiek 6 do < 12 lat oraz masa ciała ≥ 30 kg), Dawka poranna: 2 tabletki (każda zawierająca 75 mg iwakaftoru, 50 mg tezakaftoru i 100 mg eleksakaftoru). Dawka wieczorna: 1 tabletka zawierająca 150 mg iwakaftoru. (wiek 12 lat i powyżej)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "test ciążowy (u kobiet w wieku rozrodczym)",
+        "badanie kwestionariuszowe w kierunku depresji i lęku - wypełnienie formularza PHQ-9 oraz GAD-7",
+        "test potowy",
+        "badanie spirometryczne (u chorych, u których rozwój psychofizyczny i stan kliniczny gwarantuje prawidłowe przeprowadzenie testu)",
+        "oznaczenie aktywności aminotransferazy alaninowej",
+        "oznaczenie aktywności aminotransferazy asparaginowej",
+        "oznaczanie stężenia bilirubiny w surowicy krwi",
+        "badanie mikrobiologiczne plwociny lub wymazu z gardła",
+        "konsultacja okulistyczna u pacjentów <18rż.",
+        "badanie obrazowe klatki piersiowej"
+    ],
+    "badania_monitorujace": [
+        "kwestionariusz w kierunku depresji i lęku - wypełnienie formularza PHQ-9 oraz GAD-7",
+        "test potowy",
+        "badanie spirometryczne (u chorych, u których rozwój psychofizyczny i stan kliniczny gwarantuje prawidłowe przeprowadzenie testu)",
+        "badanie mikrobiologiczne plwociny lub wymazu z gardła",
+        "oznaczenie aktywności aminotransferazy alaninowej i asparaginowej oraz bilirubiny",
+        "pomiar ciśnienia tętniczego na każdej wizycie kontrolnej",
+        "pomiar masy i wysokości ciała oraz wskaźnika BMI z oceną wartości centylowych"
+    ]
+}

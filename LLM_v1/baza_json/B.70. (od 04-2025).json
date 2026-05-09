@@ -1,0 +1,105 @@
+{
+    "nazwa_pliku": "B.70. (od 04-2025).docx",
+    "1": {
+        "kwalifikacja": [
+            "wiek 18 lat i powyżej",
+            "obrzęk plamki wtórny do RVO zdiagnozowany w ciągu 9 miesięcy od rozpoznania RVO",
+            "średnia grubość środkowego podpola siatkówki >250 µm w badaniu OCT",
+            "najlepsza skorygowana ostrość wzroku (BCVA) w leczonym oku 0,05 – 0,8 określona według tablicy Snellena (lub odpowiednio ekwiwalent ETDRS)",
+            "zgoda pacjenta na wykonanie iniekcji doszklistkowych",
+            "brak aktywnych włóknisto-naczyniowych trakcji, których obkurczenie się mogłoby wpłynąć na odwarstwienie siatkówki lub miało rokowniczo niekorzystny wpływ na leczenie w programie",
+            "brak odwarstwienia siatkówki w przebiegu retinopatii proliferacyjnej",
+            "brak krwotoku do ciała szklistego wymagającego leczenia operacyjnego",
+            "brak neowaskularyzacji tęczówki",
+            "brak jaskry neowaskularnej",
+            "uregulowane ciśnienie wewnątrzgałkowe",
+            "brak zaćmy mającej wpływ na monitorowanie skuteczności leczenia w programie",
+            "brak istotnych i trwałych zaburzeń siatkówki w plamce nierokujących poprawy po leczeniu anty-VEGF lub steroidoterapii, takich jak: rozległy zanik fotoreceptorów (w OCT zanik warstw zewnętrznych siatkówki), DRIL w obszarze poddołkowym, makulopatia niedokrwienna"
+        ]
+    },
+    "faza_nasycenia": {
+        "aflibercept_2mg": {
+            "dawka": "8 tygodni",
+            "minimalny_odstep": 4,
+            "maksymalny_odstep": 16
+        },
+        "aflibercept_8mg": {
+            "dawka": "8 tygodni",
+            "minimalny_odstep": 8,
+            "maksymalny_odstep": 20
+        },
+        "bewacyzumab": {
+            "dawka": "8 tygodni",
+            "minimalny_odstep": 8,
+            "maksymalny_odstep": 12
+        },
+        "brolucizumab": {
+            "dawka": "8 tygodni",
+            "minimalny_odstep": 8,
+            "maksymalny_odstep": 16
+        },
+        "deksametazon": {
+            "dawka": "",
+            "minimalny_odstep": "",
+            "maksymalny_odstep": ""
+        },
+        "farycizumab": {
+            "dawka": "4 tygodni",
+            "minimalny_odstep": 4,
+            "maksymalny_odstep": 16
+        },
+        "ranibizumab": {
+            "dawka": "4 tygodni",
+            "minimalny_odstep": 4,
+            "maksymalny_odstep": ""
+        }
+    },
+    "leczenie_pacjentow_z_zakrzepeem_zyla_siatkowki": {
+        "faza_nasycenia": {
+            "bewacyzumab": {
+                "dawka": "1,25 mg",
+                "odstep": "co najmniej 28 dni"
+            }
+        },
+        "faza_podtrzymujaca": {
+            "aflibercept_2mg": {
+                "odstep": "8 tygodni"
+            },
+            "aflibercept_8mg": {
+                "odstep": "8 tygodni"
+            },
+            "bewacyzumab": {
+                "odstep": "co miesięczny lub wydłużony"
+            },
+            "brolucizumab": {
+                "odstep": "8 tygodni"
+            },
+            "deksametazon": {
+                "odstep": ""
+            },
+            "farycizumab": {
+                "odstep": "4 tygodni"
+            },
+            "ranibizumab": {
+                "odstep": "4 tygodni"
+            }
+        },
+        "kontynuacja_terapii_rozpoczeta_poza_programem": "",
+        "wstrzymanie_podawania_leku": [
+            "ciśnienie śródgałkowe ≥ 30 mmHg",
+            "rozerwanie siatkówki",
+            "przeprowadzenie lub planowanie operacji wewnątrzgałkowej",
+            "brak aktywności choroby"
+        ],
+        "zmiana_leku_lub_dawki_leku_w_programie": [
+            "zmiana leku w programie odbywa się za zgodą Zespołu Koordynacyjnego",
+            "zmiana leku z bewacyzumabu na inny możliwa jest, gdy HbAIc wynosi ≤ 9%"
+        ]
+    },
+    "Badania": [
+        "badanie okulistyczne z oceną ostrości wzroku na tablicach Snellena lub ETDRS",
+        "OCT (optyczna koherentna tomografia)",
+        "fotografia dna oka",
+        "angiografia fluoresceinowa lub angio-OCT (w przypadkach trudnych z diagnostycznego punktu widzenia - angiografia indocyjaninowa)"
+    ]
+}

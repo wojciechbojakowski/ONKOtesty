@@ -1,0 +1,66 @@
+{
+    "nazwa_pliku": "B.88. (od 05-2023).docx",
+    "kryteria_kwalifikacji": [
+        "rak podstawnokomórkowy skóry z przerzutami odległymi lub miejscowo zaawansowany u pacjentów, u których nowotwór jest w stadium nieoperacyjnym lub występują przeciwwskazania do leczenia chirurgicznego",
+        "nawrót BCC w tej samej lokalizacji po zabiegu chirurgicznym i niewielkie prawdopodobieństwo wyleczenia po kolejnej resekcji",
+        "przewidywane ryzyko znaczącej niepełnosprawności lub deformacji po ewentualnym zabiegu chirurgicznym",
+        "histopatologiczne potwierdzenie przerzutów odległych jako ognisk raka podstawnokomórkowego – w przypadku pacjentów z podejrzeniem przerzutowego raka podstawnokomórkowego",
+        "wiek ≥18 roku życia",
+        "stan sprawności 0-2 wg ECOG",
+        "adekwatna wydolność narządowa określona na podstawie badań laboratoryjnych zgodnie z zapisami aktualnej Charakterystyki Produktu Leczniczego (ChPL)",
+        "wykluczenie ciąży oraz okresu karmienia piersią",
+        "przestrzeganie zaleceń programu zapobiegania ciąży zawartego w aktualnej ChPL przez kobiety w wieku rozrodczym i mężczyzn",
+        "brak przeciwwskazań do stosowania każdego z leków zgodnie z aktualną ChPL",
+        "nieobecność istotnych schorzeń współistniejących stanowiących przeciwwskazanie do terapii, stwierdzonych przez Zespół Koordynacyjny lub lekarza prowadzącego w oparciu o aktualną ChPL",
+        "wykluczenie współwystępowania innych nowotworów złośliwych niekontrolowanych leczeniem"
+    ],
+    "kryteria_wylaczenia": [
+        "udokumentowana progresja w trakcie stosowania leku, oceniana na podstawie złożonego punktu końcowego obejmującego obowiązujące kryteria RECIST i cyfrowe zdjęcia medyczne (kryteria WHO)",
+        "wystąpienie nadwrażliwości na lek lub na którąkolwiek substancję pomocniczą uniemożliwiającej kontynuację leczenia",
+        "wystąpienie działań niepożądanych związanych z lekiem uniemożliwiających jego dalsze stosowanie",
+        "wystąpienie toksyczności wymagającej zakończenia leczenia w opinii Zespołu Koordynacyjnego lub lekarza prowadzącego zgodnie z aktualnie obowiązującą ChPL",
+        "wystąpienie chorób lub stanów, które w opinii Zespołu Koordynacyjnego lub lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia",
+        "pogorszenie stanu sprawności o 1 lub 2 stopnie, w zależności od wartości przy kwalifikacji, ale maksymalnie do wartości 3 wg skali ECOG",
+        "okres ciąży lub karmienia piersią",
+        "brak współpracy chorego z lekarzem prowadzącym:niestosowanie się do zaleceń (uchylanie się od wykonywania badań laboratoryjnych), nieregularne przyjmowanie leków (pominięcie 2 kolejnych dawek leku), brak współpracy w monitorowaniu leczenia (niezgłaszanie się na wizyty kontrolne)"
+    ],
+    "leki": [
+        {
+            "nazwa": "Wismodegib",
+            "dawkowanie": "150 mg raz na dobę"
+        },
+        {
+            "nazwa": "Cemiplimab",
+            "dawkowanie": "350 mg co 3 tygodnie, we wlewie dożylnym trwającym 30 minut"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "histologiczne potwierdzenie miejscowo zaawansowanego lub objawowego raka podstawnokomórkowego skóry z przerzutami",
+        "potwierdzenie patomorfologiczne progresji tylko w przypadku, gdy dotyczy ona pojawienia się innych – niż stwierdzone wcześniej – ognisk nowotworu - dotyczy terapii cemiplimabem",
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia hemoglobiny",
+        "oznaczenie stężenia kreatyniny",
+        "oznaczenie stężenia bilirubiny",
+        "oznaczenie aktywności fosfatazy zasadowej",
+        "oznaczenie aktywności aminotransferazy alaninowej",
+        "oznaczenie aktywności aminotransferazy asparaginianowej",
+        "oznaczenie TSH, FT4 – dotyczy terapii cemiplimabem",
+        "test na HIV, HCV, HBV – dotyczy terapii cemiplimabem",
+        "test ciążowy z próbki krwi u kobiet w wieku rozrodczym (wynik ważny 4 dni)",
+        "ocena rozległości zmian w badaniu przedmiotowym wraz z dokumentacją fotograficzną widocznych zmian (na zdjęciu widoczna skala)",
+        "badanie TK lub MR w przypadku wskazań klinicznych, dla oceny głębokości naciekania nowotworowego lub udokumentowania zmian przerzutowych",
+        "inne badania w razie wskazań klinicznych"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia hemoglobiny",
+        "oznaczenie stężenia kreatyniny",
+        "oznaczenie stężenia bilirubiny",
+        "oznaczenie aktywności fosfatazy zasadowej",
+        "oznaczenie aktywności aminotransferazy alaninowej",
+        "oznaczenie aktywności aminotransferazy asparaginianowej",
+        "oznaczenie TSH i FT4 -dotyczy terapii cemiplimabem",
+        "test ciążowy z próbki krwi u kobiet w wieku rozrodczym (wynik ważny 4 dni)",
+        "inne badania w razie wskazań klinicznych"
+    ]
+}

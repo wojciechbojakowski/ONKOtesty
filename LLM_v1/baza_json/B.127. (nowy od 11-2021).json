@@ -1,0 +1,45 @@
+{
+    "nazwa_pliku": "B.127. (nowy od 11-2021).docx",
+    "kryteria_kwalifikacji": [
+        "wiek 18 lat i powyżej;",
+        "rozpoznanie nabytej ciężkiej postaci niedokrwistości aplastycznej;",
+        "oporność na wcześniejsze leczenie immunosupresyjne lub przebyte wcześniejsze intensywne leczenie i brak kwalifikacji do transplantacji krwiotwórczych komórek macierzystych;",
+        "liczba płytek krwi ≤30 000/μl;",
+        "brak nieprawidłowości cytogenetycznych dotyczących chromosomu 7"
+    ],
+    "kryteria_wylaczenia": [
+        "nadwrażliwość na eltrombopag lub którąkolwiek substancję pomocniczą;",
+        "brak odpowiedzi hematologicznej po 16 tygodniach leczenia;",
+        "wystąpienie nieprawidłowości cytogenetycznych stanowiących przeciwwskazanie do kontynuacji leczenia eltrombopagiem;",
+        "wystąpienie nowych lub postępujących nieprawidłowości morfologicznych lub cytopenii;",
+        "Zaburzenia czynności wątroby w skali Child-Pugh ≥ 5;",
+        "istotne zwiększenie się aktywności AlAT (≥ 3 x GGN u pacjentów z prawidłową czynnością wątroby, lub z wynikiem ≥ 3 x wartość wyjściowa lub > 5 x GGN, którykolwiek z nich jest niższy, w przypadku pacjentów ze zwiększoną aktywnością transaminaz przed rozpoczęciem leczenia);",
+        "ciąża;",
+        "karmienie piersią"
+    ],
+    "leki": [
+        {
+            "nazwa": "eltrombopag",
+            "dawkowanie": "50 mg raz na dobę, stopniowe zwiększanie do 150 mg, nie przekraczać dawki 150 mg"
+        },
+        {
+            "nazwa": "eltrombopag",
+            "dawkowanie": "25 mg raz na dobę, stopniowe zwiększanie do 50 mg, następnie do 150 mg, nie przekraczać dawki 150 mg"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi z rozmazem",
+        "parametry czynności wątroby (AlAT, AspAT, bilirubina całkowita)",
+        "badania umożliwiające wykluczenie innych stanów klinicznych przebiegających z małopłytkowością, w szczególności MDS",
+        "biopsja aspiracyjna szpiku z badaniem cytogenetycznym oraz trepanobiopsja",
+        "badanie okulistyczne",
+        "test ciążowy u kobiet w wieku rozrodczym"
+    ],
+    "badania_monitorujace": [
+        "parametry czynności wątroby (AlAT, AspAT, bilirubina całkowita. W przypadku podwyższonego stężenia bilirubiny badanie jej frakcji)",
+        "morfologia krwi z rozmazem",
+        "biopsja aspiracyjna szpiku kostnego z badaniem cytogenetycznym i trepanobiopsya (z oceną włóknienia)",
+        "okresowa kontrola okulistyczna",
+        "biopsja aspiracyjna szpiku kostnego zbadaniem cytogenetycznym po 3 miesiącach leczenia, a następnie biopsja aspiracyjna szpiku kostnego z badaniem cytogenetycznym i trepanobiopsya po 9 miesiącach od rozpoczęcia leczenia"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "nazwa_pliku": "B.118. (od 11-2022).docx",
+    "kryteria_kwalifikacji": [
+        "dorośli chorzy w wieku co najmniej 18 lat;",
+        "choroba Cushinga potwierdzona klinicznie i biochemicznie u pacjentów, u których wykonanie zabiegu operacyjnego guza przysadki nie jest możliwe lub zakończyło się niepowodzeniem;",
+        "choroba Cushinga spełniająca w momencie kwalifikacji poniższe kryteria: podwyższone wydalanie wolnego kortyzolu w dobowej zbiórce moczu lub późnowieczorne stężenie kortyzolu w ślinie lub surowicy powyżej wartości referencyjnej, podwyższone lub niezahamowane stężenie ACTH w osoczu.",
+        "pacjenci uprzednio leczeni pasyreotydem w ramach innego sposobu finansowania terapii, pod warunkiem, że w chwili rozpoczęcia leczenia spełniali kryteria kwalifikacji do niniejszego programu lekowego."
+    ],
+    "kryteria_wylaczenia": [
+        "zespół Cushinga w wyniku ektopowego wydzielania ACTH;",
+        "ucisk skrzyżowania nerwów wzrokowych przez guz powodujący istotne zaburzenia pola widzenia u pacjentów kwalifikujących się do odbarczającego leczenia neurochirurgicznego;",
+        "cukrzyca niewyrównana metabolicznie pomimo podjęcia próby optymalizacji leczenia zgodnie z punktem 3.1. Schematu dawkowania;",
+        "objawowa kamica żółciowa;",
+        "ciężkie zaburzenia czynności wątroby (klasa C wg. skali Child-Pugh);",
+        "żółtaczka lub inne objawy sugerujące klinicznie istotną dysfunkcję wątroby lub utrzymywanie się zwiększonej aktywności AspAT lub AlAT na poziomie co najmniej 5 x GGN (górna granica normy) lub wzrost aktywności AlAT lub AspAT przekraczający 3 x GGN z jednoczesnym wzrostem stężenia bilirubiny powyżej 2 x GGN;",
+        "niewyrównana niedoczynność tarczycy;",
+        "brak odpowiedzi na leczenie w sytuacji, gdy odpowiedź definiujemy jako: stężenie wolnego kortyzolu w dobowej zbiórce moczu nie przekraczające górnej granicy normy laboratoryjnej lub zmniejszenie stężenia wolnego kortyzolu w dobowej zbiórce moczu o co najmniej 50% względem wartości wyjściowej - po co najmniej 6 miesiącach leczenia pasyreotydem w najwyższej tolerowanej dawce;",
+        "nadwrażliwość na pasyreotyd lub na którąkolwiek substancję pomocniczą leku;",
+        "ciąża lub karmienia piersią;",
+        "rezygnacja pacjenta – wycofanie zgody pacjenta na leczenie."
+    ],
+    "leki": [
+        {
+            "nazwa": "pasyreotyd",
+            "dawkowanie": "10 mg"
+        },
+        {
+            "nazwa": "Signifor",
+            "dawkowanie": "40 mg co 4 tygodnie"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie podmiotowe i przedmiotowe – występowanie typowych objawów hiperkortyzolemii;",
+        "ocena wydalania wolnego kortyzolu w dobowej zbiórce moczu;",
+        "oznaczanie stężenia ACTH w osoczu;",
+        "ocena wyrównania czynności tarczycy;",
+        "rezonans magnetyczny układu podwzgórzowo-przysadkowego nie wcześniej niż w okresie 3 miesięcy poprzedzających kwalifikację do leczenia pasyreotydem;",
+        "ocena pola widzenia w przypadku makrogruczolaka przysadki (guz o średnicy ≥ 1 cm);",
+        "badania laboratoryjne: ocena stężenia glukozy w osoczu krwi żylnej na czczo oraz odsetek hemoglobiny glikowanej (HbA1c), stężenie sodu, potasu, kreatyniny i GFR;",
+        "ocena funkcji wątroby: aktywność AspAT i AlAT oraz stężenie bilirubiny całkowitej;",
+        "ocena ultrasonograficzna jamy brzusznej ze szczególnym uwzględnieniem pęcherzyka żółciowego i dróg żółciowych (jeśli nie była wykonywana w okresie 3 poprzedzających miesięcy);",
+        "ocena układu krążenia: ocena ciśnienia tętniczego oraz badanie EKG z uważną oceną odstępu QT oraz ewentualnych zaburzeń rytmu serca, a w razie wątpliwości lub obciążającego wywiadu w zakresie chorób układu krążenia konsultacja kardiologiczna."
+    ],
+    "badania_monitorujace": [
+        "ocena korzyści klinicznych u pacjenta po pierwszym miesiącu leczenia, a następnie oceniać je okresowo.",
+        "ocena wydalania wolnego kortyzolu w dobowej zbiórce moczu (po 1 miesiącu leczenia, po 2 miesiącach leczenia, następnie co 3 miesiące);",
+        "oznaczanie stężenia ACTH w osoczu i kortyzolu w surowicy krwi (po 1 miesiącu leczenia, po 2 miesiącach leczenia, następnie co 3 miesiące);",
+        "badanie rezonansu magnetycznego układu podwzgórzowo-przysadkowego – co 12 miesięcy lub też niezwłocznie w przypadku pojawienia się nowych ubytków w polu widzenia lub innych wskazań klinicznych;",
+        "oznaczanie stężenia glukozy w osoczu krwi żylnej na czczo lub samokontrola stężenia glukozy z zastosowaniem glukometru – co tydzień przez pierwsze trzy miesiące od podania leku następnie okresowo zgodnie ze wskazaniami klinicznymi, a także w ciągu pierwszych 4 tygodni po każdym zwiększeniu dawki.",
+        "ocena odsetka HbA1c – co 3 miesiące w pierwszym roku leczenia oraz nie rzadziej niż raz na 6 miesięcy począwszy od drugiego roku leczenia pasyreotydem;",
+        "badanie EKG z oceną odstępu QT – co 1 miesiąc przez 3 miesiące, a potem nie rzadziej niż raz na 6 miesięcy w trakcie trwania leczenia lub częściej, w zależności od wskazań klinicznych;",
+        "oznaczenie aktywności AspAT i AlAT oraz stężenia bilirubiny całkowitej – co 1 miesiąc przez 3 miesiące.",
+        "USG pęcherzyka i dróg żółciowych – nie rzadziej niż raz na 6 miesięcy w okresie leczenia i 6 miesięcy po jego zakończeniu;",
+        "ocena pola widzenia w przypadku makrogruczolaków przysadki – nie rzadziej niż 1 raz do roku i zawsze w przypadku wystąpienia nowych ubytków w polu widzenia lub subiektywnego pogorszenia pola widzenia;",
+        "ocena wyrównania czynności tarczycy – co 6 miesięcy."
+    ]
+}

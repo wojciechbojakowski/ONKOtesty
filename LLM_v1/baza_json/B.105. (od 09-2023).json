@@ -1,0 +1,55 @@
+{
+    "nazwa_pliku": "B.105. (od 09-2023).docx",
+    "kryteria_kwalifikacji": [
+        "punkt 1: wiek 18 lat i powyżej",
+        "punkt 2: potwierdzenie niezakaźnego przewlekłego, przetrwałego lub nawrotowego zapalenia błony naczyniowej oka (ZBN)",
+        "punkt 3: adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii",
+        "punkt 4: nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazanie do terapii, stwierdzonych przez lekarza prowadzącego w oparciu o aktualną Charakterystykę Produktu Leczniczego (ChPL) i aktualną wiedzę medyczną",
+        "punkt 5: zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną ChPL",
+        "punkt 6: wykluczenie ciąży i okresu karmienia piersią"
+    ],
+    "kryteria_wylaczenia": [
+        "choroba 1: nowe aktywne zmiany zapalne naczyniówki lub siatkówki lub naczyń siatkówki",
+        "stan 2: pogorszenie najlepszej skorygowanej ostrości wzroku do dali względem wartości początkowej o co najmniej 15 liter na tablicach Snellena lub ETDRS"
+    ],
+    "leki": [
+        {
+            "nazwa": "adalimumab",
+            "dawkowanie": "80 mg początkowo, podskórnie. Następnie, po tygodniu od dawki początkowej, 40 mg podskórnie co dwa tygodnie."
+        },
+        {
+            "nazwa": "deksametazon",
+            "dawkowanie": "Jeden implant doszklistkowo, nie częściej niż co 6 miesięcy."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie okulistyczne",
+        "pomiar ciśnienia wewnątrzgałkowego",
+        "ocena dna oka i plamki żółtej w badaniu optycznej koherentnej tomografii (OCT lub angio-OCT)",
+        "badanie ultrasonograficzne (typ B) gałki ocznej",
+        "ocena stopnia nacieków komórkowych w komorze przedniej oka według kryteriów SUN",
+        "ocena stopnia przymglenia ciała szklistego według kryteriów SUN"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie poziomu płytek krwi (PLT)",
+        "odczyn Biernackiego",
+        "oznaczenie aktywności aminotransferazy alaninowej we krwi",
+        "oznaczenie aktywności aminotransferazy asparaginianowej we krwi",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie poziomu białka C-reaktywnego we krwi (CRP)",
+        "oznaczenie stężenia elektrolitów w surowicy krwi",
+        "badanie ogólne moczu",
+        "próba tuberkulinowa lub test Quantiferon",
+        "test na kiłę",
+        "test na boreliozę",
+        "oznaczenie obecności antygenu HBs",
+        "oznaczenie przeciwciał anty-HCV",
+        "oznaczenie obecności antygenu wirusa HIV (HIV Ag/Ab Combo)",
+        "badanie RTG klatki piersiowej (do 6 miesięcy przed kwalifikacją do programu)",
+        "elektrokardiogram (EKG)",
+        "konsultacja neurologiczna z ewentualnym badaniem MRI do decyzji lekarza konsultującego",
+        "rezonans magnetyczny w razie wskazań klinicznych",
+        "test ciążowy (u kobiet w wieku rozrodczym)"
+    ]
+}

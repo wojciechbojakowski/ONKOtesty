@@ -1,0 +1,44 @@
+{
+    "nazwa_pliku": "B.142. (od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek 18 lat i powyżej;",
+        "stan sprawności 0-2 według skali ECOG;",
+        "zdiagnozowany zespół mielodysplastyczny (ang. myelodysplastic syndromes, MDS) o bardzo niskim, niskim lub pośrednim ryzyku wg R-IPSS;",
+        "niedokrwistość zależna od przetoczeń (≥3 jednostki kkcz w ciągu 16 tygodni w co najmniej 2 epizodach przetoczeń – w okresie przed kwalifikacją do programu) w przebiegu MDS;",
+        "stężenie endogennej erytropoetyny (eEPO) ≤500 mU/ml - nie dotyczy MDS z syderoblastami pierścieniowatymi (MDS-RS definiowane jest przy ≥15% syderoblastów pierścieniowatych lub ≥5% syderoblastów pierścieniowatych w przypadku obecności mutacji SF3B1);",
+        "brak przeciwwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii;",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną Charakterystykę Produktu Leczniczego;",
+        "wykluczenie ciąży i okresu karmienia piersią;",
+        "zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną Charakterystyką Produktu Leczniczego;",
+        "nieobecność aktywnych, ciężkich zakażeń."
+    ],
+    "kryteria_wylaczenia": [
+        "progresja choroby podstawowej (MDS);",
+        "brak odpowiedzi na leczenie ocenionej po 8 cyklach leczenia;",
+        "odpowiedź na leczenie definiuje się jako spełnienie co najmniej jednego z poniższych kryteriów:",
+        "okres niezależności od przetoczeń kkcz ≥ 8 tygodni – kryterium dla chorych z małym (LTB) lub dużym obciążeniem transfuzjami (HTB),",
+        "zmniejszenie o co najmniej 50% liczby przetoczonych jednostek kkcz przez okres minimum 8 tyg. w co najmniej 16-tygodniowym okresie obserwacji względem analogicznego okresu przed włączeniem pacjenta do programu – kryterium dla chorych z dużym obciążeniem transfuzjami (HTB);",
+        "wystąpienie chorób lub stanów, które według oceny lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania;",
+        "wystąpienie objawów nadwrażliwości na lek lub na którąkolwiek substancję pomocniczą leku, uniemożliwiających kontynuację leczenia;",
+        "okres ciąży lub karmienia piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia, ze strony świadczeniobiorcy lub jego opiekuna prawnego."
+    ],
+    "leki": [
+        {
+            "nazwa": "luspatercept",
+            "dawkowanie": "1,0 mg/kg m.c. raz na 3 tygodnie; w przypadku niezależności od transfuzji czerwonych krwinek: 1,33 mg/kg m.c., następnie 1,75 mg/kg m.c."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi obwodowej z rozmazem",
+        "oznaczenie stężenia endogennej erytropoetyny (eEPO)",
+        "ocena syderoblastów pierścieniowatych lub oznaczenie mutacji SF3B1 u chorych z obecnością syderoblastów pierścieniowatych ≥5% i ≤ 15%",
+        "test ciążowy (u kobiet w wieku rozrodczym)"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi obwodowej",
+        "ocena odpowiedzi na leczenie"
+    ]
+}

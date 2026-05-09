@@ -1,0 +1,59 @@
+{
+    "nazwa_pliku": "B.146. (od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek 18 lat i powyżej;",
+        "stan sprawności 0-2 według skali ECOG;",
+        "potwierdzone rozpoznanie makroglobulinemii Waldenströma u pacjenta:",
+        "uprzednio nieleczonego i niekwalifikującego się do immunochemioterapii, albo",
+        "po uprrednim zastosowaniu co najmniej jednej linii leczenia;",
+        "obecność wskazań do leczenia według aktualnych zaleceń International Workshop on Waldenström’s Macroglobulinemia (IWWM);",
+        "liczba neutrofili ≥0,75x109/l i liczba płytek krwi ≥50x109/l (niezależnie od stosowania G-CSF i transfuzji płytek krwi);",
+        "brak przeciwwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego;",
+        "brak nadwrażliwości na lek lub którąkolwiek substancję pomocniczą leku;",
+        "wykluczenie ciąży i okresu karmienia piersią;",
+        "zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną Charakterystyką Produktu Leczniczego;",
+        "nieobecność aktywnych, ciężkich zakażeń;",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną Charakterystyką Produktu Leczniczego;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii;"
+    ],
+    "kryteria_wylaczenia": [
+        "progresja choroby w trakcie leczenia;",
+        "transformacja makroglobulinemii Waldenströma w agresywnego chłoniaka;",
+        "wystąpienie chorób lub stanów, które według oceny lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie objawów nadwrażliwości na lek lub na którąkolwiek substancję pomocniczą leku, uniemożliwiających kontynuację leczenia;",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania;",
+        "okres ciąży lub karmienia piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia, ze strony świadczeniobiorcy lub jego opiekuna prawnego."
+    ],
+    "leki": [
+        {
+            "nazwa": "zanubrutynib",
+            "dawkowanie": "320 mg na dobę, albo 160 mg dwa razy na dobę"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie stężenia monoklonalnego białka IgM w surowicy (proteinogram i immunofiksacja);",
+        "badanie potwierdzające rozpoznanie makroglobulinemii Waldenströma – trepanobiopsja szpiku wraz z badaniem immunohistochemicznym potwierdzającym klonalny naciek chłoniaka limfoplazmocytowego – w przypadku stosowania zanubrutynibu w 1. linii leczenia – o ile nie było wykonane wcześniej;",
+        "morfologia krwi z rozmazem (wzorem odsetkowym krwinek białych);",
+        "ocena wydolności nerek:",
+        "oznaczenie stężenia kreatyniny w surowicy krwi;",
+        "oznaczenie stężenia kwasu moczowego w surowicy krwi;",
+        "oznaczenie wskaźnika eGFR;",
+        "ocena wydolności wątroby:",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT);",
+        "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi;",
+        "oznaczenie czasu protrombinowego (PT);",
+        "badania oceniające zaawansowanie choroby:",
+        "tomografia komputerowa klatki piersiowej, jamy brzusznej i miednicy albo rezonans magnetyczny albo USG jamy brzusznej oraz RTG klatki piersiowej – rodzaj badania do decyzji lekarza;",
+        "badanie przesiewowe w kierunku HBV (HBsAg i HBcAb, a w razie konieczności HBV DNA);",
+        "elektrokardiografia (EKG);",
+        "test ciążowy (u kobiet w wieku rozrodczym)."
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem (wzorem odsetkowym krwinek białych);",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT);",
+        "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi;",
+        "oznaczenie stężenia kreatyniny w surowicy krwi;",
+        "elektrokardiografia (EKG)"
+    ]
+}

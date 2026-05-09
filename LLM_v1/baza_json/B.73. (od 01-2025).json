@@ -1,0 +1,48 @@
+{
+    "nazwa_pliku": "B.73. (od 01-2025).docx",
+    "kryteria_kwalifikacji": [
+        "neurogenna nadreaktywność mięśnia wypieracza (NNW) potwierdzona badaniem urodynamicznym",
+        "brak przeciwwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego",
+        "brak nadwrażliwości na lek lub którąkolwiek substancję pomocniczą leku",
+        "wykluczenie ciąży i okresu karmienia piersią",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną Charakterystykę Produktu Leczniczego",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii"
+    ],
+    "kryteria_wylaczenia": [
+        "brak skuteczności leczenia definiowany jako: nieuzyskanie zmniejszenia liczby epizodów nietrzymania moczu na tydzień o ≥ 50% w stosunku do poziomu wyjściowego",
+        "w przypadku terapii chlorowodorkiem oksybutyniny – niewystarczająca klinicznie kontrola neurogennej nadreaktywności wypieracza (po uzyskaniu maksymalnej dawki leku)",
+        "ukończenie 18 lat",
+        "brak zgody lub przeciwwskazania do wykonywania czystego przerywanego cewnikowania",
+        "wystąpienie chorób lub stanów, które według oceny lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia",
+        "wystąpienie objawów nadwrażliwości na którąkolwiek substancję czynną lub substancję pomocniczą, uniemożliwiających kontynuację leczenia",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania",
+        "okres ciąży lub karmienia piersią",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich"
+    ],
+    "leki": [
+        {
+            "nazwa": "toxyna botulinowa typu A",
+            "dawkowanie": "200 jednostek toksyny botulinowej typu A jako 30 iniekcji o objętości 1 ml (~6,7 jednostek) w mięsień wypieracz. W przypadku braku efektu po podaniu dawki inicjującej należy zwiększyć dawkę do 300 jednostek toksyny botulinowej typu A jako 30 iniekcji o objętości 1 ml (~10 jednostek) w mięsień wypieracz."
+        },
+        {
+            "nazwa": "chlorowodorek oksybutyniny",
+            "dawkowanie": "Dzieci w wieku od 6 lat do ukończenia 12 lat: dobowe dawkowanie: Dawka początkowa wynosi 0,1 mg/kg m.c. i podawana jest dopęcherzowo rano. Dawkę można dostosować po tygodniu leczenia. Należy wybrać najmniejszą skuteczną dawkę. Całkowita dawka dobowa: 2-30 mg. Maksymalna możliwa dawka dobowa wynosi 30 mg.\r\nMłodzież w wieku od 12 lat do ukończenia 18 lat: dobowe dawkowanie: Dawka początkowa: 10 mg, całkowita dawka dobowa: 10-40 mg. Maksymalna możliwa dawka dobowa wynosi 40 mg."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie fizykalne",
+        "badanie ogólne moczu",
+        "badanie bakteriologiczne moczu",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "badanie urodynamiczne (w przypadku terapii toksyną botulinową typu A – głównie cystometria)",
+        "dzienniczek mikcyjny",
+        "oznaczenie stężenia mocznika w surowicy krwi",
+        "pomiar objętości moczu zalegającej po mikcji"
+    ],
+    "badania_monitorujace": [
+        "terapia toksyną botulinową typu A: badanie ogólne i bakteriologiczne moczu, oznaczenie stężenia kreatyniny w surowicy krwi, oznaczenie stężenia mocznika w surowicy krwi, ocena ewentualnych wskazań do wdrożenia samocewnikowania",
+        "terapia chlorowodorkiem oksybutyniny: badanie ogólne i bakteriologiczne moczu, oznaczenie stężenia kreatyniny w surowicy krwi",
+        "ocena wykonywana po upływie 6 tygodni i nie później niż po upływie 12 tygodni od każdego podania toksyny botulinowej typu A – ocena w zakresie zmniejszenia liczby epizodów nietrzymania moczu na tydzień",
+        "badanie urodynamiczne wykonane po 3 miesiącach od pierwszorazowego zastosowania oksybutyniny, następne po 6 miesiącach, kolejne co 12 miesięcy – ocena w zakresie niewystarczającej klinicznie kontroli neurogennej nadreaktywności wypieracza"
+    ]
+}

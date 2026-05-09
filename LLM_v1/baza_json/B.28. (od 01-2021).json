@@ -1,0 +1,54 @@
+{
+    "nazwa_pliku": "B.28. (od 01-2021).docx",
+    "kryteria_kwalifikacji": [
+        "Komplet badań diagnostycznych świadczących o przeprowadzeniu diagnostyki różnicowej i dokumentujących rozpoznanie choroby podstawowej",
+        "w kręczu karku u świadczeniobiorców poniżej 50 roku życia: badanie TK lub MRI głowy, poziom miedzi lub ceruloplazminy, ocena przedniego odcinka oka w lampie szczelinowej",
+        "w kurczu powiek: w wybranych przypadkach różnicowanie z miastenią (próba nużliwości mięśni)",
+        "w połowicznym kurczu twarzy: badanie TK lub MRI głowy",
+        "w dystonii krtaniowej (dotyczy tylko produktów Botox i Dysport): TK lub MRI głowy i szyi, w wybranych przypadkach badanie foniatryczne",
+        "w dystonii twarzy (dotyczy tylko produktów Botox i Dysport): TK lub MRI głowy i szyi",
+        "w dystoniach zadaniowych: TK lub MRI głowy i szyi, w wybranych przypadkach badanie elektromiograficzne;",
+        "Wykluczenie miastenii i zespołu miastenicznego na podstawie wywiadu i badania neurologicznego (wykonanie dodatkowych badań jedynie w uzasadnionych przypadkach);",
+        "Brak objawów uogólnionego zakażenia;",
+        "Wykluczenie obecności stanu zapalnego w obrębie planowanego miejsca podania;",
+        "Wykluczenie ciąży na podstawie wywiadu."
+    ],
+    "kryteria_wylaczenia": [
+        "Brak poprawy klinicznej w ocenie lekarza po co najmniej 3 kolejnych podaniach leku;",
+        "Nadwrażliwość na kompleks neurotoksyny lub którykolwiek ze składników leku;",
+        "Powstanie oporności na lek;",
+        "Stwierdzenie miastenii lub zespołu miastenicznego;",
+        "Objawy uogólnionego zakażenia;",
+        "Zapalenie okolicy miejsca podania;",
+        "Ciąża;",
+        "Przyjmowanie leków hamujących transmisję nerwowo-mięśniową (np. aminoglikozydy)"
+    ],
+    "leki": [
+        {
+            "nazwa": "Botulinum A toxin a",
+            "dawkowanie": "500 j. i"
+        },
+        {
+            "nazwa": "Botulinum A toxin a (Dysport)",
+            "dawkowanie": "300 j."
+        },
+        {
+            "nazwa": "Botulinum A toxin a (Botox)",
+            "dawkowanie": "100 j."
+        },
+        {
+            "nazwa": "Botulinum A toxin a (Xeomin)",
+            "dawkowanie": "l00 j."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "Poziom miedzi",
+        "Poziom ceruloplazminy",
+        "Tomografia komputerowa lub rezonans magnetyczny głowy (w przypadkach wyszczególnionych w punkcie 1 kryteriów kwalifikacji)",
+        "Badanie foniatryczne – w wybranych przypadkach w leczeniu dystonii krtaniowej",
+        "Badanie elektromiograficzne – w wybranych przypadkach w leczeniu dystonii zadaniowych"
+    ],
+    "badania_monitorujace": [
+        "Ocena skuteczności poprzedniej iniekcji w skali GCI: od -3 do +3 (-3, -2, -1,0 +1, +2, +3). Podanie pod kontrolą USG lub EMG w uzasadnionych przypadkach"
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "nazwa_pliku": "B.55. (od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "Wiek od 6 lat życia w przypadku infliksymabu w postaci dożylnej albo wiek od 18 lat w przypadku infliksymabu w postaci podskórnej lub wedolizumabu lub tofacytynibu lub ustekinumabu lub filgotynibem lub ozanimodu lub upadacytynibu lub mirikizumabu;",
+        "Pacjenci z rozpoznaną ciężką lub umiarkowaną postacią WZJG (ocena ≥6 punktów w skali Mayo u osób w wieku ≥18 lat albo ocena ≥35 punktów w skali PUCAI u osób w wieku <18 lat):",
+        "Hospitalizowani z powodu ciężkiego rzutu choroby z niedostateczną odpowiedzią na 3-5 dniowe dożylne leczenie kortykosteroidami lub przeciwwskazaniem do takiego leczenia",
+        "Z niedostateczną odpowiedzią na standardowe leczenie, w tym na leczenie kortykosteroidami lub 6‐merkaptopuryną (6‐MP) lub azatiopryną (AZA)",
+        "Nietolerujący leczenia kortykosteroidami lub 6‐merkaptopuryną (6‐MP) lub azatiopryną (AZA)",
+        "Mający przeciwwskazania do leczenia kortykosteroidami lub 6‐merkaptopuryną (6‐MP) lub azatiopryną (AZA)",
+        "Z utratą odpowiedzi na standardowe leczenie, w tym na leczenie kortykosteroidami lub 6‐merkaptopuryną (6‐MP) lub azatiopryną (AZA);",
+        "Adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii;",
+        "Brak przeciwskazań do stosowania zgodnie z aktualną Charakterystyką Produktu Leczniczego (ChPL);",
+        "Nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL;",
+        "Zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną ChPL lub z aktualnymi wytycznymi European Crohn´s and Colitis Organisation (ECCO) lub Polskiego Towarzystwa Gastroenterologii (PTG-E) (jeśli dotyczy)."
+    ],
+    "kryteria_wylaczenia": [
+        "Stwierdzenie braku odpowiedzi na leczenie definiowanej jako zmniejszenie aktywności choroby o co najmniej 3 punkty w skali Mayo albo o co najmniej 20 punktów w skali PUCAI;",
+        "Wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "Wystąpienie objawów nadwrażliwości na którąkolwiek substancję czynną lub substancję pomocniczą;",
+        "Wystąpienie toksyczności wymagającej zakończenia leczenia w opinii lekarza prowadzącego zgodnie z aktualną ChPL;",
+        "Pogorszenie jakości życia o istotnym znaczeniu w opinii lekarza prowadzącego;",
+        "Brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego opiekuna prawnego."
+    ],
+    "leki": [
+        {
+            "nazwa": "infliksymab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej ChPL"
+        },
+        {
+            "nazwa": "wedolizumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej ChPL"
+        },
+        {
+            "nazwa": "tofacytynib",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnych rekomendacjach ECCO lub PTG-E"
+        },
+        {
+            "nazwa": "ustekinumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej ChPL"
+        },
+        {
+            "nazwa": "filgotynib",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnych rekomendacjach ECCO lub PTG-E"
+        },
+        {
+            "nazwa": "ozanimod",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej ChPL"
+        },
+        {
+            "nazwa": "upadacytynib",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnych rekomendacjach ECCO lub PTG-E"
+        },
+        {
+            "nazwa": "mirikizumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej ChPL"
+        }
+    ],
+    "list_of_studies": [
+        {
+            "study_name": "Infliksymab",
+            "monitoring_tests": [
+                "ocena stopnia aktywności choroby w 2 i 4 tygodniu w częściowej skali Mayo",
+                "ocena skuteczności terapii indukcyjnej w 8 tygodniu od podania pierwszej dawki, z możliwością ostatecznej oceny po 16 tygodniu, na podstawie pełnej oceny w skali Mayo",
+                "morfologia krwi z rozmazem oraz oznaczenie bezwzględnej liczby granulocytów obojętnych i bezwzględnej liczby limfocytów w 2 i 4 tygodniu"
+            ]
+        },
+        {
+            "study_name": "Wedolizumab",
+            "monitoring_tests": [
+                "ocena stopnia aktywności choroby w 4 i 8 tygodniu w częściowej skali Mayo",
+                "ocena skuteczności terapii indukcyjnej w 12 tygodniu, z możliwością ostatecznej oceny po 24 tygodniu, od podania pierwszej dawki na podstawie pełnej oceny w skali Mayo",
+                "AlAT i AspAT oraz bilirubina co miesiąc podczas terapii indukcyjnej"
+            ]
+        },
+        {
+            "study_name": "Ustekinumab",
+            "monitoring_tests": [
+                "ocena stopnia aktywności choroby w 2 i 4 tygodniu w częściowej skali Mayo",
+                "ocena skuteczności terapii indukcyjnej w 8 tygodniu od podania pierwszej dawki, z możliwością ostatecznej oceny po 16 tygodniu, na podstawie pełnej oceny w skali Mayo",
+                "morfologia krwi z rozmazem oraz oznaczenie bezwzględnej liczby granulocytów obojętnych i bezwzględnej liczby limfocytów w 2 i 4 tygodniu"
+            ]
+        },
+        {
+            "study_name": "Ozanimod",
+            "monitoring_tests": [
+                "ocena stopnia aktywności choroby w 5 tygodniu w częściowej skali Mayo",
+                "ocena skuteczności terapii indukcyjnej w 10 tygodniu od podania pierwszej dawki, z możliwością ostatecznej oceny po 16 tygodniu, na podstawie pełnej oceny w skali Mayo",
+                "morfologia krwi z rozmazem wraz z oznaczeniem bezwzględnej liczby limfocytów w 1., 3., 6., 9. i 12. miesiącu leczenia"
+            ]
+        },
+        {
+            "study_name": "Upadacytynib",
+            "monitoring_tests": [
+                "ocena stopnia aktywności choroby w 2 i 4 tygodniu w częściowej skali Mayo",
+                "ocena skuteczności terapii indukcyjnej w 8 tygodniu od podania pierwszej dawki, z możliwością ostatecznej oceny po 16 tygodniu, na podstawie pełnej oceny w skali Mayo",
+                "morfologia krwi z rozmazem oraz oznaczenie bezwzględnej liczby granulocytów obojętnych i bezwzględnej liczby limfocytów w 2 i 4 tygodniu"
+            ]
+        },
+        {
+            "study_name": "Mirikizumab",
+            "monitoring_tests": [
+                "ocena stopnia aktywności choroby w 4 i 8 tygodniu w częściowej skali Mayo",
+                "ocena skuteczności terapii indukcyjnej w 12 tygodniu, z możliwością ostatecznej oceny po 24 tygodniu, od podania pierwszej dawki na podstawie pełnej oceny w skali Mayo",
+                "AlAT i AspAT oraz bilirubina co miesiąc podczas terapii indukcyjnej"
+            ]
+        }
+    ]
+}

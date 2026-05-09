@@ -1,0 +1,91 @@
+{
+    "nazwa_pliku": "B.159. (od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "rozpoznanie histologiczne raka gruczołowego lub gruczołowo-płaskonabłonkowego lub płaskonabłonkowego",
+        "możliwa ocena odpowiedzi na leczenie zmian nowotworowych według aktualnej klasyfikacji RECIST",
+        "wiek powyżej 18 roku życia",
+        "stan sprawności 0-1 według skali ECOG",
+        "nieobecność objawowych przerzutów do OUN",
+        "nieobecność innych nowotworów niekontrolowanych leczeniem",
+        "nieobecność aktywnych chorób autoimmunologicznych z wyłączeniem cukrzycy typu 1., niedoczynności tarczycy w trakcie suplementacji hormonalnej, łuszczycy i bielactwa",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii",
+        "brak przeciwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego (ChPL)",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwskazanie do terapii stwierdzone przez lekarza prowadzącego w oparciu o aktualną ChPL",
+        "zgoda pacjentki na prowadzenie antykoncepcji zgodnie z aktualną ChPL",
+        "wykluczenie ciąży i okresu karmienia piersią"
+    ],
+    "kryteria_wylaczenia": [
+        "wystąpienie objawów nadwrażliwości na którykolwiek ze stosowanych leków lub substancję pomocniczą",
+        "progresja choroby oceniona zgodnie z aktualnie obowiązującymi kryteriami RECIST, w sytuacji wątpliwej, a gdy stan pacjentki jest stabilny klinicznie, możliwe jest kontynuowanie leczenia, aż do potwierdzenia progresji w następnym badaniu obrazowym wykonanym w ciągu 4 do 8 tygodni",
+        "obniżenie sprawności do stopnia 2-4 według skali ECOG",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia",
+        "pogorszenie jakości życia o istotnym znaczeniu według oceny lekarza",
+        "okres ciąży lub karmienia piersią",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnych opiekunów"
+    ],
+    "leki": [
+        {
+            "nazwa": "pembrolizumab",
+            "dawkowanie": "5 pierwszych podań po 200 mg co 3 tygodnie, a następnie 15 podań po 400 mg co 6 tygodni"
+        },
+        {
+            "nazwa": "cisplatyna",
+            "dawkowanie": "40 mg/m2 pc. + radioterapia wiązkami zewnętrznymi (EBRT), a następnie brachyterapia"
+        },
+        {
+            "nazwa": "pembrolizumab",
+            "dawkowanie": "200 mg co 3 tygodnie lub 400 mg co 6 tygodni"
+        },
+        {
+            "nazwa": "paklitaksel",
+            "dawkowanie": "175 mg/m2 pc."
+        },
+        {
+            "nazwa": "cisplatyna",
+            "dawkowanie": "50 mg/m2 pc."
+        },
+        {
+            "nazwa": "bewacyzumab",
+            "dawkowanie": "15 mg/kg mc."
+        },
+        {
+            "nazwa": "karboplatyna",
+            "dawkowanie": "5 mg/ml/min"
+        },
+        {
+            "nazwa": "cemiplimab",
+            "dawkowanie": "350 mg co 3 tygodnie (Q3W), podawana we wlewie dożylnym przez 30 minut"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "histologiczne potwierdzenie określonego typu raka szyjki macicy",
+        "potwierdzenie zwalidowanym testem ekspresji PD-L1 wg CPS (w przypadku leczenia pembrolizumabem przetrwałego, nawrotowego lub przerzutowego raka szyjki macicy)",
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny i klirensu kreatyniny",
+        "oznaczenie aktywności aminotransferazy alaninowej",
+        "oznaczenie aktywności aminotransferazy asparaginianowej",
+        "oznaczenie stężenia bilirubiny całkowitej",
+        "oznaczenie INR lub czasu protrombinowego (w przypadku leczenia skojarzonego z bewacyzumabem)",
+        "oznaczenie czasu częściowej tromboplastyny lub czasu częściowej tromboplastyny po aktywacji (w przypadku leczenia skojarzonego z bewacyzumabem)",
+        "oznaczenie stężenia TSH, fT3 i fT4",
+        "badanie ogólne moczu",
+        "test ciążowy (u kobiet w wieku rozrodczym)",
+        "elektrokardiogram (EKG)",
+        "pomiar ciśnienia tętniczego (w przypadku leczenia pembrolizumabem przetrwałego, nawrotowego lub przerzutowego raka szyjki macicy)",
+        "badanie obrazowe (tomografia komputerowa klatki piersiowej, jamy brzusznej i miednicy lub inne badanie w zależności od sytuacji klinicznej)",
+        "inne badania laboratoryjne i obrazowe w razie wskazań klinicznych"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny i klirensu kreatyniny",
+        "oznaczenie aktywności aminotransferazy alaninowej",
+        "oznaczenie aktywności aminotransferazy asparaginianowej",
+        "oznaczenie stężenia bilirubiny całkowitej",
+        "oznaczenie INR i czasu protrombinowego (w przypadku leczenia skojarzonego z bewacyzumabem)",
+        "badanie czasu częściowej tromboplastyny po aktywacji (w przypadku leczenia skojarzonego z bewacyzumabem)",
+        "oznaczenie stężenia TSH, fT3 i fT4",
+        "badanie ogólne moczu",
+        "inne badania laboratoryjne i obrazowe w razie wskazań klinicznych"
+    ]
+}

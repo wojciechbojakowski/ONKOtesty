@@ -1,0 +1,64 @@
+{
+    "nazwa_pliku": "B.165. (nowy od 10-2024).docx",
+    "kryteria_kwalifikacji": [
+        "hipofosfatazja perinatalna i niemowlęca ujawniająca się klinicznie u dzieci w wieku < 6. miesiąca życia, stwierdzona na podstawie: ...",
+        "hipofosfatazja dziecięcą ujawniającą się u dzieci w wieku > 6. miesiąca życia rozpoznana na podstawie: ...",
+        "nie osiągnęli oczekiwanych etapów rozwoju motoryki właściwej dla wieku, lub cierpią z powodu ciągłego lub nawracającego bólu mięśniowo-szkieletowego wpływającego na niemożność wykonywania codziennych czynności, niepoddającego się działaniu leków z dwóch różnych grup leków przeciwbólowych, lub mają istotnie ograniczoną możliwość samodzielnego poruszania się (chodzenia);",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej Charakterystyki Produktu Leczniczego (zwanej dalej ChPL);",
+        "brak przeciwwskazań do terapii określonych w aktualnej ChPL;",
+        "wykluczenie okresu ciąży lub karmienia piersią;"
+    ],
+    "kryteria_wylaczenia": [
+        "brak skuteczności ocenianej zgodnie z harmonogramem monitorowania skuteczności leczenia pacjenta rozumianej jako niespełnienie przynajmniej dwóch z poniższych kryteriów u dzieci poniżej 18 roku życia: ...",
+        "brak poprawy lub nieosiągnięcie oczekiwanego efektu dla testu sześciominutowego marszu (6MWT) rozumianej jako poprawa o <25 m lub <10% w porównaniu z wynikami testu przed leczeniem (w przypadku chorych chodzących);",
+        "konieczność korzystania z mechanicznej wspomaganej wentylacji płuc po co najmniej 12 miesiącach leczenia (dotyczy chorych, którzy przed włączeniem do leczenia nie wymagali wspomagania oddychania);",
+        "konieczność korzystania z mechanicznej wspomaganej wentylacji płuc po co najmniej 24 miesiącach leczenia (dotyczy chorych, którzy przed włączeniem do leczenia wymagali wspomagania oddychania);",
+        "brak skuteczności ocenianej zgodnie z harmonogramem monitorowania skuteczności leczenia pacjenta rozumianej jako niespełnienie przynajmniej jednego z poniższych kryteriów u dorosłych, kontynuujących terapię asfotazą alfa: ...",
+        "powtarzające się złamania niskoenergetyczne przez okres trzech lat od rozpoczęcia leczenia;",
+        "brak zmniejszenia poziomu bólu rozumianego jako nieosiągnięcie znaczącej redukcji bólu przy równoczesnym zwiększeniu częstości podawania leków przeciwbólowych lub brak poprawy jakości życia w ocenie Zespołu Koordynacyjnego lub lekarza prowadzącego;",
+        "wystąpienie chorób lub stanów, które w opinii Zespołu Koordynacyjnego lub lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie działań niepożądanych uniemożliwiających kontynuację leczenia zgodnie z decyzją Zespołu Koordynacyjnego lub lekarza prowadzącego;",
+        "wystąpienie nadwrażliwości na lek lub substancję pomocniczą uniemożliwiające kontynuację leczenia;",
+        "wystąpienie zagrażającej życiu albo nieakceptowalnej toksyczności pomimo zastosowania adekwatnego postępowania;",
+        "nieprowadzenie skutecznej formy antykoncepcji przez kobiety w wieku rozrodczym;",
+        "okres ciąży i karmienia piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich ze strony świadczeniobiorcy lub jego prawnych opiekunów, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy."
+    ],
+    "leki": [
+        {
+            "nazwa": "asfotaza alfa",
+            "dawkowanie": "2mg/kg masy ciała podawane podskórnie trzy razy w tygodniu lub 1mg/kg masy ciała podawane podskórnie sześć razy w tygodniu. Maksymalna zalecana dawka asfotazy alfa to 6mg/kg/tydzień."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie molekularne potwierdzające obecność mutacji genu ALPL (1p36.12) w przebiegu HPP",
+        "oznaczenie aktywności fosfatazy alkalicznej w surowicy",
+        "oznaczenie stężenia wapnia w surowicy",
+        "oznaczenie stężenia magnezu w surowicy",
+        "oznaczenie stężenia fosforu w surowicy",
+        "oznaczenie stężenia parathormonu w surowicy",
+        "oznaczenie stężenia 25-hydroksy witaminy D w surowicy",
+        "test ciążowy u kobiet w wieku rozrodczym",
+        "konsultacja neurochirurgiczna - w przypadku występowania u pacjentów kraniosynostozy",
+        "konsultacja okulistyczna",
+        "pomiary antropometryczne",
+        "test sześciominutowego marszu (6MWT)",
+        "badanie RTG lub MRI nadgarstków, bioder i kolan z oceną w skali RSS",
+        "badanie USG nerek",
+        "ocena nasilenia bólu w skale dopasowanej do wieku"
+    ],
+    "badania_monitorujace": [
+        "oznaczenie aktywności fosfatazy alkalicznej w surowicy",
+        "oznaczenie stężenia wapnia w surowicy",
+        "oznaczenie stężenia magnezu w surowicy",
+        "oznaczenie stężenia fosforu w surowicy",
+        "oznaczenie stężenia parathormonu w surowicy",
+        "konsultacja okulistyczna",
+        "konsultacja ortopedyczna",
+        "pomiary antropometryczne",
+        "test sześciominutowego marszu (6MWT)",
+        "badanie RTG kośćca",
+        "badanie densytometryczne DXA (u pacjentów powyżej 5 r.ż.)",
+        "badanie USG nerek"
+    ]
+}

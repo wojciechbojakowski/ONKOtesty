@@ -1,0 +1,67 @@
+{
+    "nazwa_pliku": "B.169. (nowy od 04-2025).docx",
+    "kryteria_kwalifikacji": [
+        "Wiek ≥ 18 lat;",
+        "Rozpoznanie zespołu hipereozynofilowego (HES) na podstawie wywiadu hipereozynofilii przebiegającej z uszkodzeniem lub dysfunkcją ≥ 1 narządu pod warunkiem wykluczenia innych potencjalnych przyczyn uszkodzeń;",
+        "Bezwzględna liczba eozynofilów >1500 komórek/μl we krwi obwodowej w dwóch badaniach w odstępie co najmniej jednego miesiąca lub",
+        "Potwierdzenie tkankowej eozynofilii na podstawie co najmniej jednego z następujących:",
+        "W badaniu szpiku kostnego odsetek eozynofilów >20% wszystkich komórek jądrzastych;",
+        "Rozległy (w opinii patologa) naciek eozynofilowy w badaniu wycinka tkanki;",
+        "Wyraźne odkładanie się białek ziarnistości eozynofilów w badaniu wycinka tkanki;",
+        "Niewystarczająca kontrola HES definiowana jako wystąpienie co najmniej dwóch zaostrzeń HES w ostatnim roku,  z liczbą eozynofilów ≥1000 kom./μl w momencie kwalifikacji albo w ciągu 12 miesięcy poprzedzających kwalifikację chorego do leczenia w programie.",
+        "Wykluczenie przewlekłej białaczki eozynofilowej (CEL) oraz nowotworów mieloidalnych z eozynofilią na podstawie badań cytogenetycznych i molekularnych (FIP1L1-PDGFRA);",
+        "Wykluczenie przewlekłej białaczki eozynofilowej (CEL) oraz nowotworów mieloidalnych z eozynofilią na podstawie biopsji aspiracyjnej lub trepanobiopsji szpiku jako badań opcjonalnych (do decyzji lekarza prowadzącego);",
+        "Adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej Charakterystyki Produktu Leczniczego (zwanej dalej ChPL);",
+        "Nieobecność istotnych schorzeń współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL;",
+        "Brak przeciwwskazań do stosowania leku zgodnie z aktualną ChPL;",
+        "Wykluczenie okresu ciąży lub karmienia piersią.",
+        "Ponadto do programu lekowego kwalifikowani są pacjenci wymagający kontynuacji leczenia, którzy byli leczeni substancjami czynnymi finansowanymi w programie lekowym w ramach innego sposobu finansowania terapii (za wyjątkiem trwających badań klinicznych tych leków), pod warunkiem, że w chwili rozpoczęcia leczenia spełniali kryteria kwalifikacji do programu lekowego."
+    ],
+    "kryteria_wylaczenia": [
+        "Nie skuteczność leczenia definiowana jako wystąpienie zaostrzeń choroby przez okres przynajmniej 3 miesięcy w obserwacji 12-miesięcznej.",
+        "Wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "Wystąpienie nadwrażliwości na lek lub substancję pomocniczą;",
+        "Wystąpienie zagrażającej życiu lub nieakceptowalnej toksyczności pomimo zastosowania adekwatnego postępowania;",
+        "Brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnych opiekunów."
+    ],
+    "leki": [
+        {
+            "nazwa": "mepolizumab",
+            "dawkowanie": "300 mg podawane podskórnie raz na 4 tygodnie"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi z rozmazem, w tym ocena eozynofilii",
+        "aktywność aminotransferazy alaninowej (ALT)",
+        "aktywność dehydrogenazy mleczanowej (LDH)",
+        "stężenie kreatyniny w surowicy krwi",
+        "elektrokardiogram (EKG)",
+        "echokardiografia serca",
+        "stężenie troponiny sercowej oraz NT-proBNP w surowicy krwi",
+        "RTG lub TK klatki piersiowej",
+        "USG lub TK jamy brzusznej",
+        "spirometria",
+        "biopsja aspiracyjna lub trepanobiopsja szpiku kostnego",
+        "badanie ogólne moczu",
+        "konwencjonalne badanie cytogenetyczne oraz badanie PCR na obecność rearanżacji FIP1L1-PDGFRA",
+        "badania diagnostyczne mające na celu wykluczenie przyczyn reaktywnej hipereozynofilii",
+        "ocena stanu sprawności wg skali ECOG",
+        "test ciążowy (u kobiet w wieku rozrodczym)"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem, w tym ocena eozynofilii",
+        "aktywność aminotransferazy alaninowej (ALT)",
+        "aktywność dehydrogenazy mleczanowej (LDH)",
+        "stężenie białka C-reaktywnego (CRP) w surowicy krwi",
+        "stężenie kreatyniny w surowicy krwi",
+        "elektrokardiogram (EKG)",
+        "echokardiografia serca",
+        "stężenie troponiny sercowej oraz NT-proBNP w surowicy krwi",
+        "spirometria",
+        "badanie ogólne moczu",
+        "RTG lub TK klatki piersiowej",
+        "USG lub TK jamy brzusznej",
+        "ocena stanu sprawności wg skali ECOG",
+        "ocenę skuteczności zastosowanej terapii"
+    ]
+}

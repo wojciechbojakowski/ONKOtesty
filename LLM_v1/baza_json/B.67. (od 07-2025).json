@@ -1,0 +1,61 @@
+{
+    "nazwa_pliku": "B.67. (od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "Prawlewka zapalna polineuropatia demielinizacyjna (CIDP) potwierdzona: badaniem EMG co najmniej 4 nerwów, badaniem płynu mózgowo-rdzeniowego; przy braku skuteczności leczenia kortykosteroidami lub przy występujących przeciwskazaniach do ich stosowania.",
+        "Wieloogniskowa neuropatia ruchowa (MMN) potwierdzona badaniem EMG co najmniej 6 nerwów; w przypadku postępującej niesprawności ruchowej.",
+        "Miastenia (MG) przy jednoczesnym wystąpieniu jednego z poniższych punktów: pojemność życiowa niższa lub równa 20ml/kg m.c; retencja CO2 (ciśnienie parcjalne powyżej 45 mmHg); spadki saturacji pomimo pełnej suplementacji tlenem SpO2 poniżej 93%; narastanie zaburzeń oddechowych wymagających mechanicznej wentylacji lub narastający zespół opuszkowy; brak skuteczności leczenia kortykosteroidami lub przeciwskazania do ich stosowania; terapia pomostowa przed zabiegiem operacyjnym; nasilenie objawów miastenii w okresie ciąży.",
+        "Zespoły paranowotworowe: zespół miasteniczny Lamberta-Eatona, zapalenie układu limbicznego, polineuropatia ruchowa lub ruchowo-czuciowa udokumentowane co najmniej dwoma z trzech niżej wymienionych badań dodatkowych: badanie przeciwciał przeciwnowotworowych; badanie neurofizjologiczne; rezonans magnetyczny; przy braku skuteczności leczenia kortykosteroidami lub przy występujących przeciwskazaniach do ich stosowania.",
+        "Miopatie zapalne: zapalenie skórno-mięśniowe oraz zapalenie wielomięśniowe w przypadku nieskutecznego leczenia kortykosteroidami.",
+        "Zespół Guillain-Barre w przypadku wystąpienia jednego z poniższych objawów: narastająca niesprawność ruchowa uniemożliwiająca samodzielne chodzenie obserwowana w okresie 2 tygodni od momentu zachorowania; narastający niedowład mięśni twarzy; dyzartia; dysfagia; zaburzenia oddechowe.",
+        "Choroba Devica (NMO) potwierdzona wykonaniem: rezonans magnetycznego mózgu i rdzenia kręgowego, badania potencjałów wzrokowych, badania przeciwciał przeciwko akwaporynie 4 (AQP4), badania płynu mózgowo-rdzeniowego; w przypadku nieskuteczności leczenia immunosupresyjnego lub występujących przeciwskazaniach do jego zastosowania.",
+        "Zapalenie mózgu z przeciwciałami przeciw antygenom neuronalnym potwierdzone wykonaniem: rezonans magnetycznego mózgu, badania płynu mózgowo-rdzeniowego, badania poziomu przeciwciał przeciw antygenom neuronalnym; w przypadku nieskuteczności leczenia immunosupresyjnego lub występujących przeciwskazaniach do jego zastosowania.",
+        "Zespół sztywności uogólnionej (SPS) potwierdzony: badaniem EMG, oznaczeniem przeciwciał przeciwko dekarboksylazie kwasu glutaminowego (przeciwciał anty-GAD); przy braku skuteczności leczenia objawowego: baklofenem, tynidazyną benzodiazepinami i gabapentyną lub przy występujących przeciwskazaniach do ich stosowania i istotnych klinicznie objawów SPS."
+    ],
+    "kryteria_wylaczenia": [
+        "Brak adekwatnej odpowiedzi na leczenie, ocenianej zgodnie z harmonogramem monitorowania skuteczności leczenia pacjenta definiowana jako progresja choroby potwierdzona badaniami klinicznymi lub neurofizjologicznymi pomimo zastosowania trzech cykli leczenia, a w przypadku kontynuacji terapii - pomimo zastosowania każdego kolejnego cyku leczenia;",
+        "Wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "Wystąpienie objawów nadwrażliwości na którąkolwiek substancję czynną lub substancję pomocniczą;",
+        "Wystąpienie toksyczności wymagającej zakończenia leczenia w opinii lekarza prowadzącego zgodnie z aktualną Charakterystyką Produktu Leczniczego (zwaną dalej ChPL);",
+        "Pogorszenie jakości życia o istotnym znaczeniu według oceny lekarza;",
+        "Brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego opiekuna prawnego."
+    ],
+    "leki": [
+        {
+            "nazwa": "Immunoglobuliny dożylne",
+            "dawkowanie": "0,4 g/kg m.c. we wlewie iv., ogółem dawka leku 1-2 g/kg m.c. w ciągu 2-5 dni; kontynuacja leczenia w zależności od stanu neurologicznego wlewami w dawce 0,4 g/kg m.c. - 2,0 g/kg m.c. na cykl, podanej w ciągu 2-5 dni"
+        },
+        {
+            "nazwa": "Immunoglobuliny podskórne (SCIg)",
+            "dawkowanie": "0,2 do 0,4 g/kg masy ciała na tydzień; początkowa dawka może być zamieniona w skali 1:1 z poprzednią dawką immunoglobuliny dożylnej (obliczaną jako dawka tygodniowa); tygodniową dawkę można podzielić na mniejsze dawki i podawać wymaganą liczbę razy na tydzień; w przypadku podawania dawki co 2 tygodnie, dawka tygodniowa powinna być podwojona"
+        },
+        {
+            "nazwa": "Immunoglobuliny podskórne (fSCIg)",
+            "dawkowanie": "od 0,3 do 2,4 g/kg masy ciała na miesiąc, podawana w 1 lub 2 sesjach w ciągu 1 lub 2 dni"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "oznaczanie poziomu immunoglobulin i podklas IgA lub swoistych przeciwciał",
+        "proteinogram",
+        "EMG",
+        "rezonans magnetyczny",
+        "badanie płynu mózgowo-rdzeniowego",
+        "oznaczenie przeciwciał przeciwnowotworowych",
+        "oznaczenie przeciwciał przeciwko akwaporynie 4 (AQP4)",
+        "wzrokowe potencjały wywołane",
+        "oznaczenie przeciwciał anty-NMDA",
+        "konsultacja ginekologiczna u kobiet",
+        "inne badania w kierunku procesów nowotworowych",
+        "w przypadku kwalifikacji do SPS oznaczenie przeciwciał anty-GAD"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie poziomu kreatyniny w surowicy krwi",
+        "oznaczenie aktywności ALT",
+        "oznaczenie aktywności AST",
+        "proteinogram",
+        "oznaczanie poziomu immunoglobulin i podklas IgA lub swoistych przeciwciał"
+    ]
+}

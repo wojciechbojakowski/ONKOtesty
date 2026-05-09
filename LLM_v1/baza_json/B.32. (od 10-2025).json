@@ -1,0 +1,69 @@
+{
+    "nazwa_pliku": "B.32. (od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "Wiek od 6 lat w przypadku terapii infliksymabem w postaci dożylnej lub adalimumabem albo wiek od 18 lat w przypadku terapii infliksymabem w postaci podskórnej lub ustekinumabem lub wedolizumabem lub upadacytynibem;",
+        "Ciągle lub umiarkowana, czynna postać ChL-C (wynik w skali PCDAI ≥30 punktów w przypadku pacjentów od 6 lat do momentu ukończenia 18 lat albo wynik w skali CDAI >220 punktów u dorosłych pacjentów) przy braku odpowiedzi na leczenie glikokortykosteroidami, lub lekami immunosupresyjnymi, lub innymi inhibitorami TNF alfa, lub przy występowaniu przeciwwskazań lub objawów nietolerancji takiego leczenia",
+        "Pacjenci z ChL-C cechujący się wytworzeniem przetok okołoodbytowych, którzy nie odpowiedzieli na leczenie podstawowe: antybiotyki, leki immunosupresyjne, leczenie chirurgiczne - niezależnie od nasilenia choroby (leczenie wedolizumabem lub ustekinumabem lub upadacytynibem wyłącznie po wcześniejszym niepowodzeniu anty-TNF w tej grupie pacjentów)",
+        "Pacjenci po odcinkowej resekcji jelita z powodu ChL-C, u których badanie endoskopowe wykonane w ramach nadzoru wykazało zmiany zapalne w okolicy zespolenia (≥ 2 punktów w skali Rutgeertsa) lub w innych odcinkach jelita, pomimo stosowanego leczenia immunosupresyjnego lub po przerwaniu leczenia immunosupresyjnego z powodu powikłań lub nietolerancji – wyłącznie w przypadku leczenia infliksymabem lub adalimumabem;",
+        "Adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii;",
+        "Brak przeciwskazań do stosowania zgodnie z aktualną Charakterystyką Produktu Leczniczego (ChPL);",
+        "Nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL;",
+        "Zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną ChPL lub z aktualnymi wytycznymi European Crohn´s and Colitis Organisation (ECCO) lub Polskiego Towarzystwa Gastroenterologii (PTG-E) (jeśli dotyczy)."
+    ],
+    "kryteria_wylaczenia": [
+        "Stwierdzenie braku odpowiedzi na leczenie definiowane jako zmniejszenie wskaźnika CDAI o co najmniej 70 punktów oraz o co najmniej 25% względem wartości początkowej albo zmniejszenie wskaźnika PCDAI o co najmniej 12,5 punktów względem wartości początkowej oraz PCDAI < 30 punktów;",
+        "Wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "Wystąpienie objawów nadwrażliwości na którąkolwiek substancję czynną lub substancję pomocniczą;",
+        "Wystąpienie toksyczności wymagającej zakończenia leczenia w opinii lekarza prowadzącego zgodnie z aktualną ChPL;",
+        "Pogorszenie jakości życia o istotnym znaczeniu w opinii lekarza prowadzącego;",
+        "Brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego opiekuna prawnego."
+    ],
+    "leki": [
+        {
+            "nazwa": "infliksymab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej ChPL"
+        },
+        {
+            "nazwa": "adalimumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnych rekomendacjach ECCO lub PTG-E"
+        },
+        {
+            "nazwa": "wedolizumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej ChPL"
+        },
+        {
+            "nazwa": "ustekinumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnych rekomendacjach ECCO lub PTG-E"
+        },
+        {
+            "nazwa": "upadacytynib",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej ChPL"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi obwodowej",
+        "a w przypadku pacjentów kwalifikowanych do leczenia upadacytynibem - morfologia krwi z rozmazem oraz oznaczeniem bezwzględnej liczby granulocytów obojętnochłonnych i bezwzględnej liczby limfocytów;",
+        "aminotransferaza alaninowa (AlAT);",
+        "aminotransferaza asparaginianowa (AspAT);",
+        "kreatynina;",
+        "białko C-reaktywne;",
+        "badanie ogólne moczu;",
+        "test Quantiferon;",
+        "antygen HBs;",
+        "przeciwciała anty HCV;",
+        "antygen wirusa HIV(HIV Ag/Ab Combo);",
+        "stężenie elektrolitów w surowicy;",
+        "RTG klatki piersiowej (maksymalnie do 3 miesięcy przed kwalifikacją);",
+        "EKG z opisem (wymagane wyłącznie u dorosłych pacjentów);",
+        "anty HBc total;",
+        "określenie początkowej wartości wskaźnika CDAI u dorosłych albo PCDAI u dzieci i młodzieży;",
+        "lipidogram (całkowity cholesterol, HDL i LDL) oraz trójglicerydy przed rozpoczęciem leczenia upadacytynibem."
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi obwodowej",
+        "CRP",
+        "AlAT",
+        "AspAT",
+        "stężenie cholesterolu całkowitego, LDL, HDL i trójglicerydów"
+    ]
+}

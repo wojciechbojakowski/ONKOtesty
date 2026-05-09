@@ -1,0 +1,46 @@
+{
+    "nazwa_pliku": "B.125. (od 11-2023).docx",
+    "kryteria_kwalifikacji": [
+        "histologicznie potwierdzona obecność raka kolczystokomórkowego skóry z przerzutami lub w stadium miejscowo-zaawansowanym, przy braku kwalifikacji do radykalnego leczenia chirurgicznego lub radykalnej radioterapii;",
+        "wiek ≥18 roku życia;",
+        "stopień sprawności 0 – 2 według skali ECOG;",
+        "adekwatna wydolność narządowa określona na podstawie badań laboratoryjnych zgodnie z zapisami aktualnej Charakterystyki Produktu Leczniczego (ChPL);",
+        "zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną ChPL;",
+        "wykluczenie ciąży i okresu karmienia piersią;",
+        "brak przeciwwskazań do stosowania leku zgodnie z aktualną ChPL;",
+        "nieobecność istotnych schorzeń współistniejących stanowiących przeciwwskazanie do terapii, stwierdzonych przez Zespół Koordynacyjny lub lekarza prowadzącego w oparciu o aktualną ChPL",
+        "wykluczenie współwystępowania innych nowotworów złośliwych niekontrolowanych leczeniem.",
+        "kryteria_wylaczenia_z_programu: ["
+    ],
+    "leki": [
+        {
+            "nazwa": "cemiplimab",
+            "dawkowanie": "350 mg co 3 tygodnie, we wlewie dożylnym trwającym 30 minut"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "histologiczne potwierdzenie raka kolczystokomórkowego skóry z przerzutami lub w stadium miejscowo-zaawansowanym nieresekcyjnym;",
+        "ocena sprawności w skali ECOG;",
+        "morfologia krwi z rozmazem;",
+        "oznaczenie stężenia kreatyniny;",
+        "oznaczenie stężenia bilirubiny;",
+        "oznaczenie aktywności aminotransferazy alaninowej;",
+        "oznaczenie aktywności aminotransferazy asparaginianowej;",
+        "oznaczenie TSH i FT4;",
+        "test na HCV, HBV;",
+        "test ciążowy z próbki krwi u kobiet w wieku rozrodczym (wynik ważny 4 dni);",
+        "ocena rozległości zmian w badaniu przedmiotowym całej skóry wraz z dokumentacją fotograficzną widocznych zmian (na zdjęciu widoczna skala);",
+        "badanie TK lub MR w przypadku wskazań klinicznych, dla oceny głębokości naciekania nowotworowego lub udokumentowania zmian przerzutowych, ocena RECIST 1.1;",
+        "inne badania w razie wskazań klinicznych."
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem;",
+        "oznaczenie stężenia kreatyniny;",
+        "oznaczenie stężenia bilirubiny;",
+        "oznaczenie aktywności aminotransferazy alaninowej;",
+        "oznaczenie aktywności aminotransferazy asparaginianowej;",
+        "oznaczenie TSH i FT4;",
+        "test ciążowy z próbki krwi u kobiet w wieku rozrodczym (wynik ważny 4 dni);",
+        "inne badania w razie wskazań klinicznych."
+    ]
+}

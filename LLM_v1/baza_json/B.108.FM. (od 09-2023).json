@@ -1,0 +1,106 @@
+{
+    "nazwa_pliku": "B.108.FM. (od 09-2023).docx",
+    "kryteria_kwalifikacji": [
+        "rozpoznanie raka rdzeniastego tarczycy potwierdzone histologicznie;",
+        "choroba miejscowo zaawansowana lub uogólniona - po wykluczeniu możliwości wykorzystania resekcji lub metod ablacyjnych i radioterapii;",
+        "obecność zmian mierzalnych według aktualnych kryteriów RECIST;",
+        "obecność przerzutów udokumentowana na podstawie badania klinicznego i wyników badań obrazowych;",
+        "adekwatna wydolność narządowa określona na podstawie badań laboratoryjnych krwi zgodnie z zapisami w aktualnej ChPL;",
+        "brak przeciwwskazań do stosowania leku określonych w aktualnej ChPL;",
+        "niewystępowanie stanów klinicznych, które w opinii lekarza prowadzącego uniemożliwiają włączenie terapii;",
+        "ujemny wynik testu ciążowego bezpośrednio przed włączeniem leczenia u kobiet w wieku rozrodczym;",
+        "zgoda na stosowanie efektywnej antykoncepcji w trakcie trwania leczenia.",
+        "wiek powyżej 18 lat;",
+        "nowotwór objawowy i o postępującym przebiegu - konieczność udokumentowania progresji według RECIST w okresie 12 miesięcy poprzedzających wdrożenie leczenia wandetanibem;",
+        "stan sprawności 0-2 według ECOG;",
+        "wiek co najmniej 12 lat;",
+        "niepowodzenie lub nietolerancja farmakoterapii systemowej z użyciem wandetanibu lub kabozantynibu;",
+        "potwierdzona mutacja germinalna lub somatyczna w genie RET w guzie (pozytywny wynik testu DNA linii zarodkowej w kierunku mutacji w genie RET jest dopuszczalny przy braku badań tkanki nowotworowej);",
+        "dostępna zarchiwizowana próbka tkanki nowotworowej (z zastrzeżeniem jak w pkt. 3);",
+        "brak potwierdzonego dodatkowego (zatwierdzonego) czynnika onkogennego, który może powodować oporność na leczenie;",
+        "brak wcześniejszego leczenie selektywnym inhibitorem(ami) RET;",
+        "nieobecność przerzutów w ośrodkowym układzie nerwowym (dopuszczalne wcześniejsze wycięcie przerzutów lub radioterapia, o ile po leczeniu utrzymuje się stan bezobjawowy);",
+        "co najmniej jedna mierzalna zmiana, zgodnie z aktualną definicją RECIST lub RANO i wcześniej nie napromieniana;",
+        "stan sprawności: dorośli 0-2 w skali ECOG, pacjenci do 16 roku życia ≥ 40 w skali Lansky’ego."
+    ],
+    "kryteria_wylaczenia": [
+        "udokumentowana progresja według aktualnych kryteriów RECIST;",
+        "wystąpienie objawów nadwrażliwości na substancje czynne lub na którąkolwiek substancję pomocniczą;",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "pogorszenie stanu sprawności, związane z leczeniem, o 1 lub 2 stopnie, w zależności od wartości przy kwalifikacji, ale maksymalnie do wartości 3 wg ECOG u dorosłych (dotyczy selperkatynibu i wandetanibu) lub do wartości 30 w skali Lansky’ego u pacjentów do 16. roku życia (dotyczy selperkatynibu);",
+        "ciąża lub okres karmienia piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub wycofanie zgody na leczenie."
+    ],
+    "leki": [
+        {
+            "nazwa": "wandetanibu",
+            "dawkowanie": "300 mg na dobę"
+        },
+        {
+            "nazwa": "selperkatynibu",
+            "dawkowanie": "120 mg podawane dwa razy na dobę (masy ciała mniejszej niż 50 kg), 160 mg podawane dwa razy na dobę (masy ciała równej 50 kg lub większej)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie AlAT i AspAT",
+        "oznaczenie stężenia potasu, wapnia, magnezu w surowicy krwi",
+        "oznaczenie stężenia bilirubiny",
+        "oznaczenie stężenia kreatyniny",
+        "oznaczenie stężenia TSH",
+        "badanie ogólne moczu",
+        "test ciążowy u kobiet w wieku rozrodczym",
+        "pomiary ciśnienia tętniczego krwi",
+        "EKG z oceną odstępu QTc",
+        "TK lub MR szyi, klatki piersiowej i jamy brzusznej",
+        "badanie wzroku"
+    ],
+    "badania_monitorujace": [
+        {
+            "co_pierwszym_tygodniu": [
+                "EKG z oceną odstępu QTc w zapisie EKG",
+                "oznaczenie stężenia potasu, wapnia, magnezu w surowicy krwi"
+            ],
+            "co_3_miesiące": [
+                "morfologia krwi z rozmazem",
+                "oznaczenie AlAT i AspAT",
+                "oznaczenie stężenia bilirubiny",
+                "oznaczenie stężenia kreatyniny",
+                "oznaczenie stężenia potasu, wapnia, magnezu w surowicy krwi",
+                "oznaczanie stężenia kalcytoniny i CEA",
+                "badanie TSH",
+                "badanie ogólne moczu",
+                "badanie TK lub MR"
+            ],
+            "co_12_miesiące": [
+                "badanie wzroku z użyciem lampy szczelinowej"
+            ]
+        },
+        {
+            "co_pierwszym_tygodniu": [
+                "EKG z oceną odstępu QTc w zapisie EKG",
+                "oznaczenie stężenia potasu, wapnia, magnezu w surowicy krwi",
+                "oznaczenie AlAT i AspAT",
+                "oznaczenie stężenia bilirubiny"
+            ],
+            "co_2_miesiące": [
+                "EKG z oceną odstępu QTc w zapisie EKG",
+                "morfologia krwi z rozmazem",
+                "oznaczenie stężenia potasu, wapnia, magnezu w surowicy krwi",
+                "oznaczenie AlAT i AspAT",
+                "oznaczenie stężenia bilirubiny"
+            ],
+            "co_3_miesiące": [
+                "EKG z oceną odstępu QTc w zapisie EKG",
+                "morfologia krwi z rozmazem",
+                "oznaczenie stężenia potasu, wapnia, magnezu w surowicy krwi",
+                "oznaczenie AlAT i AspAT",
+                "oznaczenie stężenia bilirubiny",
+                "oznaczenie stężenia kreatyniny",
+                "oznaczenie stężenia TSH, kalcytoniny i CEA",
+                "badanie ogólne moczu",
+                "badanie TK lub MR"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "nazwa_pliku": "B.41. (nowy od 09.2015).docx",
+    "kryteria_kwalifikacji": [
+        "rozpoznanie zespołu Prader-Willi, na podstawie cech klinicznych potwierdzonych badaniem genetycznym;",
+        "wiek poniżej 18 roku życia, optymalnie między 4. rokiem życia;",
+        "dojrzałość szkieletu (wiek kostny), poniżej 16 lat u dziewcząt i poniżej 18 lat u chłopców;",
+        "stan odżywienia, mierzony wielkością wskaźnika BMI, poniżej 97 centyla dla płci i wieku (wymagany co najmniej 6 miesięczny okres obserwacji w ośrodku prowadzącym terapię hormonem wzrostu);",
+        "wyrównane przemiany węglowodanowe, wymagane wykonanie testu obciążenia glukozą z pomiarem glikemii i insulinemii;",
+        "konsultacja laryngologiczna, z uwagi na możliwość nasilenia lub wystąpienia nocnych bezdechów;",
+        "wprowadzone leczenie dietetyczne i rehabilitacja (wymagany co najmniej 6 miesięczny okres obserwacji w ośrodku prowadzącym terapię hormonem wzrostu);",
+        "inne badania i konsultacje zależne od stanu świadczeniobiorcy i innych powikłań choroby zasadniczej lub innych towarzyszących PWS chorób;",
+        "brak innych przeciwwskazań do stosowania hormonu wzrostu"
+    ],
+    "kryteria_wylaczenia": [
+        "brak współpracy z rodzicami lub świadczeniobiorcą;",
+        "wystąpienie powikłań zastosowanej terapii;",
+        "zaniechanie systematycznego leczenia rehabilitacyjnego lub dietetycznego;",
+        "narastanie otyłości, pomimo stosowania kompleksowego leczenia hormonem wzrostu, leczenia dietetycznego i rehabilitacji (wzrost wielkości wskaźnika BMI w odniesieniu do norm populacyjnych przyjętych dla wieku i płci o 2 odchylenia standardowe lub więcej);",
+        "pojawienie się lub nasilenie nocnych bezdechów;",
+        "cukrzyca lub ujawnienie się tej choroby w czasie prowadzonej terapii hormonem wzrostu"
+    ],
+    "leki": [
+        {
+            "nazwa": "Somatotropina",
+            "dawkowanie": "0,18 - 0,47 mg/kg/tydzień (0,54 - 1,4 IU/kg/tydzień)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "pomiar stężenia IGF-1",
+        "badania laboratoryjne i inne według standardów diagnozowania"
+    ],
+    "badania_monitorujace": [
+        "konsultacja laryngologiczna (po 30 dniach)",
+        "pomiar stężenia IGF-1; konsultacja laryngologiczna, następne w zależności od potrzeb (po 90 dniach)",
+        "konsultacja dietetyka; konsultacja rehabilitanta (co 90 dni)",
+        "pomiar stężenia glukozy we krwi; pomiar stężenia TSH; pomiar stężenia fT4; jonogram w surowicy krwi (po 180 dni)",
+        "konsultacja przez ginekologa zajmującego się dziećmi (dotyczy dziewcząt powyżej 10 roku życia, a u dziewcząt poniżej 10 roku życia - w zależności od potrzeb); konsultacja kardiologiczna; USG serca; pomiar stężeń triglicerydów; pomiar stężeń całkowitego cholesterolu; pomiar frakcji HDL cholesterolu; pomiar frakcji LDL cholesterolu; pomiar odsetka glikowanej hemoglobiny (HbA1C); test obciążenia glukozą z pomiarem glikemii i insulinemii; konsultacja laryngologiczna; konsultacja ortopedyczna; RTG śródręcza z bliższą przynasadą kości przedramienia (do oceny wieku kostnego); test stymulacji wydzielania gonadotropin, z użyciem preparatu do stymulacji wydzielania gonadotropin; konsultacja nefrologiczna; konsultacja urologiczna; USG jamy brzusznej; badanie ogólne i posiew moczu (w przypadku nawracających zakażeń układu moczowego lub wad wrodzonych tego układu); konsultacja ortopedyczna; RTG lub USG stawów biodrowych, poszerzone o TK lub MRI stawów biodrowych (przy podejrzeniu złuszczenia główki kości udowej); konsultacja okulistyczna; konsultacja neurologiczna; obrazowanie ośrodkowego układu nerwowego (TK z kontrastem lub MRI) (w przypadku wystąpienia objawów pseudo tumor cerebri)"
+    ]
+}

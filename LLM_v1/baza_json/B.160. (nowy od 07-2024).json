@@ -1,0 +1,43 @@
+{
+    "nazwa_pliku": "B.160. (nowy od 07-2024).docx",
+    "kryteria_kwalifikacji": [
+        "wiek ≥60 lat;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych umożliwiająca bezpieczne rozpoczęcie terapii;",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych, stanowiących przeciwskazanie w oparciu o aktualną ChPL;",
+        "wykluczenie nadwrażliwości na romosozumab lub którąkolwiek substancję pomocniczą.",
+        "udokumentowany T-score ≤ -3,0 (pomiar bliższego końca kości udowej lub części lędźwiowej kręgosłupa) oraz udokumentowane przynajmle jedno wcześniejsze złamanie niskoenergetyczne w wywiadzie w lokalizacji głównej;",
+        "T-score ≤ -2,5 (pomiar bliższego końca kości udowej lub części lędźwiowej kręgosłupa) oraz udokumentowane złamanie, które nastąpiło w ciągu ostatnich 12 miesięcy w bliższym końcu kości udowej lub kręgów oraz udokumentowane przynajmle jedno wcześniejsze złamanie niskoenergetyczne w wywiadzie w lokalizacji głównej."
+    ],
+    "kryteria_wylaczenia": [
+        "brak skuteczności ocenianej zgodnie z harmonogramem monitorowania skuteczności leczenia pacjenta rozumianej jako: spadek BMD o 4,4% dla kręgów, 5,2% dla szyjki kości udowej po 6 miesiącach od rozpoczęcia terapii, w porównaniu z wynikami przed leczeniem;",
+        "wystąpienie chorób lub stanów, które uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie działań niepożądanych uniemożliwiających kontynuację leczenia;",
+        "wystąpienie nadwrażliwości na lek lub substancję pomocniczą bądź toksyczności uniemożliwiające kontynuację leczenia;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich ze strony świadczeniobiorcy, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy."
+    ],
+    "leki": [
+        {
+            "nazwa": "romosozumab",
+            "dawkowanie": "210 mg raz w miesiącu przez 12 miesięcy"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie densytometryczne",
+        "RTG",
+        "stężenie wapnia i fosforu w surowicy",
+        "oznaczenie stężenia 25-hydroksy witaminy D w surowicy",
+        "stężenie PTH w surowicy",
+        "stężenie albuminy w surowicy",
+        "morfologia krwi",
+        "odczyn Biernackiego (OB)",
+        "aminotransferaza asparaginianowa (AspAT)",
+        "aminotransferaza alaninowa (AlAT)",
+        "stężenie kreatyniny",
+        "badanie ogólne moczu"
+    ],
+    "badania_monitorujace": [
+        "stężenie wapnia w surowicy",
+        "badanie densytometryczne i ocena T-score",
+        "wywiad w kierunku występowania złamań"
+    ]
+}

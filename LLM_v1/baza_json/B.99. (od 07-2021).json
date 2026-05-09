@@ -1,0 +1,44 @@
+{
+    "nazwa_pliku": "B.99. (od 07-2021).docx",
+    "kryteria_kwalifikacji": [
+        "Wiek powyżej 18 roku życia;",
+        "Akromegalia rozpoznana na podstawie powszechnie przyjętych kryteriów klinicznych i biochemicznych (stężenie insulinopodobnego czynnika wzrostu-1 IGF-1 powyżej górnej granicy normy dla płci i wieku oraz brak zahamowania wydzielania hormonu wzrostu GH poniżej 1,0 μg/l (ng/ml) w doustnym teście obciążenia glukozą (ang. oral glucose tolerance test, OGTT);",
+        "Niewystarczające leczenie operacyjne (zabieg neurochirurgiczny usunięcia guza somatotropowego przysadki) i (lub) radioterapia, które nie doprowadziły do normalizacji stężenia GH (w doustnym teście obciążenia glukozą OGTT lub w profilu GH) oraz stężenia IGF-1 prawidłowego dla płci i wieku, i nie osiągnięcie biochemicznej kontroli (normalizacji IGF-1, GH) akromegalii po przynajmniej 6-cio miesięcznym okresie leczenia uzupełniającego analogami somatostatyny I generacji o przedłużonym działaniu tj. oktreotydem w dawce ≥30 mg lub lanreotydem w dawce 120 mg, podawanymi co 28 dni lub nietolerowanie takiej terapii;",
+        "Dyskwalifikacja z ponownego leczenia operacyjnego i (lub) radioterapii (ponowna operacja lub radioterapia w opinii specjalisty neurochirurga nie poprawi kontroli choroby lub leczenie chirurgiczne i radioterapia nie są możliwe);",
+        "Nie osiągnięcie biochemicznej kontroli (normalizacji IGF-1, GH) akromegalii po przynajmniej 6-cio miesięcznym okresie leczenia uzupełniającego analogami somatostatyny II generacji o przedłużonym działaniu tj. pasyreotydem w dawce 60 mg lub nietolerowanie takiej terapii;",
+        "Dyskwalifikacja z leczenia pasyreotydem z powodu niekontrolowanych zaburzeń gospodarki węglowodanowej (HbA1c > 7% (> 53 mmol/mol)."
+    ],
+    "kryteria_wylaczenia": [
+        "Kandydaci do leczenia operacyjnego;",
+        "Ucisk skrzyżowania nerwów wzrokowych przez guz powodujący istotne zaburzenia pola widzenia u pacjentów kwalifikujących się do odbarczającego leczenia neurochirurgicznego;",
+        "Niewydolność nerek: eGFR <15 ml/min/1,73 m2 oraz utrata białka >3 g/1,73m2;",
+        "AlAT i AspAT >3 x GGN (AlAT i AspAT > 5 x GGN u chorych z wyjściowo podwyższonym stężeniem AlAT i AspAT);",
+        "Niewyrównana niedoczynność kory nadnerczy lub tarczycy (nieadekwatne leczenie substytucyjne);",
+        "Okres ciąży lub karmienia piersią;",
+        "nadwrażliwość na pasyreotyd lub którąkolwiek substancję pomocniczą leku;",
+        "Brak odpowiedzi na leczenie w sytuacji, gdy nie uzyskano normalizacji stężenia IGF-1 odpowiednio dla płci i wieku, po co najmniej 12 miesięcznym okresie podawania pegwisomantu w najwyższej tolerowanej dawce;"
+    ],
+    "leki": [
+        {
+            "nazwa": "pasireotyd",
+            "dawkowanie": "40 mg podawana w iniekcjach domięśniowych co 28 dni, w przypadku braku kontroli biochemicznej akromegalii (utrzymywanie się stężenia GH ≥2,5 µg/l i/lub IGF-1 powyżej normy dla płci i wieku) - zwiększenie dawki do 60 mg podawana co 28 dni; w przypadku wystąpienia działań niepożądanych lub nadmiernej odpowiedzi na leczenie - zmniejszenie dawki o 20 mg lub preparat powinien zostać odstawiony."
+        },
+        {
+            "nazwa": "pegwisomant",
+            "dawkowanie": "80 mg podskórnie, początkowa, nasycająca dawka; następnie 10 mg raz na dobę we wstrzyknięciu podskórnym; dawki należy dostosowywać na podstawie stężenia IGF-1 w surowicy; maksymalna dawka wynosi 30 mg/dobę."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "ocena somatycznych objawów akromegalii",
+        "ocena jakości życia (AcroQol)",
+        "ocena hormonalna: stężenie GH, stężenie IGF-1",
+        "rezonans magnetyczny okolicy podwzgórzowo-przysadkowej",
+        "badania laboratoryjne: ocena stężenia glukozy w osoczu krwi żylnej na czczo"
+    ],
+    "badania_monitorujace": [
+        "stężenie IGF-1 w surowicy mierzone co 4 do 6 tygodni",
+        "rezonans magnetyczny okolicy podwzgórzowo-przysadkowej co 12 miesięcy",
+        "oznaczenie aktywności AspAT i AlAT w surowicy co 4 do 6 tygodni",
+        "poziom glukozy we krwi i / lub ocena stężenia glukozy w osoczu na czczo – co tydzień przez pierwsze trzy miesiące"
+    ]
+}

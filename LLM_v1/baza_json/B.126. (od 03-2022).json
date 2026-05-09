@@ -1,0 +1,38 @@
+{
+    "nazwa_pliku": "B.126. (od 03-2022).docx",
+    "kryteria_kwalifikacji": [
+        "rozpoznanie autosomalnie dominującej postaci zwyrodnienia wielotorbielowatego nerek (ADPKD) na podstawie badania w rezonansie magnetycznym lub na podstawie badania USG (kryteria Pei-Ravine);",
+        "wiek ≥18. roku życia;",
+        "szybka progresja choroby definiowana jako: zmniejszenie eGFR ≥ 5 ml/min na rok oraz eGFR 30- 90 ml/min/1,73 m2, lub zmniejszenie eGFR ≥ 2,5 ml/min na rok w okresie 5 lat oraz eGFR 30- 60 ml/min/1,73 m2, lub wzrost całkowitej objętości nerek TKV > 5% na rok w badaniu rezonansem magnetycznym lub całkowita objętość jednej z nerek TKV > 750 ml w badaniu rezonansem magnetycznym lub długość większej nerki > 16,5 cm w badaniu USG."
+    ],
+    "kryteria_wylaczenia": [
+        "nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą lub na benzodiazepinę lub pochodne benzodiazepiny;",
+        "zwiększona aktywność enzymów wątrobowych lub przedmiotowe lub podmiotowe objawy uszkodzenia wątroby, które spełniają kryteria przerwania na stałe leczenia tolwaptanem określone zgodnie z Charakterystyką Produktu Leczniczego;",
+        "uzyskanie eGFR<15ml;",
+        "zmniejszenie objętości wewnątrznaczyniowej pod postacią objawowego niedociśnienia tętniczego lub ciężkiego odwodnienia;",
+        "hipernatremia;",
+        "brak prawidłowego odczucia pragnienia lub brak adekwatnej reakcji na pragnienie, określonej na podstawie badania podmiotowego;",
+        "ciąża lub karmienie piersią."
+    ],
+    "leki": [
+        {
+            "nazwa": "tolwaptan",
+            "dawkowanie": "Dawkowanie: 60 mg raz w ciągu dnia"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "eGFR",
+        "całkowita objętość nerek określona na podstawie rezonansu magnetycznego lub długość nerek określona na podstawie USG",
+        "stężenie bilirubiny całkowitej",
+        "aktywność AlAT, AspAT",
+        "stężenie elektrolitów w surowicy"
+    ],
+    "badania_monitorujace": [
+        "stężenie bilirubiny całkowitej",
+        "aktywność AlAT, AspAT",
+        "stężenie sodu i potasu w surowicy",
+        "stężenie kreatyniny i eGFR",
+        "objętość nerek oceniona w rezonansie magnetycznym (raz na 3 lata)",
+        "ultrasonograficzna ocena wymiarów nerek (raz na 3 lata)"
+    ]
+}

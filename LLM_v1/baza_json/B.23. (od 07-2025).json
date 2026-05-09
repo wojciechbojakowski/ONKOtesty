@@ -1,0 +1,80 @@
+{
+    "nazwa_pliku": "B.23. (od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "brak lub znaczny niedobór aktywności",
+        "β-glukocerebrozydazy w leukocytach lub fibroblastach skóry, potwierdzony badaniem molekularnym;",
+        "objawowa postać choroby;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii;",
+        "brak przeciwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego (ChPL);",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL.",
+        "rozpoznanie choroby Gauchera typu I lub III;",
+        "rozpoznanie choroby Gauchera typu I;",
+        "rozpoznanie choroby Gauchera typu I;",
+        "wiek ≥ 18 lat;",
+        "potwierdzenie słabego (PM), średniego (IM) lub szybkiego (EM) metabolizmu z udziałem izoenzymu CYP2D6."
+    ],
+    "kryteria_wylaczenia": [
+        "stwierdzenie braku skuteczności leczenia – weryfikację skuteczności leczenia dokonuje co 6 miesięcy Zespół Koordynacyjny ds. Chorób Ultrarzadkich, na podstawie nadesłanej karty monitorowania terapii;",
+        "znaczna progresja choroby pojawiająca się pomimo leczenia;",
+        "wystąpienie zagrażającej życiu albo nieakceptowalnej toksyczności pomimo zastosowania adekwatnego postępowania;",
+        "okres ciąży lub karmienia piersią – dotyczy terapii eliglustatem;",
+        "wystąpienie nadwrażliwości na zastosowany lek lub substancję pomocniczą uniemożliwiające kontynuację leczenia;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnych opiekunów."
+    ],
+    "leki": [
+        {
+            "nazwa": "Imigluceraza",
+            "dawkowanie": "15-60 U/kg m.c., co 14 ±3 dni, w postaci jednogodzinnych wlewów dożylnych"
+        },
+        {
+            "nazwa": "Welagluceraza alfa",
+            "dawkowanie": "15-60 U/kg m.c., co 14 ±3 dni, w postaci jednogodzinnych wlewów dożylnych"
+        },
+        {
+            "nazwa": "Eliglustat",
+            "dawkowanie": "84 mg dwa razy na dobę (IM i EM metabolizm), 84 mg raz na dobę (PM metabolizm)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie aktywności enzymu β-glukocerebrozydazy w leukocytach lub fibroblastach skóry, potwierdzone wynikiem badania molekularnego (nie dotyczy pacjentów wcześniej leczonych);",
+        "oznaczenie aktywności cytochromu CYP2D6 (wyłącznie przy kwalifikacji do terapii eliglustatem);",
+        "morfologia krwi pełna z rozmazem;",
+        "układ krzepnięcia: APTT, INR;",
+        "próby wątrobowe: ALT, AST;",
+        "oznaczenie poziomu witaminy D, B12, E;",
+        "oznaczenie poziomu cholesterolu całkowitego, LDL, HDL;",
+        "oznaczenie aktywności chitotriozydazy;",
+        "oznaczenie poziomu biomarkera Lyso-GB1;",
+        "USG jamy brzusznej z oceną wielkości wątroby i śledziony (z podaniem wymiarów);",
+        "pomiary antropometryczne (co najmniej masy i wysokości ciała);",
+        "badanie densytometryczne kości (DXA);",
+        "MRI kości długich (badanie obligatoryjne jedynie u pacjentów z nieprawidłowościami układu kostno-stawowego lub w przypadku pojawienia się dolegliwości bólowych);",
+        "EKG, a w przypadku kwalifikacji do terapii eliglustatem EKG z oceną skorygowanego odstępu QT (QTc);",
+        "USG układu sercowo-naczyniowego (w uzasadnionych przypadkach);",
+        "RTG płuc;",
+        "konsultacja neurologiczna (jedynie u świadczeniobiorców z podejrzeniem typu III choroby);",
+        "konsultacja kardiologiczna (w uzasadnionych przypadkach);",
+        "EEG (w uzasadnionych przypadkach);",
+        "konsultacja ortopedyczna (w uzasadnionych przypadkach);",
+        "spirometria (u pacjentów powyżej 7 roku życia);",
+        "ocena jakości życia SF 36 lub określona inną metodą (poza wynikiem należy podać rodzaj stosowanej metody)"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi pełna z rozmazem;",
+        "układ krzepnięcia: APTT, INR;",
+        "USG jamy brzusznej z oceną wielkości wątroby i śledziony (z podaniem wymiarów);",
+        "oznaczenie aktywności chitotriozydazy;",
+        "ocena miana przeciwciał przeciwko imiglucerazie lub welaglucerazie (nie jest badaniem obligatoryjnym; decyzja o konieczności wykonania badania podejmowana jest przez Zespół Koordynacyjny ds. Chorób Ultrarzadkich);",
+        "Co 365 dni: oznaczenie poziomu biomarkera Lyso-GB1;",
+        "EKG (z oceną skorygowanego odstępu QT (QTc) w przypadku leczenia eliglustatem);",
+        "RTG płuc;",
+        "USG układu sercowo-naczyniowego (w przypadku nieprawidłowości w układzie sercowo-naczyniowym);",
+        "pomiary antropometryczne (co najmniej masy i wysokości ciała, z oceną tempa wzrastania u dzieci do zakończenia procesu wzrastania);",
+        "badanie densytometryczne kości (DXA) lub MRI kości długich;",
+        "konsultacja ortopedyczna (w uzasadnionych przypadkach);",
+        "konsultacja kardiologiczna (w uzasadnionych przypadkach);",
+        "konsultacja neurologiczna, EEG, MRI ośrodkowego układu nerwowego (w uzasadnionych przypadkach);",
+        "spirometria (w uzasadnionych przypadkach);",
+        "ocena jakości życia SF 36 lub określona inną metodą (poza wynikiem należy podać rodzaj stosowanej metody; opcjonalnie)"
+    ]
+}

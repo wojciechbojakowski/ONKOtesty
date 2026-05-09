@@ -1,0 +1,70 @@
+{
+    "nazwa_pliku": "B.104. (od 11-2020).docx",
+    "kryteria_kwalifikacji": [
+        "Pacjenci spełniający łącznie punkty 1,2 i 3",
+        "Pacjenci ze stwierdzoną objawową postacią choroby Fabry’ego",
+        "Rozpoznanie choroby Fabry’ego udokumentowane wynikiem: badanie biochemicznego aktywności alfa galaktozydazy A, badanie genetyczne na obecność patogennej mutacji w obrębie genu GLA; Obecność mutacji zgodnie z aktualną Charakterystyką Produktu Leczniczego oraz GFR ≥ 30 ml/min/1,73 m2",
+        "Pacjenci wymagający kontynuacji enzymatycznej terapii zastępczej, w ocenie Zespołu Koordynacyjnego ds. Chorób Ultrarzadkich, o ile na dzień rozpoczęcia terapii spełniali kryteria włączenia do programu",
+        "Pacjentki wyłączone z programa w związku z ciążą albo laktacją, które w momencie wyłączenia spełniały pozostałe kryteria przedłużenia leczenia"
+    ],
+    "kryteria_wylaczenia": [
+        "Dzieci poniżej 8. roku życia (agalzydaza beta lub agalzydaza alfa) lub poniżej 16. roku życia (migalastat)",
+        "Brak odpowiedniej mutacji – dotyczy migalastatu",
+        "Jednoczasowe stosowanie enzymatycznej terapii zastępczej – dotyczy migalastatu",
+        "Poważna reakcja nadwrażliwości na substancję czynną lub na którąkolwiek substancję pomocniczą",
+        "Stosowanie chlorochiny, amiodaronu, monobenzonu lub gentamycyny – dotyczy leczenia agalzydazą beta lub agalzydaza alfa",
+        "Dializoterapia - dotyczy migalastatu",
+        "GFR < 30 ml/min/1,73m2 - dotyczy migalastatu",
+        "Pacjenci z bezobjawową postacią choroby",
+        "Ciąża lub laktacja",
+        "Zaawansowana choroba serca z rozległymi zwłóknieniami lub schyłkowa niewydolność serca (NYHA 4) bez możliwości przeszczepu, o ile choroba serca jest jedynym (objawowym) wskazaniem do rozpoczęcia terapii",
+        "Zawansowane zmiany w zakresie OUN",
+        "Końcowe stadium choroby nerek, bez możliwości przeszczepu",
+        "Końcowe stadium choroby Fabry’ego lub obecność ciężkich chorób współtowarzyszących, lub innych poważnych wrodzonych anomalii, które w ocenie lekarza kwalifikującego do leczenia lub Zespołu Koordynacyjnego ds. Chorób Ultrarzadkich mogą uniemożliwić poprawę stanu zdrowia świadczeniobiorcy"
+    ],
+    "leki": [
+        {
+            "nazwa": "agalzydaza beta",
+            "dawkowanie": "1mg/kg masy ciała, raz na dwa tygodnie, w postaci infuzji dożylnej"
+        },
+        {
+            "nazwa": "agalzydaza alfa",
+            "dawkowanie": "0,2 mg/kg masy ciała, co drugi tydzień, we wlewach dożylnych trwających około 40 minut"
+        },
+        {
+            "nazwa": "migalastat",
+            "dawkowanie": "123 mg, co drugi dzień, o tej samej porze dnia"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "Poziom globotriaozylosfingozyny (lyso-Gb3)",
+        "Badanie genetyczne oraz ocena aktywności alfa-galaktozydazy A w leukocytach lub fibroblastach skóry, lub osoczu, lub w surowicy",
+        "Morfologia krwi z rozmazem",
+        "Wysokość i masa ciała",
+        "Próby wątrobowe: AlAT, AspAT, kinaza kreatynowa (CK), stężenie bilirubiny całkowitej; ogólne badanie moczu; stężenie kreatyniny i mocznika; współczynnik przesączania kłębuszkowego (eGFR); wydalanie białka z moczem – proteinuria i albuminuria; stężenie glukozy na czczo i lipidogram; troponina",
+        "USG jamy brzusznej z oceną nerek",
+        "EKG, echokardiografia spoczynkowa, 24-godzinne monitorowanie EKG metodą Holtera, MRI serca (w uzasadnionych przypadkach), ciśnienie krwi tętniczej",
+        "Konsultacja kardiologiczna, nefrologiczna, neurologiczna",
+        "Rezonans magnetyczny mózgu",
+        "Badanie fizykalne oraz wywiad lekarza prowadzącego w kierunku charakterystycznych objawów choroby Fabry’ego (w tym: tolerancji ciepła i zimna, bólu, pocenia się, objawów gastrologicznych i angiokeratomy)",
+        "Ocena jakości życia i bólu na podstawie najbardziej optymalnego w ocenie lekarza prowadzącego kwestionariusza – należy podać nazwę skali/kwestionariusza według której oceniano jakość życia i nasilenie bółu",
+        "Badanie audiometryczne, konsultacja laryngologiczna lub audiologiczna (w uzasadnionych przypadkach)",
+        "Konsultacja okulistyczna, z oceną dna oka i przedniego odcinka oka (w uzasadnionych przypadkach)",
+        "Konsultacja dermatologiczna, z oceną zmian skórnych w kierunku angiokeratomy i potliwości (w uzasadnionych przypadkach)"
+    ],
+    "badania_monitorujace": [
+        "Wysokość i masa ciała",
+        "Morfologia krwi z rozmazem",
+        "Próby wątrobowe: AlAT, AspAT, kinaza kreatynowa (CK), stężenie bilirubiny całkowitej; stężenie kreatyniny i mocznika; współczynnik przesączania kłębuszkowego (eGFR), wydalanie białka z moczem – proteinuria i albuminuria, lipidogram",
+        "EKG, echokardiografia spoczynkowa, w uzasadnionych przypadkach 24-godzinne monitorowanie EKG metodą Holtera, ciśnienie krwi tętniczej oraz MRI serca (w uzasadnionych przypadkach)",
+        "Konsultacja kardiologiczna, nefrologiczna, neurologiczna",
+        "Rezonans magnetyczny ośrodkowego układu nerwowego (jeżeli w opinii lekarza prowadzącego zachodzi uzasadniona potrzeba)",
+        "Badanie fizykalne oraz wywiad lekarza prowadzącego w kierunku charakterystycznych objawów choroby Fabry’ego (w tym: tolerancji ciepła i zimna, bólu, pocenia się, objawów gastrologicznych i angiokeratomy) oraz tolerancji podawanego leku",
+        "Ocena jakości życia i bólu na podstawie najbardziej optymalnego w ocenie lekarza prowadzącego kwestionariusza – należy podać nazwę skali/kwestionariusza według której oceniano jakość życia i nasilenie bółu",
+        "Poziom globotriaozylosfingozyny (lyso-Gb3)",
+        "Ocena miana przeciwciał przeciwko alfa-galaktozydazie (w uzasadnionych przypadkach)",
+        "Badanie audiometryczne, konsultacja laryngologiczna lub audiologiczna (w uzasadnionych przypadkach)",
+        "Konsultacja okulistyczna, z oceną dna oka i przedniego odcinka oka (w uzasadnionych przypadkach)",
+        "Konsultacja dermatologiczna, z oceną zmian skórnych w kierunku angiokeratomy i potliwości (w uzasadnionych przypadkach)"
+    ]
+}

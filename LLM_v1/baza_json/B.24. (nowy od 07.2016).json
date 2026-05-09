@@ -1,0 +1,69 @@
+{
+    "nazwa_pliku": "B.24. (nowy od 07.2016).docx",
+    "kryteria_kwalifikacji": [
+        "Brak lub głęboki niedobór aktywności enzymu α-L-iduronidaza w leukocytach lub fibroblastach skóry, potwierdzone badaniem molekularnym."
+    ],
+    "kryteria_wylaczenia": [
+        "Ciąża lub laktacja;",
+        "Wystąpienie objawów nadwrażliwości na laronidazę;",
+        "Znaczna progresja choroby pomimo podjętego leczenia;",
+        "Stan po HSCT po uzyskaniu zadowalającego poziomu enzymu we krwi obwodowej (zadowalającego chimeryzmu);",
+        "Brak współpracy pacjenta przy realizacji programu."
+    ],
+    "leki": [
+        {
+            "nazwa": "laronidaza",
+            "dawkowanie": "100 j./kg masy ciała, raz w tygodniu, we wlewie dożylnym"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "stwierdzenie braku lub głębokiego niedoboru aktywności α-L-iduronidazy w leukocytach lub fibroblastach skóry, potwierdzone badaniem molekularnym;",
+        "badanie wydalania glikozaminoglikanów z moczem;",
+        "morfologia krwi z rozmazem;",
+        "aktywność enzymów wątrobowych: AlAT, AspAT;",
+        "stężenie fosfatazy alkalicznej;",
+        "stężenie witamin E i D;",
+        "ocena miana przeciwciał przeciwko α-L-iduronidazie",
+        "morfologia krwi z rozmazem;",
+        "aktywność enzymów wątrobowych: AlAT, AspAT;",
+        "stężenie fosfatazy alkalicznej;",
+        "pomiar ciśnienia tętniczego krwi;",
+        "EKG;",
+        "USG układu sercowo-naczyniowego;",
+        "konsultacja laryngologiczna;",
+        "badanie audiometryczne;",
+        "konsultacja ortopedyczna, z oceną ruchomości stawów;",
+        "EMG, do oceny występowania zespołu cieśni nadgarstka;",
+        "konsultacja neurologiczna;",
+        "konsultacja kardiologiczna;",
+        "test 3/6 minutowego marszu;",
+        "pomiary antropometryczne;",
+        "badanie spirometryczne układu oddechowego;",
+        "badanie okulistyczne z oceną w lampie szczelinowej"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem;",
+        "aktywność enzymów wątrobowych: AlAT, AspAT;",
+        "stężenie fosfatazy alkalicznej;",
+        "test 3/6 minutowego marszu;",
+        "ocena wydalania glikozaminoglikanów z moczem (po 6 miesiącach od wprowadzenia terapii, a następnie co 365 dni);",
+        "stężenie witaminy E i D;",
+        "USG jamy brzusznej, z oceną objętości wątroby i śledziony;",
+        "MRI OUN, z oceną odcinka szyjnego kręgosłupa (w przypadku nieprawidłowości w poprzednim badaniu lub pojawienia się lub nasilenia objawów neurologicznych);",
+        "pomiary antropometryczne;",
+        "EKG;",
+        "USG serca;",
+        "konsultacja kardiologiczna;",
+        "konsultacja laryngologiczna;",
+        "badanie audiometryczne;",
+        "konsultacja ortopedyczna z oceną zakresu ruchomości stawów;",
+        "EMG, do oceny występowania zespołu cieśni nadgarstka (w uzasadnionych przypadkach);",
+        "konsultacja neurologiczna;",
+        "badanie spirometryczne układu oddechowego;",
+        "badanie okulistyczne z oceną w lampie szczelinowej;",
+        "badanie psychologiczne, z oceną ilorazu inteligencji;",
+        "test 3/6 minutowego marszu;",
+        "RTG kośćca, co najmniej RTG kręgosłupa;",
+        "pomiar ciśnienia tętniczego krwi"
+    ]
+}

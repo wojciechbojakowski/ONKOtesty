@@ -1,0 +1,42 @@
+{
+    "nazwa_pliku": "B.42._nowy od 07.2014.docx",
+    "kryteria_kwalifikacji": [
+        "stygmaty Zespołu Turnera",
+        "niskorosłość, tj. wysokość ciała poniżej 3 centyla dla wieku, na siatkach centylowych dla populacji dziewcząt polskich",
+        "upośledzone tempo wzrastania, poniżej -1 SD w odniesieniu do tempa wzrastania populacji dziewcząt polskich (wymagany co najmniej 6. miesięczny okres obserwacji w ośrodku uprawnionym do terapii hormonem wzrostu), z określeniem przewidywanego wzrostu ostatecznego metodą Baley-Pineau",
+        "opóźniony wiek kostny, oceniany metodą Greulich'a-Pyle",
+        "wykluczenie innych, aniżeli ZT, przyczyn niskorosłości (niedokrwistość, niedoczynność tarczycy, zaburzenia wchłaniania i trawienia jelitowego, obciążenia dotyczące przebiegu ciąży i porodu, itp.)",
+        "inne nieprawidłowości, szczególnie nieprawidłowości anatomiczne układu sercowonaczyniowego i moczowo-płciowego",
+        "konsultacja genetyczna, potwierdzona dodatnim wynikiem badania kariotypu"
+    ],
+    "kryteria_wylaczenia": [
+        "wystąpienie objawów złuszczenia głowy kości udowej",
+        "wystąpienie objawów pseudo-tumor cerebri",
+        "wystąpienie lub ujawnienie się cukrzycy",
+        "ujawnienie lub wznowa choroby rozrostowej",
+        "osiągnięcie przez świadczeniobiorcę niewyróżniającej wysokości ciała, tj. wysokości ciała równej lub większej niż 14 lat",
+        "zakończenie procesów wzrastania (brak przyrostu wysokości ciała między dwiema kolejnymi wizytami przeprowadzonymi w odstępach 6 miesięcznych)",
+        "niezadowalający efekt leczenia, tj. przyrost wysokości ciała świadczeniobiorcy leczonego hormonem wzrostu poniżej 2 cm na rok",
+        "osiągnięcie wieku kostnego powyżej 14 lat"
+    ],
+    "leki": [
+        {
+            "nazwa": "Somatotropina",
+            "dawkowanie": "0,33 - 0,47 mg (1,0-1,4 IU)/kg m.c. /tydzień"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "Pomiar stężenia IGF-1",
+        "Badania laboratoryjne wykonywane według standardów diagnozowania świadczeniobiorców z Zespołem Turnera (ZT)"
+    ],
+    "badania_monitorujace": [
+        "Pomiar stężenia IGF-1",
+        "Pomiar stężenia glukozy we krwi i odsetka glikowanej hemoglobiny HbA1C",
+        "Test obciążenia glukozą z pomiarem glikemii i insulinemii",
+        "Pomiar stężenia glukozy we krwi; Pomiar stężenia TSH; Pomiar stężenia fT4; Jonogram w surowicy krwi",
+        "Pomiar stężenia IGF-1",
+        "Konsultacja przez ginekologa zajmującego się dziećmi (dotyczy przede wszystkim dziewcząt powyżej 10 roku życia); Konsultacja kardiologiczna, USG serca (dotyczy dzieci z wadami układu sercowo-naczyniowego); Konsultacja nefrologiczna; Konsultacja urologiczna; USG jamy brzusznej; Badanie ogólne i posiew moczu (dzieci z wadami układu moczowo-płciowego)",
+        "RTG śródręcza z bliższą przynasadą kości przedramienia (do oceny wieku kostnego); Przy podejrzeniu złuszczenia głowy kości udowej: Konsultacja ortopedyczna; RTG lub USG stawów biodrowych, poszerzone o TK lub MRI stawów biodrowych",
+        "W przypadku wystąpienia objawów pseudo tumor cerebri: Konsultacja okulistyczna; Konsultacja neurologiczna; Obrazowanie ośrodkowego układu nerwowego (TK z kontrastem lub MRI)"
+    ]
+}

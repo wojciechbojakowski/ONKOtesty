@@ -1,0 +1,41 @@
+{
+    "nazwa_pliku": "B.113. (od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "przewlekła choroba nerek w stadium 4 lub 5 wg klasyfikacji KDIGO;",
+        "brak rozpoczętego leczenia nerkozastępczego, przeciwwskazania lub brak wskazań do leczenia nerkozastępczego;",
+        "brak cech niedożywienia – uzyskana ocena stopnia odżywienia według skali SGA = A lub B (ang. Subjective Global Assessment);",
+        "spożycie białka nie wyższe niż 0,8 g/kg m.c./dobę – udokumentowane za pomocą wywiadu dietetycznego;",
+        "brak udokumentowanych zaburzeń metabolizmu aminokwasów;",
+        "wykluczenie hiperkalcemii;",
+        "wykluczenie istotnych chorób towarzyszących (źle kontrolowana cukrzyca – HbA1c.>7,5%, aktywna choroba wątroby, zespół złego wchłaniania, choroby zapalne jelit);",
+        "wiek 18 lat i powyżej;",
+        "nieobecność innych istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazania do terapii, stwierdzonych przez lekarza prowadzącego w oparciu o aktualną Charakterystykę Produktu Leczniczego (ChPL) i aktualną wiedzę medyczną."
+    ],
+    "kryteria_wylaczenia": [
+        "rozpoczęcie leczenia nerkozastępczego;",
+        "wystąpienie nietolerancji leczenia bądź objawów nadwrażliwości na substancje czynne lub którąkolwiek substancję pomocniczą;",
+        "poprawa w zakresie stadium zaawansowania choroby do stadium 2 lub 1 wg klasyfikacji KDIGO;",
+        "brak współpracy pacjenta w zakresie przestrzegania bardzo ubogobiałkowej diety, w której docelowe spożycie białka wynosi 0,4 g/kg m.c./dobę, przy czym dopuszczalne są odchylenia od tej wartości do poziomu 0,8 g/kg m.c./dobę;",
+        "nieprzestrzeganie zaleceń lekarskich, dotyczących okresowych badań kontrolnych;",
+        "występowanie cech niedożywienia – ocena stopnia odżywienia według skali SGA = C (ang. Subjective Global Assessment) bądź anoreksji."
+    ],
+    "leki": [
+        {
+            "nazwa": "Ketosteril",
+            "dawkowanie": "4-8 tabletek trzy razy na dobę w czasie posiłków"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie stężenia kreatyniny w surowicy krwi i eGFR",
+        "oznaczenie stężenia mocznika i kwasu moczowego w surowicy krwi",
+        "oznaczenie stężenia wapnia, sodu i potasu w surowicy krwi",
+        "oznaczenie stężenia hemoglobiny glikowanej (HbA1c)",
+        "ocena stopnia odżywienia według skali SGA",
+        "ocena dobowego spożycia białka w wywiadzie dietetycznym"
+    ],
+    "badania_monitorujace": [
+        "ocena dobowego spożycia białka w wywiadzie dietetycznym",
+        "oznaczenie stężenia kreatyniny w surowicy krwi i eGFR",
+        "oznaczenie stężenia wapnia w surowicy krwi"
+    ]
+}

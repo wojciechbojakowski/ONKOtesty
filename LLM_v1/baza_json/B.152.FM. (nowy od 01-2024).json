@@ -1,0 +1,37 @@
+{
+    "nazwa_pliku": "B.152.FM. (nowy od 01-2024).docx",
+    "kryteria_kwalifikacji": [
+        "kliniczne rozpoznanie PFIC typu 1 lub PFIC typu 2",
+        "wiek 6 m.ż. i powyżej",
+        "potwierdzenie genetyczne PFIC-1 (w genie ATP8B1) lub PFIC-2 (w genie ABCB11)",
+        "masa ciała powyżej 5 kg",
+        "podwyższone stężenie kwasów żółciowych w surowicy (s-BA) (≥100 μmol/l)",
+        "w wywiadzie uporczywy świąd tj. wynik w skali ObsRO ≥ 2 w ciągu 2 tygodni przed włączeniem do programu",
+        "nieskuteczność kwasu ursodeoksycholowego oraz brak odpowiedzi na jeden z leków stosowanych w leczeniu świądu u pacjentów z chorobami cholestatycznymi (żywice jonowymienne, fibraty, ryfampicyna, naltrekson)",
+        "zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną Charakterystyką Produktu Leczniczego – dotyczy pacjentów w wieku prokreacyjnym"
+    ],
+    "kryteria_wylaczenia": [
+        "patologiczne zmiany genu ABCB11, które przewidują całkowity brak funkcji BSEP",
+        "obecność lub występujące w przeszłości inne rodzaje chorób wątroby, w tym między innymi: atrezja dróg żółciowych wszelkiego rodzaju, łagodna nawracająca cholestaza wewnątrzwątrobowa, na którą wskazuje jakikolwiek wywiad z prawidłowymi SBA, podejrzenie lub potwierdzony w badaniach obrazowych rak wątroby lub przerzuty do wątroby, histopatologia w biopsji wątroby, która sugeruje alternatywną etiologię cholestazy niezwiązaną z PFIC; trwająca lub w historii choroby obecność jakiejkolwiek innej choroby lub stanu, który zakłóca wchłanianie, dystrybucję, metabolizm (w szczególności metabolizm kwasów żółciowych) lub wydalanie leków w jelicie; trwająca lub przebyta w historii choroby przewlekła (tj. >3 miesiące) biegunka wymagająca podania płynów dożylnych lub interwencji żywieniowej w celu leczenia biegunki lub jej następstw; przebycie zabiegu chirurgicznego mającego na celu odprowadzenie zewnętrzne/wewnętrzne żółci (typu PIBD, PEBD), który okazał się skuteczny. Ocenę skuteczności zabiegu chirurgicznego powinno się wykonać nie wcześniej niż 4-6 tygodni od zabiegu. W przypadku potwierdzenia nieskuteczności zabiegu chirurgicznego (bez określania kryterium czasu) – możliwe jest zastosowanie leczenia odewiksybatem w zależności od indywidualnej oceny lekarza; wcześniejszy przeszczep wątroby lub przeszczep wątroby zaplanowany w ciągu 6 miesięcy od rozpoczęcia leczenia; niewyrównana choroba wątroby, koagulopatia, wywiad lub obecność klinicznie istotnego wodobrzusza, krwotoku żylakowego lub encefalopatii; międzynarodowy współczynnik znormalizowany (INR) >1,4; stężenie AlAT w surowicy >10 × górna granica normy (GGN) w badaniu wstępnym; stężenie AlAT w surowicy >15 × GGN w dowolnym momencie w ciągu ostatnich 6 miesięcy; całkowita bilirubina >10 × GGN w badaniu wstępnym."
+    ],
+    "leki": [
+        {
+            "nazwa": "",
+            "dawkowanie": "Dawkowanie odewiksybatu w programie i modyfikacja leczenia – zgodnie z Charakterystyką Produktu Leczniczego aktualną na dzień wydania decyzji."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "ocena parametrów czynności wątroby: stężenie kwasów żółciowych (TBA; Total bile acids), aminotransferaza asparaginianowa (AspAT), aminotransferaza alaninowa (AlAT), gamma-glutamylotransferaza (GGTP), fosfataza alkaliczna (ALP), bilirubina całkowita;",
+        "ocena stężenia witamin rozpuszczalnych w tłuszczach: A, D, E;",
+        "ocena międzynarodowego współczynnika znormalizowanego (INR);",
+        "badania obrazowe wątroby wg decyzji lekarza prowadzącego;",
+        "badanie określające zaawansowanie włóknienia wątroby - elastografia wątroby lub oznaczenie wskaźników APRI lub FIB-4;",
+        "potwierdzenie w badaniach genetycznych PFIC-1 w genie ATP8B lub PFIC-2 w genie ABCB11."
+    ],
+    "badania_monitorujace": [
+        "zaburzenia czynności wątroby: stężenie kwasów żółciowych (TBA; Total bile acids), aminotransferaza asparaginianowa (AspAT), aminotransferaza alaninowa (AlAT), gamma-glutamylotransferaza (GGTP), fosfataza alkaliczna (ALP), bilirubina całkowita;",
+        "biegunka: regularne monitorowanie w celu odpowiedniego nawodnienia u pacjentów, u których występuje biegunka;",
+        "ciąża: test ciążowy u kobiet w wieku rozrodczym;",
+        "ocena witamin rozpuszczalnych w tłuszczach: kontrolowanie stężenia witamin rozpuszczalnych w tłuszczach."
+    ]
+}

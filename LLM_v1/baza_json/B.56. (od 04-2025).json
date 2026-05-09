@@ -1,0 +1,55 @@
+{
+    "nazwa_pliku": "B.56. (od 04-2025).docx",
+    "newly_diagnosed": true,
+    "leki": [
+        {
+            "nazwa": "apalutamid",
+            "dawkowanie": "240 mg"
+        },
+        {
+            "nazwa": "darolutamid",
+            "dawkowanie": "600 mg (dwie tabletki po 300 mg) dwa razy na dobę"
+        },
+        {
+            "nazwa": "enzalutamid",
+            "dawkowanie": "160 mg (cztery tabletki po 40 mg) w jednorazowej dawce dobowej"
+        },
+        {
+            "nazwa": "olaparyb",
+            "dawkowanie": "300 mg (dwie tabletki po 150 mg) dwa razy na dobę, co odpowiada całkowitej dawce dobowej 600 mg"
+        },
+        {
+            "nazwa": "niraparyb + octan abirateronu",
+            "dawkowanie": "dawka początkowa: dwie tabletki raz dziennie (1 tabletka: niraparyb 100 mg + octan abirateronu 500 mg) oraz 10 mg prednizonu/prednizolonu"
+        },
+        {
+            "nazwa": "talazoparyb",
+            "dawkowanie": "0,5 mg w skojarzeniu ze 160 mg enzalutamidu raz na dobę"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "histologicznie potwierdzone rozpoznanie raka gruczołu krokowego",
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia PSA",
+        "oznaczenie stężenia testosteronu",
+        "oznaczenie stężenia kreatyniny",
+        "oznaczenie stężenia bilirubiny",
+        "oznaczenie aktywności aminotransferazy alaninowej",
+        "oznaczenie aktywności aminotransferazy asparaginianowej",
+        "scyntygrafia kośćca",
+        "obrazowanie (rentgenografia lub tomografia komputerowa lub rezonans magnetyczny)",
+        "tomografia komputerowa jamy brzusznej i miednicy",
+        "rentgenografia lub tomografia komputerowa klatki piersiowej"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia bilirubiny",
+        "oznaczenie aktywności aminotransferazy alaninowej",
+        "oznaczenie aktywności aminotransferazy asparaginianowej",
+        "oznaczenie stężenia kreatyniny",
+        "badania krwi regularnie co 2-3 miesiące",
+        "oznaczenie stężenia PSA",
+        "badania obrazowe (RTG/TK/MR)",
+        "scyntygrafia"
+    ]
+}

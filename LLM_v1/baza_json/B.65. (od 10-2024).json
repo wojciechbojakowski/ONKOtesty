@@ -1,0 +1,95 @@
+{
+    "nazwa_pliku": "B.65. (od 10-2024).docx",
+    "1.1": {
+        "general_criteria": [
+            "rozpoznanie ostrej białaczki limfoblastycznej z komórek prekursorowych limfocytów B",
+            "nawrót choroby lub oporność na wcześniejsze leczenie",
+            "przewidywany czas przeżycia pacjenta co najmniej 12 tygodni od momentu kwalifikacji do programu"
+        ]
+    },
+    "1.2.1": {
+        "tisagenlecleucelem": {
+            "age": {
+                "max": 25
+            },
+            "performance_status": {
+                " Karnofsky ≥50": "",
+                "Lansky ≥50": ""
+            },
+            "criteria": [
+                "drugi lub kolejny nawrót",
+                "nawrót po przeszczepieniu allogenicznych krwiotwórczych komórek macierzystych (allo-HSCT) i po co najmniej 4 miesiącach przerwy pomiędzy allo-HSCT a podaniem tisagenlecleucelu",
+                "pierwotna oporność na leczenie definiowana jako nieosiągnięcie całkowitej remisji (CR) po 2 cyklach standardowej chemioterapii lub chemiooporność definiowana jako nieosiągnięcie CR po jednym cyklu leczenia reindukującego stosowanego w nawrocie ostrej białaczki limfoblastycznej",
+                "ostra białaczka limfoblastyczna z obecnym chromosomem Filadelfia, z nietolerancją lub z niepowodzeniem leczenia co najmniej dwoma inhibitorami kinazy tyrozynowej BCR-ABL (TKI) albo przeciwwskazania do terapii TKI",
+                "brak kwalifikacji do allo-HSCT ze względu na choroby współistniejące, przeciwwskazania do leczenia kondycjonującego przed allo-HSCT, brak odpowiedniego dawcy lub wcześniejsze allo-HSCT"
+            ]
+        },
+        "1.2.2": {
+            "breksukabtagenem autoleucel": {
+                "age": {
+                    "min": 26
+                },
+                "performance_status": {
+                    "ECOG 0-1": ""
+                },
+                "criteria": [
+                    "pierwotna oporność na leczenie definiowana jako brak całkowitej remisji hematologicznej po leczeniu pierwszej linii",
+                    "pierwszy nawrót choroby w przypadku remisji trwającej ≤12 miesięcy",
+                    "drugi lub kolejny nawrót choroby",
+                    "nawrót po przeszczepieniu allogenicznych krwiotwórczych komórek macierzystych (allo-HSCT) i po co najmniej 100 dniach przerwy pomiędzy allo-HSCT a podaniem breksukabtagenu autoleucel",
+                    "ostra białaczka limfoblastyczna z obecnym chromosomem Filadelfia, z nietolerancją lub z niepowodzeniem leczenia co najmniej dwoma inhibitorami kinazy tyrozynowej BCR-ABL (TKI) albo przeciwwskazania do terapii TKI"
+                ]
+            },
+            "2": {
+                "criteria": [
+                    "nadwrażliwość na którąkolwiek substancję pomocniczą",
+                    "okres ciąży lub karmienia piersią",
+                    "aktywne niekontrolowane zakażenie systemowe",
+                    "zakażenie HIV",
+                    "aktywne wirusowe zapalenie wątroby typu B, C",
+                    "współistnienie wrodzonych chorób genetycznych przebiegających z upośledzoną czynnością szpiku",
+                    "przewlekła choroba przeszczep przeciw gospodarzowi (GvHD) w stopniu 2-4",
+                    "obecność przeciwwskazań do stosowania chemioterapii limfodeplecyjnej z zastosowaniem takich leków jak: cyklofosfamid i fludarabina albo cytarabina i etopozyd – w przypadku leczenia tisagenlecleucelem, cyklofosfamid i fludarabina – w przypadku leczenia breksukabtagenem autoleucel",
+                    "aktywna obturacyjna lub restrykcyjna choroba płuc",
+                    "aktywna hemoliza",
+                    "aktywna koagulopatia",
+                    "aktywna choroba autoimmunologiczna",
+                    "pierwotny niedobór odporności",
+                    "wcześniejsze leczenie CAR-T (anty-CD19)",
+                    "izolowana pozaszpikowa wznowa ALL, lub zajęcie ośrodkowego układu nerwowego przez ALL"
+                ]
+            },
+            "3": {
+                "criteria": [
+                    "wystąpienie nieodwracalnych, bezwzględnych przeciwwskazań do podania tisagenlecleucelu albo breksukabtagenu autoleucel"
+                ]
+            }
+        }
+    },
+    "studies": [
+        {
+            "name": "Morfologia krwi obwodowej z rozmazem"
+        },
+        {
+            "name": "Oznaczenie stężenia CRP"
+        },
+        {
+            "name": "Oznaczenie stężenia ferrytyny"
+        },
+        {
+            "name": "Oznaczenie parametrów krzepnięcia krwi (czas protrombinowy, APTT, INR, stężenie fibrynogenu, D-dimery)"
+        },
+        {
+            "name": "Oznaczenie stężenia immunoglobuliny IgG"
+        },
+        {
+            "name": "Elektrokardiografia (EKG)"
+        },
+        {
+            "name": "Ocena LVEF wykonana metodą ECHO/MUGA"
+        },
+        {
+            "name": "Białka ostrej fazy (stężenie CRP, ferrytyny)"
+        }
+    ]
+}

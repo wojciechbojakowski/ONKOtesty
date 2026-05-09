@@ -1,0 +1,73 @@
+{
+    "nazwa_pliku": "B.109. (nowy od 03-2020).docx",
+    "kryteria_kwalifikacji": [
+        "3-metylokrotonylo-glicynuria (MCG)",
+        "Acyduria glutarowa I (GA I)",
+        "Acyduria izowalerianowa (IVA)",
+        "Acyduria metylomalonowa (MMA)",
+        "Acyduria propionowa (PA)",
+        "Zaburzenia spalania długołańcuchowych kwasów tłuszczowych (LC-FAOD) – LCHADD, VLCADD, deficyt MTP, deficyt CACT, deficyt CPT2",
+        "Deficyt dehydrogenazy acylo-CoA średniołańcuchowych kwasów tłuszczowych (MCADD)",
+        "Pierwotny deficyt karnityny (CUD)",
+        "1.9. Deficyt wielu dehydrogenaz acylo-CoA (MADD)"
+    ],
+    "kryteria_wylaczenia": [
+        "wystąpienie objawów nadwrażliwości na L-karnitynę"
+    ],
+    "leki": [
+        {
+            "nazwa": "L-karnityna",
+            "dawkowanie": "indywidualnie dostosowywać do określonej jednostki chorobowej, wieku, masy ciała i stanu klinicznego pacjenta"
+        },
+        {
+            "nazwa": "3-metylokrotonylo-glicynuria (MCG)",
+            "dawkowanie": "od 0 do 100 mg/kg m.c./doba; podzielona na co najmniej trzy dawki"
+        },
+        {
+            "nazwa": "Acyduria glutarowa I (GA I)",
+            "dawkowanie": "od 0 do 200 mg/kg m.c../doba; podzielona na co najmniej trzy dawki"
+        },
+        {
+            "nazwa": "Acyduria izowalerianowa (IVA)",
+            "dawkowanie": "od 0 do 100 mg/kg m.c../doba; podzielona na co najmniej trzy dawki"
+        },
+        {
+            "nazwa": "Acyduria metylomalonowa (MMA)",
+            "dawkowanie": "od 0 do 100 mg/kg m.c../doba; podzielona na co najmniej trzy dawki"
+        },
+        {
+            "nazwa": "Acyduria propionowa (PA)",
+            "dawkowanie": "od 0 do 100 mg/kg m.c../doba; podzielona na co najmniej trzy dawki"
+        },
+        {
+            "nazwa": "Zaburzenia spalania długołańcuchowych kwasów tłuszczowych (LC-FAOD) – LCHADD, VLCADD, deficyt MTP, deficyt CACT, deficyt CPT2",
+            "dawkowanie": "od 0 do 30 mg/kg m.c../doba; podzielona na co najmniej trzy dawki"
+        },
+        {
+            "nazwa": "Deficyt dehydrogenazy acylo-CoA średniołańcuchowych kwasów tłuszczowych (MCADD)",
+            "dawkowanie": "od 0 do 100 mg/kg m.c../doba; podzielona na co najmniej trzy dawki"
+        },
+        {
+            "nazwa": "Pierwotny deficyt karnityny (CUD)",
+            "dawkowanie": "od 0 do 200 mg/kg m.c../doba; podzielona na co najmniej trzy dawki"
+        },
+        {
+            "nazwa": "Deficyt wielu dehydrogenaz acylo-CoA (MADD)",
+            "dawkowanie": "od 0 do 100 mg/kg m.c../doba; podzielona na co najmniej trzy dawki"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "Badanie podmiotowe",
+        "Badanie przedmiotowe (fizykalne)",
+        "Stężenie karnityny wolnej",
+        "Stężenie karnityny całkowitej",
+        "Profil acylkarnityn w suchej kropli krwi metodą tandemowej spektrometrii mas"
+    ],
+    "badania_monitorujace": [
+        "Badanie podmiotowe",
+        "Badanie przedmiotowe (fizykalne)",
+        "Stężenie karnityny wolnej",
+        "Stężenie karnityny całkowitej",
+        "Profil acylkarnityn w suchej kropli krwi metodą tandemowej spektrometrii mas"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "nazwa_pliku": "B.157. (od 01-2025).docx",
+    "kryteria_kwalifikacji": [
+        "świadczenie biometry",
+        "wiek: 18 lat i powyżej;",
+        "rozpoznanie miastenii uogólnionej (myasthenia gravis, MG), według Myasthenia Gravis Foundation of America (MGFA): klasa II, III lub IV;",
+        "całkowity wynik w skali MG-działania życia codziennego (MG-ADL) ≥ 5, w tym minimum 50% uzyskanych punktów z objawów pozaocznych;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej ChPL;",
+        "brak istotnych chorób współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL;",
+        "wykluczenie okresu ciąży lub karmienia piersią;",
+        "dodatni wynik badania na obecność przeciwciał przeciwko receptorowi acetylocholiny (AChR), MuSK, LRP4;",
+        "w przypadku pacjentów seronegatywnych stwierdzenie zaburzeń transmisji nerwowo-mięśniowej wykazane w przeszłości lub obecnie w badaniu metodą elektrostymulacyjnej próby męczliwości (próbie miastenicznej) lub elektromiografii pojedynczego włókna mięśniowego (SFEMG);",
+        "utrzymujące się objawy istotnie utrudniające codzienne funkcjonowanie (MGFA≥IIa) i ciężkie zaostrzenie wymagające terapii ratunkowej (IVIg lub plazmaferezy) / przełom miasteniczny w ciągu roku poprzedzającego rozpoczęcie leczenia;",
+        "brak przeciwwskazań do stosowania rytuksymabu, efgartigimodu alfa, rawulizumabu zgodnie z aktualną ChPL;",
+        "wykonanie szczepienia przeciw meningokokom, a w przypadku konieczności wdrożenia leczenia przed upływem 2 tygodni po wykonaniu szczepienia przeciw meningokokom - profilaktyka antybiotykowa;",
+        "brak tolerancji w/w terapii zgodnie z aktualną Charakterystyką Produktu Leczniczego;"
+    ],
+    "kryteria_wylaczenia": [
+        "brak skuteczności terapii definiowanej jako brak co najmniej 2-punktowej redukcji całkowitego wyniku w skali MG-ADL w porównaniu z punktem początkowym oceniane co 3 miesiące w pierwszym roku leczenia, a następnie do 6 miesięcy;",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają kontynuację leczenia;",
+        "wystąpienie działań niepożądanych, które w opinii lekarza prowadzącego uniemożliwiają kontynuację leczenia;",
+        "wystąpienie nadwrażliwości na lek lub substancję pomocniczą uniemożliwiające kontynuację leczenia;",
+        "wystąpienie zagrażającej życiu albo nieakceptowalnej toksyczności pomimo zastosowania adekwatnego postępowania;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich ze strony świadczeniobiorcy dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia;"
+    ],
+    "leki": [
+        {
+            "nazwa": "rytuksymab",
+            "dawkowanie": "375 mg/m2 pow. ciała podawana co tydzień przez 4 kolejne tygodnie, lub dwie dawki po 1 g w odstępie 2 tygodni; Maksymalna dawka rytuksymabu (i.v.): 375 mg/m2 pow. ciała, lub 500 mg."
+        },
+        {
+            "nazwa": "efgartigimodu alfa",
+            "dawkowanie": "10 mg/kg masy ciała w postaci wlewu dożylnego podawanego w cyklach raz w tygodniu przez 4 tygodnie. Kolejny cykl leczenia należy stosować zgodnie z oceną kliniczną."
+        },
+        {
+            "nazwa": "rawulizumab",
+            "dawkowanie": "a) maksymalna dawka nasycająca to 3000 mg podana w infuzji dożylnej; b) maksymalna dawka podtrzymująca to 3600 mg podana w infuzji dożylnej. Pierwszą dawkę podtrzymującą należy podać 2 tygodnie po dawce nasycającej, a kolejne dawki podtrzymujące należy podawać w infuzji dożylnej co 8 tygodni."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie stopnia nasilenia choroby przy wykorzystaniu kwestionariusza MG-ADL",
+        "w przypadku braku wcześniejszego wyniku oznaczenie statusu serologicznego miastenii",
+        "oznaczenie stężenia aminotransferazy alaninowej",
+        "oznaczenie stężenia aminotransferazy asparaginianowej",
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny",
+        "test ciążowy u kobiet w wieku rozrodczym",
+        "badanie CRP",
+        "test na obecność HBsAg",
+        "oznaczenie poziomu przeciwciał anty-HBs, anty-HBc, anty-HCV",
+        "badanie ogólne moczu",
+        "test Quantiferon",
+        "badanie EKG"
+    ],
+    "badania_monitorujace": [
+        "oznaczenie stężenia immunoglobulin IgG, IgM",
+        "oznaczenie stężenia aminotransferazy alaninowej",
+        "oznaczenie stężenia aminotransferazy asparaginianowej",
+        "morfologia krwi z rozmazem",
+        "oznaczenie poziomu limfocytów B CD19/CD20",
+        "badanie CRP",
+        "test na obecność HBsAg",
+        "oznaczenie poziomu przeciwciał anty-HBs, anty-HBc, anty-HCV",
+        "badanie ogólne moczu",
+        "test ciążowy",
+        "badanie EKG"
+    ]
+}

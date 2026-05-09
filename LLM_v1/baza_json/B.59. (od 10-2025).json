@@ -1,0 +1,102 @@
+{
+    "nazwa_pliku": "B.59. (od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "Muszą zostać spełnione łącznie kryteria ogólne (1.1) oraz kryteria szczegółowe (1.2.) dla poszczególnych terapii.",
+        "wiek 18 lat i powyżej (dla terapii niwolumabem w skojarzeniu z relatlimabem wiek 12 lat i powyżej; dla niwolumabu w terapii uzupełniającej po resekcji czerniaka w stadium IIB/IIC wiek 12 lat i powyżej);",
+        "histopatologiczne potwierdzenie czerniaka skóry lub błon śluzowych:",
+        "w stadium zaawansowania IIB lub IIC (dotyczy terapii uzupełniającej pembrolizumabem lub niwolumabem)",
+        "w stadium zaawansowania III (nieoperacyjny) lub IV – dla terapii niwolumabem lub pembrolizumabem lub niwolumabem w skojarzeniu z ipilimumabem lub niwolumabem z relatlimabem lub wemurafenibem z kobimetynibem lub dabrafenibem z trametynibem lub enkorafenibem z binimetynibem",
+        "po całkowitym wycięciu w stopniu zaawansowania III (dla terapii uzupełniającej niwolumabem lub pembrolizumabem lub dabrafenibem z trametynibem) lub z przerzutami odległymi (tylko dla terapii uzupełniającej niwolumabem);",
+        "w stadium zaawansowania IIIB, IIIC, IIID (klinicznego, operacyjnego) – dla terapii przedoperacyjnej niwolumabem w skojarzeniu z ipilimumabem;",
+        "stan sprawności 0-1 według skali ECOG;",
+        "możliwa ocena odpowiedzi na leczenie zmian nowotworowych według aktualnej klasyfikacji RECIST – nie dotyczy leczenia uzupełniającego i przedoperacyjnego;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii;",
+        "nieobecność istotnych schorzeń współistniejących lub stanów klinicznych stanowiących przeciwwskazanie do terapii, stwierdzonych przez lekarza prowadzącego w oparciu o aktualne ChPL;",
+        "brak objawowych przerzutów do ośrodkowego układu nerwowego lub stan bezobjawowy po przebytym leczeniem chirurgicznym lub radioterapii przerzutów w mózgu;",
+        "nieobecność innych nowotworów niekontrolowanych leczeniem;",
+        "zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną ChPL;",
+        "wykluczenie ciąży i okresu karmienia piersią."
+    ],
+    "kryteria_wylaczenia": [
+        "progresja choroby oceniona zgodnie z aktualnie obowiązującymi kryteriami RECIST",
+        "utrzymujące się istotne pogorszenie stanu sprawności ogólnej lub jakości życia uniemożliwiające kontynuację leczenia;",
+        "wystąpienie nieakceptowalnej lub zagrażającej życiu toksyczności, pomimo zastosowania adekwatnego postępowania;",
+        "wystąpienie objawów nadwrażliwości na którąkolwiek substancję czynną lub substancję pomocniczą;",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "okres ciąży lub karmienia piersią;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnym opiekunów."
+    ],
+    "leki": [
+        {
+            "nazwa": "niwolumab",
+            "dawkowanie": "240 mg co 2 tygodnie lub 480 mg co 4 tygodnie (pacjenci o masie ciała co najmniej 50 kg); 3 mg/kg mc. co 2 tygodnie lub 6 mg/kg mc. co 4 tygodnie (pacjenci o masie ciała poniżej 50 kg)"
+        },
+        {
+            "nazwa": "niwolumab w skojarzeniu z ipilimumabem",
+            "dawkowanie": "niwolumab w dawce 1 mg/kg m.c. oraz ipilimumab w dawce 3 mg/kg m.c., co 3 tygodnie dla czterech pierwszych dawek; przed resekcją: niwolumab w dawce 240 mg i ipilimumab w dawce 80 mg"
+        },
+        {
+            "nazwa": "niwolumab w skojarzeniu z relatlimabem",
+            "dawkowanie": "niwolumab w dawce 480 mg i relatlimab w dawce 160 mg co 4 tygodnie"
+        },
+        {
+            "nazwa": "pembrolizumab",
+            "dawkowanie": "200 mg co 3 tygodnie lub 400 mg co 6 tygodni"
+        },
+        {
+            "nazwa": "wemurafenibu w skojarzeniu z kobimetynibem lub dabrafenibu z trametynibem",
+            "dawkowanie": "dabrafenib w dawce 150 mg dwa razy na dobę oraz trametynib w dawce 2 mg raz na dobę; wemurafenib w dawce 960 mg dwa razy na dobę oraz kobimetynib w dawce 60 mg raz na dobę"
+        },
+        {
+            "nazwa": "dabrafenibu z trametynibem",
+            "dawkowanie": "dabrafenib w dawce 150 mg dwa razy na dobę oraz trametynib w dawce 2 mg raz na dobę"
+        },
+        {
+            "nazwa": "wemurafenibu",
+            "dawkowanie": "150 mg dwa razy na dobę"
+        },
+        {
+            "nazwa": "enkorafenibu w skojarzeniu z binimetynibem",
+            "dawkowanie": "enkorafenib w dawce 450 mg raz na dobę oraz binimetynib w dawce 45 mg dwa razy na dobę"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie histologiczne potwierdzające obecność czerniaka",
+        "ocena obecności mutacji BRAF V600 – nie dotyczy terapii czerniaka w stopniu IIB lub IIC",
+        "ocena ekspresji PDL1 na komórkach nowotworu – dla terapii skojarzonej niwolumabem z relatlimabem",
+        "wykluczenie przerzutów w biopsji węzłów wartowniczych – dla terapii uzupełniającej pembrolizumabem lub niwolumabem czerniaka w stopniu IIB lub IIC",
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia glukozy we krwi",
+        "oznaczenie aktywności aminotransferazy alaninowej we krwi",
+        "oznaczenie aktywności aminotransferazy asparaginianowej we krwi",
+        "oznaczenie stężenia bilirubiny związanej i całkowitej we krwi",
+        "oznaczenie stężenia amylazy we krwi – dla terapii skojarzonej wemurafenibem z kobimetynibem, dabrafenibem z trametynibem oraz enkorafenibem z binimetynibem",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie stężenia mocznika we krwi",
+        "oznaczenie stężenia dehydrogenazy mleczanowej (LDH) we krwi",
+        "oznaczenie stężenia elektrolitów we krwi (w tym sodu, potasu, wapnia i magnezu)",
+        "oznaczenie poziomu TSH i fT4 we krwi – dla terapii niwolumabem, pembrolizumabem, terapii skojarzonej niwolumabem z ipilimumabem i terapii skojarzonej niwolumabem z relatlimabem",
+        "ogólne badanie moczu – dla terapii niwolumabem lub pembrolizumabem lub niwolumabem w skojarzeniu z ipilimumabem lub niwolumabem w skojarzeniu z relatlimabem",
+        "pełne badanie przedmiotowe wraz z oceną całej skóry",
+        "pomiar masy ciała",
+        "ocena sprawności w skali ECOG",
+        "test ciążowy (u kobiet w wieku rozrodczym)",
+        "elektrokardiogram (EKG)",
+        "badania obrazowe w celu oceny zmian nowotworowych",
+        "badanie tomografii komputerowej lub rezonans magnetyczny mózgu; badanie tomografii komputerowej klatki piersiowej, jamy brzusznej i miednicy w celu udokumentowania progresji choroby"
+    ],
+    "badania_monitorujące": [
+        "ocena miejscowa węzłów chłonnych regionalnych",
+        "dermatoskopia nowych zmian skórnych",
+        "zachęcanie pacjenta do samokontroli okolicy operowanej i regionu spływu chłonnego",
+        "oznaczenie stężenia bilirubiny całkowitej we krwi",
+        "oznaczenie stężenia aminotransferazy alaninowej lub asparaginianowej we krwi",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie stężenia glukozy we krwi",
+        "oznaczenie stężenia dehydrogenazy mleczanowej (LDH) we krwi",
+        "oznaczenie stężenia elektrolitów (w tym sodu, potasu, wapnia, magnezu) we krwi",
+        "oznaczenie poziomu TSH i fT4 we krwi",
+        "badania obrazowe w zależności od pierwotnej lokalizacji przerzutów (TK, MR, RTG klatki piersiowej) oraz według wskazań klinicznych",
+        "scyntygrafia kości w razie wskazań klinicznych (ale nie częściej niż co 6 miesięcy)"
+    ]
+}

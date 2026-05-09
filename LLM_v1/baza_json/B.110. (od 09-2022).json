@@ -1,0 +1,67 @@
+{
+    "nazwa_pliku": "B.110. (od 09-2022).docx",
+    "kryteria_kwalifikacji": [
+        "rozpoznanie nerwiaka zarodkowego współczulnego zgodnie z międzynarodowymi kryteriami International Neuroblastoma Staging System (INSS);",
+        "zakwalifikowanie choroby do grupy wysokiego ryzyka definiowanej jako: stopień 2, 3, 4 i 4s wg. INSS z amplifikacją MYCN, niezależnie od wieku pacjenta w momencie rozpoznania lub stopień 4 wg INSS bez amplifikacji MYCN w wieku >12 miesięcy w momencie rozpoznania;",
+        "uzyskanie minimum częściowej remisji miejsc przerzutów po zastosowaniu leczenia indukcyjnego zgodnie z aktualnym protokołem terapeutycznym u pacjentów, u których w kolejnym etapie leczenia przeprowadzono minimum jedną terapię mieloablacyjną wspomaganą przeszczepieniem macierzystych komórek krwiotwórczych;",
+        "wiek ≥12 miesięcy w momencie rozpoczęcia immunoterapii;",
+        "brak progresji choroby w jakimkolwiek etapie dotychczasowego leczenia;",
+        "prawidłowa funkcja narządów (zgodnie z wykazem badań niezbędnych przy kwalifikacji pacjentów do programu);",
+        "uzyskanie pisemnej zgody pacjenta i/lub przedstawiciela ustawowego na zastosowanie leczenia;",
+        "założony cewnik dostępu do żyły centralnej, w miarę możliwości dwukanałowy lub zgoda na jego założenie;",
+        "ujemne wyniki w kierunku zakażenia ludzkim wirusem upośledzenia odporności (HIV) i wirusami zapalenia wątroby typu B i C (HBV i HCV);",
+        "stosowanie skutecznych metod antykoncepcyjnych przez pacjentów w wieku rozrodczym; kobiety karmiące piersią przed rozpoczęciem leczenia muszą wyrazić zgodę na zaprzestanie karmienia."
+    ],
+    "kryteria_wylaczenia": [
+        "rozległa przewlekła albo ostra 3 lub 4 stopnia choroba przeszczep przeciwko gospodarzowi (cGvHD);",
+        "ciąża i karmienie piersią;",
+        "objawowa niewydolność krążenia lub niekontrolowane lekami zaburzenia rytmu;",
+        "choroby psychiatryczne lub niekontrolowane choroby, przebiegające z drgawkami;",
+        "ciężkie aktywne infekcje do momentu ich wyleczenia lub stabilizacji klinicznej w trakcie leczenia;",
+        "klinicznie istotne deficyty neurologiczne lub potwierdzona neuropatia obwodowa (>2 stopnia WHO CTC);",
+        "klinicznie istotny, objawowy wysięk w opłucnej;"
+    ],
+    "leki": [
+        {
+            "nazwa": "dinutuksymab beta",
+            "dawkowanie": "5 cykli, dawka kumulacyjna 100 mg/m2/cykl, wlewo ciągłe trwające 10 dni"
+        },
+        {
+            "nazwa": "interleukina-2 (IL-2)",
+            "dawkowanie": ""
+        },
+        {
+            "nazwa": "kwas 13-cis retinowy",
+            "dawkowanie": "zgodnie z obowiązującymi standardami leczenia NBL"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "Badania obrazowe lokalizacji guza pierwotnego oraz okolic sąsiednich",
+        "Ocena wszystkich innych miejsc przerzutów",
+        "Ocena funkcji narządów: serca, płuc, szpiku kostnego, wątroby i nerek",
+        "Badanie EEG",
+        "Badania w kierunku zakażeń wirusowych: anty-HBV, anty-HCV, HIV"
+    ],
+    "badania_po_zakonczeniu_immunoterapii": [
+        "Badania obrazowe lokalizacji guza pierwotnego oraz okolic sąsiednich",
+        "Ocena układu kostnego",
+        "Badania szpiku kostnego: biopsja i trepanobiopsja",
+        "Oznaczenie markerów: stężenie enolazy neurospecyficznej, ferrytyny i aktywności dehydrogenazy mleczanowej",
+        "Ocena funkcji narządów: serca, płuc, szpiku kostnego, wątroby i nerek",
+        "Badanie EEG",
+        "Badania w kierunku zakażeń wirusowych: anty-HBV, anty-HCV, HIV"
+    ],
+    "monitorowanie_leczenia": [
+        "Morfologia krwi obwodowej",
+        "Oznaczenie aktywności ALT oraz AST i stężenia bilirubiny",
+        "Oznaczenie stężenia kreatyniny i obliczenie eGFR",
+        "Badanie dna oka, a u dzieci współpracujących również badanie ostrości wzroku",
+        "Badanie słuchu"
+    ],
+    "monitorowanie_programu": [
+        "Gromadzenie danych w dokumentacji medycznej pacjenta",
+        "Przedstawianie danych na żądanie kontrolerów Narodowego Funduszu Zdrowia",
+        "Uzupelnianie danych w elektronicznym systemie monitorowania programów lekowych (SMPT)",
+        "Przekazywanie informacji sprawozdawczo-rozliczeniowych do NFZ"
+    ]
+}

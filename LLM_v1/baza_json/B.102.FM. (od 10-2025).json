@@ -1,0 +1,71 @@
+{
+    "nazwa_pliku": "B.102.FM. (od 10-2025).docx",
+    "1": {
+        "kryteria_kwalifikacji": [
+            "z klinicznym rozpoznaniem SMA typu 1, typu 2 lub typu 3",
+            "z bialleliczną mutacją genu SMN1 i posiadający od jednej do czterech kopii genu SMN2"
+        ],
+        "kryterium_4": "musi być spełnione w każdym przypadku"
+    },
+    "leki": [
+        {
+            "nazwa": "onasemnogenu abeparwowek",
+            "dawkowanie": "Dawkowanie onasemnogenu abeparwowek"
+        },
+        {
+            "nazwa": "onasemnogen",
+            "dawkowanie": "Dawkowanie onasemnogenu"
+        },
+        {
+            "nazwa": "nusinersenu",
+            "dawkowanie": "Dawkowanie nusinersenu"
+        },
+        {
+            "nazwa": "nusinersenu",
+            "dawkowanie": "W przypadku pacjentów wymagających znieczulenia ogólnego do wykonania nakłucia lędźwiowego - znieczulenie ogólne zgodnie z obowiązującymi w ośrodku procedurami. W uzasadnionych kliniczne przypadkach dopuszcza się podanie nusinersenu dooponowo przez nakłucie podpotyliczne w przypadku kiedy podanie leku dooponowo drogą nakłucia lędźwiowego nie jest możliwe."
+        },
+        {
+            "nazwa": "rysdyplamu",
+            "dawkowanie": "Dawkowanie rysdyplamu"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie ogólnolekarskie",
+        "badanie miana przeciwciał AAV9",
+        "badanie czynności wątroby: AlAT, AspAT, bilirubina całkowita, GGTP",
+        "morfologia krwi z rozmazem",
+        "liczba płytek krwi",
+        "stężenie troponiny I",
+        "badanie genetyczne potwierdzające bialleliczną mutację genu SMN1",
+        "badanie określające ilość kopii genu SMN2 z wykorzystaniem techniki MLPA lub innych specyficznych technik",
+        "ocena zdolności połykania",
+        "badanie zaburzeń nerwowo-mięśniowych w skali CHOP-INTEND",
+        "ocena kamieni milowych rozwoju motorycznego w skali WHO",
+        "określenie masy ciała pacjenta w stosunku do wieku z wykorzystaniem siatek centylowych",
+        "badanie stężenia kreatyniny i mocznika",
+        "badanie poziomu hemoglobiny",
+        "inne badania i konsultacje specjalistyczne o ile są wskazania"
+    ],
+    "badania_monitorujace": [
+        {
+            "onasemnogen_abeparwowek": [
+                "Ocena skuteczności leczenia",
+                "Badanie neurologiczne i w skali funkcjonalnej odpowiedniej do wieku i stanu pacjenta po podaniu leku przeprowadza się w 3, 6, 9, 12, 15, 21, 24, 27, 36, 48 miesiącu po podaniu leku",
+                "Monitorowanie leczenia przez okres 48 miesięcy od podania leku z substancją czynną onasemnogen abeparwowek polega na ocenie kryteriów, które umożliwią ewentualne stwierdzenie braku skuteczności leczenia lub braku osiągnięcia kamieni milowych"
+            ]
+        },
+        {
+            "nusinersen": [
+                "Badanie neurologiczne przed każdym podaniem dawki",
+                "Badanie w skali CHOP-INTEND lub HINE, lub HFMSE (stosownie do wieku i typu SMA) przy dawkach podtrzymujących",
+                "Ocena przez fizjoterapeutę wykonania planu rehabilitacji"
+            ]
+        },
+        {
+            "rysdyplam": [
+                "Badanie neurologiczne po 2 miesiącach, 6 miesiącach, a następnie co 6 miesięcy",
+                "Badanie w skali CHOP-INTEND lub HINE, lub HFMSE (stosownie do wieku i typu SMA) nie rzadziej niż co 6 miesięcy"
+            ]
+        }
+    ]
+}

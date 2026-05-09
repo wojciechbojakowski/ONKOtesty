@@ -1,0 +1,68 @@
+{
+    "nazwa_pliku": "B.20._nowy od 07.2014.docx",
+    "kryteria_kwalifikacji": [
+        "skrajna niskorosłość, tj. wysokość ciała poniżej -3 SD w odniesieniu do płci i wieku, na siatkach centylowych dla populacji dzieci polskich;",
+        "stężenie IGF-1 poniżej -2,5 SDS w odniesieniu do płci i wieku;",
+        "prawidłowe stężenie GH (w teście krótkiego nocnego wyrzutu tego hormonu - co najmniej 5 pomiarów stężeń hormonu wzrostu, w uzasadnionych przypadkach poszerzone o wykonanie dwóch testów stymulacji sekrecji tego hormonu);",
+        "wykluczenie innych, aniżeli ciężki pierwotny niedobór IGF-1, przyczyn niskorosłości (niedokrwistość, choroby wątroby, niedoczynność tarczycy, zaburzenia wchłaniania i trawienia jelitowego, obciążenia dotyczące przebiegu ciąży i porodu, itp.);",
+        "rozpoznanie ciężkiego pierwotnego niedoboru IGF-1 potwierdzone testem generacji somatomedyn;",
+        "w przypadkach wątpliwych badania molekularne w kierunku rozpoznania mutacji w obrębie receptora hormonu wzrostu, mutacji genu kodującego syntezę IGF-1 lub promotora tego genu."
+    ],
+    "kryteria_wylaczenia": [
+        "nawracające, zagrażające życiu stany hipoglikemii;",
+        "złuszczenia głowy kości udowej;",
+        "pseudo-tumor cerebri;",
+        "ujawnienia lub wznowy choroby rozrostowej;",
+        "brak zgody pacjenta na kontynuację leczenia;",
+        "niezadowalający efekt leczenia, tj. przyrost wysokości ciała pacjenta leczonego za pomocą rhIGF-1 < 3 cm/rok;",
+        "osiągnięcie wieku kostnego: powyżej 14 lat przez dziewczynkę, powyżej 16 lat przez chłopca."
+    ],
+    "leki": [
+        {
+            "nazwa": "Mecaserminum",
+            "dawkowanie": "0,04 - 0,12 mg/kg masy ciała dwa razy na dobę"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "pomiar stężenia IGF-1",
+        "pomiar stężenia IGFBP3",
+        "pomiar stężenia glukozy we krwi",
+        "test obciążenia glukozą z pomiarem glikemii i insulinemii",
+        "pomiar odsetka glikowanej hemoglobiny HbA1c",
+        "pomiar stężenia TSH, pomiar stężenia fT4",
+        "jonogram surowicy krwi (co najmniej pomiar stężenia Na+)",
+        "konsultacja laryngologiczna z audiogramem",
+        "konsultacja kardiologiczna z USG układu sercowo-naczyniowego",
+        "konsultacja okulistyczna (w zależności od potrzeb)",
+        "RTG śródręcza z bliższą przynasadą kości przedramienia (do oceny wieku kostnego)",
+        "obrazowanie ośrodkowego układu nerwowego (TK z kontrastem lub MRI)"
+    ],
+    "badania_monitorujace": [
+        {
+            "30 dni po rozpoczęciu leczenia": [
+                "pomiar stężenia IGF-1",
+                "pomiar stężenia IGFBP3",
+                "pomiar stężenia glukozy we krwi",
+                "test obciążenia glukozą z pomiarem glikemii i insulinemii"
+            ],
+            "90 dni": [
+                "pomiar stężenia IGF-1",
+                "pomiar stężenia IGFBP3",
+                "pomiar stężenia glukozy we krwi"
+            ],
+            "180 dni": [
+                "pomiar stężenia TSH",
+                "pomiar stężenia fT4",
+                "jonogram surowicy krwi (co najmniej pomiar stężenia Na+)",
+                "pomiar odsetka glikowanej hemoglobiny HbA1c"
+            ],
+            "365 dni": [
+                "test obciążenia glukozą z pomiarem glikemii i insulinemii",
+                "konsultacja laryngologiczna z audiogramem",
+                "konsultacja kardiologiczna z USG układu sercowo-naczyniowego",
+                "RTG śródręcza z bliższą przynasadą kości przedramienia (do oceny wieku kostnego)",
+                "obrazowanie ośrodkowego układu nerwowego (TK z kontrastem lub MRI)"
+            ]
+        }
+    ]
+}

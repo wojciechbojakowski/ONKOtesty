@@ -1,0 +1,56 @@
+{
+    "nazwa_pliku": "B.138.FM. (od 01-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek powyżej 12 roku życia",
+        "rozpoznanie chorób ze spektrum zapalenia nerwów wzrokowych oraz rdzenia kręgowego (NMOSD) - oparte na aktualnych kryteriach diagnostycznych",
+        "potwierdzenie obecności przeciwciał anty-AQP4",
+        "EDSS od 0 do 6,5 włącznie",
+        "brak przeciwwskazań do stosowania satralizumabu określonych w aktualnej Charakterystyce Produktu Leczniczego (ChPL)",
+        "brak wcześniejszego leczenia inną terapią z zastosowaniem leków z grupy inhibitorów interleukiny 6",
+        "w przypadku pacjentek w wieku rozrodczym zaleca się stosowanie antykoncepcji"
+    ],
+    "kryteria_wylaczenia": [
+        "nadwrażliwość na satralizumab lub na którąkolwiek substancję pomocniczą",
+        "trwające aktualnie czynne zakażenie do momentu ustąpienia",
+        "aktywny nowotwór złośliwy",
+        "wczesniejsze leczenie przeciwciałem anty-CD20, ekulizumabem, przeciwciałem monoklonalnym anty-BLyS, lekiem zapobiegającym nawrotom stwardnienia rozsianego w ciągu 6 miesięcy przed kwalifikacją do programu",
+        "wczesniejsze leczenie anty-CD4, kladrybiną, cyklofosfamidem lub mitoksantronem, przeszczepienie komórek macierzystych szpiku w ciągu 2 lat przed przystąpieniem do programu",
+        "inne stany kliniczne, które w opinii lekarza, mogą stanowić przeciwwskazania do terapii",
+        "inne przeciwwskazania wymienione w aktualnej ChPL"
+    ],
+    "leki": [
+        {
+            "nazwa": "Satralizumab",
+            "dawkowanie": "maksymalna dawka dobowa 15 mg ekwiwalentu prednizolonu"
+        },
+        {
+            "nazwa": "Azatiopryna",
+            "dawkowanie": "maksymalna dawka dobowa 3 mg / kg m.c."
+        },
+        {
+            "nazwa": "Mykofenolanem mofetylu",
+            "dawkowanie": "maksymalna dawka dobowa 3 000 mg"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi z rozmazem",
+        "badanie ogólne moczu",
+        "CRP",
+        "AST",
+        "ALT",
+        "lipidogram",
+        "dostępny wynik badania MRI potwierdzający rozpoznanie NMOSD",
+        "dostępny wynik badania potwierdzającego obecność przeciwciał anty-AQP4",
+        "ocena stanu neurologicznego z określeniem EDSS",
+        "test ciążowy u pacjentek w wieku rozrodczym",
+        "wykluczenie gruźlicy (RTG klatki piersiowej lub quantiferon)",
+        "wykluczenie aktywnego zakażenia HBV (obecności antygenu HBs), HCV (brak przeciwciał anty-HCV, a w przypadku pozytywnego wyniku – oznaczenie PCR HCV metodą ilościową)",
+        "obecność antygenu wirusa HIV (HIV Ag/Ab Combo)"
+    ],
+    "badania_monitorujace": [
+        "ocena stanu neurologicznego z określeniem EDSS co 6 miesięcy oraz w czasie każdego rzutu",
+        "badanie MRI - jeśli zasadne klinicznie (decyzję podejmuje specjalista neurolog)",
+        "morfologia krwi z rozmazem, ALT i AST, bilirubina co cztery tygodnie przez pierwsze trzy miesiące leczenia, następnie co trzy miesiące przez jeden rok, a po tym czasie według wskazań klinicznych",
+        "lipidogram po pierwszych 6 miesiącach, a następnie wg wskazań klinicznych"
+    ]
+}

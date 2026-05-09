@@ -1,0 +1,51 @@
+{
+    "nazwa_pliku": "B.123. (od 07-2022).docx",
+    "kryteria_kwalifikacji": [
+        "rozpoznanie choroby Wilsona;",
+        "wiek ≥ 5 lat;",
+        "w postaci neurologicznej, bezobjawowej lub skąpoobjawowej stwierdzona nietolerancja leczenia D-penicylaminą i siarczanem cynku;",
+        "w postaci wątrobowej lub mieszanej z cechami istotnego uszkodzenia wątroby (hepato i/lub splenomegalia i/lub wydłużenie INR i/lub znaczny wzrost ALT i /lub cholestaza) stwierdzona nietolerancja leczenia D-penicylaminą."
+    ],
+    "kryteria_wylaczenia": [
+        "nadwrażliwość na substancję czynną lub którąkolwiek z substancji pomocniczych;",
+        "wystąpienie ciężkich działań niepożądanych związanych z lekiem;",
+        "niestosowanie się pacjenta do zaleceń lekarskich;",
+        "ciąża – z wyłączeniem przypadków, gdy korzyści związane z leczeniem przeważają nad ryzykiem dla pacjentki oraz płodu;",
+        "karmienie piersią;",
+        "brak skuteczności leczenia, w tym brak poprawy neurologicznej, definiowany jako utrzymanie stanu w skali UWDRS po 6 – 12 miesiącach leczenia lub brak istotnej poprawy parametrów uszkodzenia wątroby po 6-12 miesiącach leczenia;",
+        "poprawa kliniczna utrzymująca się przez co najmniej 6 miesięcy (w zakresie neurologicznym w skali UWDRS lub ustąpienie innych niż neurologiczne objawów choroby wraz z istotną poprawą parametrów definiujących czynność wątroby) powinna być podstawą do ponownej próby włączenia leczenia standardowego - brak ponownej próby włączenia leczenia standardowego wymaga uzasadnienia w historii choroby."
+    ],
+    "leki": [
+        {
+            "nazwa": "Trientynę",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej na dzień wydania decyzji o objęciu refundacją leku"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie fizykalne",
+        "badanie neurologiczne",
+        "badanie oka w lampie szczelinowej",
+        "badanie ogólne moczu",
+        "morfologia krwi obwodowej z rozmazem",
+        "stężenie miedzi wolnej, całkowitej i ceruloplazminy w surowicy",
+        "czas protrombinowy (PT)",
+        "międzynarodowy współczynnik znormalizowany (INR)",
+        "aminotransferaza asparaginowa (AspAT) i alaninowa (AlAT)",
+        "bilirubina całkowita i bezpośrednia",
+        "USG wątroby",
+        "MRI głowy, ocena obecności pierścienia Kaysera-Fleischera"
+    ],
+    "badania_monitorujace": [
+        "badanie fizykalne",
+        "badanie neurologiczne",
+        "badanie ogólne moczu",
+        "morfologia",
+        "stężenie miedzi wolnej, całkowitej i ceruloplazminy w surowicy",
+        "czas protrombinowy (PT)",
+        "międzynarodowy współczynnik znormalizowany (INR)",
+        "aminotransferaza asparaginowa (AspAT) i alaninowa (AlAT)",
+        "bilirubina całkowita i bezpośrednia",
+        "USG wątroby",
+        "badanie pierścienia Kaysera Fleischera w lampie szczelinowej"
+    ]
+}

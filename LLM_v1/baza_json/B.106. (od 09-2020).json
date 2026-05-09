@@ -1,0 +1,35 @@
+{
+    "nazwa_pliku": "B.106. (od 09-2020).docx",
+    "kryteria_kwalifikacji": [
+        "poddani transplantacji narządu/komórek krwiotwórczych",
+        "zakwalifikowani do leczenia biologicznego związanego z wysokim lub średnim ryzykiem reaktywacji HBV (leczenie przeciwciałami monoklonalnymi anty-CD20, chemioterapią systemową, glikokortykosteroidami w dużych dawkach (20 mg dz. > 4 tygodnie) inhibitorami kinaz tyrozynowych, inhibitorami cytokin, inhibitorami immunofilin, inhibitorami TNF-alfa oraz inhibitorami proteasomów)",
+        "leczeni z powodu raka wątrobowokomórkowego"
+    ],
+    "kryteria_wylaczenia": [
+        "choroba 1",
+        "stan 2"
+    ],
+    "leki": [
+        {
+            "nazwa": "Entekawir",
+            "dawkowanie": "0,5 mg 1x dobę"
+        },
+        {
+            "nazwa": "Tenofowir",
+            "dawkowanie": "245 mg 1 x na dobę"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "HBsAg",
+        "anty-HBs",
+        "anty-HBc IgG/całkowite",
+        "HBV DNA ilościowe",
+        "morfologia krwi",
+        "ALT",
+        "kreatynina"
+    ],
+    "badania_monitorujace": [
+        "ALT",
+        "HBV DNA"
+    ]
+}

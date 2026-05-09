@@ -1,0 +1,43 @@
+{
+    "nazwa_pliku": "B.74. (od 11-2020).docx",
+    "kryteria_kwalifikacji": [
+        "zdiagnozowane oraz udokumentowane przewlekłe zakrzepowo-zatorowe nadciśnienie płucne (CTEPH) wg aktualnej klasyfikacji ESC/ERS",
+        "nieoperowalne CTEPH (dyskwalifikacja od leczenia operacyjnego potwierdzona przez zespół CTEPH składający się z kardiochirurga z doświadczeniem w zakresie PEA, kardiologa interwencyjnego z doświadczeniem w zakresie cewnikowania prawostronnego oraz angioplastyki tętnic płucnych, kardiologa doświadczonego w prowadzeniu pacjentów z nadciśnieniem płucnym lub brak zgody pacjenta na PEA przy akceptacji zespołu CTEPH; w przypadkach wątpliwych – brak jednoznacznej opinii specjalistów wymienionych dziedzin – konieczna jest konsultacja przez kardiochirurga, który wykonał co najmniej 50 zabiegów endarterektomii tętnic płucnych; sformułowanie „z doświadczeniem w wykonywaniu ” należy rozumieć jako „lekarza przeszkolonego i samodzielnie wykonującego określone zabiegi” a „doświadczonego w prowadzeniu pacjentów z nadciśnieniem płucnym” jako „lekarza posiadającego doświadczenie w stosowaniu farmakoterapii swoistej w nadciśnieniu płucnym)",
+        "przetrwałe CTEPH po leczeniu chirurgicznym"
+    ],
+    "kryteria_wylaczenia": [
+        "choroba 1",
+        "stan 2",
+        "jednoczesne podawanie z inhibitorami PDE-5 (takimi jak sildenafil, tadalafil, wardenafil)",
+        "ciężkie zaburzenia czynności wątroby (stopień C w skali Child-Pugh)",
+        "nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą",
+        "ciąża",
+        "jednoczesne podawanie z azotanami lub lekami uwalniającymi tlenek azotu (takimi jak azotyn amylu) w jakiejkolwiek postaci",
+        "pacjenci ze skurczowym ciśnieniem krwi <95 mm Hg na początku leczenia",
+        "choroba układu oddechowego z niewydolnością oddychania (w tym zwłaszcza skłonność do retencji dwutlenku węgla) jako dominująca przyczyna nadciśnienia płucnego",
+        "niewydolność lewej komory serca (w tym zwłaszcza z zaklinowanym ciśnieniem w tętnicy płucnej > 15 mmHg) jako dominująca przyczyna nadciśnienia płucnego",
+        "brak skuteczności leczenia – jako kryterium wyłączenia"
+    ],
+    "leki": [
+        {
+            "nazwa": "riocyguatum",
+            "dawkowanie": "0,5 mg/dzień"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "ocena klasy czynnościowej według NYHA",
+        "test 6-minutowego marszu",
+        "oznaczenie NT-pro-BNP",
+        "badanie echokardiograficzne",
+        "badanie hemodynamiczne (aktualne, wykonane nie więcej niż 12 tygodni przed kwalifikacją) cewnikowanie prawego serca z oceną ciśnienia zaklinowania, naczyniowego oporu płucnego, pojemności minutowej i saturacji mieszanej krwi żylnej",
+        "arteriografia tętnic płucnych",
+        "MRI",
+        "Angio CT",
+        "scyntygrafia płuc"
+    ],
+    "badania_monitorujace": [
+        "ocena klasy czynnościowej według NYHA",
+        "test 6-minutowego marszu",
+        "oznaczenie NT-pro-BNP"
+    ]
+}

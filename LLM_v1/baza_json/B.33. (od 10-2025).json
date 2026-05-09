@@ -1,0 +1,146 @@
+{
+    "nazwa_pliku": "B.33. (od 10-2025).docx",
+    "1": {
+        "a": [
+            {
+                "kryteria kwalifikacji": "MIZS z dominującymi objawami układowymi"
+            },
+            {
+                "kryteria kwalifikacji": "MIZS z dominującymi objawami stawów"
+            }
+        ],
+        "b": [
+            {
+                "kryteria kwalifikacji": "MIZS z dominującymi objawami błony naczyniowej oka"
+            },
+            {
+                "kryteria kwalifikacji": "MIZS z dominującymi objawami układowymi i stawów"
+            }
+        ],
+        "c": [
+            {
+                "kryteria kwalifikacji": "MIZS z dominującymi objawami błony naczyniowej oka i stawów"
+            },
+            {
+                "kryteria kwalifikacji": "MIZS z dominującymi objawami układowymi, stawów i błony naczyniowej oka"
+            }
+        ]
+    },
+    "2": {
+        "a": [
+            {
+                "kryteria wyłączenia": "Brak adekwatnej odpowiedzi na leczenie"
+            },
+            {
+                "kryteria wyłączenia": "Utrata adekwatnej odpowiedzi na leczenie"
+            }
+        ],
+        "b": [
+            {
+                "kryteria wyłączenia": "Niespełnienie kryteriów poprawy ACR Pediatric 50"
+            },
+            {
+                "kryteria wyłączenia": "Pogorszenie jakości życia o istotnym znaczeniu"
+            }
+        ]
+    },
+    "3": {
+        "a": [
+            {
+                "kryteria ponownego włączenia": "Nawrót aktywnej choroby"
+            },
+            {
+                "kryteria ponownego włączenia": "Ponowne zastosowanie substancji czynnej, której zastosowanie spowodowało spełnienie kryteriów poprawy ACR Pediatric 50 lub ustąpienie objawów układowych"
+            }
+        ],
+        "b": [
+            {
+                "kryteria ponownego włączenia": "Pacjent jest włączany do ponownego leczenia substancją czynną, której zastosowanie spowodowało spełnienie kryteriów poprawy ACR Pediatric 50 lub ustąpienie objawów układowych"
+            },
+            {
+                "kryteria ponownego włączenia": "Pacjent jest włączany do ponownego leczenia substancją czynną, której zastosowanie spowodowało spełnienie kryteriów poprawy ACR Pediatric 50 lub ustąpienie objawów układowych"
+            }
+        ]
+    },
+    "leki": [
+        {
+            "nazwa": "tocilizumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "rytuksymab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "baricytynib",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "tofacytynib",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "upadacytynib",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "filgotynib",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "anakinra",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "kanakinumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "adalimumab",
+            "dawkowanie": "w monoterapii zgodnie z ChPL z uwzględnieniem rekomendacji EULAR/ACR"
+        },
+        {
+            "nazwa": "certolizumab pegol",
+            "dawkowanie": "w monoterapii zgodnie z ChPL z uwzględnieniem rekomendacji EULAR/ACR"
+        },
+        {
+            "nazwa": "etanercept",
+            "dawkowanie": "w monoterapii zgodnie z ChPL z uwzględnieniem rekomendacji EULAR/ACR"
+        },
+        {
+            "nazwa": "sekukinumab",
+            "dawkowanie": "w postaci dożylnej, w skutecznej klinicznie i tolerowanej przez chorego dawce"
+        },
+        {
+            "nazwa": "metotreksat",
+            "dawkowanie": "w skutecznej klinicznie i tolerowanej przez chorego dawce"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "próba tuberkulinowa",
+        "test Quantiferon",
+        "obecność antygenu HBs",
+        "przeciwciała anty-HBc",
+        "przeciwciała anty-HCV",
+        "antygen wirusa HIV (HIV Ag/Ab Combo)",
+        "RTG klatki piersiowej z opisem",
+        "EKG z opisem",
+        "morfologia krwi",
+        "oznaczenie płytek krwi (PLT)",
+        "oznaczenie wartości odczynu Biernackiego (OB)",
+        "oznaczenie stężenia białka C-reaktywnego (CRP)",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "badanie ogólne moczu"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi",
+        "oznaczenie płytek krwi (PLT)",
+        "oznaczenie wartości odczynu Biernackiego (OB)",
+        "oznaczenie stężenia białka C-reaktywnego (CRP)",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)"
+    ]
+}

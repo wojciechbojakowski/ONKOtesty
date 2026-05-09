@@ -1,0 +1,39 @@
+{
+    "nazwa_pliku": "B.122. (od 01-2025).docx",
+    "kryteria_kwalifikacji": [
+        "rozpoznany dziedziczny obrzęk naczynioruchowy (HAE) typu I lub typu II;",
+        "wiek od 12 roku życia;",
+        "udokumentowane, częste występowanie ciężkich ataków obrzęku naczynioruchowego - minimum 6 ataków z udokumentowanym użyciem leku ratunkowego w ciągu ostatnich 6 miesięcy.",
+        "Ponadto do programu lekowego kwalifikowani są również pacjenci powyżej 12 roku życia, którzy byli leczeni skutecznie lanadelumabem w ramach innego sposobu finansowania terapii (z wyjątkiem badań klinicznych), pod warunkiem, że w chwili rozpoczęcia leczenia spełniali kryteria kwalifikacji do programu lekowego."
+    ],
+    "kryteria_wylaczenia": [
+        "ciąża lub karmienie piersią - lekarz prowadzący w porozumieniu z Zespołem Koordynacyjnym może podjąć decyzję o kontynuacji leczenia w przypadkach gdy przerwanie leczenia będzie nieść ze sobą wyższe ryzyko działań niekorzystnych, niż kontynuacja leczenia;",
+        "podczas 6 miesięcznej terapii średnia miesięczna występowania zagrażających życiu ataków nie zmniejszyła się o co najmniej 50% w stosunku do średniej częstości ataków w półrocznym okresie poprzedzającym leczenie;",
+        "wystąpienie objawów nadwrażliwości na lanadelumab lub którąkolwiek substancję pomocniczą."
+    ],
+    "leki": [
+        {
+            "nazwa": "lanadelumab",
+            "dawkowanie": "300 mg co 2 tygodnie. W przypadku dobrego kontrolowania choroby, dawka może być redukowana do 300 mg co 4 tygodnie. W razie nawrotu napadów, dawka może być zwiększona do 300 mg co 2 tygodnie."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "stężenie inhibitora C1 esterazy we krwi",
+        "aktywność inhibitora C1 esterazy we krwi",
+        "stężenie składowej C4 dopełniacza",
+        "stężenie składowej C1q dopełniacza",
+        "morfologia krwi",
+        "badanie ogólne moczu",
+        "czas kaolinowo-kefalinowy (APTT)",
+        "oznaczenie INR",
+        "oznaczenie poziomu: aminotransferazy asparaginowej (AspAT), aminotransferazy alaninowej (AlAT), bilirubiny całkowitej",
+        "próba ciążowa u kobiet w wieku rozrodczym"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi",
+        "czas kaolinowo-kefalinowy (APTT)",
+        "aminotransferazy AspAT i ALAT, bilirubina całkowita",
+        "oznaczenie INR",
+        "ocena częstości występowania ataków z określeniem lokalizacji i ciężkości"
+    ]
+}

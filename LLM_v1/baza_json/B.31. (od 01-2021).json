@@ -1,0 +1,41 @@
+{
+    "nazwa_pliku": "B.31. (od 01-2021).docx",
+    "kryteria_kwalifikacji": [
+        "punkt 1",
+        "punkt 2"
+    ],
+    "kryteria_wylaczenia": [
+        "choroba 1",
+        "stan 2"
+    ],
+    "leki": [
+        {
+            "nazwa": "Aspiryna",
+            "dawkowanie": "1-2 tabletki"
+        },
+        {
+            "nazwa": "Ibuprofen",
+            "dawkowanie": "200-400 mg"
+        },
+        {
+            "nazwa": "Paracetamol",
+            "dawkowanie": "500-1000 mg"
+        },
+        {
+            "nazwa": "Kortyzon",
+            "dawkowanie": "5-10 mg"
+        },
+        {
+            "nazwa": "Prednison",
+            "dawkowanie": "20-40 mg"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie 1",
+        "badanie 2"
+    ],
+    "badania_monitorujace": [
+        "badanie 1",
+        "badanie 2"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "nazwa_pliku": "B.36. (od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "z rozpoznaniem ZZSK ustalonym na podstawie zmodyfikowanych kryteriów nowojorskich z uwzględnieniem sacroiliitis w badaniu RTG;",
+        "z aktywną postacią choroby, udokumentowaną podczas dwóch wizyt lekarskich w odstępie przynajmniej 4 tygodni, przy braku zmian leczenia w tym okresie;",
+        "z niezadowalającą odpowiedzią na co najmniej dwa niesteroidowe leki przeciwzapalne, z których każdy zastosowany był w maksymalnej rekomendowanej lub tolerowanej przez chorego dawce przez co najmniej 4 tygodnie w monoterapii.",
+        "aktywną postać choroby definiuje się jako spełnienie wszystkich wymienionych niżej kryteriów: wartość BASDAI ≥ 4 lub wartość ASDAS ≥ 2,1, określona w dwukrotnych pomiarach w odstępie przynajmniej 4 tygodni;",
+        "ból kręgosłupa ≥ 4 na wizualnej skali od 0 do 10 cm, określony w dwukrotnych pomiarach w odstępie przynajmniej 4 tygodni;",
+        "ogólna ocena stanu choroby (aktywności, ciężkości i dalszej prognozy choroby oraz aktywności zawodowej), dokonana przez lekarza prowadzącego oraz drugiego lekarza – eksperta, specjalistę reumatologa, doświadczonego w leczeniu chorób z kręgu spondyloartropatii zapalnych lekami biologicznymi - więcej niż 5 cm na skali od 0 do 10 cm;",
+        "w przypadkach, w których pacjentowi grozi kalectwo lub zagrożone jest jego życie, decyzją Zespołu Koordynacyjnego ds. Leczenia Biologicznego w Chorobach Reumatycznych, pacjent może być zakwalifikowany do leczenia biologicznego w przypadku niespełnienia części kryteriów opisanych w programie, jeśli leczenie jest zgodne z aktualnie obowiązującymi rekomendacjami oraz wiedzą medyczną;",
+        "w przypadku kobiet wymagana jest zgoda na świadomą kontrolę urodzeń, zgodnie z Charakterystyką Produktu Leczniczego (zwanej dalej ChPL) leku, którym odbywa się leczenie w programie lekowym;",
+        "w przypadku ciąży lub karmienia piersią dopuszcza się możliwość leczenia uzasadnioną aktualną wiedzą medyczną - do decyzji lekarza prowadzącego;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej ChPL;",
+        "nieobecność istotnych schorzeń współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL;",
+        "brak przeciwwskazań do stosowania określonej w aktualnej ChPL substancji czynnej ujętej w programie lekowym, z uwzględnieniem rekomendacji EULAR/ ASAS.",
+        "kryteria_wylaczenia\": ["
+    ],
+    "leki": [
+        {
+            "nazwa": "Adalimumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego z uwzględnieniem rekomendacji EULAR/ASAS"
+        },
+        {
+            "nazwa": "Certolizumab pegol",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego z uwzględnieniem rekomendacji EULAR/ASAS"
+        },
+        {
+            "nazwa": "Etanercept",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego z uwzględnieniem rekomendacji EULAR/ASAS"
+        },
+        {
+            "nazwa": "Golimumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego z uwzględnieniem rekomendacji EULAR/ASAS"
+        },
+        {
+            "nazwa": "Infliksymab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego z uwzględnieniem rekomendacji EULAR/ASAS, zmiana postaci dożylnej na postać podskórną może być przeprowadzona wyłącznie zgodnie z wymaganiami określonymi w aktualnej Charakterystyce Produktu Leczniczego oraz pod nadzorem wykwalifikowanego personelu medycznego"
+        },
+        {
+            "nazwa": "Sekukinumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego z uwzględnieniem rekomendacji EULAR/ASAS"
+        },
+        {
+            "nazwa": "Iksekizumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego z uwzględnieniem rekomendacji EULAR/ASAS"
+        },
+        {
+            "nazwa": "Upadacytynib",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego z uwzględnieniem rekomendacji EULAR/ASAS"
+        },
+        {
+            "nazwa": "Tofacytynib",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego z uwzględnieniem rekomendacji EULAR/ASAS"
+        },
+        {
+            "nazwa": "Bimekizumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego z uwzględnieniem rekomendacji EULAR/ASAS"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie antygenu HLA B27 kiedykolwiek w przeszłości;",
+        "morfologia krwi",
+        "oznaczenie płytek krwi (PLT)",
+        "oznaczenie wartości odczynu Biernackiego (OB)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie stężenia białka C-reaktywnego (CRP)",
+        "badanie ogólne moczu (do decyzji lekarza);",
+        "próba tuberkulinowa lub test Quantiferon;",
+        "obecność antygenu HBs;",
+        "przeciwciała anty-HBc;",
+        "przeciwciała anty-HCV;",
+        "obecność antygenu wirusa HIV (HIV Ag/Ab Combo);",
+        "oznaczenie stężenia cholesterolu całkowitego, cholesterolu HDL, cholesterolu LDL i trójglicerydów (lipidogram) u pacjentów kwalifikowanych do leczenia upadacytynibem lub tofacytynibem;",
+        "RTG klatki piersiowej z opisem (maksymalnie do 6 miesięcy przed kwalifikacją);",
+        "EKG z opisem;",
+        "badanie obrazowe RTG stawów krzyżowo-biodrowych, które potwierdza obecność sacroiliitis umożliwiające rozpoznanie ZZSK na podstawie zmodyfikowanych kryteriów nowojorskich."
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi",
+        "oznaczenie wartości odczynu Biernackiego (OB)",
+        "oznaczenie stężenia białka C-reaktywnego (CRP)",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "oznaczenie stężenia cholesterolu całkowitego, cholesterolu HDL, cholesterolu LDL i trójglicerydów (lipidogram) u pacjentów kwalifikowanych do leczenia upadacytynibem lub tofacytynibem;",
+        "ocenę skuteczności zastosowanej terapii wg wskaźników zalecanych przez EULAR/ASAS i stosowanych rutynowo w ZZSK."
+    ]
+}

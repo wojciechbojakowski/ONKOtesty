@@ -1,0 +1,85 @@
+{
+    "nazwa_pliku": "B.47. (od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "pacjenci w wieku: 18 lat i powyżej, lub 4 lat i powyżej – w przypadku do kwalifikacji do terapii adalimumabem, lub 6 lat i powyżej - w przypadku kwalifikacji do terapii etanerceptem, ustekinumabem, iksekizumabem, sekukinumabem;",
+        "pacjenci z umiarkowaną lub ciężką postacią łuszczycy plackowatej, którzy przestali reagować na leczenie lub mają przeciwwskazania, lub nie tolerują innych metod leczenia ogólnego;",
+        "pacjenci, u których uzyskano następującą ocenę nasilenia procesu łuszczycowego ze wskaźnikami: PASI większym niż 10, oraz DLQI (ewentualnie CDLQI) większym niż 10, oraz BSA większym niż 10;",
+        "pacjenci, u których nie uzyskano poprawy po leczeniu z zastosowaniem co najmniej dwóch różnych klasycznych metod ogólnych zastosowanych zgodnie z aktualnie obowiązującymi rekomendacjami PTD/EADV/EDF/IPC, a w przypadku pacjentów od 4 do 18 roku życia po nieskuteczności leczenia miejscowego lub ogólnego zgodnie z aktualnie obowiązującymi rekomendacjami PTD/EADV/EDF/IPC lub pacjenci, u których występują przeciwwskazania do zastosowania metod terapii ogólnej zgodnie z aktualnie obowiązującymi rekomendacjami PTD/EADV/EDF/IPC."
+    ],
+    "kryteria_wylaczenia": [
+        "brak uzyskania adekwatnej odpowiedzi na leczenie zgodnie z pkt. 2.",
+        "utrata adekwatnej odpowiedzi na leczenie stwierdzona w trakcie dwóch kolejnych wizyt monitorujących to znaczy: PASI większy niż 10, oraz BSA większy niż 10, oraz DLQI (ew. CDLQI) większy niż 10;",
+        "wystąpienie chorób lub stanów, które w opinii Zespołu Koordynacyjnego lub lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie objawów nadwrażliwości na którąkolwiek substancję czynną lub substancję pomocniczą;",
+        "wystąpienie toksyczności wymagającej zakończenia leczenia w opinii Zespołu Koordynacyjnego lub lekarza prowadzącego zgodnie z aktualną ChPL;",
+        "pogorszenie jakości życia o istotnym znaczeniu według oceny lekarza;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego opiekuna prawnego."
+    ],
+    "leki": [
+        {
+            "nazwa": "Adalimumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Etanercept",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Infliksymab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego, zmiana postaci dożylnej na postać podskórną może być przeprowadzona wyłącznie zgodnie z wymaganiami określonymi w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Iksekizumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Sekukinumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Ustekinumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Ryzankizumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Guselkumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Certolizumab pegol",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Tyldrakizumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "Bimekizumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi",
+        "aminotransferaza asparaginianowa (AspAT)",
+        "aminotransferaza alaninowa (AlAT)",
+        "stężenie kreatyniny w surowicy",
+        "stężenie białka C-reaktywnego (CRP)",
+        "badanie ogólne moczu (do decyzji lekarza)",
+        "próba tuberkulinowa lub test Quantiferon",
+        "obecność antygenu HBs",
+        "przeciwciała anty-HCV",
+        "obecność antygenu wirusa HIV (HIV Ag/Ab Combo)",
+        "RTG klatki piersiowej z opisem (maksymalnie do 6 miesięcy przed kwalifikacją)",
+        "EKG (w przypadku pacjentów w wieku od 6 do 18 lat – do decyzji lekarza prowadzącego)"
+    ],
+    "badania_monitorujace": [
+        "morfologię krwi",
+        "stężenie białka C-reaktywnego (CRP)",
+        "stężenie kreatyniny w surowicy",
+        "AspAT i AlAT",
+        "ocenę skuteczności zastosowanej terapii wg wskaźników PASI, DLQI i BSA"
+    ]
+}

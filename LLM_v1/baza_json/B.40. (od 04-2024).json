@@ -1,0 +1,30 @@
+{
+    "nazwa_pliku": "B.40. (od 04-2024).docx",
+    "kryteria_kwalifikacji": [
+        "Pacjenci neonatologiczni: brak ukończenia szóstego miesiąca życia w momencie rozpoczęcia immunizacji, oraz spełnienie kryterium: wiek ciążowy 29 - 32 tygodni, lub wiek ciążowy ≤ 35 tygodni oraz mała masa urodzeniowa równa lub poniżej 1500 g, brak ukończenia pierwszego roku życia w momencie rozpoczęcia immunizacji oraz narodziny w wieku ciążowym ≤ 28 tygodni, brak ukończenia drugiego roku życia w momencie rozpoczęcia immunizacji oraz rozpoznanie dysplazji oskrzelowo-płucnej.",
+        "Pacjenci z rozpoznaną mukowiscydozą: brak ukończenia pierwszego roku życia w momencie rozpoczęcia immunizacji.",
+        "Pacjenci kardiologiczni: brak ukończenia drugiego roku życia w momencie rozpoczęcia immunizacji oraz rozpoznanie hemodynamicznie istotnej wady serca z: jawną niewydolnością serca, utrzymującą się pomimo leczenia farmakologicznego, lub umiarkowanym lub ciężkim wtórnym nadciśnieniem płucnym, lub siniczymi wadami serca, z przezskórnym utlenowaniem krwi tętniczej utrzymującej się <90%",
+        "Pacjenci z rozpoznanym rdzeniowym zanikiem mięśni: brak ukończenia drugiego roku życia w momencie rozpoczęcia immunizacji."
+    ],
+    "kryteria_wylaczenia": [
+        "objawy nadwrażliwości na paliwizumab lub jakikolwiek ze składników występujących w preparacie",
+        "przebycie reakcji nadwrażliwości na podaż innych przeciwciał",
+        "brak zgody prawnych opiekunów na leczenie",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich ze strony prawnych opiekunów"
+    ],
+    "leki": [
+        {
+            "nazwa": "paliwizumab",
+            "dawkowanie": "15mg/kg masy ciała raz w miesiącu"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "dysplazja oskrzelowo-płucna",
+        "hemodynamicznie istotna wada serca",
+        "rdzeniowy zanik mięśni",
+        "mukowiscydoza"
+    ],
+    "badania_monitorujace": [
+        "stan ogólny pacjenta (wywiad i badanie fizykalne)"
+    ]
+}

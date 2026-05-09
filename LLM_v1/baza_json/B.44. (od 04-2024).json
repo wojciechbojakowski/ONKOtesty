@@ -1,0 +1,1392 @@
+{
+    "nazwa_pliku": "B.44. (od 04-2024).docx",
+    "1.2": {
+        "Wziewne glikokortykosteroidy": ">1000 mcg dipropionianu beklometazonu na dobę",
+        "Inne leki kontrolujące astmę": "długo działający agonista receptora β-2 adrenergicznego, modyfikator leukotrienów, długo działający bloker receptora muskarynowego"
+    },
+    "1.3": {
+        "Dwa lub więcej epizodów zaostrzeń w ostatnim roku": true,
+        "Przewlekle stosowanie systemowych glikokortykosteroidów": true
+    },
+    "1.4": [
+        {
+            "Objawy niekontrolowanej astmy": ">1.5 pkt",
+            "Hospitalizacja w ciągu ostatnich 12 miesięcy": true,
+            "Incident ataku astmy zagrażającego życiu": true,
+            "Utrzymująca się obturacja dróg oddechowych": {
+                "Natężona objętość wydechowa pierwszosekundowa FEV1": "<80% wartości należnej",
+                "Zmienność dzienna szczytowego przepływu wydechowego PEF": ">30%"
+            },
+            "Pogorszenie jakości życia z powodu astmy": {
+                "Średnia punktów w teście kontroli jakości życia chorego na astmę mini-AQLQ": "<5,0 punktów"
+            }
+        }
+    ],
+    "1.5": [
+        {
+            "Wykluczenie zakażenia pasożytniczego": true,
+            "Wykluczenie innych istotnych klinicznie chorób płuc": true
+        }
+    ],
+    "leki": [
+        {
+            "nazwa": "omalizumab",
+            "dawkowanie": "75-600 mg, co 2 tygodnie"
+        },
+        {
+            "nazwa": "mepolizumab",
+            "dawkowanie": "100 mg, co 4 tygodnie"
+        },
+        {
+            "nazwa": "benralizumab",
+            "dawkowanie": "30 mg, co 4 tygodnie (pierwsze trzy dawki), a następnie co 8 tygodni"
+        },
+        {
+            "nazwa": "dupilumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        },
+        {
+            "nazwa": "tezepelumab",
+            "dawkowanie": "zgodnie z dawkowaniem określonym w aktualnej Charakterystyce Produktu Leczniczego"
+        }
+    ],
+    "badania": [
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 1,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 2,
+                "max": null
+            }
+        },
+        {
+            "type": "JSON",
+            "data": {
+                "min": 4,
+                "max": null
+            }
+        }
+    ]
+}

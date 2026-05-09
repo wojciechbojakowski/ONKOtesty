@@ -1,0 +1,148 @@
+{
+    "nazwa_pliku": "B.114. (od 01-2025).docx",
+    "criteria": [
+        {
+            "name": "Midostaurin",
+            "indications": [
+                "Acute myeloid leukemia (AML) with FLT3-ITD mutation"
+            ],
+            "duration": [
+                "Induction: up to 2 cycles, Consolidation: 3-4 cycles"
+            ],
+            "exclusion": [
+                "Failure of induction therapy",
+                "Progression of disease during consolidation therapy",
+                "Grade 4 toxicity or life-threatening adverse event"
+            ]
+        },
+        {
+            "name": "Gemtuzumab ozogamicin",
+            "indications": [
+                "Acute myeloid leukemia (AML) with FLT3-ITD mutation"
+            ],
+            "duration": [
+                "Induction: 1 cycle, Consolidation: up to 2 cycles"
+            ],
+            "exclusion": [
+                "Failure of induction therapy",
+                "Progression of disease during consolidation therapy",
+                "Grade 4 toxicity or life-threatening adverse event"
+            ]
+        },
+        {
+            "name": "Venetoclax",
+            "indications": [
+                "Acute myeloid leukemia (AML) with FLT3-ITD mutation"
+            ],
+            "duration": [
+                "Until progression of disease or unacceptable toxicity"
+            ],
+            "exclusion": [
+                "Progression of disease during therapy",
+                "Grade 4 toxicity or life-threatening adverse event"
+            ]
+        },
+        {
+            "name": "Ivosidenib",
+            "indications": [
+                "Acute myeloid leukemia (AML) with FLT3-ITD mutation"
+            ],
+            "duration": [
+                "Until progression of disease or unacceptable toxicity"
+            ],
+            "exclusion": [
+                "Progression of disease during therapy",
+                "Grade 4 toxicity or life-threatening adverse event"
+            ]
+        },
+        {
+            "name": "Gilteritinib",
+            "indications": [
+                "Acute myeloid leukemia (AML) with FLT3-ITD mutation"
+            ],
+            "duration": [
+                "Up to 6 months, then re-evaluate for continuation of therapy"
+            ],
+            "exclusion": [
+                "Progression of disease during therapy",
+                "Grade 4 toxicity or life-threatening adverse event"
+            ]
+        }
+    ],
+    "leki": [
+        {
+            "nazwa": "midostauryna",
+            "dawkowanie": "50 mg doustnie dwa razy na dobę od 8. do 21. dnia cyklu"
+        },
+        {
+            "nazwa": "daunorubicyna",
+            "dawkowanie": "60 mg/m2 pc./dobę podawana w infuzji dożylnej w okresie od 1. do 3. dnia cyklu"
+        },
+        {
+            "nazwa": "cytarabina",
+            "dawkowanie": "100-200 mg/m2 pc./dobę podawana w ciągłej infuzji dożylnej w okresie od 1. do 7. dnia cyklu"
+        },
+        {
+            "nazwa": "gemtuzumab ozogamycyny",
+            "dawkowanie": "3 mg/m2 pc./dawkę (maksymalnie 1 fiolka 5 mg) podawana w infuzji w 1., 4. i 7. dniu"
+        },
+        {
+            "nazwa": "gemtuzumab ozogamycyny",
+            "dawkowanie": "3 mg/m2 pc./dawkę (maksymalnie 1 fiolka 5 mg) podawana w 1. dniu cyklu (maksymalnie do dwóch cykli)"
+        },
+        {
+            "nazwa": "wenetoklaks",
+            "dawkowanie": "100 mg/dobę; Dzień 2: 200 mg/dobę; Dzień 3 i kolejne: 400 mg/dobę"
+        },
+        {
+            "nazwa": "azacytydyna",
+            "dawkowanie": "75 mg/m2 pc. podawana podskórnie lub dożylnie w dniach od 1-7 każdego 28-dniowego cyklu, począwszy od 1. dnia pierwszego cyklu"
+        },
+        {
+            "nazwa": "iwosydenib",
+            "dawkowanie": "500 mg (2 tabletki po 250 mg) podawana doustnie 1 raz na dobę"
+        },
+        {
+            "nazwa": "azacytydyna",
+            "dawkowanie": "300 mg podawana doustnie 1 raz na dobę w dniach 1-14 każdego 28-dniowego cyklu"
+        },
+        {
+            "nazwa": "gilterytynib",
+            "dawkowanie": "120 mg podawana doustnie raz na dobę; w przypadku braku odpowiedzi: 200 mg raz na dobę"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "biopsja aspiracyjna szpiku",
+        "morfologia krwi z rozmazem",
+        "ocena stanu ogólnego (ECOG)",
+        "ocena chorób współistniejących (HCT-CI)",
+        "oznaczenie stężenia mocznika w surowicy krwi",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie stężenia kwasu moczowego w surowicy krwi",
+        "oznaczenie stężenia sodu",
+        "oznaczenie stężenia potasu",
+        "oznaczenie stężenia wapnia",
+        "oznaczenie stężenia glukozy we krwi",
+        "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie APTT",
+        "oznaczenie czasu protrombinowego (PT) lub INR",
+        "oznaczenie stężenia fibrynogenu",
+        "test ciążowy (u kobiet w wieku rozrodczym)",
+        "elektrokardiografia (EKG)",
+        "ECHO serca (do decyzji lekarza)",
+        "RTG klatki piersiowej (do decyzji lekarza)",
+        "punkcja lędźwiowa (tylko u chorych z podejrzeniem zajęcia OUN)"
+    ],
+    "badania_monitorujace": [
+        "biopsja aspiracyjna szpiku",
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie stężenia potasu",
+        "oznaczenie stężenia bilirubiny całkowitej w surowicy krwi",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie APTT",
+        "oznaczenie czasu protrombinowego (PT) lub INR",
+        "elektrokardiografia (EKG)"
+    ]
+}

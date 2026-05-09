@@ -1,0 +1,56 @@
+{
+    "nazwa_pliku": "B.175. (nowy od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek co najmniej 2 miesiące",
+        "stężenie kwasów żółciowych w surowicy powyżej 70 μmol/l w ciągu miesiąca przed kwalifikacją do programu",
+        "w wywiadzie trudny w opanowaniu świąd, tj. wynik w skali ItchRO(Obs) >2,0 w ciągu miesiąca przed kwalifikacją do programu",
+        "cholestaza: tj. stężenie bilirubiny bezpośredniej powyżej 1 mg/dl",
+        "udokumentowany brak skuteczności innych metod leczenia, w tym kwasu ursodeoksycholowego (UDCA) oraz ryfampicyny, po minimum trzech miesiącach leczenia, w optymalnych dawkach na masę ciała",
+        "brak przeciwwskazań do stosowania leku zgodnie z aktualną Charakterystyką Produktu Leczniczego (ChPL)",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii",
+        "wykluczenie ciąży i okresu karmienia piersią"
+    ],
+    "kryteria_wylaczenia": [
+        "nadwrażliwość na maraliksybat lub na którąkolwiek substancję pomocniczą",
+        "chirurgiczne przerwanie krążenia jelitowo-wątrobowego",
+        "historia przeszczepienia wątroby",
+        "zdekompensowana marskość wątroby",
+        "występowanie lub obecność w przeszłości jakiejkolwiek innej choroby lub stanów, o których wiadomo, że zaburzają wchłanianie, dystrybucję, metabolizm lub wydalanie leków, w tym metabolizm soli żółciowych w jelicie"
+    ],
+    "leki": [
+        {
+            "nazwa": "maraliksybat",
+            "dawkowanie": "Dawkowanie i sposób podawania maraliksybatu – zgodnie z aktualną Charakterystyką Produktu Leczniczego."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kwasów żółciowych",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności gamma glutamylotransferazy (GGT)",
+        "oznaczenie stężenia bilirubiny całkowitej i bezpośredniej",
+        "ocena stężenia międzynarodowego współczynnika znormalizowanego (INR)",
+        "oznaczenie stężenia kreatyniny i mocznika",
+        "oznaczenie poziomu witamin rozpuszczalnych w tłuszczach: A, D, E",
+        "oznaczenie stężenia cholesterolu całkowitego, cholesterolu HDL, cholesterolu LDL i triglicerydów (lipidogram)",
+        "badanie przedmiotowe wraz z oceną nasilenia świądu z użyciem 5-punktowej skali ItchRO(Obs)",
+        "pomiary antropometryczne - wzrost, masa ciała, BMI (u dzieci)",
+        "test ciążowy (u kobiet w wieku rozrodczym)"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia kwasów żółciowych",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności gamma glutamylotransferazy (GGT)",
+        "oznaczenie stężenia bilirubiny całkowitej i bezpośredniej",
+        "badanie przedmiotowe wraz z oceną nasilenia świądu z użyciem 5-punktowej skali ItchRO(Obs)",
+        "oznaczenie stężenia cholesterolu całkowitego, cholesterolu HDL, cholesterolu LDL i triglicerydów (lipidogram)",
+        "test ciążowy (u kobiet w wieku rozrodczym)",
+        "oznaczenie poziomu witamin rozpuszczalnych w tłuszczach: A, D, E",
+        "ocena stężenia międzynarodowego współczynnika znormalizowanego (INR)",
+        "badania ultrasonograficzne jamy brzusznej (ocena wątroby, dróg żółciowych, śledziony oraz układu moczowego)",
+        "pomiary antropometryczne - wzrost, masa ciała, BMI (u dzieci)"
+    ]
+}

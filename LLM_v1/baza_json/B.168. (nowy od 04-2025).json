@@ -1,0 +1,51 @@
+{
+    "nazwa_pliku": "B.168. (nowy od 04-2025).docx",
+    "kryteria_kwalifikacji": [
+        "Wiek 18 lat i powyżej;",
+        "Udokumentowane przeszczepienie krwiotwórczych komórek macierzystych (HSCT) lub przeszczepienie narządu litego (SOT);",
+        "Zakażenie CMV potwierdzone w badaniu ilościowym CMV-DNA (qPCR) z poziomem wiremii CMV w momencie kwalifikacji do leczenia maribiwirem > 910 IU/ml lub równoważnik w kopiach/ml;",
+        "Brak skuteczności wcześniejszego leczenia rozumiany jako: brak spadku wiremii CMV w stosunku do wartości wyjściowej o co najmniej 1 log po co najmniej 14 dniach terapii gancyklowirem lub walgancyklowirem lub foskarnetem lub cydofowirem (w ocenianym 14 dniowym okresie dopuszcza się stosowanie sekwencyjne w/w leków) lub w opinii lekarza prowadzącego brak poprawy lub nasilenie objawów narządowych u pacjentów po SOT z rozpoznaną w badaniu histologicznym narządową postacią CMV, mogącą prowadzić do utraty przeszczepionego narządu przy jednoczesnym braku spadku wiremii CMV o co najmniej 1 log po co najmniej 21 dniach terapii gancyklowirem lub walgancyklowirem lub foskarnetem lub cydofowirem (w ocenianym 21 dniowym okresie dopuszcza się stosowanie sekwencyjne w/w leków);",
+        "Wykluczenie inwazyjnej choroby tkankowej CMV obejmującej OUN (włączając zapalenie mózgu) lub siatkówkę oka;",
+        "Adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych umożliwiająca w opinii lekarza prowadzącego bezpieczne rozpoczęcie terapii;",
+        "Nieobecność istotnych schorzeń współistniejących lub stanów klinicznych oraz wykluczenie terapii stanowiących przeciwskazanie do leczenia maribawirem stwierdzonych przez lekarza prowadzącego w oparciu o aktualne ChPL;",
+        "Wykluczenie ciąży i okresu karmienia piersią;",
+        "Zgoda pacjenta na prowadzenie antykoncepcji zgodnie z aktualną ChPL."
+    ],
+    "kryteria_wylaczenia": [
+        "Niewykrywalny poziom CMV DNA (poniżej dolnej granicy oznaczalności dla danego laboratorium) w dwóch kolejnych pomiarach przeprowadzonych w trakcie leczenia, stwierdzony na dwóch następujących po sobie wizytach monitorujących;",
+        "Kliniczne objawy nieskuteczności leczenia, w tym u pacjentów z narządową postacią choroby po SOT;",
+        "Wystąpienie infekcji CMV w OUN;",
+        "Wystąpienie zapalenia siatkówki wywołanego CMV jeśli konieczne jest podanie innego leku przeciw CMV ogólnoustrojowego lub doszklistkowo;",
+        "Wystąpienie innych chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą;",
+        "Nieakceptowalna lub zagrażająca życiu toksyczność, pomimo zastosowania adekwatnego postępowania;",
+        "Okres ciąży lub karmienia piersią;",
+        "Brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego prawnych opiekunów."
+    ],
+    "leki": [
+        {
+            "nazwa": "Sposób podawania, modyfikacje dawki oraz dostosowanie czasu trwania terapii",
+            "dawkowanie": "zgodnie z aktualną Charakterystyką Produktu Leczniczego (ChPL)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "ilościowe oznaczenie CMV-DNA z krwi pełnej lub osocza (qPCR)",
+        "morfologia krwi z rozmazem",
+        "oznaczenie stężenia bilirubiny w surowicy krwi",
+        "oznaczenie stężenia albuminy w surowicy krwi",
+        "oznaczenie czasu protrombinowego (INR)",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "określenie skali Child-Pugh u pacjentów po SOT",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "ocena eGFR",
+        "badanie dna oka lub inne badanie okulistyczne u pacjentów z podejrzeniem zajęcia siatkówki przez CMV"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenie aktywności aminotransferazy alaninowej (ALT)",
+        "oznaczenie aktywności aminotransferazy asparaginianowej (AST)",
+        "oznaczenie stężenia kreatyniny w surowicy krwi",
+        "oznaczenie ilościowe CMV-DNA z krwi pełnej lub osocza (qPCR)"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "nazwa_pliku": "B.95. (od 04-2024).docx",
+    "kryteria_kwalifikacji": [
+        "pacjenci z aHUS z następującymi objawami mikroangiopatii zakrzepowej: trombocytopenia oraz hemoliza: liczba płytek <150 x 109/L lub > 25% spadek w stosunku do stanu wyjściowego i podwyższone stężenie LDH lub rozpad krwinek czerwonych (obecność schistocytów) lub niskie stężenie haptoglobiny lub anemia hemolityczna;",
+        "biopsja tkankowa potwierdzająca mikroangiopatię zakrzepową;",
+        "związane z mikroangiopatią zakrzepową uszkodzenie narządów: zaburzenia czynności nerek potwierdzone poziomem kreatyniny w surowicy >górna granica normy dla wieku, lub hemodializa, lub białkomocz/ albuminuria, lub powikłania pozanerkowe wywołane mikroangiopatią tkankową, takie jak: powikłania sercowo-naczyniowe, lub neurologiczne, lub żołądkowo-jelitowe lub płucne;",
+        "pacjenci z aHUS, u których stosowana jest plazmafereza/przetoczenie osocza;",
+        "pacjenci z aHUS zakwalifikowani do przeszczepienia nerki;",
+        "wyniki badań: aktywność ADAMTS-13 >5%, negatywny wynik badania STEC (Shiga-Toxin Escherichia coli) w teście (PCR) lub hodowli bakteryjnej w pierwszym rzucie choroby;",
+        "wykonanie obowiązkowego szczepienia przeciw meningokokom, w przypadku konieczności wdrożenia leczenia przed upływem 2 tygodni po wykonaniu szczepienia przeciw menigokokom - profilaktyka antybiotykowa",
+        "profilaktyka antybiotykowa powinna u tych pacjentów być prowadzona przez 14 dni od zaszczepienia pacjenta;",
+        "w przypadku kobiet oraz poddanych leczeniu mężczyzn będących partnerami kobiet w wieku rozrodczym wymagana jest zgoda na świadomą kontrolę urodzeń, zgodnie z aktualną Charakterystyką Produktu Leczniczego (zwanej dalej ChPL) leku, którym odbywa się leczenie w programie lekowym;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej ChPL;",
+        "nieobecność istotnych schorzeń współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL;",
+        "brak przeciwwskazań do stosowania określonej w aktualnej ChPL substancji czynnej ujętej w programie lekowym."
+    ],
+    "kryteria_wylaczenia": [
+        "brak efektu leczenia ekulizumabem lub rawulizumabem poprzez utrzymywanie się objawów klinicznych lub laboratoryjnych będących podstawą zakwalifikowania pacjenta do leczenia (utrzymywanie się aktywnej mikroangiopatii zakrzepowej mimo 3 miesięcznego leczenia);",
+        "w przypadku leczenia rawulizumabem pacjenci o masie ciała < 10 kg;",
+        "wystąpienie chorób lub stanów, które w opinii Zespołu Koordynacyjnego lub lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie objawów nadwrażliwości na którąkolwiek substancję czynną lub substancję pomocniczą;",
+        "wystąpienie toksyczności wymagającej zakończenia leczenia w opinii Zespołu Koordynacyjnego lub lekarza prowadzącego zgodnie z aktualną ChPL;",
+        "pogorszenie jakości życia o istotnym znaczeniu według oceny lekarza;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia ze strony świadczeniobiorcy lub jego opiekuna prawnego."
+    ],
+    "leki": [
+        {
+            "nazwa": "ekulizumab",
+            "dawkowanie": "podanie 900 mg, co tydzień przez pierwsze 4 tygodnie; dawka podtrzymująca maksymalna to podanie 1200 mg w piątym tygodniu, a następnie dawka 1200 mg co 14 ± 2 dni"
+        },
+        {
+            "nazwa": "rawulizumab",
+            "dawkowanie": "dawka nasycająca maksymalna to podanie 3000 mg; dawka podtrzymująca maksymalna podana 2 tygodnie po dawce nasycającej to podanie 3600 mg co 8 tygodni"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "aktywność ADAMTS13",
+        "badanie STEC (PCR lub hodowla bakteryjna)",
+        "wykonanie badania potwierdzającego lub wykluczającego ciążę (u kobiet w wieku rozrodczym)",
+        "dehydrogenaza mleczanowa całkowita (LDH)",
+        "stężenie haptoglobiny (Hp) lub schistocyty",
+        "morfologia krwi z rozmazem",
+        "badanie ogólne moczu",
+        "stężenie kreatyniny i wyliczony eGFR",
+        "aminotransferaza asparaginowa (AspAT) i alaninowa (AlAT)",
+        "badania układu dopełniacza C3, CH50",
+        "przeciwciała anty H",
+        "test Coombsa"
+    ],
+    "badania_monitorujace": [
+        "wykonanie badań wyszczególnionych jako pozycje 4-8 w ppkt. 1.1.",
+        "CH50",
+        "objawów neurologicznych: rezonans magnetyczny z angiografią, lub tomografia komputerowa ośrodkowego układu nerwowego",
+        "objawów ze strony układu pokarmowego: amylaza, lipaza oraz usg jamy brzusznej",
+        "objawów ze strony układu sercowo-naczyniowego: troponina T lub troponina I, lub EKG, lub ECHO serca, lub cewnikowanie serca"
+    ]
+}

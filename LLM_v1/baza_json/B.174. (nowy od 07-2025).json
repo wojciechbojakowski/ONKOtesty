@@ -1,0 +1,52 @@
+{
+    "nazwa_pliku": "B.174. (nowy od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "wiek:16 lat i powyżej;",
+        "rozpoznanie ataksji Friedreicha potwierdzone badaniem genetycznym;",
+        "adekwatna wydolność narządowa określona na podstawie wyników badań laboratoryjnych krwi zgodnie z zapisami aktualnej ChPL;",
+        "brak istotnych chorób współistniejących stanowiących przeciwskazanie do terapii stwierdzonych przez lekarza prowadzącego w oparciu o aktualną ChPL;",
+        "wykluczenie ciąży lub karmienia piersią.",
+        "pomalennie pacjenci wymagający kontynuacji leczenia, którzy byli leczeni dotychczas w ramach innego sposobu finansowania terapii, za wyjątkiem trwających badań klinicznych, pod warunkiem, że w chwili rozpoczęcia leczenia omaweloksolonem spełniali kryteria kwalifikacji do programu lekowego."
+    ],
+    "kryteria_wylaczenia": [
+        "brak skuteczności terapii definiowany jako pogorszenie o więcej niż 2 punkty średnio rocznie w skali mFARS potwierdzone w dwóch kolejnych ocenach rocznych z zaznaczeniem;",
+        "nie dotyczy pacjentów przed ukończeniem 18 r.ż., u których leczenie trwa do momentu podjęcia decyzji przez Zespół Koordynacyjny ds. Leczenia chorych na ataksję Friedreicha;",
+        "pojawienie się przeciwwskazań do leczenia wymienionych w Charakterystyce Produktu Leczniczego;",
+        "wystąpienie chorób lub stanów, które w opinii Zespołu Koordynacyjnego ds. Leczenia chorych na ataksję Friedreicha uniemożliwiają kontynuację leczenia;",
+        "wystąpienie działań niepożądanych, które w opinii Zespołu Koordynacyjnego ds. Leczenia chorych na ataksję Friedreicha uniemożliwiają kontynuację leczenia;",
+        "wystąpienie nadwrażliwości na lek lub substancję pomocniczą uniemożliwiające kontynuację leczenia;",
+        "wystąpienie zagrażającej życiu albo nieakceptowalnej toksyczności pomimo zastosowania adekwatnego postępowania;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich ze strony świadczeniobiorcy lub jego prawnych opiekunów w szczególności dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia."
+    ],
+    "leki": [
+        {
+            "nazwa": "omaweloksolon",
+            "dawkowanie": "150 mg raz na dobę"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "oznaczenie stężenia aminotransferazy alaninowej",
+        "oznaczenie stężenia aminotransferazy asparaginianowej",
+        "oznaczenie stężenia bilirubiny we krwi",
+        "oznaczenie stężenia glukozy i HbA1c we krwi",
+        "lipidogram – oznaczenie cholesterolu całkowitego, cholesterolu frakcji LDL i HDL, triglicerydów",
+        "badanie stężenia peptydu natriuretycznego typu B (BNP lub NT-pro-BNP)",
+        "elektrokardiografia (EKG)",
+        "echokardiografa (ECHO)",
+        "konsultacja kardiologiczna",
+        "pomiar masy ciała",
+        "test ciążowy (oświadczenie o stosowaniu skutecznej antykoncepcji w trakcie trwania terapii - u kobiet w wieku reprodukcyjnym)",
+        "konsultacja neurologiczna z oceną stopnia ciężkości choroby w skali mFARS wraz z określeniem wartości przy rozpoczynaniu leczenia"
+    ],
+    "badania_monitorujace": [
+        "oznaczenie stężenia aminotransferazy alaninowej",
+        "oznaczenie stężenia aminotransferazy asparaginianowej",
+        "oznaczenie stężenia bilirubiny we krwi",
+        "lipidogram – oznaczenie cholesterolu całkowitego, cholesterolu frakcji LDL i HDL, triglicerydów",
+        "badanie stężenia peptydu natriuretycznego typu B (BNP lub NT-pro-BNP)",
+        "pomiar masy ciała",
+        "elektrokardiografia (EKG)",
+        "echokardiografa (ECHO)",
+        "konsultacja kardiologiczna"
+    ]
+}

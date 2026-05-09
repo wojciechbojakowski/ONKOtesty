@@ -1,0 +1,72 @@
+{
+    "nazwa_pliku": "B.87. (nowy od 03.2018).docx",
+    "kryteria_kwalifikacji": [
+        "Wiek powyżej 18. roku życia;",
+        "Rozpoznanie idiopatycznego włóknienia płuc (IPF), na podstawie badania tomografii komputerowej wysokiej rozdzielczości – TKWR; po uprzednim wykluczeniu znanych przyczyn włóknienia płuc przez lekarza specjalistę chorób płuc;",
+        "W przypadku gdy badanie TKWR nie było wystarczające do postawienia diagnozy, konieczna jest ocena histopatologiczna materiału pobranego w czasie chirurgicznej biopsji płuca;",
+        "FVC powyżej 50% wartości należnej;",
+        "DLco powyżej 30%;"
+    ],
+    "kryteria_wylaczenia": [
+        "Progresja choroby definiowana jako obniżenie FVC o co najmniej 10% w ciągu pierwszych 12 miesięcy leczenia, a następnie co 6 miesięcy, potwierdzone w dwóch badaniach spirometrycznych wykonanych w odstępie 2-4 tygodni mierzona co 6 miesięcy leczenia.",
+        "Nadwrażliwość na substancję czynną lub którąkolwiek substancję pomocniczą;",
+        "Obrzęk naczynioruchowy podczas stosowania pirfenidonu w wywiadzie;",
+        "Jednoczesne stosowanie fluwoksaminy;",
+        "Ciężkie zaburzenia czynności wątroby lub krańcowa niewydolność wątroby;",
+        "Ciężka niewydolność nerek (klirens kreatyniny poniżej 30 ml/min) lub krańcowa niewydolność nerek wymagająca dializoterapii;",
+        "Ciąża i karmienie piersią;",
+        "Inne ciężkie i źle rokujące choroby np. aktywna choroba nowotworowa, ciężka niewydolność serca.",
+        "Brak zgody na leczenie"
+    ],
+    "leki": [
+        {
+            "nazwa": "pirfenidon",
+            "dawkowanie": "Sposób dawkowania pirfenidonu oraz ewentualne przerwanie leczenia prowadzone jest zgodnie z Charakterystyką Produktu Leczniczego."
+        },
+        {
+            "nazwa": "nintedanibu",
+            "dawkowanie": "Dawkowanie oraz kryteria i sposób modyfikacji dawkowania prowadzone są zgodnie z aktualną Charakterystyką Produktu Leczniczego."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "Spirometria",
+        "Oznaczenie pojemności dyfuzyjnej CO (DLco)",
+        "TKWR klatki piersiowej",
+        "Chirurgiczna biopsja płuc z oceną",
+        "Gazometria krwi lub pulsoksymetria",
+        "Aktywność AlAT i AspAT, bilirubina w surowicy, wskaźnik protrombinowy",
+        "Klirens kreatyniny endogennej",
+        "Morfologia krwi"
+    ],
+    "badania_monitorujace": [
+        {
+            "co_6_miesiecy": [
+                "Spirometria",
+                "DLco",
+                "Gazometria krwi lub pulsoksymetria",
+                "TKWR klatki piersiowej co 12 miesięcy"
+            ],
+            "co_miesiac_co": [
+                "Aktywność AlAT i AspAT, bilirubina w surowicy",
+                "Morfologia krwi co 6 miesięcy"
+            ]
+        },
+        {
+            "co_6_miesiecy": [
+                "Spirometria",
+                "DLCO",
+                "Gazometria krwi lub pulsoksymetria",
+                "12-odprowadzeniowe EKG"
+            ],
+            "co_miesiac_co": [
+                "Morfologia krwi co 6 miesięcy",
+                "Badanie czynności wątroby (aktywność aminotransferaz i stężenie bilirubiny) przy każdej wizycie"
+            ]
+        }
+    ],
+    "monitorowanie_programu": [
+        "Gromadzenie w dokumentacji medycznej pacjenta danych dotyczących monitorowania leczenia i każdorazowe ich przedstawianie na żądanie kontrolerów Narodowego Funduszu Zdrowia",
+        "Uzupełnienie danych zawartych w rejestrze (SMPT) dostępnym za pomocą aplikacji internetowej udostępnionej przez OW NFZ, z częstotliwością zgodną z opisem programu oraz na zakończenie leczenia",
+        "Przekazywanie informacji sprawozdawczo-rozliczeniowych do NFZ: informacje przekazuje się do NFZ w formie papierowej lub w formie elektronicznej, zgodnie z wymaganiami opublikowanymi przez Narodowy Fundusz Zdrowia"
+    ]
+}

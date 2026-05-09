@@ -1,0 +1,44 @@
+{
+    "nazwa_pliku": "B.19. (od 10-2024).docx",
+    "kryteria_kwalifikacji": [
+        "nawracające stany hipoglikemii w okresie niemowlęcym i/lub poniemowlęcym",
+        "niskorosłość, tj. wysokość ciała poniżej 3 centyla dla płci i wieku",
+        "opóźniony wiek kostny, oceniany metodą Greulich'a-Pyle",
+        "wykluczenie innych, aniżeli SNP, przyczyn niskorosłości lub wyrównanie tych chorób",
+        "obniżony wyrzut hormonu wzrostu (poniżej 10 ng/ml) w dwóch, niezależnych testach stymulacji sekrecji tego hormonu"
+    ],
+    "kryteria_wylaczenia": [
+        "złuszczenie głowy kości udowej",
+        "ujawnienie lub wznowa choroby rozrostowej",
+        "niezadowalający efekt leczenia hormonem wzrostu, tj. przyrost wysokości ciała poniżej 2 cm/rok",
+        "osiągnięcie wieku kostnego: powyżej 14 lat przez dziewczynkę, powyżej 16 lat przez chłopca",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego lub Zespołu koordynacyjnego uniemożliwiają dalsze prowadzenie leczenia",
+        "okres ciąży lub karmienia piersią",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich, w tym zwłaszcza dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia"
+    ],
+    "leki": [
+        {
+            "nazwa": "Somatotropina",
+            "dawkowanie": "0,1–0,33 mg (0,3–1,0 IU)/kg m.c./tydzień"
+        },
+        {
+            "nazwa": "Somatrogon",
+            "dawkowanie": "0,66 mg/kg; 1 x tydzień w iniekcjach podskórnych"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "długość (z określeniem centyla i SDS) i masa ciała",
+        "USG przezciemiączkowe lub obrazowanie OUN za pomocą MRI lub TK z kontrastem",
+        "co najmniej 5 – krotny pomiar stężenia hormonu wzrostu, optymalnie we śnie (stężenia GH ≥10 ng/ml nie stanowią przy tym podstawy do odstąpienia od terapii hormonem wzrostu)",
+        "stężenie IGF-I i IGFBP3, (należy podać normę laboratorium, w którym mierzono stężenie tych związków)",
+        "kilkukrotny pomiar glikemii, po kilkugodzinnej przerwie od ostatniego posiłku",
+        "inne badania i konsultacje w zależności od potrzeb"
+    ],
+    "badania_monitorujace": [
+        "ocena czy ustąpiły stany hipoglikemii",
+        "długość (z określeniem centyla i SDS) i masa ciała",
+        "stężenie IGF-I i IGFBP3, z określeniem proporcji stężeń obu tych związków (należy podać normę laboratorium, w którym mierzono stężenie tych związków)",
+        "kilkukrotny pomiar glikemii, po kilkugodzinnej przerwie od ostatniego posiłku",
+        "inne badania i konsultacje w zależności od potrzeb"
+    ]
+}

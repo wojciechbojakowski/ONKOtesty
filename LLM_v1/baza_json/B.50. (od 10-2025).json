@@ -1,0 +1,54 @@
+{
+    "nazwa_pliku": "B.50. (od 10-2025).docx",
+    "kryteria_kwalifikacji": [
+        "punkt 1",
+        "punkt 2"
+    ],
+    "kryteria_wylaczenia": [
+        "choroba 1",
+        "stan 2"
+    ],
+    "leki": [
+        {
+            "nazwa": "olaparyb",
+            "dawkowanie": "maksymalna całkowita dawka dobowa: 600 mg."
+        },
+        {
+            "nazwa": "niraparyb",
+            "dawkowanie": "maksymalna całkowita dawka dobowa: 300 mg."
+        },
+        {
+            "nazwa": "rukaparyb",
+            "dawkowanie": "maksymalna całkowita dawka dobowa: 1200 mg."
+        },
+        {
+            "nazwa": "bewacyzumab",
+            "dawkowanie": "15 mg/kg masy ciała dożylnie, rytm: co 3 tygodnie, do 22 cykli łącznie."
+        },
+        {
+            "nazwa": "mirwetuksymab sorawtanzyna",
+            "dawkowanie": "6 mg/kg skorygowanej należnej masy ciała (AIBW), podawana raz na 3 tygodnie w postaci infuzji dożylnej."
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "tomografia komputerowa",
+        "morfologia krwi z rozmazem",
+        "oznaczenia stężenia kreatyniny i klirensu kreatyniny",
+        "oznaczenie stężenia bilirubiny całkowitej i bezpośredniej",
+        "oznaczenie aktywności aminotransferazy alaninowej",
+        "oznaczenie aktywności aminotransferazy asparaginianowej",
+        "oznaczenie stężenia CA125",
+        "badanie TK lub MR jamy brzusznej i miednicy oraz innych okolic ciała w zależności od wskazań klinicznych",
+        "EKG w przypadku leczenia mirwetuksymabem sorawtanzyną",
+        "konsultacja okulistyczna w przypadku leczenia mirwetuksymabem sorawtanzyną",
+        "jeżeli zachodzi konieczność wykluczenia ciąży wykonuje się próbę ciążową"
+    ],
+    "badania_monitorujace": [
+        "morfologia krwi z rozmazem",
+        "oznaczenia stężenia kreatyniny i klirensu kreatyniny",
+        "oznaczenie stężenia bilirubiny całkowitej i bezpośredniej",
+        "oznaczenie aktywności aminotransferazy alaninowej",
+        "oznaczenie aktywności aminotransferazy asparaginianowej",
+        "konsultacja okulistyczna w przypadku stosowania mirwetuksymabu sorawtanzyny i stwierdzenia nowych działań niepożądanych ze strony narządu wzroku"
+    ]
+}

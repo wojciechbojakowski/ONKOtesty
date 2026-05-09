@@ -1,0 +1,43 @@
+{
+    "nazwa_pliku": "B.30. (od 07-2025).docx",
+    "kryteria_kwalifikacji": [
+        "dzieci od 2 roku życia",
+        "pacjenci: po przebytym niedokrwiennym lub krwotocznym udarze mózgu (ICD-10 I61, I63, I69), udokumentowanym wypisem ze szpitala",
+        "lub pacjenci: po przebytym urazie OUN (ICD-10 T90, T91) udokumentowanym wypisem ze szpitala",
+        "lub pacjenci: z udokumentowanym rozpoznaniem stwardnienia rozsianego (ICD-10 G35)",
+        "lub pacjenci: z udokumentowanym rozpoznaniem mózgowego porażenia dziecięcego (ICD-10 G80)",
+        "lub pacjenci: z udokumentowanym rozpoznaniem paraplegii spastycznej (ICD10 G82, G83)",
+        "pacjenci z potwierdzoną spastycznością: kończyny górnej / kończyn górnych w stopniu umiarkowanym lub wyższym (wynik w zmodyfikowanej skali Ashwortha – MAS ≥ 2) w przynamniej jednej grupie mięśniowej",
+        "lub pacjenci z potwierdzoną spastycznością: kończyny dolnej / kończyn dolnych w stopniu umiarkowanym lub wyższym (wynik w zmodyfikowanej skali Ashwortha – MAS ≥ 2) w przynamniej jednej grupie mięśniowej",
+        "brak przeciwskazań do leczenia wymienionych w Charakterystyce Produktu Leczniczego"
+    ],
+    "kryteria_wylaczenia": [
+        "brak odpowiedzi na leczenie w dwóch kolejnych sesjach podania leku",
+        "Odpowiedź na leczenie definiowana jest jako spadek napięcia mięśniowego o ≥ 1 punkt w zmodyfikowanej skali Ashwortha–MAS względem wartości wyjściowych;",
+        "utrwalony przykurcz kończyny górnej lub dolnej lub zanik mięśni w porażonej kończynie;",
+        "wystąpienie chorób lub stanów, które w opinii lekarza prowadzącego uniemożliwiają dalsze prowadzenie leczenia;",
+        "wystąpienie działań niepożądanych uniemożliwiających kontynuację leczenia zgodnie z decyzją lekarza;",
+        "wystąpienie nadwrażliwości na lek lub substancję pomocniczą uniemożliwiające kontynuację leczenia;",
+        "wystąpienie zagrażającej życiu albo nieakceptowalnej toksyczności pomimo zastosowania adekwatnego postępowania;",
+        "brak współpracy lub nieprzestrzeganie zaleceń lekarskich ze strony świadczeniobiorcy dotyczących okresowych badań kontrolnych oceniających skuteczność i bezpieczeństwo leczenia;",
+        "ciąża lub karmienie piersią."
+    ],
+    "leki": [
+        {
+            "nazwa": "Botox",
+            "dawkowanie": "kończyna/kończyny górna/górne i dolna/dolne 8 j./kg mc. lub 300 j. – w zależności, która dawka jest niższa (tylko jedna kończyna górna – 6 j./kg mc., tylko jedna kończyna dolna – 8 j./kg mc. lub 300 j. – w zależności, która dawka jest niższa), albo maksymalna dawka całkowita leku na rok leczenia to 24 j/kg, podzielonych na poszczególne mięśnie i sesje terapeutyczne zgodnie z wzorcem spastyczności i oceną lekarza"
+        },
+        {
+            "nazwa": "Dysport",
+            "dawkowanie": "kończyna/kończyny górna/górne i dolna/dolne 30 j./kg mc. lub 1000 j. – w zależności, która dawka jest niższa (tylko jedna kończyna górna – 21 j./kg mc. lub 840 j. – w zależności, która dawka jest niższa, tylko jedna kończyna dolna – 30 j./kg mc. lub 1000 j. – w zależności, która dawka jest niższa)"
+        }
+    ],
+    "badania_przy_kwalifikacji": [
+        "badanie neurologiczne"
+    ],
+    "badania_monitorujace": [
+        "ocena odpowiedzi na zastosowane leczenie",
+        "ocena efektu podania leku",
+        "ocena stanu ruchowego"
+    ]
+}
